@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T18:00:00.000Z",
+  "feedGeneratedAt": "2026-05-16T18:00:00.000Z",
+  "snippets": [
+    {
+      "id": "2026-05-16-x-0b221ef9d982",
+      "date": "2026-05-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on Codex and agentic spreadsheets",
+      "takeaway": "Swyx called Codex almost unrecognizable from three months earlier and framed the new demo as agentic Excel on Mac.",
+      "summary": "Swyx highlighted how quickly Codex appears to be evolving, pointing to a demo from Gabriel Chua as evidence that the product is moving toward more agentic, spreadsheet-like work on Mac. The interesting signal is not just one feature, but the pace of product iteration around practical AI work surfaces.",
+      "url": "https://x.com/swyx/status/2055494400252481687",
+      "publishedAt": "2026-05-16T03:43:48.000Z",
+      "tags": ["coding", "agents", "tools"],
+      "entities": ["Swyx", "Codex"],
+      "createdAt": "2026-05-16T18:00:00.000Z"
+    },
+    {
+      "id": "2026-05-16-x-bd5733638a11",
+      "date": "2026-05-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on national AI agent infrastructure",
+      "takeaway": "A Singapore AI GovTech estimate points to 1.3 billion agents in the country within two years, with a national MCP gateway under construction.",
+      "summary": "The post is a useful signal for anyone watching AI infrastructure move from individual tools to public-sector platforms. The emphasis on a national MCP gateway suggests governments may treat agent interoperability as shared infrastructure rather than scattered app-by-app integration.",
+      "url": "https://x.com/swyx/status/2055470634331750588",
+      "publishedAt": "2026-05-16T02:09:22.000Z",
+      "tags": ["agents", "tools", "policy"],
+      "entities": ["Swyx", "Singapore", "MCP"],
+      "createdAt": "2026-05-16T18:00:00.000Z"
+    }
+  ]
+}

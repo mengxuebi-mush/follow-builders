@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-29T17:35:35.240Z",
+  "feedGeneratedAt": "2026-05-29T07:39:27.685Z",
+  "snippets": [
+    {
+      "id": "2026-05-28-podcast-606ec8a294da",
+      "date": "2026-05-28",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Aaron is hands down one of the most deeply thoughtful CEOs in tech today when it comes to agentic AI, and he has a front row seat to how AI is actually being deployed inside the world's largest enterprises. In this episode, we get into the most pressing topics in enterprise AI right now, including soaring token costs, why AI model progress is paradoxically slowing down enterprise deployment, the rise of headless software, the emergence of internal FDEs, and where startups can still win.",
+      "url": "https://www.youtube.com/watch?v=Gs2styCcwro",
+      "publishedAt": "2026-05-28T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-05-29T17:35:35.240Z"
+    }
+  ]
+}

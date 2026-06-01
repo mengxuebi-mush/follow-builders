@@ -1,4 +1,6 @@
 scripts/node_modules/
+apps/ai-builder-archive/node_modules/
+apps/ai-builder-archive/dist/
 .env
 *.log
 .DS_Store

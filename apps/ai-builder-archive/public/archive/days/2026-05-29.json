@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-30T15:08:53.979Z",
+  "feedGeneratedAt": "2026-05-30T07:19:23.318Z",
+  "snippets": [
+    {
+      "id": "2026-05-29-x-185a24b93d9f",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Multilingual is now \"ridiculously easy\": Turn your car into a Lamborghini:",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Multilingual is now \"ridiculously easy\": Turn your car into a Lamborghini:",
+      "url": "https://x.com/joshwoodward/status/2060443093825094091",
+      "publishedAt": "2026-05-29T19:28:09.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-02e5800c13c3",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13.",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage. The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end.",
+      "url": "https://x.com/bcherny/status/2060390852619272526",
+      "publishedAt": "2026-05-29T16:00:34.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-0d432918b6df",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early. Do you still trust benchmarks or do you just listen to your friends? What makes you try a new model? The world is more fun with codex glasses",
+      "url": "https://x.com/thsottiaux/status/2060565265906290786",
+      "publishedAt": "2026-05-30T03:33:37.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-a17ea4040f1c",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and tools",
+      "takeaway": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software.",
+      "url": "https://x.com/levie/status/2060525104384418271",
+      "publishedAt": "2026-05-30T00:54:02.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-4edc5e95c35a",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+      "url": "https://x.com/garrytan/status/2060600088079356292",
+      "publishedAt": "2026-05-30T05:51:59.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-c9295e50ade6",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid, and excited to meet the upcoming batch!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid, and excited to meet the upcoming batch!",
+      "url": "https://x.com/nikunj/status/2060580468781953169",
+      "publishedAt": "2026-05-30T04:34:02.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-0f18d1b04e9d",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "I smell a takedown in 3...2...1 Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. I smell a takedown in 3...2...1 Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
+      "url": "https://x.com/steipete/status/2060294413377519808",
+      "publishedAt": "2026-05-29T09:37:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-16756810a576",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "extremely sick",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. extremely sick",
+      "url": "https://x.com/danshipper/status/2060487621915152571",
+      "publishedAt": "2026-05-29T22:25:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-podcast-8ab4947a62e9",
+      "date": "2026-05-29",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. And we've seen some of that happen lately with downtimes that were caused by agents doing their own thing, agents accidentally publishing code and tokens that they weren't supposed to, and so on.",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    }
+  ]
+}

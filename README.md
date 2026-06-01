@@ -20,6 +20,18 @@ WhatsApp, etc.) with:
 - Links to all original content
 - Available in English, Chinese, or bilingual
 
+## AI Builder Archive
+
+This repo also includes a local-first archive app at
+[`apps/ai-builder-archive`](apps/ai-builder-archive). It turns daily Follow
+Builders digests into a searchable, star-able, magazine-style knowledge base.
+
+```bash
+cd apps/ai-builder-archive
+npm install
+npm run dev
+```
+
 ## Quick Start
 
 1. Install the skill in your agent (OpenClaw or Claude Code)
@@ -128,4 +140,3 @@ See [examples/sample-digest.md](examples/sample-digest.md) for what the output l
 ## License
 
 MIT
-

@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-31T15:08:57.061Z",
+  "snippets": [
+    {
+      "id": "2026-05-30-x-ce1a2577e1ef",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet. A simple strategy that we would like to continue. Five million users would agree. Resetting the limits tomorrow morning to celebrate.",
+      "url": "https://x.com/thsottiaux/status/2060627747760984429",
+      "publishedAt": "2026-05-30T07:41:54.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-fe23e9f4adde",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and tools",
+      "takeaway": "Just spent an hour with daughter learning CS 101 from @brilliantorg She doesn’t want to give up until she beats Joyce B 🔥 My guess is: - OpenAI Codex dank memes - Anthropic...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Just spent an hour with daughter learning CS 101 from @brilliantorg She doesn’t want to give up until she beats Joyce B 🔥 My guess is: - OpenAI Codex dank memes - Anthropic essays Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at the same time",
+      "url": "https://x.com/petergyang/status/2060928818383355907",
+      "publishedAt": "2026-05-31T03:38:15.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Anthropic",
+        "Codex"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-ea90bcd6c71d",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on product and tools",
+      "takeaway": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best. Per-API Key spend caps on AI Gateway",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best. Per-API Key spend caps on AI Gateway",
+      "url": "https://x.com/rauchg/status/2060803480823193840",
+      "publishedAt": "2026-05-30T19:20:12.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-a5d3598cb9d8",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on coding and enterprise",
+      "takeaway": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.). David Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week.",
+      "url": "https://x.com/levie/status/2060923684295221390",
+      "publishedAt": "2026-05-31T03:17:51.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-637d6fec012c",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things",
+      "url": "https://x.com/ryolu_/status/2060766674203353190",
+      "publishedAt": "2026-05-30T16:53:56.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-9952d867c19a",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Unfortunately the building boom has not hit San Francisco yet and that's not a good thing Don’t forget to vote by June 2.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Unfortunately the building boom has not hit San Francisco yet and that's not a good thing Don’t forget to vote by June 2. Use my guide to see how we can fix California garrysguide dot org This is the Wolff we need on our side Vote Patrick Wolff for insurance commissioner",
+      "url": "https://x.com/garrytan/status/2060949003790176667",
+      "publishedAt": "2026-05-31T04:58:27.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-6f5be460fd50",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "One thing I noticed about Opus 4.8 is that it stopped using em dashes in writing",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. One thing I noticed about Opus 4.8 is that it stopped using em dashes in writing",
+      "url": "https://x.com/zarazhangrui/status/2060962160872919043",
+      "publishedAt": "2026-05-31T05:50:44.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-a51d14795d81",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Time is a flat circle. A reminder since it’s in the discourse again 🙏 This might be just Grok’s way of gassing me up - but it makes me unreasonably happy ⚽️",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Time is a flat circle. A reminder since it’s in the discourse again 🙏 This might be just Grok’s way of gassing me up - but it makes me unreasonably happy ⚽️",
+      "url": "https://x.com/nikunj/status/2060948669164347448",
+      "publishedAt": "2026-05-31T04:57:07.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-5a54eda0949e",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher. Yielding agents is a skill.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher. Yielding agents is a skill. I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. Autoreview: crabbox:",
+      "url": "https://x.com/steipete/status/2060678430031597696",
+      "publishedAt": "2026-05-30T11:03:17.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-cb766cc8da3f",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and costs",
+      "takeaway": "business insider 2013 vs. 2026 38b tokens and a 56h longest task 41 day current streak lfg codex",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. business insider 2013 vs. 2026 38b tokens and a 56h longest task 41 day current streak lfg codex",
+      "url": "https://x.com/danshipper/status/2060861670184870225",
+      "publishedAt": "2026-05-30T23:11:25.000Z",
+      "tags": [
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-x-7b64d908d524",
+      "date": "2026-05-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\".",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\". The main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
+      "url": "https://x.com/adityaag/status/2060644549408739621",
+      "publishedAt": "2026-05-30T08:48:40.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-blog-2830aa4bc246",
+      "date": "2026-05-30",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "takeaway": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview.",
+      "summary": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents.",
+      "url": "https://claude.com/blog/new-in-claude-managed-agents",
+      "publishedAt": "May 06, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-30-podcast-3ca0f8e7ab5e",
+      "date": "2026-05-30",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 87: Gemini Co-Lead on World Models, RL&apos;s Next Domains & Continual Learning",
+      "takeaway": "Ep 87: Gemini Co-Lead on World Models, RL&apos;s Next Domains & Continual Learning. You know, I definitely wanna talk agents.",
+      "summary": "You know, I definitely wanna talk agents. Like, the most token efficient, like, highest quality output set of sub agents and whatever it is around around a set of problems. So so, I mean, there's a level in which you as as the the researcher or engineer use these tools to enhance your own productivity.",
+      "url": "https://www.youtube.com/watch?v=NQczevdpxq0",
+      "publishedAt": "2026-05-22T12:50:04.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-05-31T15:08:57.061Z"
+    },
+    {
+      "id": "2026-05-29-x-185a24b93d9f",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Multilingual is now \"ridiculously easy\": Turn your car into a Lamborghini:",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Multilingual is now \"ridiculously easy\": Turn your car into a Lamborghini:",
+      "url": "https://x.com/joshwoodward/status/2060443093825094091",
+      "publishedAt": "2026-05-29T19:28:09.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-02e5800c13c3",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13.",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage. The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end.",
+      "url": "https://x.com/bcherny/status/2060390852619272526",
+      "publishedAt": "2026-05-29T16:00:34.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-0d432918b6df",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early. Do you still trust benchmarks or do you just listen to your friends? What makes you try a new model? The world is more fun with codex glasses",
+      "url": "https://x.com/thsottiaux/status/2060565265906290786",
+      "publishedAt": "2026-05-30T03:33:37.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-a17ea4040f1c",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and tools",
+      "takeaway": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software.",
+      "url": "https://x.com/levie/status/2060525104384418271",
+      "publishedAt": "2026-05-30T00:54:02.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-4edc5e95c35a",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+      "url": "https://x.com/garrytan/status/2060600088079356292",
+      "publishedAt": "2026-05-30T05:51:59.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-c9295e50ade6",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid, and excited to meet the upcoming batch!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid, and excited to meet the upcoming batch!",
+      "url": "https://x.com/nikunj/status/2060580468781953169",
+      "publishedAt": "2026-05-30T04:34:02.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-0f18d1b04e9d",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "I smell a takedown in 3...2...1 Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. I smell a takedown in 3...2...1 Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
+      "url": "https://x.com/steipete/status/2060294413377519808",
+      "publishedAt": "2026-05-29T09:37:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-x-16756810a576",
+      "date": "2026-05-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "extremely sick",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. extremely sick",
+      "url": "https://x.com/danshipper/status/2060487621915152571",
+      "publishedAt": "2026-05-29T22:25:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-29-podcast-8ab4947a62e9",
+      "date": "2026-05-29",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. And we've seen some of that happen lately with downtimes that were caused by agents doing their own thing, agents accidentally publishing code and tokens that they weren't supposed to, and so on.",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-05-30T15:08:53.979Z"
+    },
+    {
+      "id": "2026-05-28-podcast-606ec8a294da",
+      "date": "2026-05-28",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Aaron is hands down one of the most deeply thoughtful CEOs in tech today when it comes to agentic AI, and he has a front row seat to how AI is actually being deployed inside the world's largest enterprises. In this episode, we get into the most pressing topics in enterprise AI right now, including soaring token costs, why AI model progress is paradoxically slowing down enterprise deployment, the rise of headless software, the emergence of internal FDEs, and where startups can still win.",
+      "url": "https://www.youtube.com/watch?v=Gs2styCcwro",
+      "publishedAt": "2026-05-28T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-05-29T17:35:35.240Z"
+    },
+    {
+      "id": "2026-05-16-x-0b221ef9d982",
+      "date": "2026-05-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on Codex and agentic spreadsheets",
+      "takeaway": "Swyx called Codex almost unrecognizable from three months earlier and framed the new demo as agentic Excel on Mac.",
+      "summary": "Swyx highlighted how quickly Codex appears to be evolving, pointing to a demo from Gabriel Chua as evidence that the product is moving toward more agentic, spreadsheet-like work on Mac. The interesting signal is not just one feature, but the pace of product iteration around practical AI work surfaces.",
+      "url": "https://x.com/swyx/status/2055494400252481687",
+      "publishedAt": "2026-05-16T03:43:48.000Z",
+      "tags": [
+        "coding",
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-05-16T18:00:00.000Z"
+    },
+    {
+      "id": "2026-05-16-x-bd5733638a11",
+      "date": "2026-05-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on national AI agent infrastructure",
+      "takeaway": "A Singapore AI GovTech estimate points to 1.3 billion agents in the country within two years, with a national MCP gateway under construction.",
+      "summary": "The post is a useful signal for anyone watching AI infrastructure move from individual tools to public-sector platforms. The emphasis on a national MCP gateway suggests governments may treat agent interoperability as shared infrastructure rather than scattered app-by-app integration.",
+      "url": "https://x.com/swyx/status/2055470634331750588",
+      "publishedAt": "2026-05-16T02:09:22.000Z",
+      "tags": [
+        "agents",
+        "tools",
+        "policy"
+      ],
+      "entities": [
+        "Swyx",
+        "Singapore",
+        "MCP"
+      ],
+      "createdAt": "2026-05-16T18:00:00.000Z"
+    }
+  ]
+}
