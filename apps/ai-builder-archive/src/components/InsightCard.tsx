@@ -13,15 +13,57 @@ const sourceLabels = {
   blog: "Blog",
 };
 
+const dateFormatter = new Intl.DateTimeFormat("en", {
+  day: "numeric",
+  month: "short",
+  year: "numeric",
+});
+
+const dateTimeFormatter = new Intl.DateTimeFormat("en", {
+  day: "numeric",
+  hour: "numeric",
+  minute: "2-digit",
+  month: "short",
+  year: "numeric",
+});
+
+function getCardKicker(snippet: DigestSnippet) {
+  if (!snippet.authorName || snippet.authorName === snippet.sourceName) {
+    return null;
+  }
+
+  if (snippet.sourceType === "x") {
+    return null;
+  }
+
+  return snippet.authorName;
+}
+
+function getTimestamp(snippet: DigestSnippet) {
+  const rawTimestamp = snippet.publishedAt ?? snippet.date;
+  const timestamp = new Date(rawTimestamp);
+
+  if (Number.isNaN(timestamp.getTime())) {
+    return null;
+  }
+
+  const hasTime = rawTimestamp.includes("T") || /\d{1,2}:\d{2}/.test(rawTimestamp);
+
+  return {
+    dateTime: timestamp.toISOString(),
+    label: hasTime
+      ? dateTimeFormatter.format(timestamp)
+      : dateFormatter.format(timestamp),
+  };
+}
+
 export function InsightCard({
   snippet,
   isStarred,
   onToggleStar,
 }: InsightCardProps) {
-  const kicker =
-    snippet.authorName && snippet.authorName !== snippet.sourceName
-      ? snippet.authorName
-      : null;
+  const kicker = getCardKicker(snippet);
+  const timestamp = getTimestamp(snippet);
   const sourceName =
     snippet.sourceType === "x" ||
     snippet.sourceName === sourceLabels[snippet.sourceType]
@@ -38,6 +80,11 @@ export function InsightCard({
         <div className="source-identity">
           <span className="source-pill">{sourceLabels[snippet.sourceType]}</span>
           {sourceName ? <span className="source-name">{sourceName}</span> : null}
+          {timestamp ? (
+            <time className="source-timestamp" dateTime={timestamp.dateTime}>
+              {timestamp.label}
+            </time>
+          ) : null}
         </div>
         <div className="card-actions">
           <a className="source-link" href={snippet.url} onClick={handleSourceClick}>

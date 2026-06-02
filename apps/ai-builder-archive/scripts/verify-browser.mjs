@@ -128,6 +128,12 @@ try {
     linkAriaLabel: document.querySelector('.insight-card .source-link .sr-only')?.textContent.trim() ?? '',
     linkInHeader: Boolean(document.querySelector('.insight-card .card-meta .source-link')),
     footerLinks: document.querySelectorAll('.insight-card .card-footer a').length,
+    xKickerCount: document.querySelectorAll('.insight-card--x .card-kicker').length,
+    timestampText: document.querySelector('.insight-card .source-timestamp')?.textContent.trim() ?? '',
+    timestampDateTime: document.querySelector('.insight-card .source-timestamp')?.getAttribute('datetime') ?? '',
+    timestampFontSize: document.querySelector('.insight-card .source-timestamp')
+      ? Math.round(parseFloat(getComputedStyle(document.querySelector('.insight-card .source-timestamp')).fontSize))
+      : 0,
     filters: [...document.querySelectorAll('.segment-control button')].map((button) => ({
       label: button.querySelector('.filter-label')?.textContent.trim() ?? '',
       count: button.querySelector('.filter-count')?.textContent.trim() ?? ''
@@ -192,18 +198,78 @@ try {
     initial.result.value.footerLinks === 0,
     "Expected source links to be removed from card footers.",
   );
+  assert(
+    initial.result.value.xKickerCount === 0,
+    "Expected X post cards not to repeat the builder as a body kicker.",
+  );
+  assert(
+    initial.result.value.timestampText.length > 0,
+    "Expected cards to show a subtle publish date/time.",
+  );
+  assert(
+    initial.result.value.timestampDateTime.length > 0,
+    "Expected card timestamp to expose a datetime value.",
+  );
+  assert(
+    initial.result.value.timestampFontSize < 14,
+    "Expected card timestamp to be visually subtle.",
+  );
+  const cardTitleTypeResult = await client.evaluate(`(() => {
+    const title = document.querySelector('.insight-card h3');
+    return title ? Math.round(parseFloat(getComputedStyle(title).fontSize)) : 0;
+  })()`);
+  assert(
+    cardTitleTypeResult.result.value === 40,
+    "Expected desktop card title size to be 40px.",
+  );
   const cardMeasureResult = await client.evaluate(`(() => {
     const stack = document.querySelector('.snippet-stack');
-    const card = document.querySelector('.insight-card');
+    const cards = [...document.querySelectorAll('.insight-card')];
+    const card = cards[0];
+    const secondCard = cards[1];
     const stackWidth = stack?.getBoundingClientRect().width ?? 0;
     const cardWidth = card?.getBoundingClientRect().width ?? 0;
     const cardLeft = card?.getBoundingClientRect().left ?? 0;
     const stackLeft = stack?.getBoundingClientRect().left ?? 0;
-    return { stackWidth, cardWidth, cardLeft, stackLeft };
+    return {
+      stackWidth,
+      cardWidth,
+      cardLeft,
+      stackLeft,
+      firstTop: Math.round(card?.getBoundingClientRect().top ?? 0),
+      secondTop: Math.round(secondCard?.getBoundingClientRect().top ?? -1),
+      firstHeight: Math.round(card?.getBoundingClientRect().height ?? 0),
+      secondHeight: Math.round(secondCard?.getBoundingClientRect().height ?? -1),
+      firstTitleTop: Math.round(card?.querySelector('h3')?.getBoundingClientRect().top ?? 0),
+      secondTitleTop: Math.round(secondCard?.querySelector('h3')?.getBoundingClientRect().top ?? -1),
+      cardCount: cards.length
+    };
   })()`);
   assert(
     cardMeasureResult.result.value.cardWidth < cardMeasureResult.result.value.stackWidth,
     "Expected cards to hug content instead of stretching across the full stack.",
+  );
+  assert(
+    cardMeasureResult.result.value.cardCount < 2 ||
+      cardMeasureResult.result.value.firstTop ===
+        cardMeasureResult.result.value.secondTop,
+    "Expected desktop cards to support more than one card per row.",
+  );
+  assert(
+    cardMeasureResult.result.value.cardCount < 2 ||
+      Math.abs(
+        cardMeasureResult.result.value.firstHeight -
+          cardMeasureResult.result.value.secondHeight,
+      ) <= 2,
+    "Expected cards in the same row to share the same container height.",
+  );
+  assert(
+    cardMeasureResult.result.value.cardCount < 2 ||
+      Math.abs(
+        cardMeasureResult.result.value.firstTitleTop -
+          cardMeasureResult.result.value.secondTitleTop,
+      ) <= 2,
+    "Expected first-row card titles to start at the same vertical position.",
   );
   assert(
     Math.abs(
@@ -311,6 +377,55 @@ try {
   assert(stickyResult.result.value.top === 0, "Expected issue header to stick to top.");
   assert(stickyResult.result.value.zIndex >= 5, "Expected sticky issue header above cards.");
 
+  const railResult = await client.evaluate(`(async () => {
+    const toggle = document.querySelector('.rail-toggle');
+    const rail = document.querySelector('.archive-rail');
+    const content = document.querySelector('.rail-content');
+    const expandedWidth = Math.round(rail.getBoundingClientRect().width);
+    toggle.click();
+    await new Promise((resolve) => setTimeout(resolve, 220));
+    const collapsedWidth = Math.round(rail.getBoundingClientRect().width);
+    const collapsed = {
+      shell: document.querySelector('.app-shell').className,
+      contentDisplay: getComputedStyle(content).display,
+      ariaHidden: content.getAttribute('aria-hidden'),
+      label: toggle.getAttribute('aria-label')
+    };
+    toggle.click();
+    await new Promise((resolve) => setTimeout(resolve, 220));
+    return {
+      expandedWidth,
+      collapsedWidth,
+      collapsed,
+      expandedAgain: {
+        shell: document.querySelector('.app-shell').className,
+        contentDisplay: getComputedStyle(content).display,
+        ariaHidden: content.getAttribute('aria-hidden'),
+        label: toggle.getAttribute('aria-label')
+      }
+    };
+  })()`);
+  assert(
+    railResult.result.value.collapsedWidth < railResult.result.value.expandedWidth,
+    "Expected collapsed rail to become narrower.",
+  );
+  assert(
+    railResult.result.value.collapsed.contentDisplay === "none",
+    "Expected collapsed rail content to hide.",
+  );
+  assert(
+    railResult.result.value.collapsed.ariaHidden === "true",
+    "Expected collapsed rail content to be hidden from assistive tech.",
+  );
+  assert(
+    railResult.result.value.collapsed.label === "Expand archive navigation",
+    "Expected collapsed rail toggle to expose expand action.",
+  );
+  assert(
+    railResult.result.value.expandedAgain.contentDisplay !== "none",
+    "Expected rail content to return after expanding.",
+  );
+
   const starResult = await client.evaluate(`(async () => {
     const button = document.querySelector('.star-button');
     button.click();
@@ -364,18 +479,40 @@ try {
   assert(searchResult.result.value > 0, "Expected search to find an insight.");
 
   const filterResult = await client.evaluate(`(async () => {
-    const xButton = [...document.querySelectorAll('.segment-control button')].find((button) => button.querySelector('.filter-label')?.textContent.trim() === 'X');
-    xButton.click();
+    const input = document.querySelector('input[type="search"]');
+    const setter = Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set;
+    setter.call(input, '');
+    input.dispatchEvent(new Event('input', { bubbles: true }));
     await new Promise((resolve) => setTimeout(resolve, 150));
+    const sourceMap = {
+      X: 'insight-card--x',
+      Podcasts: 'insight-card--podcast',
+      Blogs: 'insight-card--blog'
+    };
+    const sourceButton = [...document.querySelectorAll('.segment-control button')].find((button) => {
+      const label = button.querySelector('.filter-label')?.textContent.trim() ?? '';
+      const count = Number(button.querySelector('.filter-count')?.textContent.trim() ?? '0');
+      return label !== 'All' && count > 0;
+    });
+    sourceButton.click();
+    await new Promise((resolve) => setTimeout(resolve, 150));
+    const label = sourceButton.querySelector('.filter-label')?.textContent.trim() ?? '';
+    const expectedClass = sourceMap[label];
+    const cards = [...document.querySelectorAll('.insight-card')];
     return {
-      cards: document.querySelectorAll('.insight-card').length,
+      label,
+      cards: cards.length,
+      matchingCards: cards.filter((card) => card.classList.contains(expectedClass)).length,
       empty: document.querySelector('.empty-state h2')?.textContent ?? ''
     };
   })()`);
-  assert(filterResult.result.value.cards === 0, "Expected X filter to hide podcast card.");
   assert(
-    filterResult.result.value.empty === "No matching insights",
-    "Expected empty search/filter state.",
+    filterResult.result.value.cards > 0,
+    "Expected source filter to show at least one matching insight.",
+  );
+  assert(
+    filterResult.result.value.cards === filterResult.result.value.matchingCards,
+    "Expected source filter to only show cards from the selected source.",
   );
 
   client.close();

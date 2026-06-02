@@ -20,6 +20,7 @@ import type {
 import { matchesSnippet } from "./utils/search";
 
 const repository = new JsonArchiveRepository();
+const NAV_COLLAPSED_STORAGE_KEY = "ai-builder-archive.nav-collapsed.v1";
 
 function App() {
   const [days, setDays] = useState<ArchiveDaySummary[]>([]);
@@ -33,6 +34,13 @@ function App() {
   const [stars, setStars] = useState<StarredSnippet[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [isNavCollapsed, setIsNavCollapsed] = useState(() => {
+    try {
+      return localStorage.getItem(NAV_COLLAPSED_STORAGE_KEY) === "true";
+    } catch {
+      return false;
+    }
+  });
 
   useEffect(() => {
     let isMounted = true;
@@ -66,6 +74,17 @@ function App() {
       isMounted = false;
     };
   }, []);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(
+        NAV_COLLAPSED_STORAGE_KEY,
+        String(isNavCollapsed),
+      );
+    } catch {
+      // Ignore storage failures; the rail remains usable for the session.
+    }
+  }, [isNavCollapsed]);
 
   useEffect(() => {
     let isMounted = true;
@@ -165,15 +184,21 @@ function App() {
   }
 
   return (
-    <main className="app-shell">
+    <main
+      className={`app-shell ${
+        isNavCollapsed ? "app-shell--rail-collapsed" : ""
+      }`}
+    >
       <ArchiveNav
         days={days}
         selectedDate={selectedDate}
         activeView={activeView}
+        isCollapsed={isNavCollapsed}
         query={query}
         starredCount={stars.length}
         onQueryChange={setQuery}
         onSelectDay={handleSelectDay}
+        onToggleCollapsed={() => setIsNavCollapsed((isCollapsed) => !isCollapsed)}
         onShowStarred={() => {
           setActiveView("starred");
           setQuery("");
