@@ -1,9 +1,12 @@
 name: Generate Feeds
 
 on:
-  schedule:
-    # All feeds (tweets, podcasts, blogs): once daily at 6:17am UTC
-    - cron: '17 6 * * *'
+  # Disabled on this fork: the archive is built from the UPSTREAM central feed
+  # (see update-archive.yml), so we don't generate our own feeds here. Generating
+  # them requires X_BEARER_TOKEN and POD2TXT_API_KEY secrets. Re-enable this
+  # schedule only if you add those secrets and want your fork to produce feeds.
+  # schedule:
+  #   - cron: '17 6 * * *'
   workflow_dispatch:
     inputs:
       mode:
