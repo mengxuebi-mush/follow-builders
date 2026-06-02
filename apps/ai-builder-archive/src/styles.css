@@ -20,6 +20,7 @@
   --space-2xl: 2rem;
   --space-3xl: 3rem;
   --rail-width: 18rem;
+  --rail-collapsed-width: 4rem;
 }
 
 * {
@@ -68,6 +69,11 @@ a {
   display: grid;
   grid-template-columns: var(--rail-width) minmax(0, 1fr);
   min-height: 100vh;
+  transition: grid-template-columns 180ms ease;
+}
+
+.app-shell--rail-collapsed {
+  grid-template-columns: var(--rail-collapsed-width) minmax(0, 1fr);
 }
 
 .archive-rail {
@@ -82,6 +88,59 @@ a {
   padding: var(--space-2xl) var(--space-xl);
   position: sticky;
   top: 0;
+}
+
+.archive-rail.is-collapsed {
+  align-items: center;
+  gap: var(--space-lg);
+  overflow: hidden;
+  padding: var(--space-lg) var(--space-sm);
+}
+
+.rail-top {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: var(--space-lg);
+  top: var(--space-lg);
+  z-index: 2;
+}
+
+.archive-rail.is-collapsed .rail-top {
+  justify-content: center;
+  right: 50%;
+  transform: translateX(50%);
+  width: 100%;
+}
+
+.rail-toggle {
+  align-items: center;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  color: var(--muted);
+  display: inline-flex;
+  font-size: 1.25rem;
+  height: 2.25rem;
+  justify-content: center;
+  line-height: 1;
+  width: 2.25rem;
+}
+
+.rail-toggle:hover {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+.rail-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xl);
+  min-width: 0;
+}
+
+.archive-rail.is-collapsed .rail-content {
+  display: none;
 }
 
 .rail-heading {
@@ -314,19 +373,24 @@ a:focus-visible {
 }
 
 .snippet-stack {
+  align-items: stretch;
   display: grid;
   gap: var(--space-xl);
-  justify-items: start;
-  max-width: 58rem;
+  grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+  justify-content: start;
+  max-width: 88rem;
+  min-width: 0;
 }
 
 .insight-card {
   background: var(--panel);
   border: 1px solid var(--rule);
   border-radius: 8px;
+  align-content: start;
+  align-items: start;
   display: grid;
   gap: var(--space-xl);
-  max-width: 46rem;
+  max-width: none;
   padding: clamp(1rem, 3vw, 2rem);
   width: 100%;
 }
@@ -357,6 +421,13 @@ a:focus-visible {
 
 .source-name {
   min-width: 0;
+}
+
+.source-timestamp {
+  color: var(--quiet);
+  font-size: 0.76rem;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .card-actions {
@@ -412,7 +483,7 @@ a:focus-visible {
 
 .card-body h3 {
   font-family: var(--font-display);
-  font-size: clamp(1.65rem, 3vw, 2.85rem);
+  font-size: 40px;
   font-weight: 600;
   line-height: 1;
   margin: 0;
@@ -468,6 +539,10 @@ a:focus-visible {
     display: block;
   }
 
+  .app-shell--rail-collapsed {
+    display: block;
+  }
+
   .archive-rail {
     display: none;
   }
@@ -518,6 +593,10 @@ a:focus-visible {
     font-size: clamp(1.85rem, 7vw, 2.35rem);
   }
 
+  .card-body h3 {
+    font-size: clamp(1.65rem, 8vw, 2.35rem);
+  }
+
   .card-meta,
   .card-footer {
     align-items: flex-start;
@@ -525,5 +604,9 @@ a:focus-visible {
 
   .insight-card {
     padding-right: var(--space-lg);
+  }
+
+  .snippet-stack {
+    grid-template-columns: 1fr;
   }
 }
