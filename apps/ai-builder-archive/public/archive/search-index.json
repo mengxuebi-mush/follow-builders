@@ -1,7 +1,325 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-31T15:08:57.061Z",
+  "generatedAt": "2026-06-02T18:08:36.992Z",
   "snippets": [
+    {
+      "id": "2026-06-01-x-2f45097b8100",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "title undersells it - this @workos talk is doing v well and is the first to seriously challenge @mattpocockuk in weeks.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. title undersells it - this @workos talk is doing v well and is the first to seriously challenge @mattpocockuk in weeks. team is ab testing @xai @imagine see more about flipbook from @zan2434 and @eddiejiao_obj ! @Microsoft @nvidia roundup of links:",
+      "url": "https://x.com/swyx/status/2061658241877397917",
+      "publishedAt": "2026-06-02T03:56:43.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-7e06d4ebde18",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Should we rename Codex to ChadGPT? Heard that AWS is where the cool kids are. Hello. We have GPT-5.5. You can just codex ... a farm",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Should we rename Codex to ChadGPT? Heard that AWS is where the cool kids are. Hello. We have GPT-5.5. You can just codex ... a farm",
+      "url": "https://x.com/thsottiaux/status/2061572602888589807",
+      "publishedAt": "2026-06-01T22:16:25.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-9e0520dcd402",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "my #1 most used skill lol My top 6 takeaways from @Shpigford on how to build multiple products solo with AI agents: 1.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. my #1 most used skill lol My top 6 takeaways from @Shpigford on how to build multiple products solo with AI agents: 1. Keep shipping even if the fear of embarrassment never goes away. After 25 years as a solo builder, Josh still thinks \"It's terrifying launching something. Every single time it's just like, what if zero people care?",
+      "url": "https://x.com/petergyang/status/2061586272305795355",
+      "publishedAt": "2026-06-01T23:10:44.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-e3d337f4ca16",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "been asking others at Anthropic how they stay in the loop with Claude and fully understand the work being done this is one of my favorites from Suzanne: gist for the full prompt...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. been asking others at Anthropic how they stay in the loop with Claude and fully understand the work being done this is one of my favorites from Suzanne: gist for the full prompt here: Suzanne also mentioned she uses this with voice mode to make it easier to respond and more natural.",
+      "url": "https://x.com/trq212/status/2061545633560010826",
+      "publishedAt": "2026-06-01T20:29:15.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-48e3730fc212",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "Prompt to business: - website - mobile app - monetization - Delaware corp Start for free: vibecon",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Prompt to business: - website - mobile app - monetization - Delaware corp Start for free: vibecon",
+      "url": "https://x.com/amasad/status/2061575503434408106",
+      "publishedAt": "2026-06-01T22:27:56.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-5be2c1fb729b",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "MiniMax M3 is now the leading open model on the Next.js agent evaluations ( Right behind Opus & GPT5, but 10× cheaper (And 20× cheaper right now on ▲ AI Gateway!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. MiniMax M3 is now the leading open model on the Next.js agent evaluations ( Right behind Opus & GPT5, but 10× cheaper (And 20× cheaper right now on ▲ AI Gateway!) Beautiful example of a full-stack agent on @vercel. Great learning material! Git is all you need. Always has been",
+      "url": "https://x.com/rauchg/status/2061593874498531707",
+      "publishedAt": "2026-06-01T23:40:56.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-e82fa2b09560",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "As we enter the era of AI agents, one of the defining questions is how you develop competitive advantage when your competitor has access to the same AI models and intelligence as...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. As we enter the era of AI agents, one of the defining questions is how you develop competitive advantage when your competitor has access to the same AI models and intelligence as you. The companies that are able to best harness their internal institutional knowledge, existing data assets, and domain-specific workflows -- connected with AI -- will be those that are able to stay ahead in the future.",
+      "url": "https://x.com/levie/status/2061662386680127688",
+      "publishedAt": "2026-06-02T04:13:11.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI",
+        "Box"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-f246ad122add",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product",
+      "takeaway": "Want to try GStack /office-hours for your product idea as quickly as possible? It's one click here: \"Leadership is presence, not absence.\" —@bchesky Or the new way?",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Want to try GStack /office-hours for your product idea as quickly as possible? It's one click here: \"Leadership is presence, not absence.\" —@bchesky Or the new way?",
+      "url": "https://x.com/garrytan/status/2061568169354129640",
+      "publishedAt": "2026-06-01T21:58:48.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-cb0e1612a76c",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and product",
+      "takeaway": "CEO: “we have tens of thousands of AI agents running in production at massive scale right now” CTO:",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. CEO: “we have tens of thousands of AI agents running in production at massive scale right now” CTO:",
+      "url": "https://x.com/mattturck/status/2061533386296963464",
+      "publishedAt": "2026-06-01T19:40:35.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-5ad08608e84c",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise",
+      "takeaway": "All you had to do to make life changing wealth was to invest in ~every public company along the 237 walk in the park part II (feat. @taiuti).. coming soon 👀",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. All you had to do to make life changing wealth was to invest in ~every public company along the 237 walk in the park part II (feat. @taiuti).. coming soon 👀",
+      "url": "https://x.com/nikunj/status/2061492724856234030",
+      "publishedAt": "2026-06-01T16:59:00.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-938b183cc22c",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding",
+      "takeaway": "I told codex to use whenever I'm distracted and it needs my help to be unblocked, and ever once it a while I hear it talking to me, and it's the coolest thing ever. (e.g.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. I told codex to use whenever I'm distracted and it needs my help to be unblocked, and ever once it a while I hear it talking to me, and it's the coolest thing ever. (e.g. for releases, that needs npm and is 1Password-gated)",
+      "url": "https://x.com/steipete/status/2061574752574283858",
+      "publishedAt": "2026-06-01T22:24:57.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-2dfed8f990a7",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and tools",
+      "takeaway": "you don't have to work 7 days a week if you just have a swarm of Codex's running on /goal all the time but you'll probably want to it happened!",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. you don't have to work 7 days a week if you just have a swarm of Codex's running on /goal all the time but you'll probably want to it happened!",
+      "url": "https://x.com/danshipper/status/2061443674311999739",
+      "publishedAt": "2026-06-01T13:44:06.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-44aafb5443e3",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Schrep and the Gigascale team are building something special. They have been incredible partners to @southpkcommons portfolio companies.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Schrep and the Gigascale team are building something special. They have been incredible partners to @southpkcommons portfolio companies. @schrep is someone who I have looked up to for a long time and I am very excited to continue to collaborate with him.",
+      "url": "https://x.com/adityaag/status/2061664255007469881",
+      "publishedAt": "2026-06-02T04:20:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-x-a905ff98f18a",
+      "date": "2026-06-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "The OpenAI Foundation is doing a lot of wonderful things. Helping society become resilient to AI is going to be incredibly important. Much more to come here!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. The OpenAI Foundation is doing a lot of wonderful things. Helping society become resilient to AI is going to be incredibly important. Much more to come here!",
+      "url": "https://x.com/sama/status/2061562575322492937",
+      "publishedAt": "2026-06-01T21:36:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
+    {
+      "id": "2026-06-01-podcast-52b21e3f4c65",
+      "date": "2026-06-01",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 88: Unpacking DeepMind&apos;s Quest for SuperIntelligence with Demis Hassabis&apos; Biographer",
+      "takeaway": "Ep 88: Unpacking DeepMind&apos;s Quest for SuperIntelligence with Demis Hassabis&apos; Biographer. Is interesting, obviously, like, since you're reporting, you know, I guess in 2026, you've had these rise of these, you...",
+      "summary": "Is interesting, obviously, like, since you're reporting, you know, I guess in 2026, you've had these rise of these, you know, coding agents and, you know, it's certainly, you know, Anthropic and Cloud Code were the first there and OpenAI, you know, with with Codex was was right behind. If AI doesn't deliver, you know, clear benefits for humans, and it's just like lots of job disruption, which may be good for productivity, but it's kinda painful for people on the receiving end.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-06-01T12:46:52.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Codex",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-02T18:08:36.992Z"
+    },
     {
       "id": "2026-05-30-x-ce1a2577e1ef",
       "date": "2026-05-30",
