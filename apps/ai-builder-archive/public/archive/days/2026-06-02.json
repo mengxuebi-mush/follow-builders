@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-03T18:40:11.636Z",
+  "feedGeneratedAt": "2026-06-03T08:03:30.181Z",
+  "snippets": [
+    {
+      "id": "2026-06-02-x-b5896e354f3a",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding",
+      "takeaway": "probably the best reward function for reasoning efficiency i've seen @saranormous codex is agi man oneshotted this, no notes @jacobeffron",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. probably the best reward function for reasoning efficiency i've seen @saranormous codex is agi man oneshotted this, no notes @jacobeffron",
+      "url": "https://x.com/swyx/status/2062060142489973010",
+      "publishedAt": "2026-06-03T06:33:43.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-c8a702ec3440",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on research",
+      "takeaway": "✅ Papercut fixed: Thinking Levels are now available on Gemini across Web, iOS, and Android.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. ✅ Papercut fixed: Thinking Levels are now available on Gemini across Web, iOS, and Android.",
+      "url": "https://x.com/joshwoodward/status/2062025667852812583",
+      "publishedAt": "2026-06-03T04:16:44.000Z",
+      "tags": [
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-81fbe2c9bad8",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and coding",
+      "takeaway": "Tons of goodies for use of codex for day to day work. If you are on a business plan you can now host and share websites, we launched vastly improved plugins and skills for broad...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Tons of goodies for use of codex for day to day work. If you are on a business plan you can now host and share websites, we launched vastly improved plugins and skills for broad roles and you can give feedback to your agent through visual annotations in docs, slides, sheets and more. ChatGPT Whether you understand the name or not. It's here to stay. It's the past, the present, the future.",
+      "url": "https://x.com/thsottiaux/status/2061876999564791952",
+      "publishedAt": "2026-06-02T18:25:59.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-83554b8bca05",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Matt's guide is great but this line is pretty funny: \"They're so lit up by being able to build anything that they don't do anything else. Then they launch and there are no users.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Matt's guide is great but this line is pretty funny: \"They're so lit up by being able to build anything that they don't do anything else. Then they launch and there are no users.\" 😆 People are saying SaaS is not dead. I think larger enterprise SaaS that can do multiple jobs are probably fine (e.g., Figma). But if you’re building a simple SaaS for a narrow use case, I think it's harder to monetize now because: 1.",
+      "url": "https://x.com/petergyang/status/2062018242789670929",
+      "publishedAt": "2026-06-03T03:47:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-54bb19804127",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "Workflows are the biggest upgrade to Claude Code’s capabilities since skills and subagents. I dove deep into it with @sidbid to figure out best practices, examples and more.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. Workflows are the biggest upgrade to Claude Code’s capabilities since skills and subagents. I dove deep into it with @sidbid to figure out best practices, examples and more. I’m particularly excited about the non-technical tasks it enables for Claude Code. This is also available on the Claude Blog!",
+      "url": "https://x.com/trq212/status/2061907337154367865",
+      "publishedAt": "2026-06-02T20:26:32.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-9edc5b5ad723",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise and research",
+      "takeaway": "Excited to partner with @Microsoft to enable everyone in the enterprise to build and deploy safe & secure Fabric data apps. This is possible thanks to Microsoft's new Rayfin SDK.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Excited to partner with @Microsoft to enable everyone in the enterprise to build and deploy safe & secure Fabric data apps. This is possible thanks to Microsoft's new Rayfin SDK. SWE benchmarks don’t necessarily capture app building capabilities. ViBench does. Your whole business laid out on a canvas.",
+      "url": "https://x.com/amasad/status/2061893093696434578",
+      "publishedAt": "2026-06-02T19:29:56.000Z",
+      "tags": [
+        "enterprise",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-a86deef64eac",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap. Much like an SDK has a set of function definitions, human language is the new API to the world. It also always has been… there's never been an expert in any field without mastery over its language. The distinction is that English alone could not produce tangible things.",
+      "url": "https://x.com/rauchg/status/2061862134469062850",
+      "publishedAt": "2026-06-02T17:26:55.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-a346556b85d6",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "As token budgets take on a larger part of operating expenses over time, model routing is the inevitable conclusion.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. As token budgets take on a larger part of operating expenses over time, model routing is the inevitable conclusion. This is also one of the biggest areas of differentiation for the applied AI layer over time. By understanding the different work patterns in your domain, and having strong evals for that domain, you’ll be able to cost/performance optimize effectively.",
+      "url": "https://x.com/levie/status/2061974298760495132",
+      "publishedAt": "2026-06-03T00:52:37.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-2a05ffd84023",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and research",
+      "takeaway": "GBrain is the agentic swiss army knife for retrieval and memory tfw you land many PRs and have many more to go before you sleep Thank god Phil Kim beat the insane woman named...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. GBrain is the agentic swiss army knife for retrieval and memory tfw you land many PRs and have many more to go before you sleep Thank god Phil Kim beat the insane woman named Brandee who literally doxxed my home address and made me sell my home and move my family to a new one",
+      "url": "https://x.com/garrytan/status/2062052761945223266",
+      "publishedAt": "2026-06-03T06:04:24.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-058f3b3b44a6",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Frontend Slides now has 20k stars on GitHub 😮 It's insane how many people have already replaced PPTs with HTML decks and never looked back Recently added new features including...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Frontend Slides now has 20k stars on GitHub 😮 It's insane how many people have already replaced PPTs with HTML decks and never looked back Recently added new features including beautiful templates, publish as webpage/export as PDF, and inline editing From OpenAI's latest Codex report: \"Knowledge workers now represent about 20% of Codex users and are adopting it more than 3 times as fast as developers The fastest...",
+      "url": "https://x.com/zarazhangrui/status/2061889286585405790",
+      "publishedAt": "2026-06-02T19:14:48.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-4565f7b5eb94",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and enterprise",
+      "takeaway": "The best founders treat the following as a necessary component of their business but NOT the entire business..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The best founders treat the following as a necessary component of their business but NOT the entire business.. > AI / timing / why now > Funding > Distribution / hype > Market > Product > Revenue I’m seeing too many pitches that are touting only one of these as the core reason to invest.",
+      "url": "https://x.com/nikunj/status/2062033620773306763",
+      "publishedAt": "2026-06-03T04:48:20.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-6574e1b6a669",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on enterprise",
+      "takeaway": "Such a privilege to work with Microsoft to bring claws to enterprises! It’s been great working with Omar to get observability and verifiable workspaces into OpenClaw.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Such a privilege to work with Microsoft to bring claws to enterprises! It’s been great working with Omar to get observability and verifiable workspaces into OpenClaw.",
+      "url": "https://x.com/steipete/status/2061874084649025728",
+      "publishedAt": "2026-06-02T18:14:24.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-7bea992e2b65",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and product",
+      "takeaway": "people internally are freaking out about this, worth paying attention: Almost a week later! What are your thoughts on Opus 4.8?",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. people internally are freaking out about this, worth paying attention: Almost a week later! What are your thoughts on Opus 4.8? We were extremely bullish on it in testing—it seems the response was more tepid once y'all got your hands on it. If you disagreed with our take I'm curious why so we can tune our evaluations!",
+      "url": "https://x.com/danshipper/status/2061908190040645707",
+      "publishedAt": "2026-06-02T20:29:55.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-1ac947af1b98",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is...",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom\" Ecclesiastes 9:10 theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber tools into the hands of trusted defenders.",
+      "url": "https://x.com/sama/status/2061828631089844709",
+      "publishedAt": "2026-06-02T15:13:47.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-x-f5a2f40367c6",
+      "date": "2026-06-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Interpreting law is one of the oldest jobs in the world. @MaxJunestrand, co-founder and CEO of @WeAreLegora, is bringing it into its next era with Claude.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Interpreting law is one of the oldest jobs in the world. @MaxJunestrand, co-founder and CEO of @WeAreLegora, is bringing it into its next era with Claude. His bet: every new model release raises the tide, and Legora is building the boats for everyone else. From The Problem Solvers, our series featuring founders taking on hard problems with Claude:",
+      "url": "https://x.com/claudeai/status/2061829558999912680",
+      "publishedAt": "2026-06-02T15:17:28.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    },
+    {
+      "id": "2026-06-02-podcast-e2866f1b0ab0",
+      "date": "2026-06-02",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Knowing What Your Customers Want, All the Time: Listen Labs' Alfred Wahlforss",
+      "takeaway": "Knowing What Your Customers Want, All the Time: Listen Labs' Alfred Wahlforss. So we have this AI agent that can understand your customers better than you can.",
+      "summary": "So we have this AI agent that can understand your customers better than you can. They don't want to configure their own workflow. We try to be very explicit to the model of what is the domain of knowledge they have and then see how much can you expand that domain.",
+      "url": "https://www.youtube.com/watch?v=Rumft-rsEu4",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-06-03T18:40:11.636Z"
+    }
+  ]
+}
