@@ -2,11 +2,15 @@ name: Update Archive
 
 on:
   schedule:
-    # 8:00am America/Los_Angeles. GitHub Actions cron is always UTC and does
-    # NOT observe daylight saving, so 15:00 UTC = 8am PDT (Mar–Nov) and
-    # 7am PST (Nov–Mar). Pick the offset that matters most to you, or add a
-    # second cron line if you want exactly 8am year-round.
-    - cron: '0 15 * * *'
+    # ~8am America/Los_Angeles. GitHub Actions cron is always UTC and does NOT
+    # observe daylight saving. We avoid the congested ':00' minute (where GitHub
+    # most often drops scheduled runs) and add a backup slot ~1h later. The
+    # capture is idempotent — re-running just rewrites the same day's file — so
+    # two runs a day is harmless and means a dropped first run still gets caught.
+    #   15:17 UTC = 8:17am PDT (summer) / 7:17am PST (winter)
+    #   16:17 UTC = backup
+    - cron: '17 15 * * *'
+    - cron: '17 16 * * *'
   workflow_dispatch:
     inputs:
       date:
