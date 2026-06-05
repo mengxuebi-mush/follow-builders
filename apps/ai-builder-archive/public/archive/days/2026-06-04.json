@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-05T16:37:23.591Z",
+  "feedGeneratedAt": "2026-06-05T07:48:29.449Z",
+  "snippets": [
+    {
+      "id": "2026-06-04-x-a8f16642a8fb",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and enterprise",
+      "takeaway": "Finally! the first eval ship from cog!!!!!!!!!! 👼🏼 To contextualize: @METR_Evals cap out at ~16 hours.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. Finally! the first eval ship from cog!!!!!!!!!! 👼🏼 To contextualize: @METR_Evals cap out at ~16 hours. Cog has private enterprise evals up to 100hrs, and is confident enough to put a financial guarantee on it 🤯 METR dataset: ML eng, GPU kernels, cybersecurity > \"METR (2026) used a combination of GPT-4o and GPT-5 to estimate the human-equivalent times from compressed Claude Code transcripts.",
+      "url": "https://x.com/swyx/status/2062611218196771017",
+      "publishedAt": "2026-06-04T19:03:30.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-0e59b0ebfcb3",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and tools",
+      "takeaway": "Love this Gemini feature on my macOS app!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Love this Gemini feature on my macOS app!",
+      "url": "https://x.com/joshwoodward/status/2062667951485108354",
+      "publishedAt": "2026-06-04T22:48:56.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-42d085f6d18f",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and costs",
+      "takeaway": "We're fixing a codex bug today that was causing us to undercount tokens being served to some Pro and Plus accounts by a small amount. This impacted &lt; 15% of accounts.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. We're fixing a codex bug today that was causing us to undercount tokens being served to some Pro and Plus accounts by a small amount. This impacted &lt; 15% of accounts. Not the kind of bug you want us to fix, but didn't want to do this silently and thought you should know. You can use codex within your own programs using the Python SDK. It's awesome. Built by @ah20im and friends ``` pip install openai-codex ```",
+      "url": "https://x.com/thsottiaux/status/2062648326332539015",
+      "publishedAt": "2026-06-04T21:30:57.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-bada0b6b1444",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I spent the whole day today setting up integrations and skills in Codex for my top creator workflows.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I spent the whole day today setting up integrations and skills in Codex for my top creator workflows. Now I'm convinced that you can save at least 50% of your time on any type of knowledge work if you just set up the system upfront. Note that all my workflows have human checkpoints along the way so I can apply my \"taste.\" Anyway, it feels extremely liberating to have all this set up.",
+      "url": "https://x.com/petergyang/status/2062740262338929110",
+      "publishedAt": "2026-06-05T03:36:17.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-871db06e9e36",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and coding",
+      "takeaway": "I'm hiring a PM for Claude Code, focused on model performance. If you have experience writing agentic evals and want to integrate research ideas into our core products, I'd love...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. I'm hiring a PM for Claude Code, focused on model performance. If you have experience writing agentic evals and want to integrate research ideas into our core products, I'd love to hear from you here:",
+      "url": "https://x.com/_catwu/status/2062659533047259212",
+      "publishedAt": "2026-06-04T22:15:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-76683c2315a2",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "An app can be a home-cooked meal (2020) personal software was a bit early in 2020 but in 2026, it really can be as personal as a home cooked meal, or a handwritten letter How...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. An app can be a home-cooked meal (2020) personal software was a bit early in 2020 but in 2026, it really can be as personal as a home cooked meal, or a handwritten letter How dynamic workflows allow Claude Code to handle whole new types of tasks",
+      "url": "https://x.com/trq212/status/2062605395101884916",
+      "publishedAt": "2026-06-04T18:40:22.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-5c321a59cf57",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Prompt to shop:",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Prompt to shop:",
+      "url": "https://x.com/amasad/status/2062646796804145517",
+      "publishedAt": "2026-06-04T21:24:53.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-22006b01c0af",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on tools",
+      "takeaway": "Congrats Void team! We @vercel reaffirm our collaboration on an open platform for the web, with our investment in @nitrojsdev, open runtimes, and native support for Vite-based...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Congrats Void team! We @vercel reaffirm our collaboration on an open platform for the web, with our investment in @nitrojsdev, open runtimes, and native support for Vite-based frameworks like Nuxt, Svelte, and TanStack Start 🫡",
+      "url": "https://x.com/rauchg/status/2062535454130676193",
+      "publishedAt": "2026-06-04T14:02:26.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-51169857be38",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on coding and models",
+      "takeaway": "We just published internal data on how much of Claude's development is already being done by Claude: - Over 80% of all code merged into our codebase is now written by Claude -...",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. We just published internal data on how much of Claude's development is already being done by Claude: - Over 80% of all code merged into our codebase is now written by Claude - It's been months since many researchers at Anthropic hand-wrote code - The typical Anthropic engineer ships 8x as much code as they did in 2024 - On the most open-ended engineering tasks, Claude's success rate jumped from ~26% to 76% in 6...",
+      "url": "https://x.com/alexalbert__/status/2062580571214389510",
+      "publishedAt": "2026-06-04T17:01:43.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-987003e0e13e",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "Good thought provoking post from Anthropic. I think this paragraph points to the key element of the optimistic scenario of AI: “There has been an explosion of new ideas,...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Good thought provoking post from Anthropic. I think this paragraph points to the key element of the optimistic scenario of AI: “There has been an explosion of new ideas, initiatives, tools, and simulations, as a result of Anthropic employees working with highly capable models—far more than we have the capacity to pursue.",
+      "url": "https://x.com/levie/status/2062728257359790292",
+      "publishedAt": "2026-06-05T02:48:34.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-14ae97d03bee",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product",
+      "takeaway": "Two YC decacorns in one day and one of them is building commercial fusion. Polaris hit 150 million degrees C, first privately funded machine to do it.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Two YC decacorns in one day and one of them is building commercial fusion. Polaris hit 150 million degrees C, first privately funded machine to do it. This is the abundance future, built by people who actually ship. So close to product market fit is still not product market fit",
+      "url": "https://x.com/garrytan/status/2062763109849411834",
+      "publishedAt": "2026-06-05T05:07:04.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-5a7af07489fa",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and costs",
+      "takeaway": "Why AI Can Now Make Discoveries - my conversation with @danintheory, Lead of the Foundations of Reinforcement Learning team at @OpenAI 00:00 Intro: AI's wild week in mathematics...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Why AI Can Now Make Discoveries - my conversation with @danintheory, Lead of the Foundations of Reinforcement Learning team at @OpenAI 00:00 Intro: AI's wild week in mathematics 01:21 What OpenAI's Foundations of RL team does 03:08 Dan's journey: from black holes and quantum gravity to frontier AI 07:04 Are AI systems becoming useful for real science 08:21 The AI math moment: Erdős, OpenAI, DeepMind, and Anthropic...",
+      "url": "https://x.com/mattturck/status/2062587000201580808",
+      "publishedAt": "2026-06-04T17:27:16.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-ff06ba9fce18",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "Introducing the Nock skill (powered by @meetgranola) 👀 Someone recently asked me if I can be replaced by AI, and my ego initially said NO WAY..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Introducing the Nock skill (powered by @meetgranola) 👀 Someone recently asked me if I can be replaced by AI, and my ego initially said NO WAY.. Then, I thought about what's the best way to have the most accurate \"AI\" representation of me for these conversations. So, I used @claudeai Code to pull >200 1:1 founder pitch meeting notes that were captured by Granola in the last couple of years.",
+      "url": "https://x.com/nikunj/status/2062659649732825549",
+      "publishedAt": "2026-06-04T22:15:57.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-1251f5cec7cd",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "NEW: Spiral 4.0—a writing partner for you and your agent by @every -> Stylometry: we built a new Style Engine based on the principles of stylometry to extract you and your brand's...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. NEW: Spiral 4.0—a writing partner for you and your agent by @every -> Stylometry: we built a new Style Engine based on the principles of stylometry to extract you and your brand's voice and produce great writing every time, based on examples of your past work -> MCP and CLI: Spiral is now built to be used by your agent like Codex, Claude Code, OpenClaw and more so you can get great writing automatically we use it...",
+      "url": "https://x.com/danshipper/status/2062628079869005876",
+      "publishedAt": "2026-06-04T20:10:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-c86aef52fd0f",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on coding",
+      "takeaway": "A lot of roles will now have engineering infused into them. Marketing Engineer is a great example of this.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. A lot of roles will now have engineering infused into them. Marketing Engineer is a great example of this.",
+      "url": "https://x.com/adityaag/status/2062655784127971565",
+      "publishedAt": "2026-06-04T22:00:35.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-d80cce15c027",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "man the early days of the internet were so special big upgrade to chatgpt memory rolling out today! build and publish web apps with chatgpt!",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. man the early days of the internet were so special big upgrade to chatgpt memory rolling out today! build and publish web apps with chatgpt! i really wish i had this when i was a kid, but i do miss hypercard.",
+      "url": "https://x.com/sama/status/2062661191969972645",
+      "publishedAt": "2026-06-04T22:22:05.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-x-d44d483aeb8f",
+      "date": "2026-06-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Anton Osika (@antonosika) is the co-founder and CEO of @lovable, where anyone can build software through conversation.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Anton Osika (@antonosika) is the co-founder and CEO of @lovable, where anyone can build software through conversation. His working thesis: the most underrated moat in AI is trust, and earning it takes craft, care, and obsession. From The Problem Solvers, our series featuring founders taking on hard problems with Claude:",
+      "url": "https://x.com/claudeai/status/2062558332695556378",
+      "publishedAt": "2026-06-04T15:33:21.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-blog-dea52d951227",
+      "date": "2026-06-04",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-blog-f90fa6cabc29",
+      "date": "2026-06-04",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-blog-2a8322b07185",
+      "date": "2026-06-04",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-blog-881c22f723fe",
+      "date": "2026-06-04",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New connectors in Claude for everyday life",
+      "takeaway": "New connectors in Claude for everyday life. Today we’re expanding what you can connect to Claude. Alongside the work tools you already use, you can now connect the apps you use...",
+      "summary": "New connectors in Claude for everyday life. Today we’re expanding what you can connect to Claude. Alongside the work tools you already use, you can now connect the apps you use throughout your week, including AllTrails, Instacart, Audible, Tripadvisor, Intuit TurboTax, and more.",
+      "url": "https://claude.com/blog/connectors-for-everyday-life",
+      "publishedAt": "Apr 23, 2026",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    },
+    {
+      "id": "2026-06-04-podcast-1982a5337472",
+      "date": "2026-06-04",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries",
+      "takeaway": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries. This viral analysis from earlier this year, February, I think, that claims that Aurel produces less than one bit of useful...",
+      "summary": "This viral analysis from earlier this year, February, I think, that claims that Aurel produces less than one bit of useful information per 10,000 tokens, and then Carpathi called it sucking supervisions through a straw. I also had a startup along the way, and spent some time at Sequoia Capital as an entrepreneur in residence. I feel really excited that we will get to really answer a lot of fundamental questions in the field of science that that we care about with the aid or the models being the driving force.",
+      "url": "https://www.youtube.com/watch?v=oWOz2htozfI",
+      "publishedAt": "2026-06-04T12:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-06-05T16:37:23.591Z"
+    }
+  ]
+}
