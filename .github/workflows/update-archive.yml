@@ -2,15 +2,18 @@ name: Update Archive
 
 on:
   schedule:
-    # ~8am America/Los_Angeles. GitHub Actions cron is always UTC and does NOT
-    # observe daylight saving. We avoid the congested ':00' minute (where GitHub
-    # most often drops scheduled runs) and add a backup slot ~1h later. The
-    # capture is idempotent — re-running just rewrites the same day's file — so
-    # two runs a day is harmless and means a dropped first run still gets caught.
-    #   15:17 UTC = 8:17am PDT (summer) / 7:17am PST (winter)
-    #   16:17 UTC = backup
-    - cron: '17 15 * * *'
-    - cron: '17 16 * * *'
+    # GitHub's scheduled trigger is best-effort: it gets delayed by hours and is
+    # frequently dropped entirely (worst at the top of the hour, and more so on
+    # forks). Mitigation per GitHub's own guidance: use off-peak minutes and fire
+    # several times across the morning so a dropped slot is backed up by the next.
+    # The capture is idempotent (it just rewrites yesterday's file), so running
+    # multiple times a day is harmless — yesterday's content is available all
+    # morning regardless of which slot actually lands.
+    # Times below are UTC (cron has no DST). PDT = UTC-7, PST = UTC-8.
+    - cron: '9 13 * * *'   # 06:09 PDT
+    - cron: '9 15 * * *'   # 08:09 PDT
+    - cron: '9 17 * * *'   # 10:09 PDT
+    - cron: '9 19 * * *'   # 12:09 PDT
   workflow_dispatch:
     inputs:
       date:
