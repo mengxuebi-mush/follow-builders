@@ -1,7 +1,343 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-05T20:52:36.677Z",
+  "generatedAt": "2026-06-06T14:51:14.257Z",
   "snippets": [
+    {
+      "id": "2026-06-05-x-c0a67ae32a03",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and product",
+      "takeaway": "a smarter alternative to \"always use plan mode\": always frame your task as a question, so that the model is invited to push back and rate the quality of the idea/suggest...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. a smarter alternative to \"always use plan mode\": always frame your task as a question, so that the model is invited to push back and rate the quality of the idea/suggest alternatives, rather than blindly execute what you SAID to do (which is often not precisely what you MEANT) literally just appending \"?",
+      "url": "https://x.com/swyx/status/2063082950317486133",
+      "publishedAt": "2026-06-06T02:18:00.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-ffd5af09c33a",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models and research",
+      "takeaway": "We doubled Claude Cowork usage limits for the next month. This applies to your 5-hr rate limits. If you’ve been saving up a big messy project, now’s the time.",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. We doubled Claude Cowork usage limits for the next month. This applies to your 5-hr rate limits. If you’ve been saving up a big messy project, now’s the time. Cowork is at its best on work that’s too big for a chat: research across dozens of accounts, recurring reports, triaging my inbox and drafting replies. If you’ve been curious, this is a good month to find out what it can take off your plate.",
+      "url": "https://x.com/bcherny/status/2063028954546733462",
+      "publishedAt": "2026-06-05T22:43:26.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-64118996afe3",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and costs",
+      "takeaway": "Better memory = Shorter prompts = More utility per token Codex papercuts 📉 Codex adoption 📈 Incredible work from @simpsoka and team",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Better memory = Shorter prompts = More utility per token Codex papercuts 📉 Codex adoption 📈 Incredible work from @simpsoka and team",
+      "url": "https://x.com/thsottiaux/status/2062966625733861752",
+      "publishedAt": "2026-06-05T18:35:46.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-28cfd1f14c50",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and research",
+      "takeaway": "How to build AI skills that check their own work and improve over time: 1. Give it context Ask AI: \"Create a skill for this [repeated task].",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. How to build AI skills that check their own work and improve over time: 1. Give it context Ask AI: \"Create a skill for this [repeated task]. Here are examples of good output so it knows what good looks like.\" 2. Make it easy to trigger “Write a clear skill description using this pattern: Use when the user wants to [do this].” 3.",
+      "url": "https://x.com/petergyang/status/2062899832965255443",
+      "publishedAt": "2026-06-05T14:10:21.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-1eb728527084",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "One of the most common mistakes I see enterprise AI teams make is building for today’s model capabilities and price points. Think 6 months out.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. One of the most common mistakes I see enterprise AI teams make is building for today’s model capabilities and price points. Think 6 months out. Models will be way smarter and cheaper. Scaffold around today’s model weaknesses to push the frontier. Bet that the next generation of models will natively solve for the scaffold. Push the frontier again. Build for the slope.",
+      "url": "https://x.com/realmadhuguru/status/2063024953721827329",
+      "publishedAt": "2026-06-05T22:27:32.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-9d13fa5419b2",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "I hear a version of this almost daily. Crazy times Replit x Shopify!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. I hear a version of this almost daily. Crazy times Replit x Shopify!",
+      "url": "https://x.com/amasad/status/2063089288997491063",
+      "publishedAt": "2026-06-06T02:43:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-9051c13d09de",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "Use the Skills API to make all your agents and platforms smarter. Think of it as the npm registry for agent capabilities and extensibility. Free and open.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Use the Skills API to make all your agents and platforms smarter. Think of it as the npm registry for agent capabilities and extensibility. Free and open. Agent filesystem state can now be read, written and mounted independently of Sandbox lifecycle. We’ve been developing a novel virtual storage infrastructure solution for all our compute products.",
+      "url": "https://x.com/rauchg/status/2062951924677128455",
+      "publishedAt": "2026-06-05T17:37:21.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-66c7b7a3979d",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective. The AI models are trained on an incredible amount of sophisticated code. The users are highly technical and can use the latest tools quickly. The work is “verifiable” because you can test an app.",
+      "url": "https://x.com/levie/status/2063055332545540096",
+      "publishedAt": "2026-06-06T00:28:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-3deeeb3a2acc",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding and product",
+      "takeaway": "designing in code is now as easy as: click, chat, hold shift to multi-select. works best with Composer 2.5",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. designing in code is now as easy as: click, chat, hold shift to multi-select. works best with Composer 2.5",
+      "url": "https://x.com/ryolu_/status/2063038983408615435",
+      "publishedAt": "2026-06-05T23:23:17.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-a48f0fb6f533",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "You can now finally try one of those big projects I was teasing that I started working on a few months ago.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. You can now finally try one of those big projects I was teasing that I started working on a few months ago. We want this to over time get better at helping you learn the best techniques to build better software, faster. This is the definition of must-have for the future drone war. GBrain gives OpenClaw and Hermes Agent wings",
+      "url": "https://x.com/garrytan/status/2063146456106795457",
+      "publishedAt": "2026-06-06T06:30:21.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-30f9a38fd108",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Ok bad stories about VCs are spreading on X right now, but VCs have horror stories about founders too Like, that one time when a founder decided to take another term sheet with a...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Ok bad stories about VCs are spreading on X right now, but VCs have horror stories about founders too Like, that one time when a founder decided to take another term sheet with a higher valuation despite our obvious ability to add value, thought leadership and vendor discounts",
+      "url": "https://x.com/mattturck/status/2063035894790345200",
+      "publishedAt": "2026-06-05T23:11:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-a943a2fb69f5",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "QED. The quote tweets in this thread just show we HAVE to do better. Evergreen reminder that without founders, there are no VCs! Full video out tomorrow am 🕺",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. QED. The quote tweets in this thread just show we HAVE to do better. Evergreen reminder that without founders, there are no VCs! Full video out tomorrow am 🕺",
+      "url": "https://x.com/nikunj/status/2062910976018854252",
+      "publishedAt": "2026-06-05T14:54:38.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-84ae2493f2cc",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "go Knicks!! watch on youtube: we'll have the full workflow and prompts available to @every subscribers soon:",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. go Knicks!! watch on youtube: we'll have the full workflow and prompts available to @every subscribers soon:",
+      "url": "https://x.com/danshipper/status/2063100104274280597",
+      "publishedAt": "2026-06-06T03:26:10.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-70bce6ef8b77",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Sometimes speed is just impatience disguised as ambition.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Sometimes speed is just impatience disguised as ambition.",
+      "url": "https://x.com/adityaag/status/2062917027103130013",
+      "publishedAt": "2026-06-05T15:18:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-x-51cec25a941e",
+      "date": "2026-06-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "We've doubled usage limits in Claude Cowork for the next month. Delegate bigger, more complex tasks to Claude. Live now on all paid plans through July 5.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. We've doubled usage limits in Claude Cowork for the next month. Delegate bigger, more complex tasks to Claude. Live now on all paid plans through July 5. Download the Claude desktop app to give Cowork a try:",
+      "url": "https://x.com/claudeai/status/2063018337567670285",
+      "publishedAt": "2026-06-05T22:01:15.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
+    {
+      "id": "2026-06-05-podcast-16a5fb83fd7f",
+      "date": "2026-06-05",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The SaaS Apocalypse Is a Goldmine With Figma’s Matt Colyer",
+      "takeaway": "The SaaS Apocalypse Is a Goldmine With Figma’s Matt Colyer. There are, you know, you guys just launched an agent, like, in your product.",
+      "summary": "There are, you know, you guys just launched an agent, like, in your product. So if if that was the like, where you were a couple years ago, like, are what are the, you know, what are the workflow things that you have now that you rely on that you're excited about? If you care about being on top of the latest models and using the latest tools, you have to subscribe to to separate out the signal from the noise.",
+      "url": "https://www.youtube.com/watch?v=kYKebKB3-d0",
+      "publishedAt": "2026-06-03T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-06-06T14:51:14.257Z"
+    },
     {
       "id": "2026-06-04-x-a8f16642a8fb",
       "date": "2026-06-04",
