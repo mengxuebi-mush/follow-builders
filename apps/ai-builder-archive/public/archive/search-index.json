@@ -1,7 +1,226 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-06T20:19:00.270Z",
+  "generatedAt": "2026-06-07T14:57:48.135Z",
   "snippets": [
+    {
+      "id": "2026-06-06-x-616826a25195",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product and research",
+      "takeaway": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the...",
+      "summary": "Swyx (swyx on X) shared 1 recent update. one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained california non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined *btw this is a motivator for me to set up...",
+      "url": "https://x.com/swyx/status/2063432747432268259",
+      "publishedAt": "2026-06-07T01:27:58.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-094a74595914",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "this agentic coding crack is more addictive than video games smh There should be a way to filter or sort all my Codex threads in different ways vs. only by project.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. this agentic coding crack is more addictive than video games smh There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or sort by: - All waiting for approval - All currently working I'm trying to keep it to 10 threads but it's already getting unwieldly. wdyt @ajambrosino ? Good night",
+      "url": "https://x.com/petergyang/status/2063486871037153558",
+      "publishedAt": "2026-06-07T05:03:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-6a6e9d0d4df2",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the quality/cost trade-off. And there is an opportunity in that difficulty. Here is the progression I saw with enterprises while on Gemini. Phase 1 (2024): Default to the \"it\" model.",
+      "url": "https://x.com/realmadhuguru/status/2063342268472574268",
+      "publishedAt": "2026-06-06T19:28:26.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Claude"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-476eb4475967",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise",
+      "takeaway": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too. Many of those who stood by me were also VCs.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too. Many of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile. The best way to avoid sociopaths is to have them self select out of your life by standing for your beliefs. Vibecon",
+      "url": "https://x.com/amasad/status/2063344460705288401",
+      "publishedAt": "2026-06-06T19:37:09.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-354e40a0f7c0",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. It also gives way to another form of differentiation that will emerge for the applied AI layer, which is model routing.",
+      "url": "https://x.com/levie/status/2063320673217609936",
+      "publishedAt": "2026-06-06T18:02:37.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-1e26a517f286",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "I also want to help people become more legit with Paxel Local government matters Oakland mismanagement is fixable but there has not yet been a resurgence of common sense the way...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. I also want to help people become more legit with Paxel Local government matters Oakland mismanagement is fixable but there has not yet been a resurgence of common sense the way SF had it @empoweroak is working on this We never said we don't upload any user data to the cloud. We said the code (file contents) specifically doesn't.",
+      "url": "https://x.com/garrytan/status/2063409501706018903",
+      "publishedAt": "2026-06-06T23:55:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-4a1ae64074d7",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Really enjoyed this talk! The value of static content is going down, the value of live interaction is going up People want to connect with the human being behind a piece of work,...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Really enjoyed this talk! The value of static content is going down, the value of live interaction is going up People want to connect with the human being behind a piece of work, whether it's content or software Raw & opinionated &gt; polished & generic",
+      "url": "https://x.com/zarazhangrui/status/2063391758189572266",
+      "publishedAt": "2026-06-06T22:45:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-d8fc66419023",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and enterprise",
+      "takeaway": "A Walk In The Park (part II) feat @taiuti 🌎 (00:00) 👋 (01:10) What world models are (03:42) Origin story from text-to-3D to @reactorworld (09:22) Deciding to start the company...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. A Walk In The Park (part II) feat @taiuti 🌎 (00:00) 👋 (01:10) What world models are (03:42) Origin story from text-to-3D to @reactorworld (09:22) Deciding to start the company (11:22) GTA, games, and the path into programming (15:09) Building in stealth and keeping secrets (18:32) Picking investors with independent conviction (21:43) Where world models will grow first (26:08) Why low latency matters (29:34)...",
+      "url": "https://x.com/nikunj/status/2063263389238087745",
+      "publishedAt": "2026-06-06T14:15:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-x-5609bf783160",
+      "date": "2026-06-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on enterprise and models",
+      "takeaway": "LLMs are not conscious. LLMs are not not conscious. Both true. to add two more that increase in value: Aidōs—reverence and responsiveness to others Dikē—the capacity to perceive...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. LLMs are not conscious. LLMs are not not conscious. Both true. to add two more that increase in value: Aidōs—reverence and responsiveness to others Dikē—the capacity to perceive what is right my absolute favorite of Plato's Dialogues is a deep discussion of the limits of techne and the necessity of aidos and dike Protagoras here, in the way he talks about where knowledge comes from and whether virtue can be taught,...",
+      "url": "https://x.com/danshipper/status/2063426632824562167",
+      "publishedAt": "2026-06-07T01:03:40.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
+    {
+      "id": "2026-06-06-podcast-fe10d0b5855c",
+      "date": "2026-06-06",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 89: AI Research Legend’s Honest Assessment of Where We Are",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "If we we take the current transformers with reasoning, right, and and and agents and they have access to a shell and and and stuff, they can do amazing things. Now it's a big enterprise, but it does feel, even when we try to push with as little data as people Well, it's also like we get a lot of data from visual things, from moving in the world, we take actions.",
+      "url": "https://www.youtube.com/watch?v=N1geOimmdDo",
+      "publishedAt": "2026-06-03T12:50:11.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Codex",
+        "Google",
+        "Meta",
+        "Box",
+        "Perplexity"
+      ],
+      "createdAt": "2026-06-07T14:57:48.135Z"
+    },
     {
       "id": "2026-06-05-x-c0a67ae32a03",
       "date": "2026-06-05",
