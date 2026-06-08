@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-08T16:52:35.387Z",
+  "feedGeneratedAt": "2026-06-08T08:07:01.633Z",
+  "snippets": [
+    {
+      "id": "2026-06-07-x-4e8c7df78fe8",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "Seeing a number of benchmarks showing Opus is the best model for long-running work. Five tips for running Opus autonomously for hours/days: 1.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Seeing a number of benchmarks showing Opus is the best model for long-running work. Five tips for running Opus autonomously for hours/days: 1. Use auto mode for permissions, so Claude doesn’t ask for approval 2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done 3. Use /goal or /loop, to nudge Claude to keep going until it’s done 4.",
+      "url": "https://x.com/bcherny/status/2063792263067754658",
+      "publishedAt": "2026-06-08T01:16:33.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-ab7694378d74",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it. First one tomorrow.",
+      "url": "https://x.com/thsottiaux/status/2063748242681307611",
+      "publishedAt": "2026-06-07T22:21:38.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-3e5eb9c81d41",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "My wife asked me to take out the trash. I said, “You shouldn’t be prompting me anymore. You should be designing loops.\" Finish the punch line of this dad joke please.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My wife asked me to take out the trash. I said, “You shouldn’t be prompting me anymore. You should be designing loops.\" Finish the punch line of this dad joke please. Ok ChatGPT had a good one: Wife: \"I did, the loop is called marriage and this is your daily cron job.\" Links I mentioned: Compound Engineering: Kun Chen's free tools:",
+      "url": "https://x.com/petergyang/status/2063818032280170721",
+      "publishedAt": "2026-06-08T02:58:57.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-f7e08524439c",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples. The data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks.",
+      "url": "https://x.com/realmadhuguru/status/2063704354910347520",
+      "publishedAt": "2026-06-07T19:27:14.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-0835787cc302",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats!",
+      "url": "https://x.com/amasad/status/2063744208587125142",
+      "publishedAt": "2026-06-07T22:05:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-22687a50c010",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs and tools",
+      "takeaway": "Vercel AI Gateway recovers on average over 1T tokens a month 🤯 Much like Stripe recovers revenue with smart retries on failed payments or credit card updates.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Vercel AI Gateway recovers on average over 1T tokens a month 🤯 Much like Stripe recovers revenue with smart retries on failed payments or credit card updates. And we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …",
+      "url": "https://x.com/rauchg/status/2063714700618334260",
+      "publishedAt": "2026-06-07T20:08:21.000Z",
+      "tags": [
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-aff31f9782a0",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard.",
+      "summary": "Aaron Levie (levie on X) shared 3 recent updates. This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard. Yes, AI has made that a bit easier, though it’s still hard to build something that’s got good taste, differentiated, high quality, secure, and so on. But nevertheless, that’s only one component of building a platform that enterprises rely on.",
+      "url": "https://x.com/levie/status/2063756386572681606",
+      "publishedAt": "2026-06-07T22:53:59.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Box"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-a028fc426665",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "Educating people on how to use the AI tools has become a serious bottleneck GBrain v0.42.30 can now give you a detailed summary of how your thinking has changed over time.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Educating people on how to use the AI tools has become a serious bottleneck GBrain v0.42.30 can now give you a detailed summary of how your thinking has changed over time. This is why we created",
+      "url": "https://x.com/garrytan/status/2063786111588323780",
+      "publishedAt": "2026-06-08T00:52:06.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-b20e07d5d067",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social People see these cool slides and always ask \"how did you...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social People see these cool slides and always ask \"how did you make it\". And people tend to perceive those using HTML decks as more AI-native and AI-savvy",
+      "url": "https://x.com/zarazhangrui/status/2063638307586662539",
+      "publishedAt": "2026-06-07T15:04:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-78a0920197e1",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models and costs",
+      "takeaway": "The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅 Might be a hot take but I still believe companies should give copious amounts...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅 Might be a hot take but I still believe companies should give copious amounts of token budget to employees to stay at the frontier and explore all the edges. Otherwise, it’s way too easy to fall back to “doing the things how they have always been done”.",
+      "url": "https://x.com/nikunj/status/2063630238123483195",
+      "publishedAt": "2026-06-07T14:32:43.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-bbc916e121f0",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and product",
+      "takeaway": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.",
+      "url": "https://x.com/steipete/status/2063697162748260627",
+      "publishedAt": "2026-06-07T18:58:39.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-77b19db6980f",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "I have had the chance to go through two IPOs (Meta and Dropbox). Fabulous wealth tends to amplify deeper desires, not create new ones.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. I have had the chance to go through two IPOs (Meta and Dropbox). Fabulous wealth tends to amplify deeper desires, not create new ones. The mainstream narrative is: \"Early Employees make lots of money and buy mansions and go to the beach\". For some: Yes, they want to chill. That is great. I am happy for them. But for a lot of folks, it is a chance to do even crazier and wackier stuff. Start new things.",
+      "url": "https://x.com/adityaag/status/2063731771284619521",
+      "publishedAt": "2026-06-07T21:16:11.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Meta"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-x-e49be0b8ca87",
+      "date": "2026-06-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "interesting recursive loop here maybe",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. interesting recursive loop here maybe",
+      "url": "https://x.com/sama/status/2063779477419901071",
+      "publishedAt": "2026-06-08T00:25:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-blog-2830aa4bc246",
+      "date": "2026-06-07",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "takeaway": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview.",
+      "summary": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents.",
+      "url": "https://claude.com/blog/new-in-claude-managed-agents",
+      "publishedAt": "May 06, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    },
+    {
+      "id": "2026-06-07-podcast-606ec8a294da",
+      "date": "2026-06-07",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Aaron is hands down one of the most deeply thoughtful CEOs in tech today when it comes to agentic AI, and he has a front row seat to how AI is actually being deployed inside the world's largest enterprises. In this episode, we get into the most pressing topics in enterprise AI right now, including soaring token costs, why AI model progress is paradoxically slowing down enterprise deployment, the rise of headless software, the emergence of internal FDEs, and where startups can still win.",
+      "url": "https://www.youtube.com/watch?v=Gs2styCcwro",
+      "publishedAt": "2026-05-28T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-08T16:52:35.387Z"
+    }
+  ]
+}
