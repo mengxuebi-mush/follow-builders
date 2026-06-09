@@ -1,7 +1,364 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-08T21:15:52.310Z",
+  "generatedAt": "2026-06-09T16:11:46.140Z",
   "snippets": [
+    {
+      "id": "2026-06-08-x-46cfc4d35606",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop. FrontierCode represents over 1000+ hours of maintainer validated software...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop. FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.",
+      "url": "https://x.com/swyx/status/2064081945567580323",
+      "publishedAt": "2026-06-08T20:27:39.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-4302ea99b356",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and research",
+      "takeaway": "The new killer NotebookLM feature: easily being able to expand your search beyond your own source files Then, with today's update, you can also make new output formats: PDFs,...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. The new killer NotebookLM feature: easily being able to expand your search beyond your own source files Then, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc. We want NotebookLM to keep helping you do better research",
+      "url": "https://x.com/joshwoodward/status/2064046368352825492",
+      "publishedAt": "2026-06-08T18:06:16.000Z",
+      "tags": [
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-f597ac1daaef",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "When we first demoed Claude Code internally, it got two reactions on Slack. A year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of...",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. When we first demoed Claude Code internally, it got two reactions on Slack. A year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going",
+      "url": "https://x.com/bcherny/status/2064034799711588805",
+      "publishedAt": "2026-06-08T17:20:18.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-a82bcf0904c1",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Would you use this controller? Anyone writing nested loops yet? Not clear from the image, but the codex dial goes to 11.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Would you use this controller? Anyone writing nested loops yet? Not clear from the image, but the codex dial goes to 11.",
+      "url": "https://x.com/thsottiaux/status/2064224657822413137",
+      "publishedAt": "2026-06-09T05:54:44.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-9d68d11ab9a6",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? If it’s Antigravity, should that be part of Gemini?",
+      "url": "https://x.com/petergyang/status/2064063499517743417",
+      "publishedAt": "2026-06-08T19:14:21.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-a34ad649e318",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on models",
+      "takeaway": "In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
+      "url": "https://x.com/AmandaAskell/status/2064223861512847456",
+      "publishedAt": "2026-06-09T05:51:34.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amanda Askell",
+        "Claude"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-4c2bc6639195",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Make games for Tesla on your Tesla",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Make games for Tesla on your Tesla",
+      "url": "https://x.com/amasad/status/2064208108361322996",
+      "publishedAt": "2026-06-09T04:48:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-c953292e20a3",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "DeepSeek entered the chat",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. DeepSeek entered the chat",
+      "url": "https://x.com/rauchg/status/2064189366562656602",
+      "publishedAt": "2026-06-09T03:34:30.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-5d9271827f22",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and tools",
+      "takeaway": "There’s no amount of intelligence that can get packed into AI models that replaces the need for context.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.",
+      "url": "https://x.com/levie/status/2064186766907887941",
+      "publishedAt": "2026-06-09T03:24:10.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-0d00294020e7",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Flock Safety makes cities safer Stop protecting criminals Because this is a brand new form of centrism being born in San Francisco The 2030’s will look back on this time when the...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Flock Safety makes cities safer Stop protecting criminals Because this is a brand new form of centrism being born in San Francisco The 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left NIMBYism only impoverishes the people but people like Connie Chan will say or do anything to get political power",
+      "url": "https://x.com/garrytan/status/2064122528445153280",
+      "publishedAt": "2026-06-08T23:08:54.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-f9c8d3e98118",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Actually I think the new world might be: Markdown, HTML, SVG SVG is underrated This part is so well-written and resonated SO much: \"I am the programming equivalent of a home cook\"",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Actually I think the new world might be: Markdown, HTML, SVG SVG is underrated This part is so well-written and resonated SO much: \"I am the programming equivalent of a home cook\"",
+      "url": "https://x.com/zarazhangrui/status/2064108976565092706",
+      "publishedAt": "2026-06-08T22:15:03.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-dd81074c81e0",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and product",
+      "takeaway": "The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building.. And then realize the thesis was written and built by an associate (or, worse an intern). Don’t always read what the VC writes on the internet - yes, that includes me too (although I can guarantee I don’t have an associate, intern, EA or ghostwriter) 😆 Fun to see all the “autonomous” companies...",
+      "url": "https://x.com/nikunj/status/2064175088824717401",
+      "publishedAt": "2026-06-09T02:37:46.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-522eef76dc82",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "this is good !!!! 🥹",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. this is good !!!! 🥹",
+      "url": "https://x.com/danshipper/status/2063948403566854585",
+      "publishedAt": "2026-06-08T11:37:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-b46d6edf1167",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "Here is our current plan for OpenAI:",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. Here is our current plan for OpenAI:",
+      "url": "https://x.com/sama/status/2064088940932641225",
+      "publishedAt": "2026-06-08T20:55:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-x-6ebe80893c5b",
+      "date": "2026-06-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Final stop: Tokyo. Register to hear directly from the teams behind Claude:",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Final stop: Tokyo. Register to hear directly from the teams behind Claude:",
+      "url": "https://x.com/claudeai/status/2064139073590104402",
+      "publishedAt": "2026-06-09T00:14:39.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-blog-a9ddc31e6892",
+      "date": "2026-06-08",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
+    {
+      "id": "2026-06-08-podcast-8ab4947a62e9",
+      "date": "2026-06-08",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. And we've seen some of that happen lately with downtimes that were caused by agents doing their own thing, agents accidentally publishing code and tokens that they weren't supposed to, and so on.",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-09T16:11:46.140Z"
+    },
     {
       "id": "2026-06-07-x-4e8c7df78fe8",
       "date": "2026-06-07",
