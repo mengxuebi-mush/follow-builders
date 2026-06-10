@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-10T16:43:19.289Z",
+  "generatedAt": "2026-06-10T18:08:22.720Z",
   "snippets": [
     {
       "id": "2026-06-09-x-3c7730e843fd",
@@ -24,7 +24,7 @@
         "Andrej Karpathy",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-892a1dde3baf",
@@ -46,7 +46,7 @@
         "Swyx",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-77dd83a86872",
@@ -65,7 +65,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-8a73bd57a371",
@@ -88,7 +88,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-0beda9d2e7a2",
@@ -109,7 +109,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-fd3d2447f334",
@@ -128,7 +128,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-c3cad9fb30d8",
@@ -149,7 +149,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-80c0b933722c",
@@ -170,7 +170,7 @@
         "Claude",
         "Replit"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-f58a1455db8e",
@@ -192,7 +192,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-6cf93c910691",
@@ -216,7 +216,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-ecfc6b24217c",
@@ -239,7 +239,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-a1e84813d923",
@@ -259,7 +259,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-d80e8aeb3d38",
@@ -282,7 +282,7 @@
         "Zara Zhang",
         "Box"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-f9e617796e45",
@@ -305,7 +305,7 @@
         "Nikunj Kothari",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-31f2eaf1efde",
@@ -325,7 +325,7 @@
         "Dan Shipper",
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-199faba036fb",
@@ -344,7 +344,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-x-fc2d74455707",
@@ -366,7 +366,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-09-podcast-357c04af2d05",
@@ -391,7 +391,7 @@
         "Codex",
         "Meta"
       ],
-      "createdAt": "2026-06-10T16:43:19.289Z"
+      "createdAt": "2026-06-10T18:08:22.720Z"
     },
     {
       "id": "2026-06-08-x-46cfc4d35606",
