@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-11T17:00:13.201Z",
+  "feedGeneratedAt": "2026-06-11T08:01:30.493Z",
+  "snippets": [
+    {
+      "id": "2026-06-10-x-1e164cee4c3f",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "wooh",
+      "summary": "Swyx (swyx on X) shared 1 recent update. wooh",
+      "url": "https://x.com/swyx/status/2064698525917827092",
+      "publishedAt": "2026-06-10T13:17:43.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-08b9c3896342",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon. Stay tuned for updates, and thanks for bearing with us! Update: Everything is back up and running, sorry again!",
+      "url": "https://x.com/joshwoodward/status/2064762269674918013",
+      "publishedAt": "2026-06-10T17:31:01.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-b5f92449f4ea",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Hello from Code with Claude Tokyo!!",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Hello from Code with Claude Tokyo!!",
+      "url": "https://x.com/bcherny/status/2064885111477219664",
+      "publishedAt": "2026-06-11T01:39:08.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-abf766fa388b",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and costs",
+      "takeaway": "Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something. Welcome Clint and Michael!",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something. Welcome Clint and Michael! Incredibly excited to see what we do together to contribute to the cybersecurity field and accelerate defenders across the globe. It's time to build. Simplify until there is nothing to simplify",
+      "url": "https://x.com/thsottiaux/status/2064911328087810308",
+      "publishedAt": "2026-06-11T03:23:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-1a89185def28",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and product",
+      "takeaway": "Give yourself permission to build. The traditional career ladder pushes everyone to become a leader, but I just want to be a builder.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Give yourself permission to build. The traditional career ladder pushes everyone to become a leader, but I just want to be a builder. As you climb the ladder at most companies, you’re expected to step away from building and fill your time with product reviews, cross-functional alignment, managing up, and performance calibrations. I know a lot of builders who spent their best years climbing the wrong ladder.",
+      "url": "https://x.com/petergyang/status/2064799855059616172",
+      "publishedAt": "2026-06-10T20:00:22.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-ade218d0396f",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "There's a thing they say about being a boat owner: the two best days of being a boat owner are the day you buy the boat and the day you sell the boat. gangprompting",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. There's a thing they say about being a boat owner: the two best days of being a boat owner are the day you buy the boat and the day you sell the boat. gangprompting",
+      "url": "https://x.com/thenanyu/status/2064711789556732316",
+      "publishedAt": "2026-06-10T14:10:25.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-1598155383e4",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "Right from the early days of Gemini, enterprises would get the quality/cost tradeoff wrong. They’d often start with the smallest, cheapest model.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Right from the early days of Gemini, enterprises would get the quality/cost tradeoff wrong. They’d often start with the smallest, cheapest model. The rule of thumb we gave customers: Replacing a traditional ML model with an LLM - start small, cos you already know what good looks like. Building something new - start with the most capable model. Think magically. Figure out what’s actually possible first.",
+      "url": "https://x.com/realmadhuguru/status/2064794601320481150",
+      "publishedAt": "2026-06-10T19:39:29.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-8cf8c239902c",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and product",
+      "takeaway": "Lots of people asked how I used Fable to edit its own launch video so I made a video about that! TLDR it wrote a lot of code & tool calls to use transcription services, ffmpeg, do...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. Lots of people asked how I used Fable to edit its own launch video so I made a video about that! TLDR it wrote a lot of code & tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. I didn't touch a video editor. here's the deck from this video if you want to go over it yourself: lmk if you have any questions!",
+      "url": "https://x.com/trq212/status/2064826394589442448",
+      "publishedAt": "2026-06-10T21:45:49.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-74a6a92aba46",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on enterprise",
+      "takeaway": "🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie. Try it out here!",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. 🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie. Try it out here!",
+      "url": "https://x.com/GoogleLabs/status/2064801929339752527",
+      "publishedAt": "2026-06-10T20:08:36.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-da30b32418d1",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "🇺🇸🇺🇸🇺🇸 Super interesting approach to enterprise agents. Congrats on the launch @markiewagner Automate your job search with Replit!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. 🇺🇸🇺🇸🇺🇸 Super interesting approach to enterprise agents. Congrats on the launch @markiewagner Automate your job search with Replit!",
+      "url": "https://x.com/amasad/status/2064864076430504282",
+      "publishedAt": "2026-06-11T00:15:33.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-35b1863ad610",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "What I love about Silicon Valley is that the future is up for grabs, ready for anyone to build. I get intros for angel investing to all kinds of people.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. What I love about Silicon Valley is that the future is up for grabs, ready for anyone to build. I get intros for angel investing to all kinds of people. I take everyone equally seriously. 2 lads & a dog, or a 5-time award-winning entrepreneur. No place more meritocratic. 🇬🇧 London calling Excited for Vercel Ship next week Some special announcements…",
+      "url": "https://x.com/rauchg/status/2064732935484514729",
+      "publishedAt": "2026-06-10T15:34:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-ae3236aeebc0",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Lots of evidence of huge jumps in capability for Fable across coding (and related) tasks. It’s also a major jump in accuracy and success in complex knowledge work tasks.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Lots of evidence of huge jumps in capability for Fable across coding (and related) tasks. It’s also a major jump in accuracy and success in complex knowledge work tasks. In our Box AI Complex Work Eval, we tested the model against Opus 4.8 and saw huge boosts across almost every industry.",
+      "url": "https://x.com/levie/status/2064922814688481678",
+      "publishedAt": "2026-06-11T04:08:58.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-6b99da3312b0",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and models",
+      "takeaway": "Nessie just became the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places you have memory, and also get...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Nessie just became the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places you have memory, and also get it into OpenClaw/Hermes Agent. Their OpenClaw and MCP servers are ace. Performative nonprofit industrial complex must be rooted out and defunded.",
+      "url": "https://x.com/garrytan/status/2064947145652994510",
+      "publishedAt": "2026-06-11T05:45:39.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Perplexity"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-20a8ec9fed9f",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on product",
+      "takeaway": "2026 is a BRUTAL grind in VC. You start in Davos, freeze in Aspen, hit Upfront, survive Milken, then it’s straight to Paris for the French Open. Briefly back in NYC for the Knicks.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. 2026 is a BRUTAL grind in VC. You start in Davos, freeze in Aspen, hit Upfront, survive Milken, then it’s straight to Paris for the French Open. Briefly back in NYC for the Knicks. Then, total blur: SuperReturn in Berlin, Founders Forum in London, then back stateside for the World Cup, back to Paris for Raise AI, Idaho for Sun Valley, quick respite in Mykonos, then the Goldman tech gauntlet, Slush in Finland,...",
+      "url": "https://x.com/mattturck/status/2064806681612362113",
+      "publishedAt": "2026-06-10T20:27:29.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-fc4f35af2944",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "It seems like most startups in San Francisco are selling products to each other When I ask founders who their target audience is, 90% of the time it's \"engineering and product...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. It seems like most startups in San Francisco are selling products to each other When I ask founders who their target audience is, 90% of the time it's \"engineering and product teams, AI-native startups\" Feels like the same small group of target audience is being bombarded with a million products, whereas very few people are building for the 99% of the world This is so good Increasingly the output of an agency looks...",
+      "url": "https://x.com/zarazhangrui/status/2064825302359150870",
+      "publishedAt": "2026-06-10T21:41:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-705fa4996a77",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "TIL: You can just roast your way into getting some legit coffee at the Cognition office ☕️",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. TIL: You can just roast your way into getting some legit coffee at the Cognition office ☕️",
+      "url": "https://x.com/nikunj/status/2064901295383990417",
+      "publishedAt": "2026-06-11T02:43:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-40b31ab46563",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on enterprise and product",
+      "takeaway": "I predicted this might happen on on @lennysan’s pod last year Higher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. I predicted this might happen on on @lennysan’s pod last year Higher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US to be close to customers absolutely insane game fable maxxing on the plane to SF",
+      "url": "https://x.com/danshipper/status/2064777216656097445",
+      "publishedAt": "2026-06-10T18:30:24.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-x-2143dd1019f9",
+      "date": "2026-06-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and enterprise",
+      "takeaway": "Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years. Today, over 60% of the Fortune 500 build with its AI coding platform. From The Problem Solvers, our series featuring founders taking on hard problems with Claude: Scheduled deployments and environment variables in vaults are available today on the Claude Platform. Read more:",
+      "url": "https://x.com/claudeai/status/2064757537992249734",
+      "publishedAt": "2026-06-10T17:12:13.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    },
+    {
+      "id": "2026-06-10-podcast-864da364cd4d",
+      "date": "2026-06-10",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Anthropic Uses Claude Fable 5 With Mike Krieger",
+      "takeaway": "How Anthropic Uses Claude Fable 5 With Mike Krieger. And the people who are orchestrating agents are like, holy shit, I feel like there's so many new things I need to learn.",
+      "summary": "And the people who are orchestrating agents are like, holy shit, I feel like there's so many new things I need to learn. It's like counter of magnitude, like, and feeling of like and it's actually not even the the sort of, like, tokens per second. I think that your point on on adapting workflows is a really good one.",
+      "url": "https://www.youtube.com/watch?v=XWpTgCvgYaE",
+      "publishedAt": "2026-06-10T17:27:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Anthropic",
+        "Claude",
+        "Vercel",
+        "Meta"
+      ],
+      "createdAt": "2026-06-11T17:00:13.201Z"
+    }
+  ]
+}
