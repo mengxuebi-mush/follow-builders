@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-12T16:26:30.406Z",
+  "feedGeneratedAt": "2026-06-12T07:57:08.681Z",
+  "snippets": [
+    {
+      "id": "2026-06-11-x-42ea4b4c255d",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "the #1 thing that is driving me to build my own vibecoding platform rn is that none of them - and i lov vercel, cloudflare, netlify etc - none of them really close the loop for...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. the #1 thing that is driving me to build my own vibecoding platform rn is that none of them - and i lov vercel, cloudflare, netlify etc - none of them really close the loop for you in terms of setting you on the right path with errors and pinging you when shit fails (shit always fails) there's way too much \"webmaster\" infra to setup for every single project and i just want to do it once and for all, instead i'm...",
+      "url": "https://x.com/swyx/status/2065264832056889711",
+      "publishedAt": "2026-06-12T02:48:01.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "OpenAI",
+        "Codex",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-8addb5c872f2",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Codex 🤟Ona Beyond excited to work with Johannes and team to build the future.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Codex 🤟Ona Beyond excited to work with Johannes and team to build the future.",
+      "url": "https://x.com/thsottiaux/status/2065193272952422852",
+      "publishedAt": "2026-06-11T22:03:40.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-88bf5b6142a9",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "These AI models remind me of RPGs tbh @Alphaschool fwiw this is my current plan Wow you can play fifa on Netflix now with your phone as the controller.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. These AI models remind me of RPGs tbh @Alphaschool fwiw this is my current plan Wow you can play fifa on Netflix now with your phone as the controller. I just tried it and it’s pretty great.",
+      "url": "https://x.com/petergyang/status/2065283568918794658",
+      "publishedAt": "2026-06-12T04:02:28.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-244ad553bcb2",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "For the first time, I'm vibecoding with ZERO frustration and in a complete state of flow, so much so that I'm running out of ideas.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. For the first time, I'm vibecoding with ZERO frustration and in a complete state of flow, so much so that I'm running out of ideas. Typically, I have so much backlog of things I want to add, but after Fable landed on Replit, I'm almost certain I don't need more IQ for vibecoding, just cheaper and faster models, and we're done here. This is what building a company looks like on Replit.",
+      "url": "https://x.com/amasad/status/2065236013627351551",
+      "publishedAt": "2026-06-12T00:53:30.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-33dd6891d103",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding",
+      "takeaway": "Vercel + Shopify is too good… by @foda: ◾ 500+ orders processed in *2 minutes* ◾ Built with @v0 + @cursor_ai ◾ Fully custom @nextjs storefront on headless So long on the web.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Vercel + Shopify is too good… by @foda: ◾ 500+ orders processed in *2 minutes* ◾ Built with @v0 + @cursor_ai ◾ Fully custom @nextjs storefront on headless So long on the web. Anyone can now dream → build → ship → sell Vercel + Grok",
+      "url": "https://x.com/rauchg/status/2065116986678624419",
+      "publishedAt": "2026-06-11T17:00:32.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-4d9dda5b03a7",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption. Many standout findings, but a big one was that the companies that adopted AI the most are planning to grow headcount the most. Obviously lots of ways you can read that data and variables mixed in, but it’s actually quite intuitive that the companies that become most productive want to (and are able to) reinvest back...",
+      "url": "https://x.com/levie/status/2065287110744297809",
+      "publishedAt": "2026-06-12T04:16:33.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-60b3b7612d62",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Gavin Newsom came for a @garryslist event at YC and we were proud to talk little tech, YIMBY, how to stop the the asset seizure tax, and how to keep California's innovation wave...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Gavin Newsom came for a @garryslist event at YC and we were proud to talk little tech, YIMBY, how to stop the the asset seizure tax, and how to keep California's innovation wave going while making sure things work for every Californian.",
+      "url": "https://x.com/garrytan/status/2065298785463579053",
+      "publishedAt": "2026-06-12T05:02:56.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-349ec171e6a5",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "This is tomorrow! Sneak peek of the deck I'll be sharing:",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. This is tomorrow! Sneak peek of the deck I'll be sharing:",
+      "url": "https://x.com/zarazhangrui/status/2065140462709506108",
+      "publishedAt": "2026-06-11T18:33:49.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-3a1bbeedbd31",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "What you work on has never been more important. Make sure it’s fun. Make sure it’s insanely ambitious. That’s the greatest moat.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. What you work on has never been more important. Make sure it’s fun. Make sure it’s insanely ambitious. That’s the greatest moat.",
+      "url": "https://x.com/nikunj/status/2065075361969500162",
+      "publishedAt": "2026-06-11T14:15:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-45e329cf87ed",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and tools",
+      "takeaway": "Getting Chris to do a PR with Codex! Part of the OpenClaw hardening work is reducing surface risk; for some media conversion we had to shell out to ffmpeg.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Getting Chris to do a PR with Codex! Part of the OpenClaw hardening work is reducing surface risk; for some media conversion we had to shell out to ffmpeg. In the next release that can now be done via wasm, with similar performance for our use cases. writing mac apps is still hard.",
+      "url": "https://x.com/steipete/status/2065176989359808636",
+      "publishedAt": "2026-06-11T20:58:58.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-79654c5a12b2",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding",
+      "takeaway": "had an idea for a big fable project, set it up, and let it cook came back an hour later and it had triggered the safeguards and fell back to 4.8 10 minutes in back to codex 😬",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. had an idea for a big fable project, set it up, and let it cook came back an hour later and it had triggered the safeguards and fell back to 4.8 10 minutes in back to codex 😬",
+      "url": "https://x.com/danshipper/status/2065269582961737957",
+      "publishedAt": "2026-06-12T03:06:54.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-dc84889b9029",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on product",
+      "takeaway": "Things are only impossible to build until someone builds them. This is what production-grade visual AI looks like.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Things are only impossible to build until someone builds them. This is what production-grade visual AI looks like.",
+      "url": "https://x.com/adityaag/status/2065155311770440097",
+      "publishedAt": "2026-06-11T19:32:49.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-x-71086403f38d",
+      "date": "2026-06-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "really looking forward to working together!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. really looking forward to working together!",
+      "url": "https://x.com/sama/status/2065160791205310565",
+      "publishedAt": "2026-06-11T19:54:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-blog-97cd97d27d22",
+      "date": "2026-06-11",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    },
+    {
+      "id": "2026-06-11-podcast-896543743b9d",
+      "date": "2026-06-11",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "So I'm excited to talk to you about everything from AgenTik AI to AI coding, world models, more today, and right off the heels of Google IO. When I talk to companies in the enterprise, they say, Everyone's talking about agentic AI, but the only place they've seen agents really working is coding agents.",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-06-12T16:26:30.406Z"
+    }
+  ]
+}
