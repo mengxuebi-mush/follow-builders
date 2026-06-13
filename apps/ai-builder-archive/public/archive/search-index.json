@@ -1,7 +1,435 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-12T21:03:58.696Z",
+  "generatedAt": "2026-06-13T15:06:19.516Z",
   "snippets": [
+    {
+      "id": "2026-06-12-x-d83ba76251ce",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on ai",
+      "takeaway": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team!",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "url": "https://x.com/karpathy/status/2065490793092337691",
+      "publishedAt": "2026-06-12T17:45:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Andrej Karpathy"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-004e7632cf0a",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and tools",
+      "takeaway": "## The Future Codebase After the PR dies, after the Code Review dies, i am seriously wondering if Git needs to die next.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. ## The Future Codebase After the PR dies, after the Code Review dies, i am seriously wondering if Git needs to die next. roughly 20-40% of code spend is just managing and updating merge conflicts. necessary evil? or legacy \"horseless carriage\"? cargo culting the past?",
+      "url": "https://x.com/swyx/status/2065559864559145420",
+      "publishedAt": "2026-06-12T22:20:22.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-2a6c3276a6cf",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "Heard your (amusing) feedback that it was at times annoying to receive a reset of your Codex usage without warning.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Heard your (amusing) feedback that it was at times annoying to receive a reset of your Codex usage without warning. Next time we press the button you will get to choose when it actually applies. Happy codexing.",
+      "url": "https://x.com/thsottiaux/status/2065468501750649006",
+      "publishedAt": "2026-06-12T16:17:20.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-047502bd9e5e",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "Suspending Fable for all “foreign person inside the US” is wild. How can you even enforce this properly?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Suspending Fable for all “foreign person inside the US” is wild. How can you even enforce this properly? Yeah I think ID verification will soon be required to access the best models Wow wtf?!",
+      "url": "https://x.com/petergyang/status/2065602691850764667",
+      "publishedAt": "2026-06-13T01:10:33.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-4f3bb2329e48",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "Just wrote out a whole doc with my bare hands - manually, with a keyboard. No dictation, no AI. Because I like to live dangerously.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Just wrote out a whole doc with my bare hands - manually, with a keyboard. No dictation, no AI. Because I like to live dangerously.",
+      "url": "https://x.com/realmadhuguru/status/2065541200971759669",
+      "publishedAt": "2026-06-12T21:06:12.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-db79151443f5",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise and costs",
+      "takeaway": "Sounds like we’re going to have turn off access to Fable. When the whole Tokenmaxxing craze started some our enterprise customers asked us for a leaderboard. We said no.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Sounds like we’re going to have turn off access to Fable. When the whole Tokenmaxxing craze started some our enterprise customers asked us for a leaderboard. We said no. Would’ve been “great” for business but we’re not in the business of selling tokens for the sake of tokens. We sell outcomes. And we knew it wouldn’t last: If you make money on Replit, you get free credits!",
+      "url": "https://x.com/amasad/status/2065600809224814835",
+      "publishedAt": "2026-06-13T01:03:04.000Z",
+      "tags": [
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-61e04d4c6c71",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "HTML is so back. Drag and We just shipped 𝙷𝚊𝚛𝚗𝚎𝚜𝚜𝙰𝚐𝚎𝚗𝚝, a unified abstraction to orchestrate and integrate any agent’s “brain” into your app.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. HTML is so back. Drag and We just shipped 𝙷𝚊𝚛𝚗𝚎𝚜𝚜𝙰𝚐𝚎𝚗𝚝, a unified abstraction to orchestrate and integrate any agent’s “brain” into your app. @aisdk now frees you from both model and agent lock-in. (And it doesn’t just get you portability, it’s also delightful to use ofc!)",
+      "url": "https://x.com/rauchg/status/2065494112669966660",
+      "publishedAt": "2026-06-12T17:59:06.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-1da61361d969",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on agents",
+      "takeaway": "Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅 This prompt snippet has been the best...",
+      "summary": "Alex Albert (alexalbert__ on X) shared 2 recent updates. Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅 This prompt snippet has been the best fix I've found for getting it to write clearly and drop any jargon: Pulled this from our prompting guide which has many more tips for working with Fable:",
+      "url": "https://x.com/alexalbert__/status/2065493229760565758",
+      "publishedAt": "2026-06-12T17:55:35.000Z",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-b12985c3e1af",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and models",
+      "takeaway": "This is a big turning point for AI regulation. The government is starting to deem some models too powerful for certain uses, which creates a precedent for a range of possible...",
+      "summary": "Aaron Levie (levie on X) shared 3 recent updates. This is a big turning point for AI regulation. The government is starting to deem some models too powerful for certain uses, which creates a precedent for a range of possible controls in the future. I’m in the camp that this is unnecessary and we should be primarily regulating the use of AI, as opposed to the underlying models. But, equally, there are plenty of people that actually prefer this outcome.",
+      "url": "https://x.com/levie/status/2065616509666472329",
+      "publishedAt": "2026-06-13T02:05:27.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-aab57afc763c",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "Everyone thinks AI coding tools set founders free. Watch what people actually build with them: rules, approvals, process, layers. The same cage, assembled faster.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Everyone thinks AI coding tools set founders free. Watch what people actually build with them: rules, approvals, process, layers. The same cage, assembled faster. The tool that can scaffold anything in an afternoon will scaffold your bureaucracy in an afternoon too. Speed of construction is speed of calcification. Build the thing that lets you create new things: experiences that didn’t happen before.",
+      "url": "https://x.com/garrytan/status/2065416181943865611",
+      "publishedAt": "2026-06-12T12:49:26.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-0b71b446e63a",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a wall of features.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a wall of features. Show your face. There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time to do anything...",
+      "url": "https://x.com/zarazhangrui/status/2065674426197393779",
+      "publishedAt": "2026-06-13T05:55:36.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-81ade7c60d82",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "My shot at how application companies survive the “what if large lab builds this” question 😅 Anyone else have two voices?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. My shot at how application companies survive the “what if large lab builds this” question 😅 Anyone else have two voices? I often have two voices that come out both in my writing and how I speak. One is the frenetic, time is the enemy, direct, punchy gets to the point quickly and then the second is more calm, measured, structured inquisitive, trying to peel the layers.",
+      "url": "https://x.com/nikunj/status/2065581110822593000",
+      "publishedAt": "2026-06-12T23:44:48.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-64a5460c829e",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and models",
+      "takeaway": "“not consistently candid in their communications” is my fav new americanism. I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to Codex runs...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. “not consistently candid in their communications” is my fav new americanism. I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. Codex been looping nonstop for the last 4 days in multiple trees. Since all of it is e2e verifiable it basically builds itself.",
+      "url": "https://x.com/steipete/status/2065574894545560062",
+      "publishedAt": "2026-06-12T23:20:06.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-1bbd4ffd007c",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "this seriously messes up my weekend plans i may have to actually see people cfos everywhere: we are so back harry potter fan fiction and hillbilly elegy brought us to this",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. this seriously messes up my weekend plans i may have to actually see people cfos everywhere: we are so back harry potter fan fiction and hillbilly elegy brought us to this",
+      "url": "https://x.com/danshipper/status/2065618107750916323",
+      "publishedAt": "2026-06-13T02:11:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-9179be0e9414",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "It's a good day to be called SPC. We are temporarily renaming ourselves to Space Park Commons. Very very excited to welcome Ryan Atkins to the team as a Partner.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. It's a good day to be called SPC. We are temporarily renaming ourselves to Space Park Commons. Very very excited to welcome Ryan Atkins to the team as a Partner. We have a lot to build @southpkcommons!",
+      "url": "https://x.com/adityaag/status/2065467866930135491",
+      "publishedAt": "2026-06-12T16:14:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-x-3f467e545dc9",
+      "date": "2026-06-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on ai",
+      "takeaway": "What are you building?",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. What are you building?",
+      "url": "https://x.com/claudeai/status/2065456697670352901",
+      "publishedAt": "2026-06-12T15:30:25.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-blog-dea52d951227",
+      "date": "2026-06-12",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-blog-f90fa6cabc29",
+      "date": "2026-06-12",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-blog-2a8322b07185",
+      "date": "2026-06-12",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
+    {
+      "id": "2026-06-12-podcast-e90331e57c8c",
+      "date": "2026-06-12",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "AI Vibe Check: Lab Wars, Why APIs Might Vanish & Future Predictions",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I mean, I think the the most obvious thing that has changed, over the last six months is starting to see the coding agents really start to work at longer time horizons. There you know, different things have been tried, the kinda, like, freemium, enterprise, like, you know, Red Hat model. And obviously that's driven the massive rise in token spending and the whole token maxing idea and all this stuff.",
+      "url": "https://www.youtube.com/watch?v=W_iO8XxgD_I",
+      "publishedAt": "2026-06-12T12:51:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-06-13T15:06:19.516Z"
+    },
     {
       "id": "2026-06-11-x-42ea4b4c255d",
       "date": "2026-06-11",
