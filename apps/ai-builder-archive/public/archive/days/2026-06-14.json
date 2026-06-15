@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-06-14",
-  "generatedAt": "2026-06-15T18:00:46.031Z",
+  "generatedAt": "2026-06-15T19:07:43.513Z",
   "feedGeneratedAt": "2026-06-15T08:30:08.244Z",
   "snippets": [
     {
@@ -26,7 +26,7 @@
         "Swyx",
         "Anthropic"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-81e6826448f9",
@@ -50,7 +50,7 @@
         "Codex",
         "Meta"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-aab21e06e94a",
@@ -69,7 +69,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-866d94fa29b2",
@@ -89,7 +89,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-df4e8bea3b74",
@@ -108,7 +108,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-0a9ea2425467",
@@ -127,7 +127,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-6d9d8ccbf8c9",
@@ -150,7 +150,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-134c5a518e78",
@@ -170,7 +170,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-61acf3150a0e",
@@ -189,7 +189,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-6c9684b71e0a",
@@ -208,7 +208,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-x-0534e1143e26",
@@ -227,7 +227,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     },
     {
       "id": "2026-06-14-podcast-3240d9cf238c",
@@ -251,7 +251,7 @@
         "OpenAI",
         "Anthropic"
       ],
-      "createdAt": "2026-06-15T18:00:46.031Z"
+      "createdAt": "2026-06-15T19:07:43.513Z"
     }
   ]
 }
