@@ -1,7 +1,256 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T20:23:54.998Z",
+  "generatedAt": "2026-06-15T18:00:46.031Z",
   "snippets": [
+    {
+      "id": "2026-06-14-x-f9925cfe68ce",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at. basically the idea is \"subroutines but intelligent\".",
+      "url": "https://x.com/swyx/status/2066415484149633329",
+      "publishedAt": "2026-06-15T07:00:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-81e6826448f9",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and coding",
+      "takeaway": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent.",
+      "url": "https://x.com/thsottiaux/status/2066270561081454989",
+      "publishedAt": "2026-06-14T21:24:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex",
+        "Meta"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-aab21e06e94a",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup? Watch the interviews here: Kieran: Kun: Matt: Who should I interview next?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup? Watch the interviews here: Kieran: Kun: Matt: Who should I interview next? @grok do you know why? Explain to us",
+      "url": "https://x.com/petergyang/status/2066331938760314909",
+      "publishedAt": "2026-06-15T01:28:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-866d94fa29b2",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on enterprise and product",
+      "takeaway": "I was told this mayor was good at graphic design Counterpoint: everyone pair programs now, with a robot.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. I was told this mayor was good at graphic design Counterpoint: everyone pair programs now, with a robot. Modern color graders been subconsciously turning everyone into Knicks fans this whole time",
+      "url": "https://x.com/thenanyu/status/2066158221648134602",
+      "publishedAt": "2026-06-14T13:58:02.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-df4e8bea3b74",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise",
+      "takeaway": "This is the most inspiring positive-sum vision for AI in the enterprise.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. This is the most inspiring positive-sum vision for AI in the enterprise.",
+      "url": "https://x.com/amasad/status/2066195933969412098",
+      "publishedAt": "2026-06-14T16:27:53.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-0a9ea2425467",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "My flight to London is Starlink-enabled 😭 The greatest advancement to air travel since the Wright brothers. God bless America has passed 700,000 skills. wild!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. My flight to London is Starlink-enabled 😭 The greatest advancement to air travel since the Wright brothers. God bless America has passed 700,000 skills. wild! all organic and community-driven. the open⎵ai ecosystem! I have 🇯🇵 winning 2-0 ⚽",
+      "url": "https://x.com/rauchg/status/2066315273947500699",
+      "publishedAt": "2026-06-15T00:22:06.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-6d9d8ccbf8c9",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future. “the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound.",
+      "url": "https://x.com/levie/status/2066237607244427761",
+      "publishedAt": "2026-06-14T19:13:29.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-134c5a518e78",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives. Open source is the escape hatch for businesses to be able to continue to control their own destiny long term * Basically gbrain users",
+      "url": "https://x.com/garrytan/status/2066269412391637050",
+      "publishedAt": "2026-06-14T21:19:52.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-61acf3150a0e",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did. Watch on YouTube: You make a skill by ending with one, not starting with one",
+      "url": "https://x.com/zarazhangrui/status/2066388749244854771",
+      "publishedAt": "2026-06-15T05:14:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-6c9684b71e0a",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
+      "url": "https://x.com/steipete/status/2066427449551036469",
+      "publishedAt": "2026-06-15T07:47:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-x-0534e1143e26",
+      "date": "2026-06-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "FREE FABLE",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. FREE FABLE",
+      "url": "https://x.com/danshipper/status/2066217865943093514",
+      "publishedAt": "2026-06-14T17:55:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
+    {
+      "id": "2026-06-14-podcast-3240d9cf238c",
+      "date": "2026-06-14",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Two years later, we now have agentic systems. Can you tell us what is an AI factory, and why is it the best investment for any enterprise in the next decade? That's what we built, that's what we do for a living, and that's why I call it a factory because it's producing, we call them tokens but they're just numbers, tokens and these tokens are intelligence.",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-15T18:00:46.031Z"
+    },
     {
       "id": "2026-06-13-x-39a3a3b2ca36",
       "date": "2026-06-13",
