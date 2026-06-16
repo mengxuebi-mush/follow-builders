@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-16T18:07:52.290Z",
+  "feedGeneratedAt": "2026-06-16T08:20:57.835Z",
+  "snippets": [
+    {
+      "id": "2026-06-15-x-7338fbf28333",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "guys goblingate was 1.5 months ago",
+      "summary": "Swyx (swyx on X) shared 1 recent update. guys goblingate was 1.5 months ago",
+      "url": "https://x.com/swyx/status/2066705614454337663",
+      "publishedAt": "2026-06-16T02:13:10.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-94911d873893",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and tools",
+      "takeaway": "Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech?",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech? We're opening a limited number of slots for power users to join the Gemini Trusted Tester program. Sign up here: Our mic icon just got way better on Android and iOS! This is HUGE for non-English speakers.",
+      "url": "https://x.com/joshwoodward/status/2066664862671921259",
+      "publishedAt": "2026-06-15T23:31:14.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-68085924bba4",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and tools",
+      "takeaway": "1) What Codex browser use is so good that it almost makes me forget APIs are even needed I have to give @cursor_ai credit for planning the best dinner that was Michelin quality.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. 1) What Codex browser use is so good that it almost makes me forget APIs are even needed I have to give @cursor_ai credit for planning the best dinner that was Michelin quality.",
+      "url": "https://x.com/petergyang/status/2066752332197716285",
+      "publishedAt": "2026-06-16T05:18:49.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-1d9fb954daab",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on tools",
+      "takeaway": "Whichever lobbyist made this happen is an absolute legend",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Whichever lobbyist made this happen is an absolute legend",
+      "url": "https://x.com/thenanyu/status/2066533806694080898",
+      "publishedAt": "2026-06-15T14:50:28.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-baff8649ed32",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents",
+      "takeaway": "Who needs Fable when you can have Mistral’s Le Chaton Fat I absolutely love Replit’s domain-specific agents: - growth agent surfacing SEO issues - security agent surfacing...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Who needs Fable when you can have Mistral’s Le Chaton Fat I absolutely love Replit’s domain-specific agents: - growth agent surfacing SEO issues - security agent surfacing potential vulnerabilities My favorite thing is: select all, fix with Agent. Touch grass…. AND build things. At the same time",
+      "url": "https://x.com/amasad/status/2066700847187140655",
+      "publishedAt": "2026-06-16T01:54:14.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-3e09698ecfd6",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs and product",
+      "takeaway": "One of our most requested features, longer Vercel function runtime, is here. What looks like an innocent tweak of a constant… is actually the conclusion a multi-year compute...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. One of our most requested features, longer Vercel function runtime, is here. What looks like an innocent tweak of a constant… is actually the conclusion a multi-year compute platform investment. Builds, Sandbox, and now Functions run on our homegrown microVM-based Fluid compute infrastructure.",
+      "url": "https://x.com/rauchg/status/2066553521978097921",
+      "publishedAt": "2026-06-15T16:08:49.000Z",
+      "tags": [
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-55aaaa3ca22b",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Open source going to win big Key post that gives a bit of insight into what the future of AI could look like.",
+      "summary": "Aaron Levie (levie on X) shared 3 recent updates. Open source going to win big Key post that gives a bit of insight into what the future of AI could look like. “The most interesting thing happening in AI isn't that one model is getting smarter. It's that intelligence is becoming increasingly customizable. The companies that win won't necessarily be the ones with the biggest models. They'll be the ones that turn intelligence into something uniquely their own.",
+      "url": "https://x.com/levie/status/2066526720480690221",
+      "publishedAt": "2026-06-15T14:22:19.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-046e0a0c6a45",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Attention is all you need",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Attention is all you need",
+      "url": "https://x.com/garrytan/status/2066728979978244355",
+      "publishedAt": "2026-06-16T03:46:01.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-20f112e0a9bd",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Key lesson: don't ignore your DMs on LinkedIn (he got recruited to the national Cabo Verde team via a couple of LinkedIn messages) Probably some lessons for B2B sales as well",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Key lesson: don't ignore your DMs on LinkedIn (he got recruited to the national Cabo Verde team via a couple of LinkedIn messages) Probably some lessons for B2B sales as well",
+      "url": "https://x.com/mattturck/status/2066587619132146164",
+      "publishedAt": "2026-06-15T18:24:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-e41fd6d0e2a7",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "I just reached 70k followers on X 🙏🏼 X is where I learn in public & build in public. I've learned so much and met so many wonder people here If you're curious about how I grew...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. I just reached 70k followers on X 🙏🏼 X is where I learn in public & build in public. I've learned so much and met so many wonder people here If you're curious about how I grew my followers while being completely authentic, read my article below This is great UX, so intuitive",
+      "url": "https://x.com/zarazhangrui/status/2066579717285957692",
+      "publishedAt": "2026-06-15T17:52:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-661f8bd1cf12",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and tools",
+      "takeaway": "I now know 32 VCs who have moved back to operating in the last 12 months.. everyone from associates to GPs.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. I now know 32 VCs who have moved back to operating in the last 12 months.. everyone from associates to GPs. Maybe it’s this way all the time and I’m just noticing it, but the pace seems to be accelerating. And they seem much much happier? From a professional perspective, it makes sense especially if you are junior. You get to work directly with customers and work as a team.",
+      "url": "https://x.com/nikunj/status/2066701833964531736",
+      "publishedAt": "2026-06-16T01:58:09.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-x-9ea571405a05",
+      "date": "2026-06-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Wanted to buy a new Mac Studio for San Francisco. We don’t even know how to make these anymore. Whenever you create an issue on one of oure open source projects, @clawsweeper will...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Wanted to buy a new Mac Studio for San Francisco. We don’t even know how to make these anymore. Whenever you create an issue on one of oure open source projects, @clawsweeper will review it, and *if* it fits the VISION.md file, will pick it up and create+autoreview a PR. e.g.: IS THIS A LOOP",
+      "url": "https://x.com/steipete/status/2066471737068232835",
+      "publishedAt": "2026-06-15T10:43:49.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-blog-2830aa4bc246",
+      "date": "2026-06-15",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "takeaway": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview.",
+      "summary": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration. Today we&#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents.",
+      "url": "https://claude.com/blog/new-in-claude-managed-agents",
+      "publishedAt": "May 06, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    },
+    {
+      "id": "2026-06-15-podcast-1982a5337472",
+      "date": "2026-06-15",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries",
+      "takeaway": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries. This viral analysis from earlier this year, February, I think, that claims that Aurel produces less than one bit of useful...",
+      "summary": "This viral analysis from earlier this year, February, I think, that claims that Aurel produces less than one bit of useful information per 10,000 tokens, and then Carpathi called it sucking supervisions through a straw. I also had a startup along the way, and spent some time at Sequoia Capital as an entrepreneur in residence. I feel really excited that we will get to really answer a lot of fundamental questions in the field of science that that we care about with the aid or the models being the driving force.",
+      "url": "https://www.youtube.com/watch?v=oWOz2htozfI",
+      "publishedAt": "2026-06-04T12:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-06-16T18:07:52.290Z"
+    }
+  ]
+}
