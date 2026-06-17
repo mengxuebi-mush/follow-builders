@@ -1,0 +1,394 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-17T16:42:51.971Z",
+  "feedGeneratedAt": "2026-06-17T08:13:23.213Z",
+  "snippets": [
+    {
+      "id": "2026-06-16-x-d6887393dfe3",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding",
+      "takeaway": "@TomasReimers @cursor_ai *github competitor fml @TomasReimers @cursor_ai full info @WorkOS @mattpocockuk @zackproser also doing great.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. @TomasReimers @cursor_ai *github competitor fml @TomasReimers @cursor_ai full info @WorkOS @mattpocockuk @zackproser also doing great. AIE audience LOVES the workos content, they are doing something right",
+      "url": "https://x.com/swyx/status/2066937943139479618",
+      "publishedAt": "2026-06-16T17:36:22.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-e3f3c68cfda3",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models and product",
+      "takeaway": "🇧🇷World-changing AI companies are coming from Brazil. That’s why we’ve officially expanded our Google AI Futures Fund to Brazil, partnering with venture capital leader Monashees...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. 🇧🇷World-changing AI companies are coming from Brazil. That’s why we’ve officially expanded our Google AI Futures Fund to Brazil, partnering with venture capital leader Monashees to launch the Gama Fund. We’re looking for an elite cohort of deep tech founders and will offer: - Early access to Google DeepMind models - Up to $2M in co-investment - $350k in Google Cloud & Gemini credits - Direct co-development with...",
+      "url": "https://x.com/joshwoodward/status/2067025851829330076",
+      "publishedAt": "2026-06-16T23:25:41.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-edae01b3482b",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "This was fixed. You know what's coming 👀 Give us 24 hours to reset the Codex rate limits across all plans. Oy.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. This was fixed. You know what's coming 👀 Give us 24 hours to reset the Codex rate limits across all plans. Oy. We are aware that some Codex users are experiencing high error rates with \"model at capacity\" and are working to bring things back to being stable. Bim bada boum. I am in France for the week and we are rolling out all the most exciting Codex features across Europe.",
+      "url": "https://x.com/thsottiaux/status/2066956441173323943",
+      "publishedAt": "2026-06-16T18:49:52.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-680b1c23b836",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and enterprise",
+      "takeaway": "Honestly I don't want to be a hater but I feel like this is what happens when nobody internally wants to tell the CEO no. Maybe this thing will blow our socks off? Damn not again.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Honestly I don't want to be a hater but I feel like this is what happens when nobody internally wants to tell the CEO no. Maybe this thing will blow our socks off? Damn not again. Is every company with 1,000+ people going to do this 😭 Publishing a new tutorial to make Codex or Claude Code your personal advisor using a skill with 4 files.",
+      "url": "https://x.com/petergyang/status/2067047343971848201",
+      "publishedAt": "2026-06-17T00:51:05.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-c08ad381c248",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and coding",
+      "takeaway": "The real prize in the SpaceX-Cursor deal is the agentic harness that will become the core for automating all knowledge work at scale. Here’s what SpaceX is getting: 1.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. The real prize in the SpaceX-Cursor deal is the agentic harness that will become the core for automating all knowledge work at scale. Here’s what SpaceX is getting: 1. Production-grade agentic harness -planning, context management, tool use, iteration, verification, memory, error recovery. Any product experience can be completely redesigned in an AI-native way with this harness. 2.",
+      "url": "https://x.com/realmadhuguru/status/2066935654500671499",
+      "publishedAt": "2026-06-16T17:27:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-fac427e810bf",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "Slack now renders HTML attachments instead of just showing it as text 😭🙏",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. Slack now renders HTML attachments instead of just showing it as text 😭🙏",
+      "url": "https://x.com/trq212/status/2067021344341098670",
+      "publishedAt": "2026-06-16T23:07:46.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-8f394acf9ecf",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Databricks partner of the year!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Databricks partner of the year!",
+      "url": "https://x.com/amasad/status/2066956074360426622",
+      "publishedAt": "2026-06-16T18:48:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-69cd554bc8ba",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "It’s time to ship This aged well 😂 iykyk Quick one to set the stage: ☑️ 30 minute function invocations 🆕 24 hour sandbox lifetimes",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. It’s time to ship This aged well 😂 iykyk Quick one to set the stage: ☑️ 30 minute function invocations 🆕 24 hour sandbox lifetimes",
+      "url": "https://x.com/rauchg/status/2067106499449565265",
+      "publishedAt": "2026-06-17T04:46:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-9f8ecce413a7",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on coding and models",
+      "takeaway": "The Cursor deal is symbolically quite significant. It was effectively the first mega success in the applied layer of AI.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The Cursor deal is symbolically quite significant. It was effectively the first mega success in the applied layer of AI. They firmly proved out the value proposition of having a deep domain focus, the role you play as a model router, when to lean into frontier models vs. when to train your own, and the role of applied AI GTM and distribution to make sure you’re actually taking advantage of the market opportunity.",
+      "url": "https://x.com/levie/status/2066908002809221496",
+      "publishedAt": "2026-06-16T15:37:23.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-e531e3f5790e",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding and product",
+      "takeaway": "crazy idea: what if X, Cursor, were the same thing? the crazy thing about Cursor mobile is @rikcreation coded most of the real thing with Cursor, as a “designer” titles don’t mean...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 3 recent updates. crazy idea: what if X, Cursor, were the same thing? the crazy thing about Cursor mobile is @rikcreation coded most of the real thing with Cursor, as a “designer” titles don’t mean shit. you can just build.",
+      "url": "https://x.com/ryolu_/status/2066902677905461579",
+      "publishedAt": "2026-06-16T15:16:14.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-93654ccafbb7",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "You’ll never achieve anything if you are afraid of being cringe Then again this is from someone trying to use looksmaxxing to achieve outsize return, good luck with that 9Mothers...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. You’ll never achieve anything if you are afraid of being cringe Then again this is from someone trying to use looksmaxxing to achieve outsize return, good luck with that 9Mothers is one of those technologies whose impact is immediately obvious to warfighters Which leads to… Bowen’s differentiation of self Low differentiation = highly reactive to others' emotional cues, loses self in relationships, can't hold...",
+      "url": "https://x.com/garrytan/status/2067101283493040518",
+      "publishedAt": "2026-06-17T04:25:25.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-9f0bbfdf1f6a",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "FirstMark Guilds Summit swag wins",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. FirstMark Guilds Summit swag wins",
+      "url": "https://x.com/mattturck/status/2066875878731100668",
+      "publishedAt": "2026-06-16T13:29:44.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-70b570aaf7fa",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when it starts.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when it starts. It becomes cool because someone went deep on something everyone else thought was too small. Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" Cool, that's just Claude/Codex.",
+      "url": "https://x.com/zarazhangrui/status/2066994434953421226",
+      "publishedAt": "2026-06-16T21:20:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-82586d1d7d60",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and costs",
+      "takeaway": "Vibes at Cursor Compile were immaculate. Also getting a custom mechanical keyboard is a new kind of swag ceiling for conferences ⌨️ Be in the judgement (data) path or the token...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Vibes at Cursor Compile were immaculate. Also getting a custom mechanical keyboard is a new kind of swag ceiling for conferences ⌨️ Be in the judgement (data) path or the token path. Today’s @cursor_ai acquisition sets the path for more application companies. Congrats to all my friends 🥳",
+      "url": "https://x.com/nikunj/status/2066966270197805331",
+      "publishedAt": "2026-06-16T19:28:55.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-1e748cb410d5",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "I think this is quite likely just switched off of Atlas Browser and back onto Dia i've been having so many weird bugs with atlas, and doesn't feel like it's improving",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. I think this is quite likely just switched off of Atlas Browser and back onto Dia i've been having so many weird bugs with atlas, and doesn't feel like it's improving",
+      "url": "https://x.com/danshipper/status/2066988174849749303",
+      "publishedAt": "2026-06-16T20:55:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-x-543a8ff4d8ec",
+      "date": "2026-06-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "You didn't miss this one. @RamaswmySridhar is dropping by @southpkcommons next week. He grew Google's ad business from $1.5B to $ 100B+.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. You didn't miss this one. @RamaswmySridhar is dropping by @southpkcommons next week. He grew Google's ad business from $1.5B to $ 100B+. Now he's running Snowflake through the AI shift. Apply to SPC if you'd like to join us",
+      "url": "https://x.com/adityaag/status/2066915803610370098",
+      "publishedAt": "2026-06-16T16:08:23.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Google"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-blog-a9ddc31e6892",
+      "date": "2026-06-16",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    },
+    {
+      "id": "2026-06-16-podcast-a574c94b017f",
+      "date": "2026-06-16",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "takeaway": "Simulating Humans at Scale: Simile's Joon Sung Park. We found that to be so interesting, and we found that to be the ingredient that we had been waiting for for creating really...",
+      "summary": "We found that to be so interesting, and we found that to be the ingredient that we had been waiting for for creating really complex agentic behaviors. So Smallville was a project that we were running at Stanford, where the idea was that we made this observation that large language models can now encode a lot of human behavior that is embedded in its training data from the web and social media and so forth, that if you sort of prove at the right angle, you can actually get a lot of microbehaviors out of these...",
+      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "publishedAt": "2026-06-16T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-06-17T16:42:51.971Z"
+    }
+  ]
+}
