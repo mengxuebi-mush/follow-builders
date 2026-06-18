@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-06-17",
-  "generatedAt": "2026-06-18T18:10:31.506Z",
+  "generatedAt": "2026-06-18T19:35:25.255Z",
   "feedGeneratedAt": "2026-06-18T08:02:21.763Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-d0e1434456db",
@@ -40,7 +40,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-86227b0e2da4",
@@ -63,7 +63,7 @@
         "OpenAI",
         "Codex"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-5bdd762f9c17",
@@ -82,7 +82,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-676fb2b2bdb3",
@@ -101,7 +101,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-d1e2b40c966c",
@@ -123,7 +123,7 @@
         "Claude",
         "Replit"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-16ad8cc50c33",
@@ -146,7 +146,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-b7f09d5f532e",
@@ -169,7 +169,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-9be3149340e4",
@@ -190,7 +190,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-0f54b93ddde7",
@@ -211,7 +211,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-e6efafc3c2ed",
@@ -230,7 +230,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-3af60e2b2d5e",
@@ -249,7 +249,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-c5669b41a59f",
@@ -268,7 +268,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-334408c1d280",
@@ -288,7 +288,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-73ba74dfcb6c",
@@ -308,7 +308,7 @@
         "Sam Altman",
         "OpenAI"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-x-8d670396e2f2",
@@ -330,7 +330,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     },
     {
       "id": "2026-06-17-podcast-357c04af2d05",
@@ -357,7 +357,7 @@
         "Microsoft",
         "Box"
       ],
-      "createdAt": "2026-06-18T18:10:31.506Z"
+      "createdAt": "2026-06-18T19:35:25.255Z"
     }
   ]
 }
