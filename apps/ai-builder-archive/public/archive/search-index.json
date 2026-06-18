@@ -1,7 +1,362 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-17T21:19:16.858Z",
+  "generatedAt": "2026-06-18T16:40:34.765Z",
   "snippets": [
+    {
+      "id": "2026-06-17-x-98d99400fd48",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on research",
+      "takeaway": "@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr paper @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr best review from a cancer survivor x tech...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr paper @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr best review from a cancer survivor x tech realist @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr another SUPER fun highlight of my evening was telling @zoink how we are using @polymarket prediction markets to gauge the implied value of our july 1 @aiDotEngineer...",
+      "url": "https://x.com/swyx/status/2067495676972540343",
+      "publishedAt": "2026-06-18T06:32:36.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-d0e1434456db",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Co-create: one of the key @GoogleLabs values. It looks like this, thanks Voltage team!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Co-create: one of the key @GoogleLabs values. It looks like this, thanks Voltage team!",
+      "url": "https://x.com/joshwoodward/status/2067337173699850487",
+      "publishedAt": "2026-06-17T20:02:46.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-86227b0e2da4",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models. Dearest gentle codexer. We did a sneaky double reset.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models. Dearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy",
+      "url": "https://x.com/thsottiaux/status/2067181377028538431",
+      "publishedAt": "2026-06-17T09:43:41.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-5bdd762f9c17",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Guys are you telling me that /goal build me an amazing game doesn’t work? 🤣 Watched Mortal Kombat 2 and it was terrible. The Furious has set the bar too high for action movies.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Guys are you telling me that /goal build me an amazing game doesn’t work? 🤣 Watched Mortal Kombat 2 and it was terrible. The Furious has set the bar too high for action movies. Video is now live! Watch here:",
+      "url": "https://x.com/petergyang/status/2067441631100596436",
+      "publishedAt": "2026-06-18T02:57:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-676fb2b2bdb3",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product",
+      "takeaway": "\"taste\" is not just taste in aesthetics, the same way \"design\" is not just visual design. feels like half the conversations on the subject are people talking past each other...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. \"taste\" is not just taste in aesthetics, the same way \"design\" is not just visual design. feels like half the conversations on the subject are people talking past each other because of this distinction like, pg talks about taste and wears cargo shorts, he's clearly not talking about taste in pants",
+      "url": "https://x.com/thenanyu/status/2067327619897446721",
+      "publishedAt": "2026-06-17T19:24:48.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-d1e2b40c966c",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and product",
+      "takeaway": "Design with Claude, Ship with Replit Vibecon Was so fun interviewing Spike Jones!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Design with Claude, Ship with Replit Vibecon Was so fun interviewing Spike Jones!",
+      "url": "https://x.com/amasad/status/2067363904183783833",
+      "publishedAt": "2026-06-17T21:48:59.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Claude",
+        "Replit"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-16ad8cc50c33",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "React → Next.js → @aisdk is more relevant than ever, given the intense model competition landscape. Just today, GLM 5.2, an open model, surpassed Opus 4.8 in our Next.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. React → Next.js → @aisdk is more relevant than ever, given the intense model competition landscape. Just today, GLM 5.2, an open model, surpassed Opus 4.8 in our Next.js Evals ( 🤯 But the world needs a practical solution for how to build and deploy agents. Just like React needed Next.js to solve the task of building an actual web application. And that's eve.",
+      "url": "https://x.com/rauchg/status/2067242482190979186",
+      "publishedAt": "2026-06-17T13:46:29.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-b7f09d5f532e",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The past couple months we may be witnessing what the Applied AI layer will look like at scale. Despite some of the initial critique that this would just be a thin layer on the...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The past couple months we may be witnessing what the Applied AI layer will look like at scale. Despite some of the initial critique that this would just be a thin layer on the LLM, it’s turning out that actually driving agentic workflows in an enterprise is far more complex. And anywhere there’s complexity you generally gain a moat and value over time.",
+      "url": "https://x.com/levie/status/2067455756795039957",
+      "publishedAt": "2026-06-18T03:53:58.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-9be3149340e4",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models and costs",
+      "takeaway": "We don’t care what your age is We care if you can build with craft and care And if you can make something people want Rough estimate on $ productivity lost by Fable 5 ban: $12M...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. We don’t care what your age is We care if you can build with craft and care And if you can make something people want Rough estimate on $ productivity lost by Fable 5 ban: $12M per hour Frontier AI-coding daily actives, mid-2026: 5M devs Fully-loaded cost: $90/hr Work routed to Fable in 48 hours: 17.8% Fable is on average ~15% more productive Effective throughput loss per dev = 17.8% × 15% ≈ 2.7% of output 2.",
+      "url": "https://x.com/garrytan/status/2067260431597723825",
+      "publishedAt": "2026-06-17T14:57:49.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-0f54b93ddde7",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Don't use AI for writing until you develop your own taste and voice Using AI to write isn't inherently bad.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Don't use AI for writing until you develop your own taste and voice Using AI to write isn't inherently bad. The danger is using AI to write before you've developed your taste for what is good content. If the AI produces slop, you won't even recognize it as slop Read a lot to figure out what good looks like. Write a lot to know what your voice sounds like.",
+      "url": "https://x.com/zarazhangrui/status/2067423674689638652",
+      "publishedAt": "2026-06-18T01:46:29.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-e6efafc3c2ed",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "The next 12 months we are going to see some incredible emerging manager's come out with their debut funds.. These are NOT household names today, but will be in the next decade.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The next 12 months we are going to see some incredible emerging manager's come out with their debut funds.. These are NOT household names today, but will be in the next decade. Each one has intense founder love, unique lens on the world and hustle like no one else! Spotting a tranched round is so simple in today’s market..",
+      "url": "https://x.com/nikunj/status/2067378464773292066",
+      "publishedAt": "2026-06-17T22:46:50.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-3af60e2b2d5e",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "sci-fi vibes intensify",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. sci-fi vibes intensify",
+      "url": "https://x.com/steipete/status/2067431311317352809",
+      "publishedAt": "2026-06-18T02:16:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-c5669b41a59f",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "we @every make investments every so often in founders building things in AI who we think are excellent @ninklefitz is one of those founders—and i am also a huge fan of tacit's...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. we @every make investments every so often in founders building things in AI who we think are excellent @ninklefitz is one of those founders—and i am also a huge fan of tacit's mission and approach @every @ninklefitz i wrote \"against explanations\" in 2023 about how AI might change the sciences...extremely pumped to see the prospect of so much progress so fast @hammer_mt @github @kdaigle YouTube: Spotify:",
+      "url": "https://x.com/danshipper/status/2067386342661624055",
+      "publishedAt": "2026-06-17T23:18:08.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-334408c1d280",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and tools",
+      "takeaway": "The questions SPC members explore signal where the frontier is heading next. Apply to SPC Read through all of the questions",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. The questions SPC members explore signal where the frontier is heading next. Apply to SPC Read through all of the questions",
+      "url": "https://x.com/adityaag/status/2067306242825949398",
+      "publishedAt": "2026-06-17T17:59:51.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-73ba74dfcb6c",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait! We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.",
+      "url": "https://x.com/sama/status/2067427421083652131",
+      "publishedAt": "2026-06-18T02:01:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-x-8d670396e2f2",
+      "date": "2026-06-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "Claude Design is in beta on all paid plans, on web and desktop. Give it a try: The redesigned editor is steadier for daily work.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude Design is in beta on all paid plans, on web and desktop. Give it a try: The redesigned editor is steadier for daily work. New layout controls let you drag, resize, and align elements directly on the canvas. Claude Design and Claude Code work together in both directions (rolling out today). Hand a design off to build, or start in Claude Code and sync design projects from your terminal.",
+      "url": "https://x.com/claudeai/status/2067325894268428560",
+      "publishedAt": "2026-06-17T19:17:56.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
+    {
+      "id": "2026-06-17-podcast-357c04af2d05",
+      "date": "2026-06-17",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "GitHub’s COO Explains Why AI Hasn’t Replaced Developers",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I'm the head of tech consulting at Every, and I sat down with Kyle Daigle, the COO of GitHub, and talked to him about what is happening on the front lines of coding agents. So GitHub's always evolving as the industry and community does, but we're always sort of focused on, I need to make sure you, the dev, have what you need to be successful, you know, and then work with enterprises, you know, to make sure they have what they need to do at scale, which is usually a little bit different than what, you know, an...",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-06-17T15:58:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-06-18T16:40:34.765Z"
+    },
     {
       "id": "2026-06-16-x-d6887393dfe3",
       "date": "2026-06-16",
