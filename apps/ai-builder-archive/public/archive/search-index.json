@@ -1,7 +1,450 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-18T21:26:34.737Z",
+  "generatedAt": "2026-06-19T16:12:34.872Z",
   "snippets": [
+    {
+      "id": "2026-06-18-x-36fcf8b892d2",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "+55% in one day. i should start a fund (dm if you would actually help me run one, i have no idea how to run one) @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. +55% in one day. i should start a fund (dm if you would actually help me run one, i have no idea how to run one) @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr whoa i had no idea who i was talking to lmao @DevinAI @tbpn",
+      "url": "https://x.com/swyx/status/2067764968808915392",
+      "publishedAt": "2026-06-19T00:22:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-787bd241c32b",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "I've been using Artifacts in Claude Code for everything: visual explanations of tricky code, system diagrams, quick previews of a few animation options, data analyses and...",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. I've been using Artifacts in Claude Code for everything: visual explanations of tricky code, system diagrams, quick previews of a few animation options, data analyses and dashboards I share with the team. They are a game changer for how I work with Claude. Can't wait to hear what you think!",
+      "url": "https://x.com/bcherny/status/2067700226669060207",
+      "publishedAt": "2026-06-18T20:05:24.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-7caf8d40c3f8",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "What do you use",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. What do you use",
+      "url": "https://x.com/thsottiaux/status/2067783964077547520",
+      "publishedAt": "2026-06-19T01:38:09.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-ccccddbceb7c",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "How do you steer Claude Code with new prompts in the desktop app while it's working? @OpenAIDevs how about letting us add voice over narration next like taking a quick clip to...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. How do you steer Claude Code with new prompts in the desktop app while it's working? @OpenAIDevs how about letting us add voice over narration next like taking a quick clip to explain how to do something to a coworker If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2067760098265706566",
+      "publishedAt": "2026-06-19T00:03:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-16a767cf8602",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and tools",
+      "takeaway": "It took us a lot of iterations to find the right pattern for this. Early on we were very naive and we thought that the agent could one shot project updates without much input from...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. It took us a lot of iterations to find the right pattern for this. Early on we were very naive and we thought that the agent could one shot project updates without much input from users. That approach ended up creating a bunch of slop, because users disengaged their brain from the process of writing an update.",
+      "url": "https://x.com/thenanyu/status/2067703108344369306",
+      "publishedAt": "2026-06-18T20:16:51.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-4550a65bbf49",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models",
+      "takeaway": "did you know LLMs secretly refer to our prompts as human slop?",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. did you know LLMs secretly refer to our prompts as human slop?",
+      "url": "https://x.com/realmadhuguru/status/2067644951874404650",
+      "publishedAt": "2026-06-18T16:25:46.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-3f94f00cea27",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "I'm going to add \"wear an Iris van Herpen dress\" to my retirement wishlist. What good art.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. I'm going to add \"wear an Iris van Herpen dress\" to my retirement wishlist. What good art.",
+      "url": "https://x.com/AmandaAskell/status/2067830990089884022",
+      "publishedAt": "2026-06-19T04:45:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-e6f206761770",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and enterprise",
+      "takeaway": "On Claude Team and Claude Enterprise, you can now use Claude Code to deploy HTML sites and share these with your teammates! This has changed how we work internally.",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. On Claude Team and Claude Enterprise, you can now use Claude Code to deploy HTML sites and share these with your teammates! This has changed how we work internally. Artifacts is great format for communicating architecture changes, data analyses, and new prototypes.",
+      "url": "https://x.com/_catwu/status/2067674836726694200",
+      "publishedAt": "2026-06-18T18:24:31.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-008f505a26db",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "Claude Code can now upload and edit HTML artifacts that you can share with your team or other Claudes!",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. Claude Code can now upload and edit HTML artifacts that you can share with your team or other Claudes! Starting with teams so you can share internally with your team, coming to Pro and MAX plans soon! I'll be giving the the Day 2 opening keynote at AI Engineer World's Fair on July 1st at 9am. Hope to see you there, here's a quick preview",
+      "url": "https://x.com/trq212/status/2067682475611242546",
+      "publishedAt": "2026-06-18T18:54:52.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-43700abd9e78",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "😎 Awesome! ✨",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. 😎 Awesome! ✨",
+      "url": "https://x.com/amasad/status/2067831841357193237",
+      "publishedAt": "2026-06-19T04:48:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-37a9b8aa045d",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. ",
+      "url": "https://x.com/rauchg/status/2067586339021734029",
+      "publishedAt": "2026-06-18T12:32:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-68dd6cbb46cf",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "The fact that open weights models are being discussed credibly at this level of capability should be a huge update for many.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The fact that open weights models are being discussed credibly at this level of capability should be a huge update for many. The implications of open models getting to frontier performance ensures that you can always have sovereign AI, have the ability to post train for your specific workflows, cost optimize for various workloads, and actually afford to do much more with AI (which opens up meaningfully different...",
+      "url": "https://x.com/levie/status/2067821985342878180",
+      "publishedAt": "2026-06-19T04:09:14.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-6e20b48ba832",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M in revenue. The same anti-prosperity bloc spent the year trying to ban startup acquisitions,...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M in revenue. The same anti-prosperity bloc spent the year trying to ban startup acquisitions, blocking the only exit 85% of founders ever get. This is a war on building startups in America.",
+      "url": "https://x.com/garrytan/status/2067636692794875923",
+      "publishedAt": "2026-06-18T15:52:57.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-5d73d56db127",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and enterprise",
+      "takeaway": "State of AI compute 2026: my conversation with @stephenbalaban of @LambdaAPI on the neocloud boom, data centers, GPUs and what's ahead 00:00 — Cold open 01:21 — Why GPU compute...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. State of AI compute 2026: my conversation with @stephenbalaban of @LambdaAPI on the neocloud boom, data centers, GPUs and what's ahead 00:00 — Cold open 01:21 — Why GPU compute was never a commodity 02:45 — The H100 price index and what it gets wrong 04:02 — The real moat: technology or financing? 05:57 — Winner-take-all, or room for many neoclouds 06:48 — Are we overbuilding or underbuilding AI compute?",
+      "url": "https://x.com/mattturck/status/2067646198140358854",
+      "publishedAt": "2026-06-18T16:30:43.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-8d31481e0850",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on tools",
+      "takeaway": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! Lots of easter eggs (e.g.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! Lots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc) Check it out: Even more true today Frontend Slides skill: Recording of my talk:",
+      "url": "https://x.com/zarazhangrui/status/2067850383758901669",
+      "publishedAt": "2026-06-19T06:02:04.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-44b4bc7f80fe",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "Launched a side project quietly a few weeks ago.. Wanted to test how many impressions/clicks I could get by simply having Claude Code / Codex optimize the hell out of the website.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Launched a side project quietly a few weeks ago.. Wanted to test how many impressions/clicks I could get by simply having Claude Code / Codex optimize the hell out of the website. Got it to about 16k impressions, and 94 clicks over the last 28 days. Not bad eh? No backlinks, no mention of this website anywhere on my socials, no Reddit hacking - simply old school SEO/GEO optimization.",
+      "url": "https://x.com/nikunj/status/2067830061009633294",
+      "publishedAt": "2026-06-19T04:41:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-7477106c8838",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "Everything’s either a fast or slow API now.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Everything’s either a fast or slow API now.",
+      "url": "https://x.com/steipete/status/2067821739556413651",
+      "publishedAt": "2026-06-19T04:08:15.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-3c023f49fc5e",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on product and tools",
+      "takeaway": "Extreme time deflation happening right now We expect a step change in productivity whenever Fable is unlocked, might as well go on vacation until then Extremely sick we are hiring...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Extreme time deflation happening right now We expect a step change in productivity whenever Fable is unlocked, might as well go on vacation until then Extremely sick we are hiring a managing editor @every! if you are extremely meticulous, can keep the trains running on time, hate split infinitives, love oxford commas, want to take back the em dash, and are AI-pilled inquire here:",
+      "url": "https://x.com/danshipper/status/2067630124795662471",
+      "publishedAt": "2026-06-18T15:26:51.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-x-a6f7e7100d51",
+      "date": "2026-06-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and enterprise",
+      "takeaway": "New in Claude Code: Artifacts. Interactive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. New in Claude Code: Artifacts. Interactive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link. Available in beta on Team and Enterprise plans. As your session keeps working, the artifact refreshes, so everyone you've shared it with is always looking at the latest version.",
+      "url": "https://x.com/claudeai/status/2067671912038240487",
+      "publishedAt": "2026-06-18T18:12:53.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-blog-6cd28c156a1c",
+      "date": "2026-06-18",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
+    {
+      "id": "2026-06-18-podcast-ef3d66d29717",
+      "date": "2026-06-18",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "The Neocloud Boom: State of AI Compute 2026 | Stephen Balaban",
+      "takeaway": "The Neocloud Boom: State of AI Compute 2026 | Stephen Balaban. Maybe it's a long running agent workflow.",
+      "summary": "Maybe it's a long running agent workflow. I think that that just means that everybody is able to process 10 times more tokens, and there's there's still the same fixed amount of compute in the world at any given point in time. Speaker 1 | 1:06:17 - 1:06:35 Well, I mean, a lot of the engineers at Lambda are already, you know, doing a fully agent driven workflow.",
+      "url": "https://www.youtube.com/watch?v=0NttU4CbyVs",
+      "publishedAt": "2026-06-18T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-06-19T16:12:34.872Z"
+    },
     {
       "id": "2026-06-17-x-98d99400fd48",
       "date": "2026-06-17",
