@@ -1,7 +1,322 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-19T20:42:59.098Z",
+  "generatedAt": "2026-06-20T15:08:22.785Z",
   "snippets": [
+    {
+      "id": "2026-06-19-x-09d8f97f2cb9",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on research",
+      "takeaway": "Anthropic is going to IPO at $2T 10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev. it is very important that you answer.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. Anthropic is going to IPO at $2T 10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev. it is very important that you answer. *now @MLHacks, who are producing the first ever physical daily newspaper at @aidotengineer WF @midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr @zoink @Polymarket @aiDotEngineer /goaaaaaaaaaaal",
+      "url": "https://x.com/swyx/status/2068084391260426345",
+      "publishedAt": "2026-06-19T21:31:56.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-c7d0c6314aff",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete Hope this holds up in peer review! 🤞",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete Hope this holds up in peer review! 🤞",
+      "url": "https://x.com/bcherny/status/2068064304503660962",
+      "publishedAt": "2026-06-19T20:12:07.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-f11699378587",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac.",
+      "url": "https://x.com/thsottiaux/status/2068120572673077274",
+      "publishedAt": "2026-06-19T23:55:43.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-733334b5bbfd",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto...",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of all Codex's browser and computer use capabilities are simply goated. I built so many workflows relying on those two things alone instead of hunting for APIs. I still use Claude Code too.",
+      "url": "https://x.com/petergyang/status/2068175172960690266",
+      "publishedAt": "2026-06-20T03:32:40.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-d21523e98679",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 3 recent updates. The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
+      "url": "https://x.com/AmandaAskell/status/2068162191740764622",
+      "publishedAt": "2026-06-20T02:41:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-ce2cce7fcefe",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Vibecon recap “The best conference experience I’ve had this year”",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Vibecon recap “The best conference experience I’ve had this year”",
+      "url": "https://x.com/amasad/status/2068177018479403065",
+      "publishedAt": "2026-06-20T03:40:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-d6ff0994e28f",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment & commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment & commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html). The original vision of the WWW coming to life before our eyes. The next hot programming language is… markdown. A minimal eve agent: 📂 𝚊𝚐𝚎𝚗𝚝/ 📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.",
+      "url": "https://x.com/rauchg/status/2067936390285807940",
+      "publishedAt": "2026-06-19T11:43:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-7749cee1aa02",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. This is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data.",
+      "url": "https://x.com/levie/status/2068068247413694532",
+      "publishedAt": "2026-06-19T20:27:47.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-36966ff1b819",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Tip: pick the worst thing you are afraid to show your board for your next board meeting and make it slide one (you can only do this with good boards btw) Make it a big deal you...",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Tip: pick the worst thing you are afraid to show your board for your next board meeting and make it slide one (you can only do this with good boards btw) Make it a big deal you did that. Make it a habit.",
+      "url": "https://x.com/garrytan/status/2068007205102842238",
+      "publishedAt": "2026-06-19T16:25:14.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-acb3b7399007",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "When your VC is exhausted from attending the board meeting",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. When your VC is exhausted from attending the board meeting",
+      "url": "https://x.com/mattturck/status/2068087153091858801",
+      "publishedAt": "2026-06-19T21:42:55.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-8f659965c21b",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
+      "url": "https://x.com/zarazhangrui/status/2068094591220531583",
+      "publishedAt": "2026-06-19T22:12:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-262317fddaf6",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "SF I have an idea.. Some people meditate, I listen to @EITS 💥",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. SF I have an idea.. Some people meditate, I listen to @EITS 💥",
+      "url": "https://x.com/nikunj/status/2068204606119874728",
+      "publishedAt": "2026-06-20T05:29:38.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-x-d91486083944",
+      "date": "2026-06-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "Hannes speaks both developer and agents. Blessed to have him on the team!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Hannes speaks both developer and agents. Blessed to have him on the team!",
+      "url": "https://x.com/steipete/status/2068199277277401419",
+      "publishedAt": "2026-06-20T05:08:27.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-blog-97cd97d27d22",
+      "date": "2026-06-19",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
+    {
+      "id": "2026-06-19-podcast-1687204b28f4",
+      "date": "2026-06-19",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And then right now, the agentic AI and influence CPU become highly in demand. And because AI can help you to drive a lot of efficiency across all the different function of the enterprise. And in terms of you need the capacity, you need to have the productivity, and you have to drive efficiency.",
+      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-20T15:08:22.785Z"
+    },
     {
       "id": "2026-06-18-x-36fcf8b892d2",
       "date": "2026-06-18",
