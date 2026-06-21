@@ -1,7 +1,362 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-20T20:23:46.401Z",
+  "generatedAt": "2026-06-21T15:15:35.830Z",
   "snippets": [
+    {
+      "id": "2026-06-20-x-63b4f6c7c840",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and tools",
+      "takeaway": "btw this is what happens on July 4 if team usa wins this game Wednesday after next @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. btw this is what happens on July 4 if team usa wins this game Wednesday after next @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot of sources to do this @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated",
+      "url": "https://x.com/swyx/status/2068510546606145897",
+      "publishedAt": "2026-06-21T01:45:20.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-d6654311dab4",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something. Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+      "url": "https://x.com/thsottiaux/status/2068568650924409260",
+      "publishedAt": "2026-06-21T05:36:13.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-b6da2c29dfaf",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K Max Studio? What’s there to do in SF with kids beyond the Golden Gate Park and Presidio / Tunnel Tops?",
+      "url": "https://x.com/petergyang/status/2068411894185295969",
+      "publishedAt": "2026-06-20T19:13:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-28025144095e",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and tools",
+      "takeaway": "Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it?",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it? Crazy that this is still a problem Hey devs at @Outlook and @gmail you can point your agents at this tweet and they will fix it for you Multiplier effect. Econ 101. Learn about it.",
+      "url": "https://x.com/thenanyu/status/2068318470215811080",
+      "publishedAt": "2026-06-20T13:02:05.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-255b3ad9ef42",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and coding",
+      "takeaway": "The Product role is having an identity crisis too. Engineering has found its AI-native interface - SWE agents dramatically increase individual leverage.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. The Product role is having an identity crisis too. Engineering has found its AI-native interface - SWE agents dramatically increase individual leverage. Companies are asking PMs to use AI, but they haven't evolved the role. So there are two camps. The old-school PM. AI accelerates the old job: more PRDs, more strategy decks, more docs. Lots of output, not much judgment. The Builder PM.",
+      "url": "https://x.com/realmadhuguru/status/2068350509027876876",
+      "publishedAt": "2026-06-20T15:09:24.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-8402ffb186be",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself. Come work for Replit Japan! Road not taken is more fun",
+      "url": "https://x.com/amasad/status/2068589860097790449",
+      "publishedAt": "2026-06-21T07:00:29.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-9ed99f8a6cdf",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.",
+      "url": "https://x.com/rauchg/status/2068517095818809770",
+      "publishedAt": "2026-06-21T02:11:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-d7c4d75adcc2",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and costs",
+      "takeaway": "Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that open weights is able to maintain only a marginal gap from the frontier, instead of a widening gap, the more value that can be created with AI.",
+      "url": "https://x.com/levie/status/2068434042148782515",
+      "publishedAt": "2026-06-20T20:41:19.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-9ef2bab14445",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Try and find out",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Try and find out",
+      "url": "https://x.com/garrytan/status/2068279782815801541",
+      "publishedAt": "2026-06-20T10:28:21.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-133d016a3d5d",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise",
+      "takeaway": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks. The trick was hijacking real estate I already check 50 times a day Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company Proactiveness sounds nice in theory but is so hard to get...",
+      "url": "https://x.com/zarazhangrui/status/2068568920613953626",
+      "publishedAt": "2026-06-21T05:37:17.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-c9e07bbec033",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and enterprise",
+      "takeaway": "The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that. I talk to so many people who say xyz doesn’t work and when I ask when was the last time they tried testing it, the answer is always “a few months ago.” Brother that’s like eons ago in AI timelines.",
+      "url": "https://x.com/nikunj/status/2068411460620042720",
+      "publishedAt": "2026-06-20T19:11:36.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-x-be97659eff91",
+      "date": "2026-06-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on costs",
+      "takeaway": "If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens!",
+      "url": "https://x.com/steipete/status/2068428180004942319",
+      "publishedAt": "2026-06-20T20:18:02.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-blog-dea52d951227",
+      "date": "2026-06-20",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-blog-f90fa6cabc29",
+      "date": "2026-06-20",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-blog-2a8322b07185",
+      "date": "2026-06-20",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
+    {
+      "id": "2026-06-20-podcast-e90331e57c8c",
+      "date": "2026-06-20",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "AI Vibe Check: Lab Wars, Why APIs Might Vanish & Future Predictions",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I mean, I think the the most obvious thing that has changed, over the last six months is starting to see the coding agents really start to work at longer time horizons. There you know, different things have been tried, the kinda, like, freemium, enterprise, like, you know, Red Hat model. And obviously that's driven the massive rise in token spending and the whole token maxing idea and all this stuff.",
+      "url": "https://www.youtube.com/watch?v=W_iO8XxgD_I",
+      "publishedAt": "2026-06-12T12:51:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-06-21T15:15:35.830Z"
+    },
     {
       "id": "2026-06-19-x-09d8f97f2cb9",
       "date": "2026-06-19",
