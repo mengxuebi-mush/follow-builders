@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-22T17:46:36.118Z",
+  "feedGeneratedAt": "2026-06-22T08:29:37.749Z",
+  "snippets": [
+    {
+      "id": "2026-06-21-x-520c587384f0",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high my real estate broker: \"just go with corgi they are covering every single one of my clients rn\" breaking through with ~100% greenfield market share like this is unheard of in the insurance industry @QuinnyPig i think this is where i...",
+      "url": "https://x.com/swyx/status/2068924451887129055",
+      "publishedAt": "2026-06-22T05:10:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-0651be32bf84",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "What should we improve in the Codex app. What's not delightful? Now that you can bank usage resets in Codex. Are you a hoarder or do you use them without breaking a sweat?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. What should we improve in the Codex app. What's not delightful? Now that you can bank usage resets in Codex. Are you a hoarder or do you use them without breaking a sweat? How do you think about them?",
+      "url": "https://x.com/thsottiaux/status/2068736857312198928",
+      "publishedAt": "2026-06-21T16:44:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-5b792aef103e",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Why HTML turned out to be the foundation for agentic video making from @liu8in: “We’ve been trying to build a video agent.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Why HTML turned out to be the foundation for agentic video making from @liu8in: “We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence. So that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.",
+      "url": "https://x.com/petergyang/status/2068755908319236338",
+      "publishedAt": "2026-06-21T18:00:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-e794d1b70e7b",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "“Quality is irrational” is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. “Quality is irrational” is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks. @Outlook @gmail No that’s not going to solve the problem to any significant degree. We are talking about default behavior.",
+      "url": "https://x.com/thenanyu/status/2068778750800531640",
+      "publishedAt": "2026-06-21T19:31:04.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-1a453d0ec68f",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them. Happy Father's Day.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Coding agents will squeeze every ounce of IKEA effect out of you, if you let them. Happy Father's Day. Thankful to my dad who spent every last penny on buying our family 'the bicycle of the mind' The team cooked on performance. 'Everything the light touches' was optimized Simba. Painting, layout, WebGPU shaders, blocking scripts. Every frame scrutinized.",
+      "url": "https://x.com/rauchg/status/2068778558672273422",
+      "publishedAt": "2026-06-21T19:30:19.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-76a7b653608d",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Agents will use software 100X more than people. When that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Agents will use software 100X more than people. When that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.",
+      "url": "https://x.com/levie/status/2068851573175021864",
+      "publishedAt": "2026-06-22T00:20:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-ab3b19b79759",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "missing wooden shelves so i made Books in ryOS started in Cursor mobile, then hand-tuned the animations and textures until things felt right works with any epub syncs progress...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. missing wooden shelves so i made Books in ryOS started in Cursor mobile, then hand-tuned the animations and textures until things felt right works with any epub syncs progress with ryOS account",
+      "url": "https://x.com/ryolu_/status/2068923971136098633",
+      "publishedAt": "2026-06-22T05:08:08.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-849aed2b609b",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise",
+      "takeaway": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI AGI gives you the...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI AGI gives you the intelligence You still have to collect your personal context to get the real unlock This is why I made GBrain and open sourced it",
+      "url": "https://x.com/garrytan/status/2068701356358308112",
+      "publishedAt": "2026-06-21T14:23:32.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-53282147f0e4",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "A good rule of thumb for preventing AI slop (in writing, design, etc): Is your input (the context) longer than the output?",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. A good rule of thumb for preventing AI slop (in writing, design, etc): Is your input (the context) longer than the output? I've found that for the AI to produce quality results, my input is often 3-5 times the length of the output. If your input is much shorter than the output, it's almost certainly going to produce slop I’m talking about context, not prompt",
+      "url": "https://x.com/zarazhangrui/status/2068923768500793603",
+      "publishedAt": "2026-06-22T05:07:19.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-2e360e8ae837",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Happens every week 🙈 &gt; see an interesting project on X &gt; play with it, fork it, try it, have some ideas &gt; go to founder profile &gt; press the message button … &gt; pray...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Happens every week 🙈 &gt; see an interesting project on X &gt; play with it, fork it, try it, have some ideas &gt; go to founder profile &gt; press the message button … &gt; pray to God that I haven’t missed a DM from them before 😢 I try to respond to all the DMs but miss sometimes!! How your email finds me today.. Happy Father’s Day to all the families celebrating today 🕺",
+      "url": "https://x.com/nikunj/status/2068714024934740476",
+      "publishedAt": "2026-06-21T15:13:53.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-x-483ee9995f87",
+      "date": "2026-06-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models and tools",
+      "takeaway": "This is becoming my favorite way to read Twitter. People here discussing what happened with OpenClaw. The hype died down. We improved quality and grew a team.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. This is becoming my favorite way to read Twitter. People here discussing what happened with OpenClaw. The hype died down. We improved quality and grew a team. We created a non-profit whereas competiors are VC funded and have other agendas. This is our strongest week so far. I was skeptical about the multi-model routing. Seems my hinch was right.",
+      "url": "https://x.com/steipete/status/2068965200343224367",
+      "publishedAt": "2026-06-22T07:51:57.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    },
+    {
+      "id": "2026-06-21-podcast-896543743b9d",
+      "date": "2026-06-21",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "So I'm excited to talk to you about everything from AgenTik AI to AI coding, world models, more today, and right off the heels of Google IO. When I talk to companies in the enterprise, they say, Everyone's talking about agentic AI, but the only place they've seen agents really working is coding agents.",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-06-22T17:46:36.118Z"
+    }
+  ]
+}
