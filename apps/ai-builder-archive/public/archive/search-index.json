@@ -1,7 +1,304 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-22T21:34:26.712Z",
+  "generatedAt": "2026-06-23T16:05:07.650Z",
   "snippets": [
+    {
+      "id": "2026-06-22-x-bc4807503114",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and enterprise",
+      "takeaway": "i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market? SpaceX has already recouped about HALF its investment in Cursor, in compute deals. The other half is paid for if Composer 3 does well. No other company is simultaneously a leading model lab + neocloud (at least where GPUs is concerned).",
+      "url": "https://x.com/swyx/status/2069301071965741388",
+      "publishedAt": "2026-06-23T06:06:35.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Swyx",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-5af132531752",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Let's Patch The Planet. Updates to codex security and a new GPT-5.5-Cyber. A day of celebration for cyber defense acceleration. What are we codexing tonight",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Let's Patch The Planet. Updates to codex security and a new GPT-5.5-Cyber. A day of celebration for cyber defense acceleration. What are we codexing tonight",
+      "url": "https://x.com/thsottiaux/status/2069152290326630518",
+      "publishedAt": "2026-06-22T20:15:23.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-b7f167dc3e4f",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it. I am a gamer at heart!",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it. I am a gamer at heart! Who's the best person to talk to? I'm reading this and I still don't get what a dynamic workflow is or when to use it in Claude Code Ok I've fallen for the ragebaiting and have been triggered by this so I'm going to say this: Whether intentional...",
+      "url": "https://x.com/petergyang/status/2069118077313425840",
+      "publishedAt": "2026-06-22T17:59:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-382d730a0f32",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Never quit",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Never quit",
+      "url": "https://x.com/amasad/status/2069217138775388603",
+      "publishedAt": "2026-06-23T00:33:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-257e99d3539f",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and product",
+      "takeaway": "gm 𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 (and 𝚜𝚘𝚌𝚔𝚎𝚝.𝚒𝚘) now supported on Vercel, from CDN to Fluid. Special full circle moment for @vercel Claude Design → Vercel, in one click",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. gm 𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 (and 𝚜𝚘𝚌𝚔𝚎𝚝.𝚒𝚘) now supported on Vercel, from CDN to Fluid. Special full circle moment for @vercel Claude Design → Vercel, in one click",
+      "url": "https://x.com/rauchg/status/2069103803727556689",
+      "publishedAt": "2026-06-22T17:02:43.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-e9c03bc651fc",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals. Agent improvements in the applied AI layer is all about evals. Agentic enterprise deployments that actually can augment work is all about evals. It’s all evals. This will become a core competency of any enterprise in the future.",
+      "url": "https://x.com/levie/status/2069228335255949775",
+      "publishedAt": "2026-06-23T01:17:34.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-5bb839f8ad5e",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "here's my talk at Cursor Compile some thoughts on how we build in the age of AI and what doesn't change watch on youtube:",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. here's my talk at Cursor Compile some thoughts on how we build in the age of AI and what doesn't change watch on youtube:",
+      "url": "https://x.com/ryolu_/status/2069218497272717661",
+      "publishedAt": "2026-06-23T00:38:28.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-0dd5061e5a62",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "The California asset seizure tax is only going to impoverish the state and reduce funding for health care The SEIU UHW union doesn’t care if quality of care or even the state’s...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. The California asset seizure tax is only going to impoverish the state and reduce funding for health care The SEIU UHW union doesn’t care if quality of care or even the state’s ability to care for its people goes away There is only pure self interest there If you haven’t seen 7x7 at SF City Hall it is a sight to behold. Go see it before it goes away July 4th Ben Davis of Illuminate is an SF treasure",
+      "url": "https://x.com/garrytan/status/2069234760615096344",
+      "publishedAt": "2026-06-23T01:43:06.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-b870e10e6eba",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "You can be Messi, the best footballer ever, and some rando commentator on Fox will still call you \"the little magic man\" Update: he now just called him \"the little maestro\" and...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. You can be Messi, the best footballer ever, and some rando commentator on Fox will still call you \"the little magic man\" Update: he now just called him \"the little maestro\" and \"little Leo\"",
+      "url": "https://x.com/mattturck/status/2069133752727445551",
+      "publishedAt": "2026-06-22T19:01:43.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-4740dabcc845",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and models",
+      "takeaway": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) -...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly) - How I created the skill - How you can create your own skill - Tips like how to insert images/videos into deck, how to publish - Lessons I learned (11-min video, YouTube link below) Watch on YouTube:",
+      "url": "https://x.com/zarazhangrui/status/2069311440692072481",
+      "publishedAt": "2026-06-23T06:47:48.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-9a4e5ae05f8a",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "I have been to many concerts but man no one knows how to put on a show like @diljitdosanjh.. 2 hours of nonstop singing and dancing 🕺",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. I have been to many concerts but man no one knows how to put on a show like @diljitdosanjh.. 2 hours of nonstop singing and dancing 🕺",
+      "url": "https://x.com/nikunj/status/2069070621183758369",
+      "publishedAt": "2026-06-22T14:50:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-01bd323e52e3",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "I feel the same about shared office spaces. Patch the Planet.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. I feel the same about shared office spaces. Patch the Planet.",
+      "url": "https://x.com/steipete/status/2069254835686576316",
+      "publishedAt": "2026-06-23T03:02:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-x-eac2b1e57f75",
+      "date": "2026-06-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on coding and models",
+      "takeaway": "We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym. *Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
+      "url": "https://x.com/sama/status/2069121360744550796",
+      "publishedAt": "2026-06-22T18:12:29.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Sam Altman",
+        "Codex"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
+    {
+      "id": "2026-06-22-podcast-357c04af2d05",
+      "date": "2026-06-22",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Anthropic Uses Claude Fable 5 With Mike Krieger",
+      "takeaway": "How Anthropic Uses Claude Fable 5 With Mike Krieger. And the people who are orchestrating agents are like, holy shit, I feel like there's so many new things I need to learn.",
+      "summary": "And the people who are orchestrating agents are like, holy shit, I feel like there's so many new things I need to learn. It's like counter of magnitude, like, and feeling of like and it's actually not even the the sort of, like, tokens per second. I think that your point on on adapting workflows is a really good one.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-06-10T17:27:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Anthropic",
+        "Claude",
+        "Vercel",
+        "Meta"
+      ],
+      "createdAt": "2026-06-23T16:05:07.650Z"
+    },
     {
       "id": "2026-06-21-x-520c587384f0",
       "date": "2026-06-21",
