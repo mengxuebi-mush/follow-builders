@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-24T15:37:08.662Z",
+  "feedGeneratedAt": "2026-06-24T07:29:07.207Z",
+  "snippets": [
+    {
+      "id": "2026-06-23-x-945660f0a26c",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on coding and models",
+      "takeaway": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide.",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.",
+      "url": "https://x.com/karpathy/status/2069547676849557725",
+      "publishedAt": "2026-06-23T22:26:31.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Andrej Karpathy",
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-8de8442d877a",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and tools",
+      "takeaway": "btw Zai IPO'ed in Jan at HK$120 a share. when I first met @louszbd nobody really knew anyone using GLM's.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. btw Zai IPO'ed in Jan at HK$120 a share. when I first met @louszbd nobody really knew anyone using GLM's. now they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business! excited for @Thom_Wolf and @ZixuanLi_ to chat onstage!",
+      "url": "https://x.com/swyx/status/2069598378191941835",
+      "publishedAt": "2026-06-24T01:47:59.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-de12a9f5f020",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp How to create yours: 1) Go to or open the app 2) Tap Images (side panel) 3) Select the...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. ⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp How to create yours: 1) Go to or open the app 2) Tap Images (side panel) 3) Select the \"Get in the game\" template 4) Upload your photo and share your output here Florida State University: \"Shortly after introducing NotebookLM on campus, we watched students who were struggling with a ‘C’ grade completely transform their study...",
+      "url": "https://x.com/joshwoodward/status/2069408025362714957",
+      "publishedAt": "2026-06-23T13:11:35.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-c76ecd367049",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and enterprise",
+      "takeaway": "I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is...",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved. To set it up, just add @.Claude to a channel and ask it to do this^, in natural language. That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers.",
+      "url": "https://x.com/bcherny/status/2069474688619958517",
+      "publishedAt": "2026-06-23T17:36:29.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-8804be4f8482",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and product",
+      "takeaway": "Codex **had** a bug. Fixed. More feedback. Better product. Keep it coming. If you are at OpenAI, you would know that this never happens.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Codex **had** a bug. Fixed. More feedback. Better product. Keep it coming. If you are at OpenAI, you would know that this never happens. Be right back celebrating 5 minutes of peace. Codex loves slurping up bugs",
+      "url": "https://x.com/thsottiaux/status/2069579993588625574",
+      "publishedAt": "2026-06-24T00:34:56.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-98750b23c623",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "wtf the Google Workspace CLI is super useful it should be celebrated? Human-agent interaction is basically trending towards managing a highly capable employee.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. wtf the Google Workspace CLI is super useful it should be celebrated? Human-agent interaction is basically trending towards managing a highly capable employee. 1 on 1s and performance reviews for Claude next? 😅 What is design if what’s accessing your product is just an agent looking for an api or CLI?",
+      "url": "https://x.com/petergyang/status/2069551302246592799",
+      "publishedAt": "2026-06-23T22:40:55.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-5b3ca30b0455",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs. The core tension here is that the business models, moats, value exchange, execution playbooks for all players are being figured out in real time. This debate around token pricing is really a debate over where value will accrue - models, application layer, distribution or other layers.",
+      "url": "https://x.com/realmadhuguru/status/2069455097193697393",
+      "publishedAt": "2026-06-23T16:18:38.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-0eacc277e0de",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and models",
+      "takeaway": "There are 100s of ways you can customize Claude Tag for any use case. Here are 6 common flows that have resonated with our internal users and external design partners: Here’s our...",
+      "summary": "Cat Wu (_catwu on X) shared 3 recent updates. There are 100s of ways you can customize Claude Tag for any use case. Here are 6 common flows that have resonated with our internal users and external design partners: Here’s our Get Started guide for configuring agent permissions for Claude Tag! Claude Tag is a paradigm shift in how we ship products at Anthropic.",
+      "url": "https://x.com/_catwu/status/2069486403696869555",
+      "publishedAt": "2026-06-23T18:23:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-b934e90832fc",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "When you really get going, it's easy to get overwhelmed with all the threads. In my personal channel I like to ask Claude to keep a pinned message that it updates with the status...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. When you really get going, it's easy to get overwhelmed with all the threads. In my personal channel I like to ask Claude to keep a pinned message that it updates with the status of everything. Finally, get creative! I'm setting up a \"scheduling\" channel which lets people tag Claude to find time on our calendars.",
+      "url": "https://x.com/trq212/status/2069474339679052144",
+      "publishedAt": "2026-06-23T17:35:06.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-ea5ab6e5382c",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea. Congrats Yousef and team! K-coding",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea. Congrats Yousef and team! K-coding",
+      "url": "https://x.com/amasad/status/2069588152285794373",
+      "publishedAt": "2026-06-24T01:07:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-7fc9d87eb3e8",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Vercel + Cursor Starting an X Chat group for feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Vercel + Cursor Starting an X Chat group for feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers",
+      "url": "https://x.com/rauchg/status/2069513849578082474",
+      "publishedAt": "2026-06-23T20:12:06.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Cursor",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-4975e938f29b",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on models and tools",
+      "takeaway": "This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team.",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team.",
+      "url": "https://x.com/alexalbert__/status/2069470389391241314",
+      "publishedAt": "2026-06-23T17:19:24.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Alex Albert",
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-0f059d463fe7",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack. Now all of your enterprise content becomes a portable knowledge base. Good post on the dynamics of AI pricing right now.",
+      "url": "https://x.com/levie/status/2069596515560267891",
+      "publishedAt": "2026-06-24T01:40:35.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-5c02beab448f",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.",
+      "url": "https://x.com/garrytan/status/2069434452628185241",
+      "publishedAt": "2026-06-23T14:56:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-7aa086c73484",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on tools",
+      "takeaway": "Expanding the world cup from 32 to 48 teams was such a genius idea. Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo,...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Expanding the world cup from 32 to 48 teams was such a genius idea. Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo, MBappe, Haaland etc) to shine early. Loving it all so far.",
+      "url": "https://x.com/mattturck/status/2069481767652794768",
+      "publishedAt": "2026-06-23T18:04:37.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-f30d431617a0",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models and product",
+      "takeaway": "Introducing Plug That Shop 🔌 So @Shopify launched their UCP CLI that allows all the products on their stores available via the command line.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Introducing Plug That Shop 🔌 So @Shopify launched their UCP CLI that allows all the products on their stores available via the command line. I was thinking of interesting use cases for the CLI over the weekend and realized that I can use this to create contextual embedded shops for websites. So now, you can enter your website and get four HIGHLY relevant shops that you can embed in just one click.",
+      "url": "https://x.com/nikunj/status/2069534712763490668",
+      "publishedAt": "2026-06-23T21:35:00.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-2988b8c549ea",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Google fired the guy that made the google workspace cli, because he made the google workspace cli. Lucky me, Google can't fire me.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Google fired the guy that made the google workspace cli, because he made the google workspace cli. Lucky me, Google can't fire me.",
+      "url": "https://x.com/steipete/status/2069594195522941059",
+      "publishedAt": "2026-06-24T01:31:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Google"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-0c52fcca7a96",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on product",
+      "takeaway": "There's way more demand for space than capacity to launch. @LongshotSpace is building a cannon that fires payloads into orbit.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. There's way more demand for space than capacity to launch. @LongshotSpace is building a cannon that fires payloads into orbit. We’re excited to partner with them at @southpkcommons. Let’s shoot things into space. Why we invested:",
+      "url": "https://x.com/adityaag/status/2069464862556619263",
+      "publishedAt": "2026-06-23T16:57:26.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-x-d4d5cc5601a3",
+      "date": "2026-06-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on enterprise and models",
+      "takeaway": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future. Read more: Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools.",
+      "url": "https://x.com/claudeai/status/2069468701548531895",
+      "publishedAt": "2026-06-23T17:12:41.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    },
+    {
+      "id": "2026-06-23-podcast-0aa4355de8d8",
+      "date": "2026-06-23",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I think one of the really interesting things that we've been seeing is people kind of connecting it with AgenTex systems to just kind of do automated design and kind of just automate that whole process. And yet, you know, the AI scientists that work here could also go work in commercial enterprises. And, you know, we're in the age of information theory at scale, and we have these systems that can basically kind of predict the next token, and they can, learn world models from that.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-06-10T13:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-06-24T15:37:08.662Z"
+    }
+  ]
+}
