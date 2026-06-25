@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-25T15:44:09.394Z",
+  "feedGeneratedAt": "2026-06-25T07:29:59.185Z",
+  "snippets": [
+    {
+      "id": "2026-06-24-x-769c24f0c84c",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "we are going to have to Rebuild So. Much. Infra. for the age of Software Factories lots of folks prepping talks next week (congrats!).",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. we are going to have to Rebuild So. Much. Infra. for the age of Software Factories lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and researcher- focused talks: - AI generated svgs > AI generated imgs. MAXIMUM 4 ai slop images in your slides, I don't care how pretty your mom thinks they are (exception ofc if your talk is ABOUT imagegen) - Be pointy.",
+      "url": "https://x.com/swyx/status/2069937175899275475",
+      "publishedAt": "2026-06-25T00:14:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-cdc797d85ee3",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Spicy At times our internal Slack is at least as fun as twitter.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Spicy At times our internal Slack is at least as fun as twitter.",
+      "url": "https://x.com/thsottiaux/status/2069837606574289329",
+      "publishedAt": "2026-06-24T17:38:35.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-cd66e9268083",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and costs",
+      "takeaway": "Claude Design is pretty great. I gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Claude Design is pretty great. I gave it a repo for a mobile app I'm building and it reproduced the screens perfectly. Except after one prompt it's telling me to save tokens already 😅 Is Widow's Bay worth watching, I'm not great with jump scares. I'll be publishing the interview on my YouTube. Subscribe here to get it in a few weeks:",
+      "url": "https://x.com/petergyang/status/2069992268963135897",
+      "publishedAt": "2026-06-25T03:53:10.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-cff90c47316a",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "No more goals plz brazil, thank you. update: nooo update 2: nooo",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 3 recent updates. No more goals plz brazil, thank you. update: nooo update 2: nooo",
+      "url": "https://x.com/AmandaAskell/status/2069910673921048985",
+      "publishedAt": "2026-06-24T22:28:56.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-4fc59c9b9d8b",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us!",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us!",
+      "url": "https://x.com/GoogleLabs/status/2069827839826809042",
+      "publishedAt": "2026-06-24T16:59:47.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-9ca716d50b51",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs",
+      "takeaway": "AI will bring forth an unprecedented surge in entrepreneurship. From 'solopreneurs,' to the revitalization of the small & medium business segment, to the emergence of the largest...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. AI will bring forth an unprecedented surge in entrepreneurship. From 'solopreneurs,' to the revitalization of the small & medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all. Really fast GLM now live The data of tokens and uptime recovered by @vercel AI Gateway is truly astonishing",
+      "url": "https://x.com/rauchg/status/2070001110866354345",
+      "publishedAt": "2026-06-25T04:28:18.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-f493e60d3a22",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way. We’ve already seen some agentic coding systems start to adopt this pattern (as well as OpenClaw and Hermes), and doing it for general purpose knowledge work continues to push the idea...",
+      "url": "https://x.com/levie/status/2069975251476422664",
+      "publishedAt": "2026-06-25T02:45:32.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-0300c9f29b63",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "use cursor in notion use notion in cursor",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. use cursor in notion use notion in cursor",
+      "url": "https://x.com/ryolu_/status/2069830172354986418",
+      "publishedAt": "2026-06-24T17:09:03.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-440f39c4cece",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens Asian elders killed Public education dismantled If you start...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens Asian elders killed Public education dismantled If you start counting their bodies and talking about their abdication of duty, the hard left can’t win SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public office.",
+      "url": "https://x.com/garrytan/status/2069806049847321020",
+      "publishedAt": "2026-06-24T15:33:12.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-fa17ea1668f1",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "The root cause of procrastination is not the lack of time It’s the lack of courage The best founders post on X “Community is your users’ relationships with you and with each...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. The root cause of procrastination is not the lack of time It’s the lack of courage The best founders post on X “Community is your users’ relationships with you and with each other, and most teams never think to design it Community is the new moat Features get copied. Belonging can’t” - from @figma Config session today",
+      "url": "https://x.com/zarazhangrui/status/2069908420384428132",
+      "publishedAt": "2026-06-24T22:19:59.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-72c872b462fd",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you.. That’s your edge.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you.. That’s your edge. If you can use that, tenacity and combine it with a large market, then magic follows 🪄 Excited to host a World Cup viewing party in SF next week with our friends at @Replit x @trincapital! Join us ⚽️🍾",
+      "url": "https://x.com/nikunj/status/2069803472996941959",
+      "publishedAt": "2026-06-24T15:22:57.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Replit"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-864dc4bad5a3",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and tools",
+      "takeaway": "Are we hurtling toward a future where AI can do everything humans can? Edwin Chen (@echen) believes we might be.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. Are we hurtling toward a future where AI can do everything humans can? Edwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin a unique perspective on how quickly AI progress is accelerating.",
+      "url": "https://x.com/danshipper/status/2069805581263847467",
+      "publishedAt": "2026-06-24T15:31:20.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Claude"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-x-2afda56a5862",
+      "date": "2026-06-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "It is a strange time to be a leader right now. You have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. It is a strange time to be a leader right now. You have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes. You have to retain a lot of humility. I was struck by how well @RamaswmySridhar is navigating this moment at @Snowflake. A space economy doesn't just need rockets and space guns. It needs ways to communicate as efficiently as we do on the ground.",
+      "url": "https://x.com/adityaag/status/2069861187479618042",
+      "publishedAt": "2026-06-24T19:12:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    },
+    {
+      "id": "2026-06-24-podcast-d9d8a67357e1",
+      "date": "2026-06-24",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Building a School Where AI Models Learn About Humanity",
+      "takeaway": "Building a School Where AI Models Learn About Humanity. So I feel like we are on a trajectory to that, and that's almost the premise of agents where agents can now, yeah, go...",
+      "summary": "So I feel like we are on a trajectory to that, and that's almost the premise of agents where agents can now, yeah, go operate autonomously given some nebulous goal. So, yeah, think there's a lot that's been changing in the past year, especially in enterprise. We are building this kind of school for AGI where AI models come to learn about humanity, where we teach them how to run the world.",
+      "url": "https://www.youtube.com/watch?v=omX6wrLuX08",
+      "publishedAt": "2026-06-24T14:55:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-06-25T15:44:09.394Z"
+    }
+  ]
+}
