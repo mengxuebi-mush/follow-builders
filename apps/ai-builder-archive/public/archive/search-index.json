@@ -1,7 +1,344 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-25T21:01:32.203Z",
+  "generatedAt": "2026-06-26T15:29:44.147Z",
   "snippets": [
+    {
+      "id": "2026-06-25-x-c50c3c3a375d",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "@neondatabase @nikitabase @ankrgyl pls find my soundcloud btw this was 3 years ago lmao this is too late for AIE worlds fair but heres the how to book talks in the first place",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. @neondatabase @nikitabase @ankrgyl pls find my soundcloud btw this was 3 years ago lmao this is too late for AIE worlds fair but heres the how to book talks in the first place",
+      "url": "https://x.com/swyx/status/2070286643303715034",
+      "publishedAt": "2026-06-25T23:22:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-9f9fd0cf0ee1",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "Codex for everything at OpenAI It's a fantastic update February 2nd was the release of the Codex App. You can see what it did to adoption outside of engineering. 👀 @ajambrosino",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Codex for everything at OpenAI It's a fantastic update February 2nd was the release of the Codex App. You can see what it did to adoption outside of engineering. 👀 @ajambrosino",
+      "url": "https://x.com/thsottiaux/status/2070205520552886305",
+      "publishedAt": "2026-06-25T18:00:33.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-f1558c9e7299",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Feels pretty weird that I can only directly access Codex on mobile through this random iPhone shortcut I made.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Feels pretty weird that I can only directly access Codex on mobile through this random iPhone shortcut I made. (yes I know I can use chatgpt but that takes too many taps) lol this is pretty insane but I'm not surprised Identity verification 100% coming to model access I'm planning to go to Japan (again!",
+      "url": "https://x.com/petergyang/status/2070318195190464538",
+      "publishedAt": "2026-06-26T01:28:17.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-857f2814895e",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "I'll be talking more about Claude Tag with @petergyang and at AIE with @_catwu. Let me know if there's anything you'd like us to dive into more!",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I'll be talking more about Claude Tag with @petergyang and at AIE with @_catwu. Let me know if there's anything you'd like us to dive into more! this video was also edited by Claude :)",
+      "url": "https://x.com/trq212/status/2070238581147455842",
+      "publishedAt": "2026-06-25T20:11:55.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-69212046378a",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "Major updates to mobile app coming soon!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Major updates to mobile app coming soon!",
+      "url": "https://x.com/amasad/status/2070199548694437957",
+      "publishedAt": "2026-06-25T17:36:49.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-392651760553",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Next.js \"Ways to fix this\" with \"Copy prompt\" buttons is a work of (agentic) art Grok Imagine Video has become the clear leader in @vercel AI Gateway, now amounting to ~50% of...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Next.js \"Ways to fix this\" with \"Copy prompt\" buttons is a work of (agentic) art Grok Imagine Video has become the clear leader in @vercel AI Gateway, now amounting to ~50% of videos generated by developers 🤯 How we imbue coding agents with our design standards",
+      "url": "https://x.com/rauchg/status/2070243120546218000",
+      "publishedAt": "2026-06-25T20:29:57.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-b1570b406f35",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and models",
+      "takeaway": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. Realistically, as AI models became more and more powerful this was going to be inevitable (I think it’s too early, but here we are).",
+      "url": "https://x.com/levie/status/2070310706369712272",
+      "publishedAt": "2026-06-26T00:58:31.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-fa88812cd7d0",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product",
+      "takeaway": "Jarvis-core is the new most powerful launch video meme SF lesson: You need to expose the extremist left in profound ways The death of the innocent The breakdown of public safety...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Jarvis-core is the new most powerful launch video meme SF lesson: You need to expose the extremist left in profound ways The death of the innocent The breakdown of public safety The downfall of schools These are all inevitable in the hands of the inept DSA It will be the defining fight for the Dem party Legora is the defining legal AI startup",
+      "url": "https://x.com/garrytan/status/2070165863907668426",
+      "publishedAt": "2026-06-25T15:22:58.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-453270142cb4",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on tools",
+      "takeaway": "How can you not love the World Cup - MetLife loses its mind as Ecuador pulls off the upset #ECUGER Was truly a transformational decision to hire Russell Crowe as USMNT coach This...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. How can you not love the World Cup - MetLife loses its mind as Ecuador pulls off the upset #ECUGER Was truly a transformational decision to hire Russell Crowe as USMNT coach This deep, insightful and often funny conversation with @eastdakota of @Cloudflare is also available on Spotify, Apple Podcasts and here on YouTube:",
+      "url": "https://x.com/mattturck/status/2070269902322110786",
+      "publishedAt": "2026-06-25T22:16:23.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-d7ac2f453bdf",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise",
+      "takeaway": "This is a big misconception Somehow people think building an audience is antithetical to building a company.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. This is a big misconception Somehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the same thing Storytelling (to users/customers, investors, candidates) is arguably the founder’s most important job Building is getting cheaper, attention is getting more expensive",
+      "url": "https://x.com/zarazhangrui/status/2070188279941738952",
+      "publishedAt": "2026-06-25T16:52:02.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-e9159b19ff52",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Coming to Tartine Manufactory always makes me so happy.. even though I come here practically every week 🪴",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Coming to Tartine Manufactory always makes me so happy.. even though I come here practically every week 🪴",
+      "url": "https://x.com/nikunj/status/2070268106564587840",
+      "publishedAt": "2026-06-25T22:09:14.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-489b7bbe2441",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "truth",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. truth",
+      "url": "https://x.com/steipete/status/2070355589994336345",
+      "publishedAt": "2026-06-26T03:56:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-e5ec131c0d8c",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and enterprise",
+      "takeaway": "One of the smartest people i know, ex-One Medical, ex-Bridgewater founder backed by a16z is building a stealth NYC health-tech company.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. One of the smartest people i know, ex-One Medical, ex-Bridgewater founder backed by a16z is building a stealth NYC health-tech company. He's doing AI-first medicine with physical clinics Hiring staff+ engineers, physicians who ship product, and a Codex-native Chief of Staff/BizOps lead You should email him if you want to work on something like this: every@rungravity.com Disclosure I am also an investor",
+      "url": "https://x.com/danshipper/status/2070158469173256231",
+      "publishedAt": "2026-06-25T14:53:35.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-x-f85575591971",
+      "date": "2026-06-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise",
+      "takeaway": "It is stupidly hard to start a pure software company right now. Customers don't want software, they want outcomes. So you end up having to do a lot of custom work for them.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. It is stupidly hard to start a pure software company right now. Customers don't want software, they want outcomes. So you end up having to do a lot of custom work for them. Anything horizontal is on a ticking clock. Every customer wants to deeply customize. There are opportunities. But you need to have a very heretical 2-3 year view of the world in order to build something good.",
+      "url": "https://x.com/adityaag/status/2070179913647485344",
+      "publishedAt": "2026-06-25T16:18:48.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-blog-a9ddc31e6892",
+      "date": "2026-06-25",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
+    {
+      "id": "2026-06-25-podcast-9979ce83f3dd",
+      "date": "2026-06-25",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Cloudflare CEO: Bot Takeover, Edge AI & The Hard Decision Every CEO Will Face",
+      "takeaway": "Cloudflare CEO: Bot Takeover, Edge AI & The Hard Decision Every CEO Will Face. For the first time, the number of bots and AI agents has outnumbered humans on the Internet.",
+      "summary": "For the first time, the number of bots and AI agents has outnumbered humans on the Internet. The the cost of all these tokens just, know, it can can be just overwhelming and it's really easy for that to lose for you to lose control of that. But it turns out that, you know, if you think of it sort of x y axis and you know, the x axis is is budget and the y axis is is like security issues.",
+      "url": "https://www.youtube.com/watch?v=UN47z_opfmo",
+      "publishedAt": "2026-06-25T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-06-26T15:29:44.147Z"
+    },
     {
       "id": "2026-06-24-x-769c24f0c84c",
       "date": "2026-06-24",
