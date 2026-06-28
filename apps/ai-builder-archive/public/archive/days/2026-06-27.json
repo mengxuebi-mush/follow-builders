@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-28T14:54:24.836Z",
+  "feedGeneratedAt": "2026-06-28T07:38:46.771Z",
+  "snippets": [
+    {
+      "id": "2026-06-27-x-885509a9c9cc",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and costs",
+      "takeaway": "An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting - is that open models have a lot more dollar per token...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting - is that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models should obviously report thinking levels measured by dollar inference on popular inference providers, instead of by...",
+      "url": "https://x.com/swyx/status/2070949306060931312",
+      "publishedAt": "2026-06-27T19:16:05.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-10a85d71de22",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "Tons of improvements landed in Codex. - Handles super long threads smoothly. - Hoverable navigation rail for previewing and jumping between turns that feels just right.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Tons of improvements landed in Codex. - Handles super long threads smoothly. - Hoverable navigation rail for previewing and jumping between turns that feels just right. - Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider settings.",
+      "url": "https://x.com/thsottiaux/status/2071071289247244481",
+      "publishedAt": "2026-06-28T03:20:48.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-24c4e969f991",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and tools",
+      "takeaway": "Messi is so goated damn Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from: → My smart...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Messi is so goated damn Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from: → My smart scale via the Withings API → My Fitbit and Google Health → An MCP server and mobile fitness app I vibe coded to track my workouts I find this super useful, even if my body fat is going the wrong way 😅 I talk about how to do this in my...",
+      "url": "https://x.com/petergyang/status/2071077367720862021",
+      "publishedAt": "2026-06-28T03:44:57.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-588b94b967a9",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same Oh",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same Oh",
+      "url": "https://x.com/thenanyu/status/2070821322901397645",
+      "publishedAt": "2026-06-27T10:47:32.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-05c9f66e9c9b",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "I now own Excited to give my children clean email handles. Domains are awesome. The internet is awesome.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I now own Excited to give my children clean email handles. Domains are awesome. The internet is awesome. Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity. If adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities.",
+      "url": "https://x.com/rauchg/status/2071085680017773046",
+      "publishedAt": "2026-06-28T04:17:59.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-80cd6b2b0708",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way. The ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand your workflows, context, and business process.",
+      "url": "https://x.com/levie/status/2070937863806751154",
+      "publishedAt": "2026-06-27T18:30:37.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-38d570ae7b1f",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise and tools",
+      "takeaway": "Smart glasses and goggles, a history: Silicon Valley, 2013 (Google): “you really want this” Everyone: “no we don’t” Silicon Valley, 2016 (Microsoft): “ok but what if it’s for the...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Smart glasses and goggles, a history: Silicon Valley, 2013 (Google): “you really want this” Everyone: “no we don’t” Silicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise” Enterprise: “maybe, but also, no” Silicon Valley, 2023 (Meta): “ok but what if they look normal and have AI” Everyone: “wait… maybe?",
+      "url": "https://x.com/mattturck/status/2070972014945243622",
+      "publishedAt": "2026-06-27T20:46:19.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-49cd0a2766f2",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year. My projects: Btw I'm not an engineer; these are all side projects I built for fun. I just love connecting technology with user problems/using it to solve my own pain points, and then telling stories about the products",
+      "url": "https://x.com/zarazhangrui/status/2070982013822333007",
+      "publishedAt": "2026-06-27T21:26:03.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-a9a00f5b7912",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "As someone who eats ice cream ~daily, this was SO fun to read.. Also, the visuals are absolutely stunning!!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. As someone who eats ice cream ~daily, this was SO fun to read.. Also, the visuals are absolutely stunning!!",
+      "url": "https://x.com/nikunj/status/2070922974493036773",
+      "publishedAt": "2026-06-27T17:31:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-x-f9e069a33d7c",
+      "date": "2026-06-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "\"History teaches us that access blockage rarely stops determined users.\" We getting Apple Car after all Got excited about the 52’ Dell, but it requires BetterDisplay hacking to...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. \"History teaches us that access blockage rarely stops determined users.\" We getting Apple Car after all Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP] So, Apple wins this round, 2xXDR it is.",
+      "url": "https://x.com/steipete/status/2071063588329193551",
+      "publishedAt": "2026-06-28T02:50:12.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-blog-6cd28c156a1c",
+      "date": "2026-06-27",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    },
+    {
+      "id": "2026-06-27-podcast-44b59ccf851a",
+      "date": "2026-06-27",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "takeaway": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin. There's all this context, both in terms of documents that you've already written as a team, as well as now...",
+      "summary": "There's all this context, both in terms of documents that you've already written as a team, as well as now people are interacting with these agents more and more in these products, or having conversations, giving them feedback, and figuring out how to have a model that deeply understands that context. One is that the amount of tokens we will all collectively individually generate is going be in the tens of millions of tokens per day soon.",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T14:22:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-06-28T14:54:24.836Z"
+    }
+  ]
+}
