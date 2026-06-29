@@ -1,7 +1,303 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-28T20:20:46.657Z",
+  "generatedAt": "2026-06-29T16:40:29.663Z",
   "snippets": [
+    {
+      "id": "2026-06-28-x-eb7dc8ad4f18",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product",
+      "takeaway": "we registered 1000 people today. this is what it looked like at hour 3. tmr and tuesday going to be absolutely batshit because i'm not a design engineer myself, this track is one...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. we registered 1000 people today. this is what it looked like at hour 3. tmr and tuesday going to be absolutely batshit because i'm not a design engineer myself, this track is one of the harder ones I struggle to curate. very fortunate to befriend Geoff who has lent a hand to the past 2 years of AI UX meetups, and now is the opener for the Design Engineers at AIE! see you wednesday if youre a speaker make your own",
+      "url": "https://x.com/swyx/status/2071480924810969331",
+      "publishedAt": "2026-06-29T06:28:33.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-efa42669cd9e",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future. For example, when I look at the Claude Code team I see what I think is five archetypes: 1. Prototyper: comes up with brand new ideas; churns out many ideas, most of which don't ship 2. Builder: quickly turns a prototype/idea into production-grade product/infra 3.",
+      "url": "https://x.com/bcherny/status/2071379474277613732",
+      "publishedAt": "2026-06-28T23:45:25.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-43dd72937c50",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some users had stacked up to three banked resets already that they can apply...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some users had stacked up to three banked resets already that they can apply on their own schedule. Funnily enough, this week at OpenAI is called the RESET week, which is meant for folks to relax a bit. However it will be a different kind of RESET week. Enjoy.",
+      "url": "https://x.com/thsottiaux/status/2071381664853319742",
+      "publishedAt": "2026-06-28T23:54:07.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-8d73f5b18b36",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "How Anthropic PMs use agents internally to get closer to the product from Jess, product lead for Claude Managed Agents: “Access to our codebase has been the biggest unlock for me.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. How Anthropic PMs use agents internally to get closer to the product from Jess, product lead for Claude Managed Agents: “Access to our codebase has been the biggest unlock for me. It helps me manage state more easily. Rather than poking a bunch of engineers on what they’re doing, I can just track the PRs directly and see which ones are merged, which ones are deployed.",
+      "url": "https://x.com/petergyang/status/2071292628302434361",
+      "publishedAt": "2026-06-28T18:00:20.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-5ceb17ef9a14",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "this has to be because coding agents change the engineering math on how it is to work with or port a legacy codebase, right? anyone at Riot able to confirm? not true!",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. this has to be because coding agents change the engineering math on how it is to work with or port a legacy codebase, right? anyone at Riot able to confirm? not true!",
+      "url": "https://x.com/trq212/status/2071419473433854221",
+      "publishedAt": "2026-06-29T02:24:22.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-2524f811accc",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "You don't need a LinkedIn, you need a page on your website describing and linking to what you shipped You need a Link, not a LinkedIn 😂",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. You don't need a LinkedIn, you need a page on your website describing and linking to what you shipped You need a Link, not a LinkedIn 😂",
+      "url": "https://x.com/rauchg/status/2071284129275285580",
+      "publishedAt": "2026-06-28T17:26:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-3073abbda4e1",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and research",
+      "takeaway": "It should be 100% obvious that there will soon be mythos level models on cyber security that are open and available to anyone.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. It should be 100% obvious that there will soon be mythos level models on cyber security that are open and available to anyone. As a byproduct of this, alternative tech stacks will emerge that also drive more economic value and control away from the US’s tech stack. This is what should be considered when thinking through the gate keeping you want to have in AI.",
+      "url": "https://x.com/levie/status/2071253118252356001",
+      "publishedAt": "2026-06-28T15:23:20.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-b5601c1c4f02",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "\"Forget your perfect offering / There is a crack in everything / That's how the light gets in.\" —Leonard Cohen",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. \"Forget your perfect offering / There is a crack in everything / That's how the light gets in.\" —Leonard Cohen",
+      "url": "https://x.com/garrytan/status/2071434797176516691",
+      "publishedAt": "2026-06-29T03:25:15.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-b680457a847f",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "For every hour you spend on building the product, spend two hours on explaining it, demonstrating it, selling it, teaching it… This is my favorite part about building: telling the...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. For every hour you spend on building the product, spend two hours on explaining it, demonstrating it, selling it, teaching it… This is my favorite part about building: telling the world about it and then refining it based on contact with reality Watch this video in which I walk through - How to install & use the skill (beginner-friendly) - How I built the skill - How you can build your own skill",
+      "url": "https://x.com/zarazhangrui/status/2071319754128978030",
+      "publishedAt": "2026-06-28T19:48:07.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-7d00a372a001",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "just put the taxes in the bag bro 📍Summit Loop Trail, San Bruno Sundays are for recreating memes with your toddler 👻 Every time I meet an exceptionally smart founder, I play it...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. just put the taxes in the bag bro 📍Summit Loop Trail, San Bruno Sundays are for recreating memes with your toddler 👻 Every time I meet an exceptionally smart founder, I play it cool but internally..",
+      "url": "https://x.com/nikunj/status/2071408480456691868",
+      "publishedAt": "2026-06-29T01:40:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-3f35cfcf7887",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Tried to sign up to @ATT four times now and they reject me and aren’t telling me why. What’s the next best unlimited phone/data plan for the SF area?",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Tried to sign up to @ATT four times now and they reject me and aren’t telling me why. What’s the next best unlimited phone/data plan for the SF area? Or do I know anyone who can work around corp bs?",
+      "url": "https://x.com/steipete/status/2071382416703500510",
+      "publishedAt": "2026-06-28T23:57:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-x-7ecfb420b3a9",
+      "date": "2026-06-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "self recommending",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. self recommending",
+      "url": "https://x.com/danshipper/status/2071304948390752557",
+      "publishedAt": "2026-06-28T18:49:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-blog-97cd97d27d22",
+      "date": "2026-06-28",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
+    {
+      "id": "2026-06-28-podcast-ef3d66d29717",
+      "date": "2026-06-28",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "The GPU Myth: State of AI Compute 2026 | Stephen Balaban",
+      "takeaway": "The GPU Myth: State of AI Compute 2026 | Stephen Balaban. Maybe it's a long running agent workflow. I think that that just means that everybody is able to process 10 times more...",
+      "summary": "Maybe it's a long running agent workflow. I think that that just means that everybody is able to process 10 times more tokens, and there's there's still the same fixed amount of compute in the world at any given point in time. Speaker 1 | 1:06:17 - 1:06:35 Well, I mean, a lot of the engineers at Lambda are already, you know, doing a fully agent driven workflow.",
+      "url": "https://www.youtube.com/watch?v=0NttU4CbyVs",
+      "publishedAt": "2026-06-18T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-06-29T16:40:29.663Z"
+    },
     {
       "id": "2026-06-27-x-885509a9c9cc",
       "date": "2026-06-27",
