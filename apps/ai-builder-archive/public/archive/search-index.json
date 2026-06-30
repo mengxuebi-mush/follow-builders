@@ -1,7 +1,427 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T20:54:39.028Z",
+  "generatedAt": "2026-06-30T15:39:07.385Z",
   "snippets": [
+    {
+      "id": "2026-06-29-x-7a0364dae558",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on costs",
+      "takeaway": "AIE workshop day prescribe one (1) pill when a coworker disrespects scaling laws make a beeline 4pm sharp at aie expo, first come first served ok for context this is non-lab...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. AIE workshop day prescribe one (1) pill when a coworker disrespects scaling laws make a beeline 4pm sharp at aie expo, first come first served ok for context this is non-lab workshops at 9am on a monday theres a competing @OpenAI workshop going on next door but here are the @snyksec , @Atlassian, @neo4j, @arizeai, @Akamai, @togethercompute rooms concurrently. PEOPLE ARE HUNGRY FOR THIS.",
+      "url": "https://x.com/swyx/status/2071613383380770823",
+      "publishedAt": "2026-06-29T15:14:53.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Swyx",
+        "OpenAI"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-7cf8c5e65363",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work If you want your agent to run in the...",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work If you want your agent to run in the foreground, just tell Claude",
+      "url": "https://x.com/bcherny/status/2071647677591466098",
+      "publishedAt": "2026-06-29T17:31:10.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-ef6cf3d850da",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a few smaller problems compounded for some users.",
+      "url": "https://x.com/thsottiaux/status/2071740419030053227",
+      "publishedAt": "2026-06-29T23:39:41.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-ac944869cdd3",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "For writing and editing, plain vanilla Claude web is still the best (vs Codex and Claude Code). My guess is something in the coding agent's system prompts make them crappier...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. For writing and editing, plain vanilla Claude web is still the best (vs Codex and Claude Code). My guess is something in the coding agent's system prompts make them crappier writers. I have so many spicy takes about all this restricted access + open source stuff I'm just going to rant about all of them in one post. Also available as a written post:",
+      "url": "https://x.com/petergyang/status/2071731343390851519",
+      "publishedAt": "2026-06-29T23:03:37.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-01d2adb8c05a",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "What’s underappreciated is that the rise of strong open-weight models like GLM will actually strengthen Google’s position.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. What’s underappreciated is that the rise of strong open-weight models like GLM will actually strengthen Google’s position. more companies will now start experimenting with fine tuning open-weight models such as GLM and the value will accrue to the infra. enterprises want the flexibility to run and fine-tune open models on a managed platform with enterprise-grade reliability, security, and support.",
+      "url": "https://x.com/realmadhuguru/status/2071637885154148785",
+      "publishedAt": "2026-06-29T16:52:15.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Google"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-5f20f5f19b6d",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "my process for writing right now is to do some engineering work, talk to a bunch of people about it, brainstorm and research with Claude, write a post, give 1 or 2 talks on it,...",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. my process for writing right now is to do some engineering work, talk to a bunch of people about it, brainstorm and research with Claude, write a post, give 1 or 2 talks on it, rewrite the post, give another talk, rewrite the intro, wake up at 6am and rewrite it again, then post",
+      "url": "https://x.com/trq212/status/2071787401475960892",
+      "publishedAt": "2026-06-30T02:46:23.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-c28364dc0dd1",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "𝟐𝟎𝐱 larger functions on Vercel curl -sN by @_brian_zhang You can deploy anything and everything to Vercel. More tomorrow",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. 𝟐𝟎𝐱 larger functions on Vercel curl -sN by @_brian_zhang You can deploy anything and everything to Vercel. More tomorrow",
+      "url": "https://x.com/rauchg/status/2071716510389662153",
+      "publishedAt": "2026-06-29T22:04:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-2c3772aec2eb",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and costs",
+      "takeaway": "This gets to the core of one of the central debates in AI. If a closed stack is always perpetually at the frontier by a wide margin, then being vertically integrated, and gate...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This gets to the core of one of the central debates in AI. If a closed stack is always perpetually at the frontier by a wide margin, then being vertically integrated, and gate keeping in the US can work. Because you always have control over who gets access to the best technology, and it will be in high enough demand that it always favors you.",
+      "url": "https://x.com/levie/status/2071775583072375214",
+      "publishedAt": "2026-06-30T01:59:25.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-59b0f6a49902",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on tools",
+      "takeaway": "wherever ideas hit. desks and laptops optional. get the app:",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. wherever ideas hit. desks and laptops optional. get the app:",
+      "url": "https://x.com/ryolu_/status/2071652629890088964",
+      "publishedAt": "2026-06-29T17:50:51.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-70aca6ffc686",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Build power and datacenters",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Build power and datacenters",
+      "url": "https://x.com/garrytan/status/2071817410303393840",
+      "publishedAt": "2026-06-30T04:45:37.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-83881baf009a",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Shout out to whoever is selling a ticket for the World Cup final on the FIFA marketplace for $11,499,998.85 - smart move, does sound like a much better deal than $11,500,000.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Shout out to whoever is selling a ticket for the World Cup final on the FIFA marketplace for $11,499,998.85 - smart move, does sound like a much better deal than $11,500,000.00 Being the underdog, time and again, is the greatest advantage",
+      "url": "https://x.com/mattturck/status/2071772069742756333",
+      "publishedAt": "2026-06-30T01:45:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-ca73c5ffc034",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and models",
+      "takeaway": "I built a Chrome extension that turns your \"read later\" list into dedicated reading time on your calendar.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. I built a Chrome extension that turns your \"read later\" list into dedicated reading time on your calendar. Save 5 articles → it auto-books a 30-min \"reading block\" on your Google calendar, links included. So you'll actually sit down and go through them. No account, no server, everything local.",
+      "url": "https://x.com/zarazhangrui/status/2071766827345285411",
+      "publishedAt": "2026-06-30T01:24:37.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-e0ad1c9bf591",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "The World Cup put on an absolute show today.. Brazil nicking it at the last minute after being 1-0 down and a valiant display by Japan.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The World Cup put on an absolute show today.. Brazil nicking it at the last minute after being 1-0 down and a valiant display by Japan. Paraguay deservedly winning against Germany after a WILD penalty shootout. Netherlands sneaking into extra time with a 91st minute equalizer against Morocco and this one is probably going to the shootouts too. Omg what is this shootout already..",
+      "url": "https://x.com/nikunj/status/2071798024536572123",
+      "publishedAt": "2026-06-30T03:28:35.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-fbb0948cfac5",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "was this vibed This would have been amazing a few years ago, but in the age of AI, what’s the point?",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. was this vibed This would have been amazing a few years ago, but in the age of AI, what’s the point?",
+      "url": "https://x.com/steipete/status/2071770560875671831",
+      "publishedAt": "2026-06-30T01:39:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-x-fd82f67d5a81",
+      "date": "2026-06-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on enterprise and models",
+      "takeaway": "Claude in Microsoft Foundry is now generally available, hosted on Azure. Azure customers get Claude Opus 4.8 and Claude Haiku 4.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Claude in Microsoft Foundry is now generally available, hosted on Azure. Azure customers get Claude Opus 4.8 and Claude Haiku 4.5, with Azure authentication, billing, and commitment retirement. Inference runs on Azure infrastructure, operated by Anthropic. Prompt caching and extended thinking are supported today, with more capabilities on the way. Read more:",
+      "url": "https://x.com/claudeai/status/2071653958905467027",
+      "publishedAt": "2026-06-29T17:56:07.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Anthropic",
+        "Microsoft"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-blog-dea52d951227",
+      "date": "2026-06-29",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-blog-f90fa6cabc29",
+      "date": "2026-06-29",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-blog-2a8322b07185",
+      "date": "2026-06-29",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
+    {
+      "id": "2026-06-29-podcast-1687204b28f4",
+      "date": "2026-06-29",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And then right now, the agentic AI and influence CPU become highly in demand. And because AI can help you to drive a lot of efficiency across all the different function of the enterprise. And in terms of you need the capacity, you need to have the productivity, and you have to drive efficiency.",
+      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-06-30T15:39:07.385Z"
+    },
     {
       "id": "2026-06-28-x-eb7dc8ad4f18",
       "date": "2026-06-28",
