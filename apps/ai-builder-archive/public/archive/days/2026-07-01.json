@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-02T15:27:22.348Z",
+  "feedGeneratedAt": "2026-07-02T07:27:19.511Z",
+  "snippets": [
+    {
+      "id": "2026-07-01-x-d7346a1de7e2",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "for what it's worth, i only invite double-length track keynotes when I'm very sure that both speaker and content deserve it.",
+      "summary": "Swyx (swyx on X) shared 1 recent update. for what it's worth, i only invite double-length track keynotes when I'm very sure that both speaker and content deserve it. Today, @chrmanning and @abshkbh did double duty at AIE and by all accounts* people loved the opportunity to go deeper on sandboxing and world models. Look at this insane room - and the online audience is going to be >1000x this!!",
+      "url": "https://x.com/swyx/status/2072562702703046855",
+      "publishedAt": "2026-07-02T06:07:09.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-e76c4f80c807",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on tools",
+      "takeaway": "It's happening",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. It's happening",
+      "url": "https://x.com/thsottiaux/status/2072410623380468190",
+      "publishedAt": "2026-07-01T20:02:50.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-02204e8719e1",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Claude Fable 5 is finally back, but you only have until July 7 to use it on your Claude subscription.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Claude Fable 5 is finally back, but you only have until July 7 to use it on your Claude subscription. I made a new tutorial walking through 5 use cases worth trying Fable on: → Find Fable-worthy work → Get life and business advice → Make projects ship-ready → Plan the next big thing → Refactor your project or codebase As usual, it’s no BS, and I show you Fable’s actual output.",
+      "url": "https://x.com/petergyang/status/2072458983886205333",
+      "publishedAt": "2026-07-01T23:15:00.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-60128f15783b",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "hello from AI engineer! HTML mentioned",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. hello from AI engineer! HTML mentioned",
+      "url": "https://x.com/trq212/status/2072360902964511171",
+      "publishedAt": "2026-07-01T16:45:16.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-df48aeec409e",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on tools",
+      "takeaway": "Every good chord progression needs a resolution. 🎹 To focus on building @GoogleFlowMusic - our tool for creating, sharing, and remixing original music - we will be saying a fond...",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Every good chord progression needs a resolution. 🎹 To focus on building @GoogleFlowMusic - our tool for creating, sharing, and remixing original music - we will be saying a fond farewell to MusicFX and MusicFX DJ on July 31, 2026. These early experiments pushed the boundaries of AI for real-time music creation, and we're taking everything we learned from them to provide a long-term home for musical projects.",
+      "url": "https://x.com/GoogleLabs/status/2072417166952136789",
+      "publishedAt": "2026-07-01T20:28:50.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-9e88d54debf3",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise and tools",
+      "takeaway": "Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar. Whop is one of the best places on the internet to monetize your creations — and now you can sell your Replit apps on there.",
+      "url": "https://x.com/amasad/status/2072385092824260748",
+      "publishedAt": "2026-07-01T18:21:23.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-34e4b21d6181",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "WordPress on @vercel Fluid with Active CPU from a single 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕. MySQL on @planetscale. 30s deployments incl. \"𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍\" in the cloud.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. WordPress on @vercel Fluid with Active CPU from a single 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕. MySQL on @planetscale. 30s deployments incl. \"𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍\" in the cloud. Just one command: 𝚗̶𝚘̶𝚠̶ 𝚟𝚎𝚛𝚌𝚎𝚕. Agents love to check their work before they push. You probably see it in the form of 𝚗𝚘𝚍𝚎 --𝚌𝚑𝚎𝚌𝚔, 𝚝𝚜𝚌 --𝚗𝚘𝙴𝚖𝚒𝚝, 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍, etc all over your agent sessions.",
+      "url": "https://x.com/rauchg/status/2072463293654942090",
+      "publishedAt": "2026-07-01T23:32:08.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-a1ead662b07e",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on ai",
+      "takeaway": "Welcome back to the world Fable!!",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. Welcome back to the world Fable!!",
+      "url": "https://x.com/alexalbert__/status/2072404717490360727",
+      "publishedAt": "2026-07-01T19:39:22.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-9217c8b53b0a",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "If you’ve ever wondered why we will need 100X more AI inference in the future, and what it’s going to be driven by, this is another good example.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. If you’ve ever wondered why we will need 100X more AI inference in the future, and what it’s going to be driven by, this is another good example. Devin pushes forward an idea of agentic mapreduce, which means we’ll now have swarms of agents that are processing large amounts of data (code) to handle tasks that humans never could have done before.",
+      "url": "https://x.com/levie/status/2072519377371459836",
+      "publishedAt": "2026-07-02T03:14:59.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-a3f7cc085bc4",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Mega get, head of UC Berkeley EECS omg Anthropic is on a tear Most underreported story in all of tech",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Mega get, head of UC Berkeley EECS omg Anthropic is on a tear Most underreported story in all of tech",
+      "url": "https://x.com/garrytan/status/2072331451270606933",
+      "publishedAt": "2026-07-01T14:48:14.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-cbb0280af5d8",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on coding and enterprise",
+      "takeaway": "Fascinated by Lime going public - in an age where AI gets all the attention, how does a scooter company with $1B in debt pull off a successful IPO literally after expressing...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Fascinated by Lime going public - in an age where AI gets all the attention, how does a scooter company with $1B in debt pull off a successful IPO literally after expressing \"substantial doubt\" that they might not even survive the year?",
+      "url": "https://x.com/mattturck/status/2072419592354529712",
+      "publishedAt": "2026-07-01T20:38:29.000Z",
+      "tags": [
+        "coding",
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-01737b2ed902",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step PSA: You can change Codex's model...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. HOW TO BUILD A SKILL You don't START with a skill. You END with a skill. Building the skill is the last step of your workflow, not the first step PSA: You can change Codex's model to GLM Full video on YouTube:",
+      "url": "https://x.com/zarazhangrui/status/2072381929366987087",
+      "publishedAt": "2026-07-01T18:08:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Codex"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-5ea9cf7333ca",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "The talent vortex of @OpenAI and @AnthropicAI is only getting crazier.. in the last 2 months, four personal friends have left VERY established roles to join the labs.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The talent vortex of @OpenAI and @AnthropicAI is only getting crazier.. in the last 2 months, four personal friends have left VERY established roles to join the labs. The dual draw of building one of the most consequential companies plus it being pre-IPO and getting liquidity is just too hard to pass up. This means having strong conviction and MASSIVE ambition if you choose to do it on your own.",
+      "url": "https://x.com/nikunj/status/2072344802570756121",
+      "publishedAt": "2026-07-01T15:41:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-1b97d29da39a",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook. DM leads my way 🙏🦞 How did I ever function without AI? cc chefcook @theo Never thought I give @Steve_Yegge a shoutout. He was just early, like most visionaries. Now everyone is building factories.",
+      "url": "https://x.com/steipete/status/2072475858435276840",
+      "publishedAt": "2026-07-02T00:22:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-9415f48aacfc",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on costs",
+      "takeaway": "IVE BEEN MEANING TO DO THIS SO COOL FABLE IS BACK!!! LET'S RIP FABLE TOKENS FROM THE JACUZZI",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. IVE BEEN MEANING TO DO THIS SO COOL FABLE IS BACK!!! LET'S RIP FABLE TOKENS FROM THE JACUZZI",
+      "url": "https://x.com/danshipper/status/2072436587665797518",
+      "publishedAt": "2026-07-01T21:46:01.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-df2ee1a08a38",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Every once in a while, I meet a very very smart but default-pessimistic person in SF. They are often from the growthy/wall-street part of the world.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Every once in a while, I meet a very very smart but default-pessimistic person in SF. They are often from the growthy/wall-street part of the world. And my first thought is: \"Why would you want to be in this city? We run on optimism. Are you here to be a contrarian in your sadness?\"",
+      "url": "https://x.com/adityaag/status/2072449611550380526",
+      "publishedAt": "2026-07-01T22:37:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-x-b680457e7dbe",
+      "date": "2026-07-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the remainder of your usage. You can also continue using Fable via usage credits. More here: If one of your requests is mistakenly flagged in Claude Code, run /feedback to file a report.",
+      "url": "https://x.com/claudeai/status/2072402639644766602",
+      "publishedAt": "2026-07-01T19:31:07.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    },
+    {
+      "id": "2026-07-01-podcast-357c04af2d05",
+      "date": "2026-07-01",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The AI Workflows Behind Every's Consulting Team",
+      "takeaway": "The AI Workflows Behind Every's Consulting Team. You are also the manager of Claudi, consulting's AI agent employee, which was, who was the star of our last episode together.",
+      "summary": "You are also the manager of Claudi, consulting's AI agent employee, which was, who was the star of our last episode together. So can you show us some of your some of your Codex workflows? It's loved by high growth startups like Granola, Modal, WhisperFlow, and Every.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-07-01T15:57:56.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-07-02T15:27:22.348Z"
+    }
+  ]
+}
