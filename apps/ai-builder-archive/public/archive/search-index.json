@@ -1,7 +1,401 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T20:35:18.457Z",
+  "generatedAt": "2026-07-03T15:21:05.243Z",
   "snippets": [
+    {
+      "id": "2026-07-02-x-6b1bec0aad0c",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "very proud that the biggest applause line in the AIE keynotes this year was normalizing men talking about their feelings and mental health in hypergrowth thanks @mikeyk for...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. very proud that the biggest applause line in the AIE keynotes this year was normalizing men talking about their feelings and mental health in hypergrowth thanks @mikeyk for indulging all my cheeky questions on Fable and Tag!! everyone come down to the AIE Expo at 12.",
+      "url": "https://x.com/swyx/status/2072754722059239471",
+      "publishedAt": "2026-07-02T18:50:10.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-9da4aa277572",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max!",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max!",
+      "url": "https://x.com/bcherny/status/2072777472970563995",
+      "publishedAt": "2026-07-02T20:20:34.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-18c75c949f36",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+      "url": "https://x.com/thsottiaux/status/2072607914217320644",
+      "publishedAt": "2026-07-02T09:06:48.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-fc4893441f2f",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "How I’m getting the most out of Fable before July 7: 1. Prep context with cheaper models 2. Plan with Fable, execute with another model 3.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. How I’m getting the most out of Fable before July 7: 1. Prep context with cheaper models 2. Plan with Fable, execute with another model 3. Use lower effort, like Medium, and babysit what Fable is doing 📌 Watch my full tutorial for 5 Fable-worthy use cases to try: Thought I’d share a fun activity I did with my 8-year-old daughter and Codex today: 1. She drew a picture of a dragon. 2.",
+      "url": "https://x.com/petergyang/status/2072842766053499353",
+      "publishedAt": "2026-07-03T00:40:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-9d09bd6c0f4f",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "No excuses @patrickc If only there were a system of some kind that coordinates work between multiple entities",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. No excuses @patrickc If only there were a system of some kind that coordinates work between multiple entities",
+      "url": "https://x.com/thenanyu/status/2072699613929156660",
+      "publishedAt": "2026-07-02T15:11:11.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-4ea940555830",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on enterprise and models",
+      "takeaway": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs.",
+      "summary": "Cat Wu (_catwu on X) shared 2 recent updates. Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs. We cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work. Get started here: We are granting $25k in credits for Claude Enterprise orgs and $2.",
+      "url": "https://x.com/_catwu/status/2072731500928508331",
+      "publishedAt": "2026-07-02T17:17:53.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-569872cbce6f",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "I've heard a lot of questions about Fable's availability on subscription plans. While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I've heard a lot of questions about Fable's availability on subscription plans. While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post. See the post here:",
+      "url": "https://x.com/trq212/status/2072814903170408784",
+      "publishedAt": "2026-07-02T22:49:18.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-b13088937e5c",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on enterprise and models",
+      "takeaway": "Everyone in NYC has the same dog. It's a french bulldog. This needs to be studied Private connectivity between services is 🔑 for backends.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Everyone in NYC has the same dog. It's a french bulldog. This needs to be studied Private connectivity between services is 🔑 for backends. 1️⃣ Register 𝚋𝚒𝚗𝚍𝚒𝚗𝚐𝚜 in 𝚟𝚎𝚛𝚌𝚎𝚕.𝚓𝚜𝚘𝚗 (1LOC) 2️⃣ Read it: 𝚗𝚎𝚠 𝚄𝚁𝙻(\"/𝚊𝚙𝚒\", 𝚙𝚛𝚘𝚌𝚎𝚜𝚜.𝚎𝚗𝚟.",
+      "url": "https://x.com/rauchg/status/2072711610712330658",
+      "publishedAt": "2026-07-02T15:58:51.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-0b2ed2484bef",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The deployment of AI in the enterprise beyond just interacting with a chatbot will unequivocally take real work to align AI systems to the underlying business processes they’re...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The deployment of AI in the enterprise beyond just interacting with a chatbot will unequivocally take real work to align AI systems to the underlying business processes they’re involved in and drive the desired outcomes. Most workflows weren’t designed for AI agents to just drop into.",
+      "url": "https://x.com/levie/status/2072875685811716182",
+      "publishedAt": "2026-07-03T02:50:50.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-5ea07c30feda",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "It’s time to build “What happened to state Sen. Scott Wiener at the Trans March celebration last week was neither inclusion, righteousness nor speaking truth to power.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. It’s time to build “What happened to state Sen. Scott Wiener at the Trans March celebration last week was neither inclusion, righteousness nor speaking truth to power. It was not a protest; it was a mob. And Democrats — all of us — need to say so, loudly and without equivocation.”",
+      "url": "https://x.com/garrytan/status/2072846822566133768",
+      "publishedAt": "2026-07-03T00:56:08.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-e2349160e408",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and enterprise",
+      "takeaway": "Inside Nemotron and NVIDIA's AI lab: my conversation with Bryan Catanzaro (@ctnzr). @nvidia is a chip company.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Inside Nemotron and NVIDIA's AI lab: my conversation with Bryan Catanzaro (@ctnzr). @nvidia is a chip company. So why does it put hundreds of researchers on building AI models - and then give them away for free? We go deep into the Nemotron models, what it takes to build a top AI lab, and the future of frontier AI. 01:33 - Is open source AI catching the frontier?",
+      "url": "https://x.com/mattturck/status/2072723410975629364",
+      "publishedAt": "2026-07-02T16:45:45.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-53bfa6b79708",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "A recent college grad told me that when they were in school, they would feed the lecture decks to an AI and ask it to teach the material (instead of attending the actual lecture)...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. A recent college grad told me that when they were in school, they would feed the lecture decks to an AI and ask it to teach the material (instead of attending the actual lecture) They often found that the AI taught better than the professors One of the best things you can do for your agents: talk in groups, not DMs The root of AI slop isn't bad style. It's no substance.",
+      "url": "https://x.com/zarazhangrui/status/2072729444943577601",
+      "publishedAt": "2026-07-02T17:09:43.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-e5b237b60d13",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Nothing is more fulfilling than connecting people with opportunity. Even when you have absolutely nothing to gain from it.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Nothing is more fulfilling than connecting people with opportunity. Even when you have absolutely nothing to gain from it. It’s an abundant world where everything doesn’t need to be zero sum. Don’t let the gatekeepers tell you otherwise. It’s AGI summer and I’m seeing plenty of “tourists” who are visiting SF - just like last year.. And, then they go back and say SF has no soul, it’s just 996 culture and it’s just AI.",
+      "url": "https://x.com/nikunj/status/2072684481824309411",
+      "publishedAt": "2026-07-02T14:11:03.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-e05dd91e4126",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "This is getting better and better. By now I have daily calls with the ATT rep who tries it's hardest to get my 3$ Apple Watch plan addition approved.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. This is getting better and better. By now I have daily calls with the ATT rep who tries it's hardest to get my 3$ Apple Watch plan addition approved. Fun fact he knows OpenClaw and uses it every day. 🙃🦞",
+      "url": "https://x.com/steipete/status/2072744099678212487",
+      "publishedAt": "2026-07-02T18:07:57.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-040c53d99be8",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "this is great i feel this a LOT right now with fable, where it can go off for hours at a time and then comes back with a 2 paragraph explanation of what it did we need better ways...",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. this is great i feel this a LOT right now with fable, where it can go off for hours at a time and then comes back with a 2 paragraph explanation of what it did we need better ways for AI to tell us stories",
+      "url": "https://x.com/danshipper/status/2072805884376301737",
+      "publishedAt": "2026-07-02T22:13:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-d6ec54abdbb9",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "I took my son to the USMNT game yesterday against Bosnia. After the game I asked him his favorite part and he said: “the giant flag and the national anthem” This country has given...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. I took my son to the USMNT game yesterday against Bosnia. After the game I asked him his favorite part and he said: “the giant flag and the national anthem” This country has given us everything. Cannot be more grateful. This is true",
+      "url": "https://x.com/adityaag/status/2072879173136474186",
+      "publishedAt": "2026-07-03T03:04:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-223d5984e22e",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+      "url": "https://x.com/sama/status/2072773542576586790",
+      "publishedAt": "2026-07-02T20:04:57.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-x-652c2c4edf11",
+      "date": "2026-07-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and enterprise",
+      "takeaway": "Announcing Built with Claude: Life Sciences, a global virtual hackathon. Join us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code,...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Announcing Built with Claude: Life Sciences, a global virtual hackathon. Join us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code, with a prize pool of $100k in credits. A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic. Claude Fable 5 is now available in Claude Tag.",
+      "url": "https://x.com/claudeai/status/2072681853971001849",
+      "publishedAt": "2026-07-02T14:00:37.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
+    {
+      "id": "2026-07-02-podcast-830f10ecfd93",
+      "date": "2026-07-02",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "takeaway": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor. Welcome to War two fifty, first advanced reactor to ever make power by startup.",
+      "summary": "Welcome to War two fifty, first advanced reactor to ever make power by startup. Most of the nuclear industry is a modeling and simulation industry.",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+      "publishedAt": "2026-07-02T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Box"
+      ],
+      "createdAt": "2026-07-03T15:21:05.243Z"
+    },
     {
       "id": "2026-07-01-x-d7346a1de7e2",
       "date": "2026-07-01",
