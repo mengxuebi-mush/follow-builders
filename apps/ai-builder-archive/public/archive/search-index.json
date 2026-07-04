@@ -1,7 +1,367 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-03T20:20:34.428Z",
+  "generatedAt": "2026-07-04T14:43:32.624Z",
   "snippets": [
+    {
+      "id": "2026-07-03-x-f1f713778c96",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product and tools",
+      "takeaway": "i often think about the irony of how \"tools for thought\" people spent like a decade making cool pretty demos with canvases and then got completely mogged by low contrast poorly...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. i often think about the irony of how \"tools for thought\" people spent like a decade making cool pretty demos with canvases and then got completely mogged by low contrast poorly designed CLIs just winning because they do commodity thinking for you Factorio has broken containment @trq212 @simonw @_catwu published:",
+      "url": "https://x.com/swyx/status/2073220591684096087",
+      "publishedAt": "2026-07-04T01:41:22.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-c3341d8143aa",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "What it could have been",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. What it could have been",
+      "url": "https://x.com/thsottiaux/status/2073079378808901663",
+      "publishedAt": "2026-07-03T16:20:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-167b39980cab",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product",
+      "takeaway": "A LinkedIn DM can change your life 😅 Still buzzing from that match. Soccer is the world’s best game.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. A LinkedIn DM can change your life 😅 Still buzzing from that match. Soccer is the world’s best game. If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2073231884059128063",
+      "publishedAt": "2026-07-04T02:26:14.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-34d74ee8fcfc",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on enterprise and models",
+      "takeaway": "Love the observation: if your field doesn’t produce good training data it was probably full of crap to begin with Supreme victory for tailwind that it’s being adopted by the...",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Love the observation: if your field doesn’t produce good training data it was probably full of crap to begin with Supreme victory for tailwind that it’s being adopted by the company that brought you bootstrap The best scenario is a doctor who spends significant time on your case and is equipped with LLMs",
+      "url": "https://x.com/thenanyu/status/2073070255031615877",
+      "publishedAt": "2026-07-03T15:43:59.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-2d917dd38c4f",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and models",
+      "takeaway": "What are you building with Fable 5 this long weekend? Show me your demos in the replies! Small tip: You can use Claude Code with computer use to set up Claude Tag.",
+      "summary": "Cat Wu (_catwu on X) shared 2 recent updates. What are you building with Fable 5 this long weekend? Show me your demos in the replies! Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
+      "url": "https://x.com/_catwu/status/2073147672106873001",
+      "publishedAt": "2026-07-03T20:51:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-275ccfc4fa57",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "I’ve found the most important part of working with Fable is discovering my own unknowns so I can prompt it better, heres how I do that.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. I’ve found the most important part of working with Fable is discovering my own unknowns so I can prompt it better, heres how I do that. You can see examples of HTML artifacts for finding unknowns here: this is one of the posts that my AIE talk was based on s/o to @geoffreylitt for an incredible discussion at AIE that helped me refine some of this, including adding quizzes",
+      "url": "https://x.com/trq212/status/2073101078145724589",
+      "publishedAt": "2026-07-03T17:46:28.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-0fed182a2038",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Try video generation on Replit",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Try video generation on Replit",
+      "url": "https://x.com/amasad/status/2073003971287863717",
+      "publishedAt": "2026-07-03T11:20:35.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-c900e71d728e",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life,...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” Such beautiful, sacred words. Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills.",
+      "url": "https://x.com/rauchg/status/2073127044708479429",
+      "publishedAt": "2026-07-03T19:29:38.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-83c12f432610",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise, access to the right context and tools to work with, and are involved in workflow in a way that users can easily interact with, review its work, and incorporate it into the rest of the process.",
+      "url": "https://x.com/levie/status/2073138135014502777",
+      "publishedAt": "2026-07-03T20:13:43.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-8f6304e75309",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Wait time for specialists is going up at a moment AI is about to change it all I have a feeling AI will bring the quality of care up 100x and not a moment too soon for patients...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Wait time for specialists is going up at a moment AI is about to change it all I have a feeling AI will bring the quality of care up 100x and not a moment too soon for patients everywhere Fund recovery and treatment Defund harm acceleration NIMBYs like performative feel good virtue signal actions instead of actually solving the real problem by building housing",
+      "url": "https://x.com/garrytan/status/2073053799791710301",
+      "publishedAt": "2026-07-03T14:38:36.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-8885dff4da2f",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Best match of the World Cup so far. Cabo Verde ultimate Cinderella story, almost got a 3rd. Argentina is going to have to do *a lot* better going forward. #ARGxCBV.",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Best match of the World Cup so far. Cabo Verde ultimate Cinderella story, almost got a 3rd. Argentina is going to have to do *a lot* better going forward. #ARGxCBV. Somehow Argentina is forgetting the basic strategy of World Cup games: 1. Look for Messi 2. pass the ball to Messi 3. Messi scores 4. Repeat and Vozinha, man, what a goalie. And that insane 2nd CBV goal? All of it in a crowd that was like 99% Argentinian.",
+      "url": "https://x.com/mattturck/status/2073208255564681548",
+      "publishedAt": "2026-07-04T00:52:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-30529ce22471",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and tools",
+      "takeaway": "Tweeting a lot is easier than people think once you get over the first hump (I tweet 3 times a day on average) It stops being a task and becomes a LENS.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Tweeting a lot is easier than people think once you get over the first hump (I tweet 3 times a day on average) It stops being a task and becomes a LENS. Once you see your day & the world through it, you easily get three tweet ideas per day People are getting less willing to buy tools.",
+      "url": "https://x.com/zarazhangrui/status/2073280650300596414",
+      "publishedAt": "2026-07-04T05:40:01.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-4167ee5e8aa7",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models and costs",
+      "takeaway": "I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all.. > Flash - for fast cheap long context structured tasks > Nano banana - world class images. New lite model is great. > Search with grounding > Realtime - audio is really good with 3.",
+      "url": "https://x.com/nikunj/status/2073151491557478883",
+      "publishedAt": "2026-07-03T21:06:47.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-4c2636eddbf0",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and product",
+      "takeaway": "If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\". I fed Fable 80.000 of my tweets so it could roast me even more.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\". I fed Fable 80.000 of my tweets so it could roast me even more. 💀 I'm crying 🤣",
+      "url": "https://x.com/steipete/status/2073277317464682723",
+      "publishedAt": "2026-07-04T05:26:46.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-7f876cc59efe",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and costs",
+      "takeaway": "A new personal iOS app working end to end: 5M tokens Your whole prod bug backlog cleared: 20M tokens Unnecessarily detailed responses to every single unread email, Slack, and text...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. A new personal iOS app working end to end: 5M tokens Your whole prod bug backlog cleared: 20M tokens Unnecessarily detailed responses to every single unread email, Slack, and text message: 30M tokens Fable working for you while you’re at the pool: Priceless This is wrong, it’s the same model But it does fall back to Opud 4.",
+      "url": "https://x.com/danshipper/status/2073076447992746379",
+      "publishedAt": "2026-07-03T16:08:35.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-x-9398b5e039e3",
+      "date": "2026-07-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on product",
+      "takeaway": "Squidsoup is a collective of artists and designers who make immersive experiences with sound, light and space.",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Squidsoup is a collective of artists and designers who make immersive experiences with sound, light and space. We caught up with them before one of their largest projects to date: a live performance with an orchestra at the Southbank Centre in London.",
+      "url": "https://x.com/claudeai/status/2073028947478995406",
+      "publishedAt": "2026-07-03T12:59:50.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
+    {
+      "id": "2026-07-03-podcast-f72bde4fd64e",
+      "date": "2026-07-03",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Why NVIDIA Is Giving Away AI Models | Bryan Catanzaro",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "But, you know, the most important thing from NVIDIA's point of view that people are doing with LLMs is agents. Speaker 1 | 1:00:56 - 1:01:53 There's probably 10 teams around the company that have significant involvement in building Neutron, in different parts of the company, in in enterprise software, in our AI software division, the part of NVIDIA that actually designs the GPU also significantly is involved in in building Neemotron.",
+      "url": "https://www.youtube.com/watch?v=Oojrfdl42LI",
+      "publishedAt": "2026-07-02T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box",
+        "Perplexity"
+      ],
+      "createdAt": "2026-07-04T14:43:32.624Z"
+    },
     {
       "id": "2026-07-02-x-6b1bec0aad0c",
       "date": "2026-07-02",
