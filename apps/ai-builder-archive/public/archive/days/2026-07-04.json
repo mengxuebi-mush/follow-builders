@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-05T14:50:58.723Z",
+  "feedGeneratedAt": "2026-07-05T07:26:19.496Z",
+  "snippets": [
+    {
+      "id": "2026-07-04-x-9d79f7780f99",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/ here is me in my hip hop dance crew in 2003 (i am bottom left)",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/ here is me in my hip hop dance crew in 2003 (i am bottom left)",
+      "url": "https://x.com/swyx/status/2073657149067321412",
+      "publishedAt": "2026-07-05T06:36:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-c5f69a55a108",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago? A silly, but made me laugh interaction with Sol ----------------- 🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡 🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡 🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡 > 🫡 Salute received, loud and clear. Carry on! * 12 > 39 × 12 = 468 🫡 - 800 > 468 − 800 = −332 🫡 ? > There were 39 🫡 emojis.",
+      "url": "https://x.com/thsottiaux/status/2073551549494596079",
+      "publishedAt": "2026-07-04T23:36:28.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-be8302f7dad2",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Rooting for Paraguay later 😅 Please pull some Cape Verde shit Damn is this whole game going to get played in front of Paraguay goal Wow AI agrees with me 🤣",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Rooting for Paraguay later 😅 Please pull some Cape Verde shit Damn is this whole game going to get played in front of Paraguay goal Wow AI agrees with me 🤣",
+      "url": "https://x.com/petergyang/status/2073486769828614296",
+      "publishedAt": "2026-07-04T19:19:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-78b4a640e134",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on coding and models",
+      "takeaway": "If you drop every production table does the model get fired or do you get fired. The best way to catch bugs is to use the product and see if you can break it.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. If you drop every production table does the model get fired or do you get fired. The best way to catch bugs is to use the product and see if you can break it. You’re not going to find most bugs by dead reckoning the code. You’re reviewing the code itself for architecture and API design… to control the increase in technical debt When I wrote code by hand I would utter a constant stream of profanities while in flow...",
+      "url": "https://x.com/thenanyu/status/2073410944969932877",
+      "publishedAt": "2026-07-04T14:17:46.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-9f934d12416e",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on tools",
+      "takeaway": "Happy birthday, America! You don't look a day over 200.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. Happy birthday, America! You don't look a day over 200.",
+      "url": "https://x.com/AmandaAskell/status/2073569330940531152",
+      "publishedAt": "2026-07-05T00:47:08.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-51fa42f4f929",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and models",
+      "takeaway": "One of the things I love about Claude Fable 5 is that it knew to use propensity score matching (matching users on activity so you compare like with like) in my retention analysis...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. One of the things I love about Claude Fable 5 is that it knew to use propensity score matching (matching users on activity so you compare like with like) in my retention analysis without me asking. It’s exciting to see Fable 5’s improved judgment across all of its work, from writing emails and docs in Cowork to debugging complex errors in Claude Code",
+      "url": "https://x.com/_catwu/status/2073439890482794966",
+      "publishedAt": "2026-07-04T16:12:47.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-ac1c54eb9bad",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and costs",
+      "takeaway": "🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥 ⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜ 🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥 ⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 🏁 I animated...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. 🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥 ⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜ 🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥 ⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month.",
+      "url": "https://x.com/rauchg/status/2073428532613775819",
+      "publishedAt": "2026-07-04T15:27:39.000Z",
+      "tags": [
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Anthropic",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-ed18c0b4fe67",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "SF needs to build housing asap Incentivize and build supply Stop subsidizing demand Ryan is a part of the idiotic NIMBY class that only attacks people doing good work Guarantee...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. SF needs to build housing asap Incentivize and build supply Stop subsidizing demand Ryan is a part of the idiotic NIMBY class that only attacks people doing good work Guarantee you Ryan and all his degenerate buddies were protesting against Lurie’s YIMBY Family Zoning plans We want to build housing and make the city safe They want to destroy housing, jobs and make the city unsafe Make it make sense! You can’t.",
+      "url": "https://x.com/garrytan/status/2073575065917280331",
+      "publishedAt": "2026-07-05T01:09:55.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-9ed653b1de32",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Chills - Thierry Henry on growing up playing in the suburbs of Paris (and why 54 World Cup players are from there) Tough game but France got it done.",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Chills - Thierry Henry on growing up playing in the suburbs of Paris (and why 54 World Cup players are from there) Tough game but France got it done. Between Argentina and this game today, refereeing is becoming a major issue in this tournament. 3 yellows for France and zero for Paraguay who played like thugs?",
+      "url": "https://x.com/mattturck/status/2073506928773185551",
+      "publishedAt": "2026-07-04T20:39:10.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-87ae0b10bec6",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Moved to America for undergrad and have lived here ever since then.. Grateful to this country for the endless kindness it has bestowed on me.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Moved to America for undergrad and have lived here ever since then.. Grateful to this country for the endless kindness it has bestowed on me. Like any country it has its own share of issues, but convinced there’s no greater land of opportunity. Here’s to the next 250 🇺🇸",
+      "url": "https://x.com/nikunj/status/2073447791876317338",
+      "publishedAt": "2026-07-04T16:44:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-128b3d3cf429",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "In the next version of - see exactly when you resets expire so you can up your ̶t̶o̶k̶e̶n̶m̶a̶x̶x̶i̶n̶g̶ valuemaxxing game! What a ride.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. In the next version of - see exactly when you resets expire so you can up your ̶t̶o̶k̶e̶n̶m̶a̶x̶x̶i̶n̶g̶ valuemaxxing game! What a ride.",
+      "url": "https://x.com/steipete/status/2073482942513565713",
+      "publishedAt": "2026-07-04T19:03:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-d2c22be9503c",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and models",
+      "takeaway": "biggest learning from @3blue1brown on @dwarkesh_sp is I’ve been mispronouncing the name of every single famous mathematician this whole time Yo dawg we heard you like Codex in...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. biggest learning from @3blue1brown on @dwarkesh_sp is I’ve been mispronouncing the name of every single famous mathematician this whole time Yo dawg we heard you like Codex in ChatGPT",
+      "url": "https://x.com/danshipper/status/2073422764275364153",
+      "publishedAt": "2026-07-04T15:04:43.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-x-cca938e05d2e",
+      "date": "2026-07-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on tools",
+      "takeaway": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250. most impressive social experiment in history. they really nailed it with \"life, liberty, and the pursuit of happiness\"",
+      "url": "https://x.com/sama/status/2073635910512726444",
+      "publishedAt": "2026-07-05T05:11:42.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-blog-a9ddc31e6892",
+      "date": "2026-07-04",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    },
+    {
+      "id": "2026-07-04-podcast-9979ce83f3dd",
+      "date": "2026-07-04",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Cloudflare CEO: The Internet's Business Model Is Dead",
+      "takeaway": "Cloudflare CEO: The Internet's Business Model Is Dead. For the first time, the number of bots and AI agents has outnumbered humans on the Internet.",
+      "summary": "For the first time, the number of bots and AI agents has outnumbered humans on the Internet. The the cost of all these tokens just, know, it can can be just overwhelming and it's really easy for that to lose for you to lose control of that. But it turns out that, you know, if you think of it sort of x y axis and you know, the x axis is is budget and the y axis is is like security issues.",
+      "url": "https://www.youtube.com/watch?v=UN47z_opfmo",
+      "publishedAt": "2026-06-25T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-07-05T14:50:58.723Z"
+    }
+  ]
+}
