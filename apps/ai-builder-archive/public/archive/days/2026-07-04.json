@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-04",
-  "generatedAt": "2026-07-05T16:16:46.021Z",
+  "generatedAt": "2026-07-05T18:13:30.433Z",
   "feedGeneratedAt": "2026-07-05T07:26:19.496Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-c5f69a55a108",
@@ -42,7 +42,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-be8302f7dad2",
@@ -61,7 +61,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-78b4a640e134",
@@ -84,7 +84,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-9f934d12416e",
@@ -103,7 +103,7 @@
       "entities": [
         "Amanda Askell"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-51fa42f4f929",
@@ -124,7 +124,7 @@
         "Cat Wu",
         "Claude"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-ac1c54eb9bad",
@@ -146,7 +146,7 @@
         "Anthropic",
         "Vercel"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-ed18c0b4fe67",
@@ -165,7 +165,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-9ed653b1de32",
@@ -184,7 +184,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-87ae0b10bec6",
@@ -203,7 +203,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-128b3d3cf429",
@@ -222,7 +222,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-d2c22be9503c",
@@ -243,7 +243,7 @@
         "Dan Shipper",
         "Codex"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-x-cca938e05d2e",
@@ -262,7 +262,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-blog-a9ddc31e6892",
@@ -287,7 +287,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     },
     {
       "id": "2026-07-04-podcast-9979ce83f3dd",
@@ -315,7 +315,7 @@
         "Meta",
         "Box"
       ],
-      "createdAt": "2026-07-05T16:16:46.021Z"
+      "createdAt": "2026-07-05T18:13:30.433Z"
     }
   ]
 }
