@@ -1,7 +1,309 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T20:20:06.679Z",
+  "generatedAt": "2026-07-06T16:27:53.937Z",
   "snippets": [
+    {
+      "id": "2026-07-05-x-629f9986dfe2",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on tools",
+      "takeaway": "Damn they better have some armored vehicles to escort these English players out of the stadium 😅 I'm really excited to share these upcoming episodes for my podcast soon.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Damn they better have some armored vehicles to escort these English players out of the stadium 😅 I'm really excited to share these upcoming episodes for my podcast soon. One small ask: My birthday is on Thursday, July 9, and it would be amazing to finally hit 100K YouTube subscribers by then. I’m at 98.",
+      "url": "https://x.com/petergyang/status/2073945318283252167",
+      "publishedAt": "2026-07-06T01:41:10.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-3f8c31d35630",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and coding",
+      "takeaway": "The “real-time strategy game” model of managing agents is clearly a dead end. AI that’s ancient by current standards already beats &gt;99% of human players and out-micros them to...",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. The “real-time strategy game” model of managing agents is clearly a dead end. AI that’s ancient by current standards already beats &gt;99% of human players and out-micros them to an extreme degree Bragging about running 10 Claude code tabs is just theater Guess you can give up a goal when the opponent is down a man and their best player, and still talk shit",
+      "url": "https://x.com/thenanyu/status/2073920326304460847",
+      "publishedAt": "2026-07-06T00:01:52.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-349c8e2afb1f",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're...",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're basically asking for their hunch. I don't know if they get sued for giving out information or something.",
+      "url": "https://x.com/AmandaAskell/status/2073786264059625897",
+      "publishedAt": "2026-07-05T15:09:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-4ca4fe1610ef",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and coding",
+      "takeaway": "what are your top claude code + workflows + artifacts use cases? one of my new favorites is for sourcing candidates: - tell cc about the role and backgrounds i’m looking for - ask...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. what are your top claude code + workflows + artifacts use cases? one of my new favorites is for sourcing candidates: - tell cc about the role and backgrounds i’m looking for - ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each - ask cc to make an artifact and email it to me.",
+      "url": "https://x.com/_catwu/status/2073806626965049686",
+      "publishedAt": "2026-07-05T16:30:03.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-2451f75df985",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "\"God gave me a sign\" (remembering i live in San Francisco) \"I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity\"",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. \"God gave me a sign\" (remembering i live in San Francisco) \"I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity\"",
+      "url": "https://x.com/trq212/status/2073956140610924936",
+      "publishedAt": "2026-07-06T02:24:10.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-80d2295c8955",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "Happy 250 🇺🇸",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Happy 250 🇺🇸",
+      "url": "https://x.com/amasad/status/2073840276414616006",
+      "publishedAt": "2026-07-05T18:43:46.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-e55844f02518",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "🇺🇸 USA - 🇦🇷 ARG final you heard it here first",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. 🇺🇸 USA - 🇦🇷 ARG final you heard it here first",
+      "url": "https://x.com/rauchg/status/2073822630742983062",
+      "publishedAt": "2026-07-05T17:33:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-a930ba7ec1d3",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. Now it's only the ideas. Go have them, and then build them. It's your time. Age of the Unc confirmed I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling.",
+      "url": "https://x.com/garrytan/status/2073881439700168925",
+      "publishedAt": "2026-07-05T21:27:20.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-c2c33cdf50d7",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents",
+      "takeaway": "Norway: best jersey, best fan celebration, best striker. Tournament of the older goalies when I ask my AI agent to “make no mistakes”",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Norway: best jersey, best fan celebration, best striker. Tournament of the older goalies when I ask my AI agent to “make no mistakes”",
+      "url": "https://x.com/mattturck/status/2073889293567693110",
+      "publishedAt": "2026-07-05T21:58:33.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-372113ca7ade",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Resurfacing this skill I built (now that understanding your code is in vogue)",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Resurfacing this skill I built (now that understanding your code is in vogue)",
+      "url": "https://x.com/zarazhangrui/status/2073768913310200310",
+      "publishedAt": "2026-07-05T14:00:12.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-2a1325a8832d",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. Hit me with your favorite spots that are kid-friendly (4.5 yr old + 1.5 yr old) and vegetarian-friendly.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. Hit me with your favorite spots that are kid-friendly (4.5 yr old + 1.5 yr old) and vegetarian-friendly. Trying to see if we can set up play dates with local families - DM if that’s you! Still waiting on that one founder who gates a VC chat until they have played with the product and come with at least two pieces of feedback..",
+      "url": "https://x.com/nikunj/status/2073803608722939935",
+      "publishedAt": "2026-07-05T16:18:04.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-2819a69806a5",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Can’t recommend enough. use via",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Can’t recommend enough. use via",
+      "url": "https://x.com/steipete/status/2074007001802367446",
+      "publishedAt": "2026-07-06T05:46:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-da58d1b8cda5",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "me: change this button color Fable: sure I just spun up a fleet of 100 agents to get that done for you fable on ultracode \"make no mistakes\"",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. me: change this button color Fable: sure I just spun up a fleet of 100 agents to get that done for you fable on ultracode \"make no mistakes\"",
+      "url": "https://x.com/danshipper/status/2073764166700048480",
+      "publishedAt": "2026-07-05T13:41:20.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-x-0fe9d401c201",
+      "date": "2026-07-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "url": "https://x.com/sama/status/2073791666553844074",
+      "publishedAt": "2026-07-05T15:30:37.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
+    {
+      "id": "2026-07-05-podcast-e3e298fcbeac",
+      "date": "2026-07-05",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
+      "takeaway": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown. If you can build an agent or control the amount of test time compute being used, like, there's what...",
+      "summary": "If you can build an agent or control the amount of test time compute being used, like, there's what is done by the model itself, and there's what the user can do. We all need to actually reinforce either, like, a patience limit or a budget limit from a token perspective now, and that wasn't true a few years ago. Like, if you gave it a budget of $10,000,000 and said, okay.",
+      "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+      "publishedAt": "2026-06-26T10:13:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-06T16:27:53.937Z"
+    },
     {
       "id": "2026-07-04-x-9d79f7780f99",
       "date": "2026-07-04",
