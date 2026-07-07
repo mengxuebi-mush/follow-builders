@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-07T15:48:37.528Z",
+  "feedGeneratedAt": "2026-07-07T07:28:28.695Z",
+  "snippets": [
+    {
+      "id": "2026-07-06-x-8a4bd4e6cfd4",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and research",
+      "takeaway": "imo this is the most impt part of anthropic's J-space paper today. it's a two-parter: 1) ant proved that they can do \"brain surgery\" interventions into reasoning to change topics...",
+      "summary": "Swyx (swyx on X) shared 1 recent update. imo this is the most impt part of anthropic's J-space paper today. it's a two-parter: 1) ant proved that they can do \"brain surgery\" interventions into reasoning to change topics midstream* 2) THE MODEL IS ABLE TO DETECT WHAT INTERVENTION WAS DONE - close cousin to eval awareness** *control > correlation - this convincingly demonstrates understanding **this was prompted awareness...",
+      "url": "https://x.com/swyx/status/2074344727202463832",
+      "publishedAt": "2026-07-07T04:08:17.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-b8b73e81348e",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research. So much more to do. We are 1% done.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research. So much more to do. We are 1% done.",
+      "url": "https://x.com/bcherny/status/2074247226038063316",
+      "publishedAt": "2026-07-06T21:40:50.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-72aef499caaf",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll have a few surprises for folks. Hope to see many of you 👀",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll have a few surprises for folks. Hope to see many of you 👀",
+      "url": "https://x.com/thsottiaux/status/2074209421799166138",
+      "publishedAt": "2026-07-06T19:10:37.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-6aa1836061c0",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying before then, with prompts you can copy and paste: 1) FIND FABLE-WORTHY WORK You're...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying before then, with prompts you can copy and paste: 1) FIND FABLE-WORTHY WORK You're Fable 5, the most capable model available. Look through my projects, docs, and your memory, and list the top 5 tasks genuinely worth running on you. Rank them with a one-line reason each. Don't do the work yet.",
+      "url": "https://x.com/petergyang/status/2074206798631071796",
+      "publishedAt": "2026-07-06T19:00:12.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-ff6a2cbf83bc",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and coding",
+      "takeaway": "The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hours into work.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hours into work. But looking back, those hours were mostly spent on tedious programming tasks, which are largely automated now. 996 still has uses, but it’s not as universally effective as it was. Yeah, this resonates. I was horribly inefficient, so I brute forced a lot of stuff.",
+      "url": "https://x.com/thenanyu/status/2074133468007587932",
+      "publishedAt": "2026-07-06T14:08:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-7e6630fa1396",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and models",
+      "takeaway": "a retrospective on making claude code from our early team!",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. a retrospective on making claude code from our early team!",
+      "url": "https://x.com/_catwu/status/2074258446686536167",
+      "publishedAt": "2026-07-06T22:25:26.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-86927c038c9c",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "great post by @delba_oliveira to be specific the date/time is will be 11:59:59pm PT on 7/7 this is now on the Claude blog!",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. great post by @delba_oliveira to be specific the date/time is will be 11:59:59pm PT on 7/7 this is now on the Claude blog!",
+      "url": "https://x.com/trq212/status/2074209928961819081",
+      "publishedAt": "2026-07-06T19:12:38.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-1418387d7245",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. Many are asking how Replit is improving so rapidly—we closed the loop and the...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. Many are asking how Replit is improving so rapidly—we closed the loop and the agent is self-improving. Technical details here: Major inflection point around the time of the brief bear market fall of last year.",
+      "url": "https://x.com/amasad/status/2074274666709987663",
+      "publishedAt": "2026-07-06T23:29:53.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-206e40fc8ec2",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "Update: 🇪🇸 ESP - 🇦🇷 ARG final. The legendary Spanish team will avenge team USA with a decisive defeat of 🇧🇪.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Update: 🇪🇸 ESP - 🇦🇷 ARG final. The legendary Spanish team will avenge team USA with a decisive defeat of 🇧🇪. The ultimate test for coding AI: is software as a whole getting better? Are companies shipping faster? Do you now have apps and games you couldn't even dream of before? Is the software you're getting bug-free? For me: my own ability to influence my productivity has radically increased.",
+      "url": "https://x.com/rauchg/status/2074313180554412076",
+      "publishedAt": "2026-07-07T02:02:55.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel",
+        "Box"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-959aab5cf3d0",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Great post on how to think about open source AI and the applied AI layer. Two things will always be true in AI.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Great post on how to think about open source AI and the applied AI layer. Two things will always be true in AI. Frontier intelligence will likely remain at the forefront of solving brand new used cases and often be used for orchestrating and planning of any type of complex workflow.",
+      "url": "https://x.com/levie/status/2074163686990913576",
+      "publishedAt": "2026-07-06T16:08:53.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-7538429ae157",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise and costs",
+      "takeaway": "Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work The city will continue to crumble until the common sense and business forces unite...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work The city will continue to crumble until the common sense and business forces unite to vote smarter When headlines lie by omission, it says a lot about the headline writers in a news room This is how media is a bludgeon for an entrenched class of doom loop politicians They want their doom loop politician Gary McCoy in at...",
+      "url": "https://x.com/garrytan/status/2074279598612000785",
+      "publishedAt": "2026-07-06T23:49:29.000Z",
+      "tags": [
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-7c03586a5969",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and costs",
+      "takeaway": "If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped).",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped). You can literally learn from the best in the field from the comfort of your home. - AI Engineer @aiDotEngineer - Cursor Compile @cursor_ai - Figma Config It's crazy that all of this high-quality knowledge is freely shared on the Internet (the tickets to these conferences often cost hundreds of dollars), and...",
+      "url": "https://x.com/zarazhangrui/status/2074304295097561490",
+      "publishedAt": "2026-07-07T01:27:37.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Cursor"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-2ce7592ee32b",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "VCs: this job is investing in outliers. Also VC: here’s our revolutionary sourcing algorithm, custom built by our in house team, RLed on decades of data, with proprietary data...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. VCs: this job is investing in outliers. Also VC: here’s our revolutionary sourcing algorithm, custom built by our in house team, RLed on decades of data, with proprietary data signals from the moment someone is born. This job is very weird where there is so much serendipity and luck involved in how you stumbled upon an investment.",
+      "url": "https://x.com/nikunj/status/2074141483356340475",
+      "publishedAt": "2026-07-06T14:40:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-b26180396a10",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and costs",
+      "takeaway": "We been cooking, by the time this went through review main again is materially better 🥲 How do folks run AI-assisted engineering interviews these days? You don't wanna miss this.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. We been cooking, by the time this went through review main again is materially better 🥲 How do folks run AI-assisted engineering interviews these days? You don't wanna miss this. Signup closes this week. Will be there and share some claws and tokens 🦞",
+      "url": "https://x.com/steipete/status/2074210475777364197",
+      "publishedAt": "2026-07-06T19:14:49.000Z",
+      "tags": [
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-68e504f34dbe",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "interestingly, this holds true for how you use models too should you use fable to take a big expensive swing? or play small ball to grind your way up the hill?",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. interestingly, this holds true for how you use models too should you use fable to take a big expensive swing? or play small ball to grind your way up the hill? the gremlins have arrived in fable",
+      "url": "https://x.com/danshipper/status/2074160886164451735",
+      "publishedAt": "2026-07-06T15:57:45.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-x-4510f7c591f4",
+      "date": "2026-07-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.",
+      "summary": "Claude (claudeai on X) shared 1 recent update. We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.",
+      "url": "https://x.com/claudeai/status/2074244664199115201",
+      "publishedAt": "2026-07-06T21:30:40.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-blog-6cd28c156a1c",
+      "date": "2026-07-06",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    },
+    {
+      "id": "2026-07-06-podcast-d9d8a67357e1",
+      "date": "2026-07-06",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Building a School Where AI Models Learn About Humanity",
+      "takeaway": "Building a School Where AI Models Learn About Humanity. So I feel like we are on a trajectory to that, and that's almost the premise of agents where agents can now, yeah, go...",
+      "summary": "So I feel like we are on a trajectory to that, and that's almost the premise of agents where agents can now, yeah, go operate autonomously given some nebulous goal. So, yeah, think there's a lot that's been changing in the past year, especially in enterprise. We are building this kind of school for AGI where AI models come to learn about humanity, where we teach them how to run the world.",
+      "url": "https://www.youtube.com/watch?v=omX6wrLuX08",
+      "publishedAt": "2026-06-24T14:55:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-07-07T15:48:37.528Z"
+    }
+  ]
+}
