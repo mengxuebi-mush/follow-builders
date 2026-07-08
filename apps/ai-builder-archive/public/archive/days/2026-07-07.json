@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T15:30:21.242Z",
+  "feedGeneratedAt": "2026-07-08T07:08:54.259Z",
+  "snippets": [
+    {
+      "id": "2026-07-07-x-3b28a0cb08e7",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "it_happening.gif",
+      "summary": "Swyx (swyx on X) shared 1 recent update. it_happening.gif",
+      "url": "https://x.com/swyx/status/2074683022503490012",
+      "publishedAt": "2026-07-08T02:32:32.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-7d310d8ba1ac",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Prepare your sunglasses. Sol is coming. 😎",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Prepare your sunglasses. Sol is coming. 😎",
+      "url": "https://x.com/thsottiaux/status/2074705681920520526",
+      "publishedAt": "2026-07-08T04:02:35.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-b5c41a6a968d",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Dumb question: I’ve been running most of my cron jobs locally on my Mac Mini because it’s already authenticated with Google Workspace and the other apps I use.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Dumb question: I’ve been running most of my cron jobs locally on my Mac Mini because it’s already authenticated with Google Workspace and the other apps I use. But should I run these jobs in the cloud instead with these apps OAuth’d to my Claude or ChatGPT account? How should I think about what jobs should stay local vs. move to the cloud?",
+      "url": "https://x.com/petergyang/status/2074616982197174515",
+      "publishedAt": "2026-07-07T22:10:07.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-2214ede8740c",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "starting a family tbh",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. starting a family tbh",
+      "url": "https://x.com/thenanyu/status/2074484075314733323",
+      "publishedAt": "2026-07-07T13:22:00.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-9178aa50b27d",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "having worked with Brendan and mercor, can confirm they are excellent. also having worked in ai models for enterprise, can confirm the opportunity around data and evals for...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 3 recent updates. having worked with Brendan and mercor, can confirm they are excellent. also having worked in ai models for enterprise, can confirm the opportunity around data and evals for enterprise is massssive. guys, stop fixing typos and audio transcription errors in your prompts to ai. they cracked the IMO. they know what ‘teh’ is. true. let’s unpack this..",
+      "url": "https://x.com/realmadhuguru/status/2074658481760821390",
+      "publishedAt": "2026-07-08T00:55:01.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-810b6e7220d2",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and tools",
+      "takeaway": "This is a good clip that shows a few layouts. I'm pretty happy with this, maybe the slide layout could be a bit different and I'm curious how it will alternate between camera cuts.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. This is a good clip that shows a few layouts. I'm pretty happy with this, maybe the slide layout could be a bit different and I'm curious how it will alternate between camera cuts. That's all for now, will get Claude to do a full render & report back later. I really like how it takes some of the slides which are static (each one of these is its own slide in the original deck) and turns them into animations.",
+      "url": "https://x.com/trq212/status/2074622734118924561",
+      "publishedAt": "2026-07-07T22:32:59.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-258f137bae18",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Heavenly victory 🇦🇷 Welcome @bekacru to Vercel. It's a privilege to join forces with Bereket and Better Auth to further our Open SDK vision.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Heavenly victory 🇦🇷 Welcome @bekacru to Vercel. It's a privilege to join forces with Bereket and Better Auth to further our Open SDK vision. Developers deserve better auth, to serve humans and agents, built in the open and with taste. That's what Bereket has accomplished. Congrats! 🇪🇹🇺🇸 The filesystem is beautiful. Want your agent to have GitHub powers? Define 𝚝𝚘𝚘𝚕𝚜/𝚐𝚒𝚝𝚑𝚞𝚋.",
+      "url": "https://x.com/rauchg/status/2074555608578281920",
+      "publishedAt": "2026-07-07T18:06:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-ae428b4cf43e",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the common themes that stand out: * Lots of conversation that you...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the common themes that stand out: * Lots of conversation that you have to solve an operating model challenge to get the full benefits of AI. Most companies have orgs that have always operated in siloes; but agents are most effectively when they are tied to a process, which often cuts across these siloes.",
+      "url": "https://x.com/levie/status/2074719479377109312",
+      "publishedAt": "2026-07-08T04:57:24.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-fd92ea9d79a1",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Common sense Democrats take note Time to organize against radical leftism and asset seizure inside the party Without building housing, San Francisco will turn a mega economic W...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Common sense Democrats take note Time to organize against radical leftism and asset seizure inside the party Without building housing, San Francisco will turn a mega economic W into the biggest L in civic history Dirty smear politics is alive and well in SF, and it's high time we made sure the playbook backfires from here A few dishonest groups invent a smear and the local legacy media rubber stamps it out of...",
+      "url": "https://x.com/garrytan/status/2074599259803160773",
+      "publishedAt": "2026-07-07T20:59:42.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-1b7b6dace069",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "VC greeting his top AI portfolio company vs that SaaS investment from 8 years ago that’s running out of cash",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. VC greeting his top AI portfolio company vs that SaaS investment from 8 years ago that’s running out of cash",
+      "url": "https://x.com/mattturck/status/2074441949772169216",
+      "publishedAt": "2026-07-07T10:34:36.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-eaee003f64ef",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "How to learn in the age of AI",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. How to learn in the age of AI",
+      "url": "https://x.com/zarazhangrui/status/2074661564964307153",
+      "publishedAt": "2026-07-08T01:07:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-37689d53a3b9",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "I have been screaming this for the past year, but kind reminder to everyone: GMV is NOT ARR. Let's get our definitions right for once and for all..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. I have been screaming this for the past year, but kind reminder to everyone: GMV is NOT ARR. Let's get our definitions right for once and for all.. or at least be honest what it is🤦‍♂️ My favorite practical Fable use case (so far) has been generating /insights on Claude Code, feeding it in, and asking.. \"In a Fable era, how should I be using Claude Code to maximize its utility?",
+      "url": "https://x.com/nikunj/status/2074597133286851064",
+      "publishedAt": "2026-07-07T20:51:15.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-e531fee4c69a",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "If you run this workflow, ask Fable to make codex the workhorse. \"We’re a very large customer of Anthropic and they still have yet to tell us about the lawsuit.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. If you run this workflow, ask Fable to make codex the workhorse. \"We’re a very large customer of Anthropic and they still have yet to tell us about the lawsuit. I learned about it from a reporter, not our “partner.” \" Bonus: Comes with a skill to show a big alert when agents need your help for additional context, instead of (e.g.) just a no-context 1Password dialog.",
+      "url": "https://x.com/steipete/status/2074638582418231495",
+      "publishedAt": "2026-07-07T23:35:57.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Anthropic",
+        "Codex"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-90c9a2e8b363",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "More important to wear the colors proudly the day after a loss. Proud of USMNT. We were outclasses yesterday Down but not out. We will be back.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. More important to wear the colors proudly the day after a loss. Proud of USMNT. We were outclasses yesterday Down but not out. We will be back.",
+      "url": "https://x.com/adityaag/status/2074512219434602995",
+      "publishedAt": "2026-07-07T15:13:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-85cb2823807f",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and product",
+      "takeaway": "GPT-5.6 sol launches thursday! happy building",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. GPT-5.6 sol launches thursday! happy building",
+      "url": "https://x.com/sama/status/2074709023807664454",
+      "publishedAt": "2026-07-08T04:15:52.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-x-0a83529e84f4",
+      "date": "2026-07-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "We're extending access to Claude Fable 5 on all paid plans through July 12. As before, you can use up to 50% of your weekly usage limit on Claude Fable 5.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. We're extending access to Claude Fable 5 on all paid plans through July 12. As before, you can use up to 50% of your weekly usage limit on Claude Fable 5. After that, you can keep using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits. Read more: We're extending doubled Cowork usage limits through August 5, so you can delegate bigger work to Claude. Read more:",
+      "url": "https://x.com/claudeai/status/2074548242386178258",
+      "publishedAt": "2026-07-07T17:36:58.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-blog-97cd97d27d22",
+      "date": "2026-07-07",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    },
+    {
+      "id": "2026-07-07-podcast-9f7816fb55db",
+      "date": "2026-07-07",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
+      "takeaway": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents. AI robotics, foundation models, anything related to that.",
+      "summary": "AI robotics, foundation models, anything related to that.",
+      "url": "https://www.youtube.com/watch?v=6bGxm8gX41o",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data"
+      ],
+      "createdAt": "2026-07-08T15:30:21.242Z"
+    }
+  ]
+}
