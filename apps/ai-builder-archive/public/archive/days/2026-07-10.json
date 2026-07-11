@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-11T14:24:47.236Z",
+  "feedGeneratedAt": "2026-07-11T07:00:56.864Z",
+  "snippets": [
+    {
+      "id": "2026-07-10-podcast-ab2b654bc2d1",
+      "date": "2026-07-10",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "When I go and ask my friends and family whether they'd be comfortable letting an agent buy things on their behalf, they usually jump straight to like, well, is it gonna overspend, and is it gonna buy the wrong thing, and can I stop it? Like, I'm gonna solve my free trial abuse problem by only having a sales sold motion and only going after enterprises and not having PLG and right? The dine and dash, but it's for token.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-07-09T11:30:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Claude",
+        "Cursor",
+        "Vercel",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-07-11T14:24:47.236Z"
+    }
+  ]
+}
