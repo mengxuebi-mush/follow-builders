@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-11",
-  "generatedAt": "2026-07-12T16:07:22.214Z",
+  "generatedAt": "2026-07-12T18:06:56.962Z",
   "feedGeneratedAt": "2026-07-12T07:09:00.834Z",
   "snippets": [
     {
@@ -24,7 +24,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-ed5bc085d889",
@@ -48,7 +48,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-00625322ae51",
@@ -67,7 +67,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-2e62720cbcce",
@@ -86,7 +86,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-1c499908c13e",
@@ -109,7 +109,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-5c2d056e49e8",
@@ -129,7 +129,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-e27af4dcd10d",
@@ -148,7 +148,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-b4b135264b18",
@@ -167,7 +167,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-cca55a4833b7",
@@ -186,7 +186,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-x-f81915136f79",
@@ -207,7 +207,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     },
     {
       "id": "2026-07-11-podcast-58c1d5f7355c",
@@ -233,7 +233,7 @@
         "Claude",
         "Google"
       ],
-      "createdAt": "2026-07-12T16:07:22.214Z"
+      "createdAt": "2026-07-12T18:06:56.962Z"
     }
   ]
 }
