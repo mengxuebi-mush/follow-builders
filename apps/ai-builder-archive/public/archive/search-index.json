@@ -1,7 +1,238 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T20:09:36.977Z",
+  "generatedAt": "2026-07-12T14:36:23.354Z",
   "snippets": [
+    {
+      "id": "2026-07-11-x-31e4774c5c36",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the...",
+      "summary": "Swyx (swyx on X) shared 1 recent update. if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of: - humans who can wield coding agents well* - coding agents breaking containment to all other knowledge work as the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better...",
+      "url": "https://x.com/swyx/status/2076155833428431012",
+      "publishedAt": "2026-07-12T04:04:58.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-ed5bc085d889",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Step 1: Install CLIProxyAPI Step 2: Connect Step 3: Define following alias and enjoy claudex ``` alias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "publishedAt": "2026-07-12T01:40:04.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-00625322ae51",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "The score is 3 vs 1 but imo this was a very mixed performance from Argentina. Not sure how they’ll do against England. They’re playing so badly even up one man Well shit",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. The score is 3 vs 1 but imo this was a very mixed performance from Argentina. Not sure how they’ll do against England. They’re playing so badly even up one man Well shit",
+      "url": "https://x.com/petergyang/status/2076151105080447404",
+      "publishedAt": "2026-07-12T03:46:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-2e62720cbcce",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "Easy money (Swiss francs)",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Easy money (Swiss francs)",
+      "url": "https://x.com/rauchg/status/2076151956440261008",
+      "publishedAt": "2026-07-12T03:49:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-1c499908c13e",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields. Why is that?",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields. Why is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.",
+      "url": "https://x.com/levie/status/2076116544980214164",
+      "publishedAt": "2026-07-12T01:28:51.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-5c2d056e49e8",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "So much could go wrong But the interesting question is always: what happens if things go right? If you want to supercharge building in California again, you're going to need to...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. So much could go wrong But the interesting question is always: what happens if things go right? If you want to supercharge building in California again, you're going to need to repeal and reform CEQA Millions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today.",
+      "url": "https://x.com/garrytan/status/2075933358660730901",
+      "publishedAt": "2026-07-11T13:20:56.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-e27af4dcd10d",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+      "url": "https://x.com/mattturck/status/2076141940484010189",
+      "publishedAt": "2026-07-12T03:09:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-b4b135264b18",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Ok 5.6 Sol is very good at front end 👌",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Ok 5.6 Sol is very good at front end 👌",
+      "url": "https://x.com/zarazhangrui/status/2076130810143367453",
+      "publishedAt": "2026-07-12T02:25:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-cca55a4833b7",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Argentina has the mandate of heaven.. what a strike by Alvarez. England vs. Argentina France vs. Spain Pure cinema 💥",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Argentina has the mandate of heaven.. what a strike by Alvarez. England vs. Argentina France vs. Spain Pure cinema 💥",
+      "url": "https://x.com/nikunj/status/2076150076087611433",
+      "publishedAt": "2026-07-12T03:42:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-x-f81915136f79",
+      "date": "2026-07-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and costs",
+      "takeaway": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again 30% of the...",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again 30% of the cost was on fable at these levels of usage?",
+      "url": "https://x.com/sama/status/2075983427019612242",
+      "publishedAt": "2026-07-11T16:39:53.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
+    {
+      "id": "2026-07-11-podcast-58c1d5f7355c",
+      "date": "2026-07-11",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
+      "takeaway": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel. You're trying to get some agent to pick it up. How many tokens are we consuming?",
+      "summary": "You're trying to get some agent to pick it up. How many tokens are we consuming? And so and that was why companies like ourselves took a big hit as some of the new models were dropped that had a much better way of doing agent in commerce as it was perceived at the time.",
+      "url": "https://www.youtube.com/watch?v=8nj_0wZkbtA",
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-12T14:36:23.354Z"
+    },
     {
       "id": "2026-07-10-podcast-ab2b654bc2d1",
       "date": "2026-07-10",
