@@ -1,7 +1,340 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T20:08:39.791Z",
+  "generatedAt": "2026-07-13T15:48:35.189Z",
   "snippets": [
+    {
+      "id": "2026-07-12-x-8479db04a246",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "btw the difference is introspection/backpropagation as einstein famously said, the definition of insanity is doing multiple rollouts with no expectation of advantage more on...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. btw the difference is introspection/backpropagation as einstein famously said, the definition of insanity is doing multiple rollouts with no expectation of advantage more on @latentspacepod writeup",
+      "url": "https://x.com/swyx/status/2076345087634620528",
+      "publishedAt": "2026-07-12T16:37:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-0373b0fe14d9",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and coding",
+      "takeaway": "Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model. Updates for Codex and ChatGPT Work users. No nerfing, only good stuff! - We have landed inference optimizations and are passing down savings to all the subscriptions for GPT-5.6 Sol. That should result in around 10% more usage on its own.",
+      "url": "https://x.com/thsottiaux/status/2076459871021736245",
+      "publishedAt": "2026-07-13T00:13:06.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-eeb0f86f49a9",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "Anthropic makes great models too but I don't understand why they communicate like this. I think they need to engage the community more directly like what OpenAI is doing.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Anthropic makes great models too but I don't understand why they communicate like this. I think they need to engage the community more directly like what OpenAI is doing. Seeing this quite often today. My wild guess is 90%+ of people are using GPT 5.6 Sol and &lt;10% are using Terra or Luna. There's a tendancy when community sentiment turns to communicate less and in a more corporate way.",
+      "url": "https://x.com/petergyang/status/2076510899490480228",
+      "publishedAt": "2026-07-13T03:35:52.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-3484c491e357",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on ai",
+      "takeaway": "Enjoy!",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Enjoy!",
+      "url": "https://x.com/_catwu/status/2076358263688569314",
+      "publishedAt": "2026-07-12T17:29:21.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-08cc6b37efa9",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and costs",
+      "takeaway": "Vibe Research Fine-tuning a Qwen-8b model to play chess on Replit. Running 3 parallel branches with different experiments and making real progress.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Vibe Research Fine-tuning a Qwen-8b model to play chess on Replit. Running 3 parallel branches with different experiments and making real progress. It's amazing how far models have come in their ability to do ML (they used to be really bad at it). So now someone with good intuition to guide the process could do interesting ML work, even if they have never done it before.",
+      "url": "https://x.com/amasad/status/2076227936202662357",
+      "publishedAt": "2026-07-12T08:51:29.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-c48875733550",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "Make the model a cog in a machine you own. ◾ AI SDK → open model API ◾ → open Agent API ◾ AI Gateway → open ZDR inference Startups and enterprises must own their data, evals,...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Make the model a cog in a machine you own. ◾ AI SDK → open model API ◾ → open Agent API ◾ AI Gateway → open ZDR inference Startups and enterprises must own their data, evals, model choices, software layer. Don't outsource your brain.",
+      "url": "https://x.com/rauchg/status/2076364176252191222",
+      "publishedAt": "2026-07-12T17:52:51.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-def08b4373ec",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in the form of decisions, insights, workflow patterns, and best...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in the form of decisions, insights, workflow patterns, and best practices in a world where so much intelligence is packed into AI models. One might think these questions could just get bitter lessoned out of existence, but in reality they become even more germane as intelligence becomes more powerful.",
+      "url": "https://x.com/levie/status/2076338364635287637",
+      "publishedAt": "2026-07-12T16:10:17.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-8b0059a1241f",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Craven politicians who disable public safety technology for virtue signal and culture war purposes will always get blood on their hands",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Craven politicians who disable public safety technology for virtue signal and culture war purposes will always get blood on their hands",
+      "url": "https://x.com/garrytan/status/2076534860064416115",
+      "publishedAt": "2026-07-13T05:11:05.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-fb0b6342f479",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and tools",
+      "takeaway": "And Argentina will get to play Monaco, Easter Island and Willy Wonka’s Chocolate Factory me when they say anyone can now build apps with an agentic coding tool",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. And Argentina will get to play Monaco, Easter Island and Willy Wonka’s Chocolate Factory me when they say anyone can now build apps with an agentic coding tool",
+      "url": "https://x.com/mattturck/status/2076343266291626064",
+      "publishedAt": "2026-07-12T16:29:45.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-3145ee875302",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Passion is the biggest moat Try \"meeting transcript as PRD\", it's amazing I discuss a feature's implementation with a colleague, send transcript to Codex, and it builds the...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Passion is the biggest moat Try \"meeting transcript as PRD\", it's amazing I discuss a feature's implementation with a colleague, send transcript to Codex, and it builds the prototype as we discussed. The meeting is the prompt",
+      "url": "https://x.com/zarazhangrui/status/2076284012339843546",
+      "publishedAt": "2026-07-12T12:34:18.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Codex"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-c4c43d078600",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on costs",
+      "takeaway": "What’s funny is I’ll meet so many people in SF who’ll claim they are tokenmaxxing and have all of these subagents looping things for them..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. What’s funny is I’ll meet so many people in SF who’ll claim they are tokenmaxxing and have all of these subagents looping things for them.. But when I ask them “what” and for “whom” are they building, very few can give me a straight answer. Shows that even in this insane AI era, simplicity and direction are still ridiculously important.",
+      "url": "https://x.com/nikunj/status/2076458876816540144",
+      "publishedAt": "2026-07-13T00:09:09.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-f05c40d6e7b6",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "That's about as many sessions as my Mac Studio can take. Spent the weekend on a little facelift. I shard my work over ~5 machines via Jump Desktop, this is just my beefiest...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. That's about as many sessions as my Mac Studio can take. Spent the weekend on a little facelift. I shard my work over ~5 machines via Jump Desktop, this is just my beefiest machine.",
+      "url": "https://x.com/steipete/status/2076552605262872904",
+      "publishedAt": "2026-07-13T06:21:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-8a20eeca0e6f",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "capitalism stays winning! a spectacularly questionable result tbh extremely relatable",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. capitalism stays winning! a spectacularly questionable result tbh extremely relatable",
+      "url": "https://x.com/danshipper/status/2076351869782286707",
+      "publishedAt": "2026-07-12T17:03:57.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-61cc3e8c5388",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
+      "url": "https://x.com/sama/status/2076398253332140410",
+      "publishedAt": "2026-07-12T20:08:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-x-bedf05ddc972",
+      "date": "2026-07-12",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19. As before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits. More details here:",
+      "url": "https://x.com/claudeai/status/2076351399999557669",
+      "publishedAt": "2026-07-12T17:02:05.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
+    {
+      "id": "2026-07-12-podcast-830f10ecfd93",
+      "date": "2026-07-12",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "takeaway": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor. Welcome to War two fifty, first advanced reactor to ever make power by startup.",
+      "summary": "Welcome to War two fifty, first advanced reactor to ever make power by startup. Most of the nuclear industry is a modeling and simulation industry.",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+      "publishedAt": "2026-07-02T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Box"
+      ],
+      "createdAt": "2026-07-13T15:48:35.189Z"
+    },
     {
       "id": "2026-07-11-x-31e4774c5c36",
       "date": "2026-07-11",
