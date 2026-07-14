@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-14T15:00:36.429Z",
+  "feedGeneratedAt": "2026-07-14T06:59:10.343Z",
+  "snippets": [
+    {
+      "id": "2026-07-13-x-58733ed90194",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and tools",
+      "takeaway": "where i'm currently at for Big Boy projects: - sol ultra to plan - fable 5 to critique - sonnet 5/terra ultra/swe 1.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. where i'm currently at for Big Boy projects: - sol ultra to plan - fable 5 to critique - sonnet 5/terra ultra/swe 1.7 to ultracode/slop cannon - devin review to review (using kakuna) ~always use a variant of @mattpocockuk's grill-me or @trq212's interview-me to elicit decisions upfront @mattpocockuk @trq212 what other people are recommending to use @resend AGAIN. TODAY.",
+      "url": "https://x.com/swyx/status/2076811977918484795",
+      "publishedAt": "2026-07-13T23:32:15.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-8bd3059bb79b",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Tomorrow might be 8M active user celebration day. Just saying ChatGPT Work presents Build your dreams",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Tomorrow might be 8M active user celebration day. Just saying ChatGPT Work presents Build your dreams",
+      "url": "https://x.com/thsottiaux/status/2076907789763621237",
+      "publishedAt": "2026-07-14T05:52:58.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-3f957764325b",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": ".@nikitabier is it possible to find accounts that just instantly reply to posts from bigger accounts? Those are usually AI bots worth banning? I block a bunch every week.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. .@nikitabier is it possible to find accounts that just instantly reply to posts from bigger accounts? Those are usually AI bots worth banning? I block a bunch every week. Love the man but this isn’t a small tweak I only see neutrals now 😂 Not sure this will last tbh better enjoy it while we can! At the risk of losing friends: Singlethreads: Flowers on sushi?",
+      "url": "https://x.com/petergyang/status/2076897407439454577",
+      "publishedAt": "2026-07-14T05:11:43.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-ae4bd240b734",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product and tools",
+      "takeaway": "This becomes much more apparent once you examine the jobs of people with “designer” in their title outside of software! Chinese room btw",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. This becomes much more apparent once you examine the jobs of people with “designer” in their title outside of software! Chinese room btw",
+      "url": "https://x.com/thenanyu/status/2076783865528516971",
+      "publishedAt": "2026-07-13T21:40:32.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-d00f592565b5",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on ai",
+      "takeaway": "Artifacts just got an upgrade!",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Artifacts just got an upgrade!",
+      "url": "https://x.com/_catwu/status/2076867882894684314",
+      "publishedAt": "2026-07-14T03:14:24.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-c12f59bfd7bb",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "This makes artifacts much more expressive and can be combined in creative ways. One of my favorites is to create a dashboard for a project in Claude Tag that can be edited by...",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. This makes artifacts much more expressive and can be combined in creative ways. One of my favorites is to create a dashboard for a project in Claude Tag that can be edited by others or by my local Claude Code sessions.",
+      "url": "https://x.com/trq212/status/2076790799011131735",
+      "publishedAt": "2026-07-13T22:08:06.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-429e7547749e",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding and models",
+      "takeaway": "Getting realtime progress updates on my model training runs. This feels like early vibe coding except it’s making personal models. Our code",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Getting realtime progress updates on my model training runs. This feels like early vibe coding except it’s making personal models. Our code",
+      "url": "https://x.com/amasad/status/2076776737074184661",
+      "publishedAt": "2026-07-13T21:12:13.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-76d9b28b5c2a",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "“Open-weight models ran 29% of gateway tokens, up from 11% in April” The two most popular features so far have been: 1️⃣ The ease of use / filesystem API 2️⃣ Observability We’re...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. “Open-weight models ran 29% of gateway tokens, up from 11% in April” The two most popular features so far have been: 1️⃣ The ease of use / filesystem API 2️⃣ Observability We’re doubling down on both! Powerful building block for autonomous, self-optimizing websites and applications. Give agents the ability to set up and tune experiments with feature flags.",
+      "url": "https://x.com/rauchg/status/2076713720731042174",
+      "publishedAt": "2026-07-13T17:01:49.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-31c0504802b9",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The biggest challenge right now with the topic of every enterprise having their own model is that your most valuable information and insights are not only always changing, but...",
+      "summary": "Aaron Levie (levie on X) shared 3 recent updates. The biggest challenge right now with the topic of every enterprise having their own model is that your most valuable information and insights are not only always changing, but they’re often your most sensitive information. Your most sensitive information can’t be packed into a model usually because it contains data that not everyone gets to have access to, and you can’t keep your security layer inside the model or...",
+      "url": "https://x.com/levie/status/2076764958579446006",
+      "publishedAt": "2026-07-13T20:25:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-92be64eb66b2",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding and tools",
+      "takeaway": "super stoked for jenny to join and lead our team 💛 makes me really happy for the team, and personally excited to regain the focus and mental space to dream big again built a...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 3 recent updates. super stoked for jenny to join and lead our team 💛 makes me really happy for the team, and personally excited to regain the focus and mental space to dream big again built a custom e-reader firmware with Cursor, hardware hacking is fun!",
+      "url": "https://x.com/ryolu_/status/2076689062921150479",
+      "publishedAt": "2026-07-13T15:23:50.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-b75ae63566e5",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Era of the Gentleman Scientist is so back",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Era of the Gentleman Scientist is so back",
+      "url": "https://x.com/garrytan/status/2076587412516421945",
+      "publishedAt": "2026-07-13T08:39:54.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-ff74d5cf8ae3",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "The 3 levels of AI adoption for organizations Most companies are at level 2 Back in March I recorded a 45-min conversation (outdoors!",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. The 3 levels of AI adoption for organizations Most companies are at level 2 Back in March I recorded a 45-min conversation (outdoors!) with @ashebytes on building in public, growing my audience on X (without the slop), and my thoughts on vibe coding Watch it here ⬇️ @ashebytes",
+      "url": "https://x.com/zarazhangrui/status/2076862290985730481",
+      "publishedAt": "2026-07-14T02:52:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-c65f91158383",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "So @tryramp's core mission is \"save money AND time\", but I was still spending time categorizing & adding receipts to my expenses.. at least till I discovered their CLI.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. So @tryramp's core mission is \"save money AND time\", but I was still spending time categorizing & adding receipts to my expenses.. at least till I discovered their CLI. Introducing the Ramp-Autofill skill ✍️ > finds receipts automatically from your iMessage & Gmail. if it's in a link, it'll use playwright to convert the web page into a pdf and attach to the receipt automatically.",
+      "url": "https://x.com/nikunj/status/2076775924650107151",
+      "publishedAt": "2026-07-13T21:08:59.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-f9b2bb0d7e8a",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and tools",
+      "takeaway": "\"stress test\" is a good prompt. We shipped! iOS and Android apps also got updates and they look great.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. \"stress test\" is a good prompt. We shipped! iOS and Android apps also got updates and they look great. Had to bump Node to keep things smooth, if the autoupdater doesn't work, run the web installer and it'll take care of that for you. I moved our maintainer agent to the cloud and they are fighting already.",
+      "url": "https://x.com/steipete/status/2076886451455992249",
+      "publishedAt": "2026-07-14T04:28:11.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-058f33791b32",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and coding",
+      "takeaway": "I don't know if I am using Codex or ChatGPT (wtf) But I do know that I am asking a AGI LEVEL coding agent: \"What necklaces does Benson Boone wear? (for my daughter)",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. I don't know if I am using Codex or ChatGPT (wtf) But I do know that I am asking a AGI LEVEL coding agent: \"What necklaces does Benson Boone wear? (for my daughter)",
+      "url": "https://x.com/adityaag/status/2076821102194721167",
+      "publishedAt": "2026-07-14T00:08:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Codex"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-x-01214ddd6a9d",
+      "date": "2026-07-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and product",
+      "takeaway": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something still sorta breaks my brain to see our models be good at design finally \"hard questions...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. i thought this was satire, kept looking for the handle to be spelled c1audeai or something still sorta breaks my brain to see our models be good at design finally \"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+      "url": "https://x.com/sama/status/2076824686307271125",
+      "publishedAt": "2026-07-14T00:22:45.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-blog-a9ddc31e6892",
+      "date": "2026-07-13",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    },
+    {
+      "id": "2026-07-13-podcast-ab2b654bc2d1",
+      "date": "2026-07-13",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Inside Nemotron & NVIDIA’s AI Lab | Bryan Catanzaro",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "But, you know, the most important thing from NVIDIA's point of view that people are doing with LLMs is agents. Speaker 1 | 1:00:56 - 1:01:53 There's probably 10 teams around the company that have significant involvement in building Neutron, in different parts of the company, in in enterprise software, in our AI software division, the part of NVIDIA that actually designs the GPU also significantly is involved in in building Neemotron.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-07-02T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box",
+        "Perplexity"
+      ],
+      "createdAt": "2026-07-14T15:00:36.429Z"
+    }
+  ]
+}
