@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-15T14:59:28.803Z",
+  "feedGeneratedAt": "2026-07-15T07:01:28.551Z",
+  "snippets": [
+    {
+      "id": "2026-07-14-x-6fa1fa2c818a",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and product",
+      "takeaway": "SF Personal AI engineers - if you are building personal agents, come demo at new media lab this thursday night (and meet @shloked, one of the best builder-writers I've had the...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. SF Personal AI engineers - if you are building personal agents, come demo at new media lab this thursday night (and meet @shloked, one of the best builder-writers I've had the fortune to meet this year). last time we held this meetup our featured speakers got acquired by @Amazon hardware division... and 2 years later I'm still a daily active user. just incredible to see the staying power of PAI.",
+      "url": "https://x.com/swyx/status/2077243443391422813",
+      "publishedAt": "2026-07-15T04:06:44.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-bfec48882c3d",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched? Tweet it, claim your gift, enjoy more usage.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched? Tweet it, claim your gift, enjoy more usage. First 10k get the free tokens! Here you are! Thinking I am about to announce a reset. But no. I’m just scrolling twitter and looking for feedback on ChatGPT Work. What should we improve? Embarrassment of riches. But looks like we might hit 9M soon.",
+      "url": "https://x.com/thsottiaux/status/2077248807533003257",
+      "publishedAt": "2026-07-15T04:28:03.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-e5b14da9d1e9",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Holy shit a time traveler or cope? Tomorrow, I’m sharing a new video on how I use ChatGPT Work (also known as Codex 😅) to do almost everything on my computer.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Holy shit a time traveler or cope? Tomorrow, I’m sharing a new video on how I use ChatGPT Work (also known as Codex 😅) to do almost everything on my computer. I’ll cover my complete setup in 7 steps below, from choosing the right GPT-5.6 model to managing email, calendar, and recurring tasks. 📌 Subscribe to get the tutorial tomorrow: Best player from Spain",
+      "url": "https://x.com/petergyang/status/2077172496424751376",
+      "publishedAt": "2026-07-14T23:24:49.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-f20cd4bf0361",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "I've been playing a lot of Pokemon Champions recently and started using Claude Code to help me. It writes code using Smogon's npm library, pulls live usage stats and then writes...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I've been playing a lot of Pokemon Champions recently and started using Claude Code to help me. It writes code using Smogon's npm library, pulls live usage stats and then writes reports to understand matchups, breakpoints or theorycraft teams. I'll open source this if it's interesting! But here's my first public artifact, a breakdown on my Mega Sceptile team:",
+      "url": "https://x.com/trq212/status/2077051280267399550",
+      "publishedAt": "2026-07-14T15:23:09.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-773a197beedf",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "The @agentmail team has been cooking. Tell your agent to 𝚟𝚎𝚛𝚌𝚎𝚕 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚊𝚐𝚎𝚗𝚝𝚖𝚊𝚒𝚕 – no signup, automatic setup and unified billing.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. The @agentmail team has been cooking. Tell your agent to 𝚟𝚎𝚛𝚌𝚎𝚕 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚊𝚐𝚎𝚗𝚝𝚖𝚊𝚒𝚕 – no signup, automatic setup and unified billing. We're opening up the dataset of AI token flows on @vercel AI Gateway. Fascinating insights contained within! I used this dataset to create ↓",
+      "url": "https://x.com/rauchg/status/2077154901013221444",
+      "publishedAt": "2026-07-14T22:14:54.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-36cc9bf65520",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it. You can either go see if the application works manually, or you can actually run a test on what you built. Most other areas of work don’t have this benefit.",
+      "url": "https://x.com/levie/status/2077201458546745553",
+      "publishedAt": "2026-07-15T01:19:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-24f59ae16e67",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on enterprise and models",
+      "takeaway": "assembling the best design team (looking for design engs, too) when the dream becomes the job i used to think the dream was to make my hobby my work.",
+      "summary": "Ryo Lu (ryolu_ on X) shared 3 recent updates. assembling the best design team (looking for design engs, too) when the dream becomes the job i used to think the dream was to make my hobby my work. to spend my life close to the things i loved: computers, tools, interfaces, systems, tiny details, the feeling of making something from nothing. the things i used to do at night, after school, after work, in the margins of life, somehow became the center of my life.",
+      "url": "https://x.com/ryolu_/status/2077108336844210352",
+      "publishedAt": "2026-07-14T19:09:52.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-1256b18b5e5f",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Your tax dollars at work The doom loop in SF isn’t just about ruining the city for normal citizens It’s also about looting the public good Never go full omnicause",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Your tax dollars at work The doom loop in SF isn’t just about ruining the city for normal citizens It’s also about looting the public good Never go full omnicause",
+      "url": "https://x.com/garrytan/status/2076935141658611759",
+      "publishedAt": "2026-07-14T07:41:40.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-4b8272e31370",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "How France played 10/10 football throughout the World Cup and 4/10 football in the semi final will need to be studied in football school as the ultimate cautionary tale.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. How France played 10/10 football throughout the World Cup and 4/10 football in the semi final will need to be studied in football school as the ultimate cautionary tale. The cruel reality of the World Cup is that 47 out of 48 teams go home heartbroken. We love it anyway.",
+      "url": "https://x.com/mattturck/status/2077139555535241253",
+      "publishedAt": "2026-07-14T21:13:56.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-0abe1f8d3048",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "The pre-AI engineering leader mind can’t comprehend that their most cracked engineer is also extremely online..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. The pre-AI engineering leader mind can’t comprehend that their most cracked engineer is also extremely online.. While the agents are working, X becomes the dopamine spike they need as they wait. I think time on X numbers especially in tech will continue to go up! The Benji Taylor-fication of this app has been such a joy.. Noticing all the small delightful touches. Long may it continue 👏",
+      "url": "https://x.com/nikunj/status/2077144910508257317",
+      "publishedAt": "2026-07-14T21:35:12.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-a74819a63cf0",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on costs",
+      "takeaway": "Suno AI is delivering bangers! That's why you always wanna run autoreview. (yes, it'll burn ya tokens, but it'll calm your nerves)",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Suno AI is delivering bangers! That's why you always wanna run autoreview. (yes, it'll burn ya tokens, but it'll calm your nerves)",
+      "url": "https://x.com/steipete/status/2077250314575745024",
+      "publishedAt": "2026-07-15T04:34:03.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-eb4ea8ebf8df",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and product",
+      "takeaway": "if you are reading @every, you knew codex was about to take off 6 months ago :) success kid pointing to when i started getting extremely, absolutely, annoyingly codex pilled and...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. if you are reading @every, you knew codex was about to take off 6 months ago :) success kid pointing to when i started getting extremely, absolutely, annoyingly codex pilled and we began covering it COME SEE @EVERY IRL! We're hosting an @every subscriber meetup at our brownstone in Brooklyn TOMORROW Wednesday, July 15 from 6-8 PM You should come! receipts, from our Codex Desktop app launch vibe check:",
+      "url": "https://x.com/danshipper/status/2077196636971815135",
+      "publishedAt": "2026-07-15T01:00:45.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-a41522b92dc1",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and product",
+      "takeaway": "Is there any move involving Lamine Yamal where Yamal doesn't end up on the floor rolling around? I appreciate the in-depth feature set of the new \"ChatGPT\" app...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Is there any move involving Lamine Yamal where Yamal doesn't end up on the floor rolling around? I appreciate the in-depth feature set of the new \"ChatGPT\" app... But there is a real tradeoff. I used ChatGPT (Legacy) 15-20 times a day for queries... And now it feels so heavyweight for that use case. Shame.",
+      "url": "https://x.com/adityaag/status/2077136023616962651",
+      "publishedAt": "2026-07-14T20:59:54.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-2c8d44647381",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. 5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon. hello! also, a reason to favor open-source harnesses.",
+      "url": "https://x.com/sama/status/2077106587307798989",
+      "publishedAt": "2026-07-14T19:02:55.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-x-37b623f2b487",
+      "date": "2026-07-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Ask for a lesson plan, and Claude starts from your state standards and high-quality curricula by connecting through Learning Commons.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Ask for a lesson plan, and Claude starts from your state standards and high-quality curricula by connecting through Learning Commons. It then drafts a plan and student-facing materials you can revise and take into class. Claude for Teachers is built for K-12 privacy. We never train our models on your conversations, and student information is protected by a data processing agreement written to comply with FERPA.",
+      "url": "https://x.com/claudeai/status/2077047279689535705",
+      "publishedAt": "2026-07-14T15:07:15.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    },
+    {
+      "id": "2026-07-14-podcast-7ace5a4ec969",
+      "date": "2026-07-14",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And what's interesting, to Angela's point on form factors evolving over time, is we found a lot of our customers solving the same problems over and over again that we also were solving over and over again around, as the models got better at running for longer and working with more contacts at a given time, you wanna build agents that can succeed in a kind of long running context and even a remote context that doesn't necessarily have a human in the loop.",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "Anthropic",
+        "Claude",
+        "Vercel",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-07-15T14:59:28.803Z"
+    }
+  ]
+}
