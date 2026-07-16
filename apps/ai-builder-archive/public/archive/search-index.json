@@ -1,7 +1,444 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T20:16:42.813Z",
+  "generatedAt": "2026-07-16T15:10:29.864Z",
   "snippets": [
+    {
+      "id": "2026-07-15-x-e5b4f5ab8d49",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and enterprise",
+      "takeaway": "you can just tweet things into existence someone just told me about this take* on CUA this is one of those gell mann moments for me lol.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. you can just tweet things into existence someone just told me about this take* on CUA this is one of those gell mann moments for me lol. i've been watching computer use since World of Bits (Shi, fan, karpathy, hernandez & liang 2017).",
+      "url": "https://x.com/swyx/status/2077563850824790200",
+      "publishedAt": "2026-07-16T01:19:55.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-303c7ea1098a",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and tools",
+      "takeaway": "Gemini Spark is headed to more Ultra subscribers around the world* plus 4 new features: 1) Spark can open and edit Google Docs, acting on feedback from last week 2) It can read...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. Gemini Spark is headed to more Ultra subscribers around the world* plus 4 new features: 1) Spark can open and edit Google Docs, acting on feedback from last week 2) It can read comments in Google Sheets & Slides, so critical info isn't missed 3) It's >50% faster, you can feel it 4) It can parallel process across multiple sources, so tasks complete faster e2e Pro members, stay tuned for an access update soon :) *Full...",
+      "url": "https://x.com/joshwoodward/status/2077471111240204457",
+      "publishedAt": "2026-07-15T19:11:25.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-ac7525881265",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "Something I have been thinking about: in the past, the best engineers I knew spent a lot of time automating their work in various ways.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Something I have been thinking about: in the past, the best engineers I knew spent a lot of time automating their work in various ways. Better vim/emacs automations, writing lint rules to catch repeat code issues, building up a suite of e2e tests so they don't need to smoke test the app manually.",
+      "url": "https://x.com/bcherny/status/2077460395279692197",
+      "publishedAt": "2026-07-15T18:28:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-edea6664736d",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We've had no 5h limit in Codex plus and pro for a few days. Do you think it is better or are you finding it difficult to manage the usage included in the weekly limit effectively?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We've had no 5h limit in Codex plus and pro for a few days. Do you think it is better or are you finding it difficult to manage the usage included in the weekly limit effectively? If we were to make this different, what should it look like in an ideal world? On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.",
+      "url": "https://x.com/thsottiaux/status/2077632589498913087",
+      "publishedAt": "2026-07-16T05:53:04.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-dbea2d5e7018",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "ChatGPT Live and Codex are two incredible products that don’t talk to each other. This is @OpenAI's biggest missed opportunity imo.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. ChatGPT Live and Codex are two incredible products that don’t talk to each other. This is @OpenAI's biggest missed opportunity imo. I went on a walk with ChatGPT Live and asked it to pull up my Google Doc. It said it couldn’t. I then manually triggered the Documents plugin to find my Google Doc, and all of a sudden, ChatGPT Live had the right context.",
+      "url": "https://x.com/petergyang/status/2077572198655754583",
+      "publishedAt": "2026-07-16T01:53:06.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-106d56672c42",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Excuse me, I thought you had to grind until your eyes bled and you forgot how to smile",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Excuse me, I thought you had to grind until your eyes bled and you forgot how to smile",
+      "url": "https://x.com/thenanyu/status/2077559703161213130",
+      "publishedAt": "2026-07-16T01:03:27.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-722e2cc7f720",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise",
+      "takeaway": "We need a term for that feeling when you’re reading something and realize it’s ai written. it’s this primal feeling though the phenomenon itself is new.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. We need a term for that feeling when you’re reading something and realize it’s ai written. it’s this primal feeling though the phenomenon itself is new. first the brain recoils, followed by a combination of disgust and mental nausea. I offer: - semantic nausea - uncanny prose valley - synthetic shudder btw, i have used ai to refine ideas and from time to time, some of the standard AI-isms leak into my writing.",
+      "url": "https://x.com/realmadhuguru/status/2077413491586253025",
+      "publishedAt": "2026-07-15T15:22:27.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-13dd3adf434e",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "ideal prompting technique is: - thin prompts - thick artifacts + context - thin skills software engineering is the profession of automation this was such a fun talk with Cat and...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. ideal prompting technique is: - thin prompts - thick artifacts + context - thin skills software engineering is the profession of automation this was such a fun talk with Cat and Simon, hope you get to check it out if you missed it",
+      "url": "https://x.com/trq212/status/2077539537992229076",
+      "publishedAt": "2026-07-15T23:43:19.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-010d5eb63647",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Easy money (British pounds) Vercel Sandbox: ◾ Growing DAUs at 100% m/o/m ◾ 3.5M+ sandboxes created per day ◾ Best-in-class Active CPU pricing model ◾ Powering @notion, @airtable,...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Easy money (British pounds) Vercel Sandbox: ◾ Growing DAUs at 100% m/o/m ◾ 3.5M+ sandboxes created per day ◾ Best-in-class Active CPU pricing model ◾ Powering @notion, @airtable, @meta, @zapier, @coderabbitai, @interaction, @conductor_build, @blackboxai… 🐐 farm My DMs are open for migration help or if missing anything with: Some really cool usecases of Web Analytics API: ▪️ Ask your agent to correlate visitors,...",
+      "url": "https://x.com/rauchg/status/2077499486130389189",
+      "publishedAt": "2026-07-15T21:04:10.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel",
+        "Meta"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-4734f88bbb5c",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Hosted a dinner last night with a group of IT leaders of large enterprises around agent adoption in the enterprise.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Hosted a dinner last night with a group of IT leaders of large enterprises around agent adoption in the enterprise. Some quick notes: * Change management remains one of the biggest topics for driving workflow transformation. Still most processes need to be upgraded to modern operating models to work with agents, which is a mix of technology, data, and human process change.",
+      "url": "https://x.com/levie/status/2077526010753581156",
+      "publishedAt": "2026-07-15T22:49:34.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-5b1e4c10f268",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models",
+      "takeaway": "We should just bring back the em dash Reclaim it for our own The path to healing SF and every West Coast city is this: real compassion is focusing on recovery and treatment and...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. We should just bring back the em dash Reclaim it for our own The path to healing SF and every West Coast city is this: real compassion is focusing on recovery and treatment and making it possible for people to really thrive instead of mandating pro-drug environments that make sobriety impossible Skill files are portable and free you from frontier model dependency This is a good thing",
+      "url": "https://x.com/garrytan/status/2077639502286250453",
+      "publishedAt": "2026-07-16T06:20:32.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-36c52484cd36",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Argentina’s World Cup recipe: 1) trail 10-15 minutes before the end 2) bring on Lautaro Martinez 3) win 4) repeat",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Argentina’s World Cup recipe: 1) trail 10-15 minutes before the end 2) bring on Lautaro Martinez 3) win 4) repeat",
+      "url": "https://x.com/mattturck/status/2077499992705470802",
+      "publishedAt": "2026-07-15T21:06:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-babe405a2222",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "Because I never learned programming the traditional way, using coding agents has been purely an act of creativity and self-expression GitHub is basically my Substack If you want...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Because I never learned programming the traditional way, using coding agents has been purely an act of creativity and self-expression GitHub is basically my Substack If you want agents to actually work inside a company, you have to design the company so they can read it Shopify did this with an agent that had no private chat function at all, only public channels. The side effect was peer learning",
+      "url": "https://x.com/zarazhangrui/status/2077388091044635010",
+      "publishedAt": "2026-07-15T13:41:31.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-7ee3b09dc6e6",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Forgive me (travel) Lord for I have sinned.. After spending 3 hours in the immigration line in Paris, I will never complain about SFO and US immigration ever again.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Forgive me (travel) Lord for I have sinned.. After spending 3 hours in the immigration line in Paris, I will never complain about SFO and US immigration ever again. Also, will be taking a hiatus from tech Twitter for a bit to spend some time touching grass ✌️",
+      "url": "https://x.com/nikunj/status/2077354857929887997",
+      "publishedAt": "2026-07-15T11:29:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-e746f163a2a4",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and product",
+      "takeaway": "This is really clever. “If I put up a PR for an iOS codebase I don't know and a code reviewer rejects it because it doesn't use the right framework, or if a designer builds a new...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. This is really clever. “If I put up a PR for an iOS codebase I don't know and a code reviewer rejects it because it doesn't use the right framework, or if a designer builds a new feature and it gets rejected because it doesn't follow the right architectural patterns, these are failures of automation.” Mostly true, 5.6 is relentless.",
+      "url": "https://x.com/steipete/status/2077303292225548539",
+      "publishedAt": "2026-07-15T08:04:33.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-c02480445dc0",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "Even when things are going great, running a $1.5 billion AI startup is a knife fight. @MeetGranola was one of the first AI apps of this generation to achieve near-ubiquitous...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Even when things are going great, running a $1.5 billion AI startup is a knife fight. @MeetGranola was one of the first AI apps of this generation to achieve near-ubiquitous adoption. But meeting notes are not the company’s be-all and end-all. The real battle is over owning the interface that everyone uses to get their work done in an AI-native world.",
+      "url": "https://x.com/danshipper/status/2077410279474770229",
+      "publishedAt": "2026-07-15T15:09:41.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-ed9ca612247d",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "The thing that is amazing about innovation...is that you can just do things. Proud to be Day -1 supporters. Dude, where's my car????",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. The thing that is amazing about innovation...is that you can just do things. Proud to be Day -1 supporters. Dude, where's my car????",
+      "url": "https://x.com/adityaag/status/2077492237248893312",
+      "publishedAt": "2026-07-15T20:35:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-x-ad821867511b",
+      "date": "2026-07-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "amazing to me that some people want the silent version",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. amazing to me that some people want the silent version",
+      "url": "https://x.com/sama/status/2077489177374208000",
+      "publishedAt": "2026-07-15T20:23:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-blog-6cd28c156a1c",
+      "date": "2026-07-15",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
+    {
+      "id": "2026-07-15-podcast-357c04af2d05",
+      "date": "2026-07-15",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps",
+      "takeaway": "The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps. We've been working on a Slack agent.",
+      "summary": "We've been working on a Slack agent. How do you think about token spend both on your team and in the product? But they're oftentimes, like, in in my little universe as opposed to I like, I don't go and set up very complicated workflows.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-07-15T15:08:19.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-07-16T15:10:29.864Z"
+    },
     {
       "id": "2026-07-14-x-6fa1fa2c818a",
       "date": "2026-07-14",
