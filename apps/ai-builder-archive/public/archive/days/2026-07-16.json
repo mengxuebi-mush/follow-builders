@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-17T14:50:41.076Z",
+  "feedGeneratedAt": "2026-07-17T07:03:41.324Z",
+  "snippets": [
+    {
+      "id": "2026-07-16-x-602c9f786c4b",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product",
+      "takeaway": "we make sure some of the top YC AI companies are featured at AIE every single year. this year, we were graced by @garrytan and @eve_bouff to cap off our startups and design...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. we make sure some of the top YC AI companies are featured at AIE every single year. this year, we were graced by @garrytan and @eve_bouff to cap off our startups and design engineer focused audiences respectively. Really enjoyed these raw high value perspectives! HOLY FUCKING SHIT the react avengers have assembled @mattpocockuk @trq212 @xdg's session/tree based grill me looks cool but havent tried",
+      "url": "https://x.com/swyx/status/2077938877407633857",
+      "publishedAt": "2026-07-17T02:10:09.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-bdfad73ad618",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "I still remember the exact room, watching @stevenbjohnson break down how he writes books. That was the spark for a little project we never imagined would grow this big.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. I still remember the exact room, watching @stevenbjohnson break down how he writes books. That was the spark for a little project we never imagined would grow this big. Today, over 30 million people and 600,000 organizations use it, and it keeps growing. We all feel like it's just getting started. For a while, we’ve just called it \"Notebook\" internally. Today, we're making it official externally. :)",
+      "url": "https://x.com/joshwoodward/status/2077811657385079045",
+      "publishedAt": "2026-07-16T17:44:37.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-5a8031cd205a",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "In practice that means giving Claude ways to verify its own work end to end. It means enabling auto mode for permissions, defaulting on automated code review and security review,...",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. In practice that means giving Claude ways to verify its own work end to end. It means enabling auto mode for permissions, defaulting on automated code review and security review, and using interfaces that let you manage multiple agents at once (Agent view in CLI, Desktop app, iOS and Android apps, Tag). To get to higher levels it means /loop, /batch, dynamic workflows, and worktree isolation for subagents.",
+      "url": "https://x.com/bcherny/status/2077929390806073807",
+      "publishedAt": "2026-07-17T01:32:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-7b9c30d28b54",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes. 1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync across web, mobile, and desktop. Local tasks still stay on your computer.",
+      "url": "https://x.com/thsottiaux/status/2077928427936710901",
+      "publishedAt": "2026-07-17T01:28:37.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-e424975d86da",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Underrated reply 🤣 smh trying to use Claude Code browser use Hope they hire some good folks to fix this I'm surprised Claude Code doesn't have any Google Workspace connectors...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Underrated reply 🤣 smh trying to use Claude Code browser use Hope they hire some good folks to fix this I'm surprised Claude Code doesn't have any Google Workspace connectors beyond Drive while ChatGPT does",
+      "url": "https://x.com/petergyang/status/2077982627278303279",
+      "publishedAt": "2026-07-17T05:04:00.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-cbd6ef846efb",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "Open-weight models like Kimi and GLM will cause a complete rethink of the enterprise AI stack. If you are running an enterprise, you need to maximimize model optionality.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Open-weight models like Kimi and GLM will cause a complete rethink of the enterprise AI stack. If you are running an enterprise, you need to maximimize model optionality. Here are 3 things you should be doing: 1. Evals - build rigorous evals representative of your use case (a) Regression evals - tablestakes features that should always work with high reliability (b) Aspirational / hill-climbing evals - harder use...",
+      "url": "https://x.com/realmadhuguru/status/2077885624607228018",
+      "publishedAt": "2026-07-16T22:38:32.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-3e9c8161fe88",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and coding",
+      "takeaway": "You know your workflows best. Show our team how you use Cowork so we can make it work better for you!",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. You know your workflows best. Show our team how you use Cowork so we can make it work better for you! If you're in marketing, sales, finance, legal, or any non-engineering role, sign up here for a 30 min screen share with our team:",
+      "url": "https://x.com/_catwu/status/2077933568282755145",
+      "publishedAt": "2026-07-17T01:49:03.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-c3c3043f9c49",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "Who remembers when Project Tailwind was just a little, baby Labs experiment? Well, eventually that became NotebookLM.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Who remembers when Project Tailwind was just a little, baby Labs experiment? Well, eventually that became NotebookLM. And today - many congrats to the team on becoming @Gemini_Notebook!",
+      "url": "https://x.com/GoogleLabs/status/2077832590132949268",
+      "publishedAt": "2026-07-16T19:07:48.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-be269327204e",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding and models",
+      "takeaway": "Apparently the distillation model can outperform the teacher model 😂 $NVDA should be pumping on the K3 news. Instead it’s down.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Apparently the distillation model can outperform the teacher model 😂 $NVDA should be pumping on the K3 news. Instead it’s down. If you want to play my chess engine (WIP): It already seems to perform better than frontier models on chess. It’s fine-tuned on 2M stockfish-labeled positions, then short GRPO RL pass. Documentation/tutorial with all the experiments and annotated code.",
+      "url": "https://x.com/amasad/status/2077908318975332417",
+      "publishedAt": "2026-07-17T00:08:43.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-161ee03c4744",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Kimi K3 is the best performing model on ahead of Fable, reaching a comparable success rate in less time.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Kimi K3 is the best performing model on ahead of Fable, reaching a comparable success rate in less time. This is the first time that an open model is ahead of all proprietary ones for this comprehensive web engineering benchmark. Notes: ▪️ Benchmarks don’t always tell the full story, although this is important signal, adding to mounting evidence that this could be a breakthrough moment for open models ▪️ No model as...",
+      "url": "https://x.com/rauchg/status/2077900518404321759",
+      "publishedAt": "2026-07-16T23:37:43.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel",
+        "Meta"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-26dd2387e25a",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "It’s truly wild that we’re getting this level of performance from open models. Congrats to Kimi team on this.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. It’s truly wild that we’re getting this level of performance from open models. Congrats to Kimi team on this. Every time we lower the cost of frontier intelligence, the use-cases that enterprises can take on just go up. There’s a tremendous amount of workflows that enterprises would love to deploy that are only gated by the cost of tokens.",
+      "url": "https://x.com/levie/status/2077857617859535112",
+      "publishedAt": "2026-07-16T20:47:15.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-b889cd63972f",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Please join @garryslist We are trying to organize the common sense builders It’s going to be the defining fight for California and America Just be a YC startup Problem solved",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Please join @garryslist We are trying to organize the common sense builders It’s going to be the defining fight for California and America Just be a YC startup Problem solved",
+      "url": "https://x.com/garrytan/status/2077988898601369978",
+      "publishedAt": "2026-07-17T05:28:55.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-8e88eb1eafda",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and costs",
+      "takeaway": "\"We can't build fast enough\": my conversation with Sachin Katti (@sk7037), Head of Industrial Compute at @OpenAI about Stargate, Jalapeno, data center financing, and all things...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. \"We can't build fast enough\": my conversation with Sachin Katti (@sk7037), Head of Industrial Compute at @OpenAI about Stargate, Jalapeno, data center financing, and all things compute. 00:00 — Cold open: “One of the largest things humanity has ever built” 00:30 — Welcome: Sachin Katti, Head of Industrial Compute at OpenAI 01:44 — Is this the biggest infrastructure buildout in history?",
+      "url": "https://x.com/mattturck/status/2077791541167268243",
+      "publishedAt": "2026-07-16T16:24:41.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Microsoft"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-11637fb1334d",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. So many interesting hardware ideas from China Like this face mask that doubles as a mic so that you can use voice dictation in public areas without being overheard",
+      "url": "https://x.com/zarazhangrui/status/2077953473535176772",
+      "publishedAt": "2026-07-17T03:08:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-993a3eab3fd1",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "this is who runs this account",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. this is who runs this account",
+      "url": "https://x.com/nikunj/status/2077961425008382029",
+      "publishedAt": "2026-07-17T03:39:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-6546b28d0474",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "not surprising that @OpenAI is firing on all cylinders right now, and it’s an unbelievably interesting story - they launched GPT-5 summer of 2025 and positioned it as a pair...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. not surprising that @OpenAI is firing on all cylinders right now, and it’s an unbelievably interesting story - they launched GPT-5 summer of 2025 and positioned it as a pair programmer. we wrote at the time @every that they completely missed the new agentic coding that was starting to happen inside of Claude Code.",
+      "url": "https://x.com/danshipper/status/2077825318992429286",
+      "publishedAt": "2026-07-16T18:38:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-2d020b438553",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "A lot of people assume that as you get more successful, the LESS you get said No to This is actually false if you are operating at the edge of your ambition At higher stakes, you...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. A lot of people assume that as you get more successful, the LESS you get said No to This is actually false if you are operating at the edge of your ambition At higher stakes, you get told No a lot. I see this with all founders who are punching up I got told No 5 times today. I am literally switching models off of Fable right now for our systems. This isn't trying to be hyperbolic....",
+      "url": "https://x.com/adityaag/status/2077885770048877034",
+      "publishedAt": "2026-07-16T22:39:07.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-x-5479fe345a80",
+      "date": "2026-07-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth.",
+      "url": "https://x.com/sama/status/2077817060068057493",
+      "publishedAt": "2026-07-16T18:06:05.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-blog-97cd97d27d22",
+      "date": "2026-07-16",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    },
+    {
+      "id": "2026-07-16-podcast-2ee62b67e34f",
+      "date": "2026-07-16",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle",
+      "takeaway": "Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle. We talked about why consumer AI applications aren't really working today, and the kind of jagged edge of capabilities and...",
+      "summary": "We talked about why consumer AI applications aren't really working today, and the kind of jagged edge of capabilities and their implications on enterprise adoption overall. I wrote something at the end of last week talking about token pricing. Speaker 1 | 1:10:06 - 1:10:25 We're gonna need to screw the rest of our budget.",
+      "url": "https://www.youtube.com/watch?v=vDY_ocrkQ5w",
+      "publishedAt": "2026-07-16T12:48:06.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-07-17T14:50:41.076Z"
+    }
+  ]
+}
