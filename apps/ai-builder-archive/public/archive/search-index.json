@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T16:40:51.504Z",
+  "generatedAt": "2026-07-20T19:05:02.027Z",
   "snippets": [
     {
       "id": "2026-07-19-x-f5861f64502d",
@@ -19,7 +19,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-2c249520aeb2",
@@ -39,7 +39,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-f220e867221a",
@@ -63,7 +63,7 @@
         "Codex",
         "Google"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-aa4be42096e1",
@@ -82,7 +82,7 @@
       "entities": [
         "Amanda Askell"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-20d3a79dc910",
@@ -103,7 +103,7 @@
         "Cat Wu",
         "Claude"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-fe2d0da84717",
@@ -125,7 +125,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-57865bef83d3",
@@ -144,7 +144,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-fb0cf6b3f76f",
@@ -165,7 +165,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-92b2db87673c",
@@ -188,7 +188,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-bb310be91de6",
@@ -207,7 +207,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-00cabfee4e24",
@@ -226,7 +226,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-7c41834426cb",
@@ -246,7 +246,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-fc9b2482f9d4",
@@ -265,7 +265,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-8c5b5c18967a",
@@ -284,7 +284,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-x-7a2c3714da6a",
@@ -303,7 +303,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-19-podcast-ab2b654bc2d1",
@@ -332,7 +332,7 @@
         "Microsoft",
         "Meta"
       ],
-      "createdAt": "2026-07-20T16:40:51.504Z"
+      "createdAt": "2026-07-20T19:05:02.027Z"
     },
     {
       "id": "2026-07-18-x-f0f826cecbe9",
