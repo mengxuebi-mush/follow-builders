@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-20T15:18:36.437Z",
+  "feedGeneratedAt": "2026-07-20T07:22:43.172Z",
+  "snippets": [
+    {
+      "id": "2026-07-19-x-f5861f64502d",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. here goes",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. here goes",
+      "url": "https://x.com/swyx/status/2079061713048199625",
+      "publishedAt": "2026-07-20T04:31:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-2c249520aeb2",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "I was so inspired reading all the DMs on how folks here use ChatGPT Work. Let’s try something else that will make the team smile.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. I was so inspired reading all the DMs on how folks here use ChatGPT Work. Let’s try something else that will make the team smile. What’s a time you saw ChatGPT have a deeply positive impact on your or someone’s life?",
+      "url": "https://x.com/thsottiaux/status/2079058139207573541",
+      "publishedAt": "2026-07-20T04:17:42.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-f220e867221a",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and enterprise",
+      "takeaway": "2. I don't think the people using ChatGPT Work (e.g., non technical) know what \"run this chat in the cloud\" means.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. 2. I don't think the people using ChatGPT Work (e.g., non technical) know what \"run this chat in the cloud\" means. On Codex it tells me to send to Codex Web and then I click the link and it just tells me to download the app again? Copy matters. It turns out that I still have this issue - at 100K+ YT subs and haven't been paid a single dollar by Google Adsense. The customer support is truly bad.",
+      "url": "https://x.com/petergyang/status/2079007381695172797",
+      "publishedAt": "2026-07-20T00:56:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-aa4be42096e1",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "Argentinian goalkeeper sure is earning his salary.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. Argentinian goalkeeper sure is earning his salary.",
+      "url": "https://x.com/AmandaAskell/status/2078952214664798283",
+      "publishedAt": "2026-07-19T21:16:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-20d3a79dc910",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on models",
+      "takeaway": "I love using Claude Cowork to manage my calendar. Here's my prompt for it: Manage my calendar for the week. Requirements: 1. <20 hours of meetings 2. Dedupe conflicting meetings.",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. I love using Claude Cowork to manage my calendar. Here's my prompt for it: Manage my calendar for the week. Requirements: 1. <20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count against the 20 hours. Build a skill that you refine. Ask me before updating invites. What do you use Cowork for?",
+      "url": "https://x.com/_catwu/status/2079011428380602526",
+      "publishedAt": "2026-07-20T01:12:05.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-fe2d0da84717",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "working more on a post about what we learned doing this and how you can apply this to your skills and system prompts if you've run into this, please restart Claude Code, fix...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. working more on a post about what we learned doing this and how you can apply this to your skills and system prompts if you've run into this, please restart Claude Code, fix should be propogating",
+      "url": "https://x.com/trq212/status/2078901672441790818",
+      "publishedAt": "2026-07-19T17:55:57.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-57865bef83d3",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Let’s go España! Consumers spend money on food, rent, and entertainment, phone & internet, and shopping. Software is typically bought by their companies.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Let’s go España! Consumers spend money on food, rent, and entertainment, phone & internet, and shopping. Software is typically bought by their companies. Which is why outside of Netflix, Spotify, etc it’s hard to think of *huge* consumer subscription businesses.",
+      "url": "https://x.com/amasad/status/2078964311985422463",
+      "publishedAt": "2026-07-19T22:04:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-fb0cf6b3f76f",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and models",
+      "takeaway": "gm 🇦🇷 Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. gm 🇦🇷 Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever. And to America 🇺🇸 for hosting such a wonderful event. Enhorabuena tíos 🇪🇸! Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.",
+      "url": "https://x.com/rauchg/status/2078896698869375396",
+      "publishedAt": "2026-07-19T17:36:11.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-92b2db87673c",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world.",
+      "summary": "Aaron Levie (levie on X) shared 3 recent updates. Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world. The reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add value- without anyone in the outside world ever having to do anything differently.",
+      "url": "https://x.com/levie/status/2078864191683969212",
+      "publishedAt": "2026-07-19T15:27:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-bb310be91de6",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Markdown files are universal and will survive millennia Unsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace GSkills anyone?",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Markdown files are universal and will survive millennia Unsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace GSkills anyone?",
+      "url": "https://x.com/garrytan/status/2078803803659452624",
+      "publishedAt": "2026-07-19T11:27:03.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-00cabfee4e24",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "🟥 what a moron through and through All the aggravation, attitude, fouls, taunting, vulgarity, fans throwing bottles at fans from the opposing team, to produce ZERO shot on goal...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. 🟥 what a moron through and through All the aggravation, attitude, fouls, taunting, vulgarity, fans throwing bottles at fans from the opposing team, to produce ZERO shot on goal during the final. “Thank you for that bath”",
+      "url": "https://x.com/mattturck/status/2078951464815174060",
+      "publishedAt": "2026-07-19T21:13:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-7c41834426cb",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\" My answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning.",
+      "url": "https://x.com/zarazhangrui/status/2078830510177128481",
+      "publishedAt": "2026-07-19T13:13:11.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-fc9b2482f9d4",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Really frustrating that a talented team like Argentina is resorting to such dirty tactics.. Like each player is so SO good. Why all the antics?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Really frustrating that a talented team like Argentina is resorting to such dirty tactics.. Like each player is so SO good. Why all the antics? Constantly complaining and looking for a foul while playing haramball the entire game. On a WC final too (sigh) Vamos Spain 🇪🇸 Renoir paintings you can send to your better half saying “could be us”.. 1. you want to ask someone out 2. you’re ready to get married 3.",
+      "url": "https://x.com/nikunj/status/2078963708504465814",
+      "publishedAt": "2026-07-19T22:02:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-8c5b5c18967a",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "IYKYK",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. IYKYK",
+      "url": "https://x.com/steipete/status/2078904784753729962",
+      "publishedAt": "2026-07-19T18:08:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-x-7a2c3714da6a",
+      "date": "2026-07-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "Yes it just passed some barrier Have been able to automatically do ~70% of the copy edits we would ordinarily do by hand internally @every for the last week First time that’s...",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. Yes it just passed some barrier Have been able to automatically do ~70% of the copy edits we would ordinarily do by hand internally @every for the last week First time that’s happened and I’ve been trying it for years",
+      "url": "https://x.com/danshipper/status/2078920115140358585",
+      "publishedAt": "2026-07-19T19:09:14.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    },
+    {
+      "id": "2026-07-19-podcast-ab2b654bc2d1",
+      "date": "2026-07-19",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "When I go and ask my friends and family whether they'd be comfortable letting an agent buy things on their behalf, they usually jump straight to like, well, is it gonna overspend, and is it gonna buy the wrong thing, and can I stop it? Like, I'm gonna solve my free trial abuse problem by only having a sales sold motion and only going after enterprises and not having PLG and right? The dine and dash, but it's for token.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-07-09T11:30:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Claude",
+        "Cursor",
+        "Vercel",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-07-20T15:18:36.437Z"
+    }
+  ]
+}
