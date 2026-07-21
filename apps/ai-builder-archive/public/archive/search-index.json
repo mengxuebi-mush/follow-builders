@@ -1,7 +1,320 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T20:37:08.165Z",
+  "generatedAt": "2026-07-21T15:13:07.362Z",
   "snippets": [
+    {
+      "id": "2026-07-20-x-c3c6469c67ad",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and research",
+      "takeaway": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction. an open secret of \"frontier\" model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.",
+      "url": "https://x.com/swyx/status/2079411861150429402",
+      "publishedAt": "2026-07-21T03:43:15.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-2c2035c0594a",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Never a dull moment when you work at OpenAI. Absolutely incredible place.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Never a dull moment when you work at OpenAI. Absolutely incredible place.",
+      "url": "https://x.com/thsottiaux/status/2079355529101705264",
+      "publishedAt": "2026-07-20T23:59:25.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-6828d3c32b6e",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "Banning Chinese models will be the same self own as banning Chinese EVs. 1) What Use one agent to do the work and another to review it against a rubric.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Banning Chinese models will be the same self own as banning Chinese EVs. 1) What Use one agent to do the work and another to review it against a rubric. @trq212 explains how this works for video shorts: “For something like, ‘Is this a good video short or not?’ you don’t have a deterministic answer. You should have a separate verification agent read a rubric, review the short, and give feedback.",
+      "url": "https://x.com/petergyang/status/2079273815004303477",
+      "publishedAt": "2026-07-20T18:34:43.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-6e1a0bd0e084",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "it's literally the greatest time ever to have product sense The road to AGI is paved with economically valuable tasks.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 3 recent updates. it's literally the greatest time ever to have product sense The road to AGI is paved with economically valuable tasks. That’s why enterprise AI is one of the most important frontiers. It’s where many of those tasks live. Four years post peak web3 and crypto tokenomics debates… turns out the tokenomics debate that matters is open vs closed weight, inference costs and model routing.",
+      "url": "https://x.com/realmadhuguru/status/2079387984852668780",
+      "publishedAt": "2026-07-21T02:08:23.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-92d9023e9c7a",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though",
+      "url": "https://x.com/trq212/status/2079105479125741675",
+      "publishedAt": "2026-07-20T07:25:48.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-252c456c1114",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and product",
+      "takeaway": "First physical product shipped by a coding agent? “Being cancelled is a choice” turned out to be a nice sound bite. Tools",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. First physical product shipped by a coding agent? “Being cancelled is a choice” turned out to be a nice sound bite. Tools",
+      "url": "https://x.com/amasad/status/2079282869063786541",
+      "publishedAt": "2026-07-20T19:10:41.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-61ef68b5518a",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and product",
+      "takeaway": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe?",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "url": "https://x.com/rauchg/status/2079274102129304026",
+      "publishedAt": "2026-07-20T18:35:51.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-3b8492be5f8d",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.",
+      "url": "https://x.com/levie/status/2079402164988895293",
+      "publishedAt": "2026-07-21T03:04:44.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Cursor"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-3e63a9572cf8",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on costs",
+      "takeaway": "Great reminder to stay frosty The asset seizure tax will only make California more impoverished SEIU-UHW should be ashamed of itself for the naked cash grab for their own personal...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Great reminder to stay frosty The asset seizure tax will only make California more impoverished SEIU-UHW should be ashamed of itself for the naked cash grab for their own personal benefit Compute rules everything around me CREAM",
+      "url": "https://x.com/garrytan/status/2079196804315521332",
+      "publishedAt": "2026-07-20T13:28:42.000Z",
+      "tags": [
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-0075b51f3d05",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models",
+      "takeaway": "OpenAI and Anthropic when a top free Chinese open source model drops",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. OpenAI and Anthropic when a top free Chinese open source model drops",
+      "url": "https://x.com/mattturck/status/2079198838741458989",
+      "publishedAt": "2026-07-20T13:36:47.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-d7e4bce82c40",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after. The second type is different from day one: - Teams under ten people because they actually don't need more - Work organized by projects, not departments - Each person closes their own loop - Almost no internal meetings If I were to hire today, this is how I would structure...",
+      "url": "https://x.com/zarazhangrui/status/2079225776545968166",
+      "publishedAt": "2026-07-20T15:23:49.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-1184dee7e287",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and tools",
+      "takeaway": "Many founders in the last 18 months are going to realize that just because there are no “moats” in AI left anymore doesn’t mean “scale and capital” become your main moat.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Many founders in the last 18 months are going to realize that just because there are no “moats” in AI left anymore doesn’t mean “scale and capital” become your main moat. We have seen this movie before.. all of us will benefit from reading a little bit of history.",
+      "url": "https://x.com/nikunj/status/2079328912912355470",
+      "publishedAt": "2026-07-20T22:13:39.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-d34b795703c8",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "we’re hiring a senior engineer to help work on our agent @every must love agents. dm if you’re interested (for now preferencing for people I know on here!",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. we’re hiring a senior engineer to help work on our agent @every must love agents. dm if you’re interested (for now preferencing for people I know on here!) guys I’m basically Brian Johnson",
+      "url": "https://x.com/danshipper/status/2079338909801071021",
+      "publishedAt": "2026-07-20T22:53:23.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-x-b93da3d513de",
+      "date": "2026-07-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "it is good now!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. it is good now!",
+      "url": "https://x.com/sama/status/2079258683884917013",
+      "publishedAt": "2026-07-20T17:34:35.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
+    {
+      "id": "2026-07-20-podcast-58c1d5f7355c",
+      "date": "2026-07-20",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
+      "takeaway": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel. You're trying to get some agent to pick it up. How many tokens are we consuming?",
+      "summary": "You're trying to get some agent to pick it up. How many tokens are we consuming? And so and that was why companies like ourselves took a big hit as some of the new models were dropped that had a much better way of doing agent in commerce as it was perceived at the time.",
+      "url": "https://www.youtube.com/watch?v=8nj_0wZkbtA",
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-07-21T15:13:07.362Z"
+    },
     {
       "id": "2026-07-19-x-f5861f64502d",
       "date": "2026-07-19",
