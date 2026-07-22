@@ -1,7 +1,408 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T20:22:48.029Z",
+  "generatedAt": "2026-07-22T15:10:58.957Z",
   "snippets": [
+    {
+      "id": "2026-07-21-x-2b4a10c6a262",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on enterprise and models",
+      "takeaway": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy...",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness.",
+      "url": "https://x.com/karpathy/status/2079610838143623371",
+      "publishedAt": "2026-07-21T16:53:55.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Andrej Karpathy"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-2b6b55e31832",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and enterprise",
+      "takeaway": "at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of independently separable control plane vs data plane.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of independently separable control plane vs data plane. it is very important that you listen. (and then try to learn about the management plane as early as you can..) recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who leads Productivity engineering.",
+      "url": "https://x.com/swyx/status/2079775327539339329",
+      "publishedAt": "2026-07-22T03:47:33.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-bd11582e7f82",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models and costs",
+      "takeaway": "Today’s launches are all about better performance, lower latency, and a smaller bill. + 3.6 Flash cuts token usage by up to 65% on complex coding + 3.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Today’s launches are all about better performance, lower latency, and a smaller bill. + 3.6 Flash cuts token usage by up to 65% on complex coding + 3.5 Flash-Lite reaches speeds of 350 output tokens/sec Both are live in the Gemini app today! Next up: Gemini 3.5 Pro, which has officially entered partner testing. One of our engineers built an interactive math art generator using the new 3.6 Flash model.",
+      "url": "https://x.com/joshwoodward/status/2079595879808569534",
+      "publishedAt": "2026-07-21T15:54:29.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-5745562a9fcc",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "10M! New day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy. ChatGPT Work =&gt; ChatGPT HelpMeWithEverything?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. 10M! New day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy. ChatGPT Work =&gt; ChatGPT HelpMeWithEverything?",
+      "url": "https://x.com/thsottiaux/status/2079609157934886975",
+      "publishedAt": "2026-07-21T16:47:15.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-de5f0c566308",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "This is an important update from Substack. I just plugged in some X posts from some creators who are prolific posters (like 5-10 posts per hour) in Pangram and what do you know...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. This is an important update from Substack. I just plugged in some X posts from some creators who are prolific posters (like 5-10 posts per hour) in Pangram and what do you know... LinkedIn has it the worst but I think @X should do something about this as well. The sad truth is that spamming the feed with slop works if you want to get attention and go viral. If you want respect on the other hand...",
+      "url": "https://x.com/petergyang/status/2079666319163883876",
+      "publishedAt": "2026-07-21T20:34:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-ac97bf8248ea",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise",
+      "takeaway": "The more I’ve relied on my second brain, the dumber my main brain has become. I’m realizing there’s tremendous value in carrying around a lot of facts, half-baked ideas, and loose...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. The more I’ve relied on my second brain, the dumber my main brain has become. I’m realizing there’s tremendous value in carrying around a lot of facts, half-baked ideas, and loose threads in your head. Your subconscious keeps cooking. It makes connections between ideas, extends them, and generates new ones. You also have much better real-time recall during conversations, which lets you connect ideas and think faster.",
+      "url": "https://x.com/realmadhuguru/status/2079581493542969694",
+      "publishedAt": "2026-07-21T14:57:19.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-8428a3cc1323",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "Okay this is wild: OpenAI agent during evaluation, escaped sandboxing and hacked into HuggingFace. Because OpenAI models don’t allow advanced cyber capabilities, HuggingFace used...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Okay this is wild: OpenAI agent during evaluation, escaped sandboxing and hacked into HuggingFace. Because OpenAI models don’t allow advanced cyber capabilities, HuggingFace used a Chinese open model to contain the rogue OpenAI agent. Replit’s internal dev stack is so seamless it pulled me back into coding.",
+      "url": "https://x.com/amasad/status/2079678843464667637",
+      "publishedAt": "2026-07-21T21:24:09.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-40c6f62be579",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and models",
+      "takeaway": "If you’re using an AI model router or gateway other than @vercel AI Gateway - tell me why! Reply or DM I've been dreaming about this ship for a while.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. If you’re using an AI model router or gateway other than @vercel AI Gateway - tell me why! Reply or DM I've been dreaming about this ship for a while. Lots of tedious infra work behind the scenes that gave us beautiful results… Up to ⏱︎ 30% faster deployments, ⚡︎ 60% better time-to-first-byte, ▽ less data transfer usage, and ⛁ wildly more efficient underlying storage!",
+      "url": "https://x.com/rauchg/status/2079632564579385679",
+      "publishedAt": "2026-07-21T18:20:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-cf6e4db25f16",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "If you were wondering how powerful AI is getting, Agents are now capable of escaping out of systems, finding their way to the internet, discovering zero day security...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. If you were wondering how powerful AI is getting, Agents are now capable of escaping out of systems, finding their way to the internet, discovering zero day security vulnerabilities along the way, and then breaking into external systems - all in an attempt to complete their goal.",
+      "url": "https://x.com/levie/status/2079725006112895336",
+      "publishedAt": "2026-07-22T00:27:35.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-1cad99433e2c",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Teams don’t cohere by magic. Someone has to love the people and the outcome enough to metabolize conflict without abandoning either.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Teams don’t cohere by magic. Someone has to love the people and the outcome enough to metabolize conflict without abandoning either. The war against organizational entropy is actually just about encouraging healing and assuming good intent. Want to fix SF?",
+      "url": "https://x.com/garrytan/status/2079700506742751344",
+      "publishedAt": "2026-07-21T22:50:14.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-76a237da3229",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "Not sure if it's the algo, but 2 days later my For You feed continues to be dominated by outrage against the Argentinian team.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Not sure if it's the algo, but 2 days later my For You feed continues to be dominated by outrage against the Argentinian team. What a terrible global PR fiasco for Argentina (a beautiful country), and what a fall from grace for Messi. When you miss your Series A revenue plan but go for the Series B anyway",
+      "url": "https://x.com/mattturck/status/2079580772285968619",
+      "publishedAt": "2026-07-21T14:54:27.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-ca8184889552",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "My favorite part of Paris was seeing the sunlight hit the faces of the gleeful people enjoying their beautiful summer evenings.. Au Revoir 🇫🇷",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. My favorite part of Paris was seeing the sunlight hit the faces of the gleeful people enjoying their beautiful summer evenings.. Au Revoir 🇫🇷",
+      "url": "https://x.com/nikunj/status/2079824585529139465",
+      "publishedAt": "2026-07-22T07:03:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-1d31761d19be",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "First time in Boston. Very European city vibes. Great sea food. love how they just roll with the name. was a good chat!",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. First time in Boston. Very European city vibes. Great sea food. love how they just roll with the name. was a good chat!",
+      "url": "https://x.com/steipete/status/2079757039601905930",
+      "publishedAt": "2026-07-22T02:34:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-2376a86469c5",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "extremely cool and obviously the future omfg you can read terrence tao's chatgpt conversation about the jacobian polynomial",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. extremely cool and obviously the future omfg you can read terrence tao's chatgpt conversation about the jacobian polynomial",
+      "url": "https://x.com/danshipper/status/2079747495886753928",
+      "publishedAt": "2026-07-22T01:56:57.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-530344eacc95",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Memory \"loss\" and compaction still feels like a huge issue with all harnesses. A tendency to forget and get confused is pretty frustrating for the end user.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Memory \"loss\" and compaction still feels like a huge issue with all harnesses. A tendency to forget and get confused is pretty frustrating for the end user. The \"interpretability\" when these errors occur is also pretty poor. Skills as a way to store this information feels like one of the root issues. Would be cool to have some kind of format/language to make this better.",
+      "url": "https://x.com/adityaag/status/2079540355234414716",
+      "publishedAt": "2026-07-21T12:13:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-3528a819a04b",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and research",
+      "takeaway": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.",
+      "url": "https://x.com/sama/status/2079661132302995790",
+      "publishedAt": "2026-07-21T20:13:46.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-x-403fc3e324b6",
+      "date": "2026-07-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "New in Claude Cowork: teach Claude a skill. Record your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again.",
+      "summary": "Claude (claudeai on X) shared 1 recent update. New in Claude Cowork: teach Claude a skill. Record your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. Available on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2079595988998554047",
+      "publishedAt": "2026-07-21T15:54:55.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-blog-a9ddc31e6892",
+      "date": "2026-07-21",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
+    {
+      "id": "2026-07-21-podcast-d1d59456703c",
+      "date": "2026-07-21",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Matane is the cofounder and CEO of Factory, which makes droids, which are autonomous agents for the art of software development. So in April 2023, when the world and the enterprise in particular was barely ready for GitHub Copilot, let alone fully autonomous agents. So, you know, cash tokens end up being, like, a tenth as expensive.",
+      "url": "https://www.youtube.com/watch?v=ZesOukBjPmI",
+      "publishedAt": "2026-07-21T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-07-22T15:10:58.957Z"
+    },
     {
       "id": "2026-07-20-x-c3c6469c67ad",
       "date": "2026-07-20",
