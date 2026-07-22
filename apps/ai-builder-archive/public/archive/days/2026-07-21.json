@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-21",
-  "generatedAt": "2026-07-22T15:10:58.957Z",
+  "generatedAt": "2026-07-22T16:40:05.720Z",
   "feedGeneratedAt": "2026-07-22T07:11:16.151Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Andrej Karpathy"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-2b6b55e31832",
@@ -46,7 +46,7 @@
         "Swyx",
         "Codex"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-bd11582e7f82",
@@ -68,7 +68,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-5745562a9fcc",
@@ -89,7 +89,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-de5f0c566308",
@@ -110,7 +110,7 @@
         "OpenAI",
         "Anthropic"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-ac97bf8248ea",
@@ -129,7 +129,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-8428a3cc1323",
@@ -152,7 +152,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-40c6f62be579",
@@ -174,7 +174,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-cf6e4db25f16",
@@ -196,7 +196,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-1cad99433e2c",
@@ -215,7 +215,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-76a237da3229",
@@ -234,7 +234,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-ca8184889552",
@@ -253,7 +253,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-1d31761d19be",
@@ -272,7 +272,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-2376a86469c5",
@@ -291,7 +291,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-530344eacc95",
@@ -310,7 +310,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-3528a819a04b",
@@ -330,7 +330,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-x-403fc3e324b6",
@@ -350,7 +350,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-blog-a9ddc31e6892",
@@ -375,7 +375,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     },
     {
       "id": "2026-07-21-podcast-d1d59456703c",
@@ -403,7 +403,7 @@
         "Google",
         "Box"
       ],
-      "createdAt": "2026-07-22T15:10:58.957Z"
+      "createdAt": "2026-07-22T16:40:05.720Z"
     }
   ]
 }
