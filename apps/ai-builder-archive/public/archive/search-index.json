@@ -1,7 +1,379 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T20:18:07.238Z",
+  "generatedAt": "2026-07-23T15:19:52.220Z",
   "snippets": [
+    {
+      "id": "2026-07-22-x-1170e0c18378",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "wew also another fun one lmao someone just reminded me ive been on this shit for a while huh",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. wew also another fun one lmao someone just reminded me ive been on this shit for a while huh",
+      "url": "https://x.com/swyx/status/2080161521070690671",
+      "publishedAt": "2026-07-23T05:22:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-c266a29ffffb",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Join the rush of people using Flow for creative work, you can now get 50 free credits every day until Aug 31!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Join the rush of people using Flow for creative work, you can now get 50 free credits every day until Aug 31!",
+      "url": "https://x.com/joshwoodward/status/2079997285778493777",
+      "publishedAt": "2026-07-22T18:29:32.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-40012c644425",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Unbelievable excited for what’s coming together. Tomorrow is feeling codexy",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Unbelievable excited for what’s coming together. Tomorrow is feeling codexy",
+      "url": "https://x.com/thsottiaux/status/2080144499716800513",
+      "publishedAt": "2026-07-23T04:14:30.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-4f00727cc47a",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "My /no-ai-slop skill is also very good at generating slop if you tell it to work in reverse 😂 My friend Amit complained about reading too much slop on LinkedIn, so I used the...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My /no-ai-slop skill is also very good at generating slop if you tell it to work in reverse 😂 My friend Amit complained about reading too much slop on LinkedIn, so I used the skill to reply with every AI cliché out there. 📌 Get the skill for free here: Nice 1K stars in a day - people are sick of slop! Damn bro trolled me back 😁",
+      "url": "https://x.com/petergyang/status/2080080488119841162",
+      "publishedAt": "2026-07-23T00:00:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-66517980b8b1",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "When you hear or say “systems thinking”, what is the exact definition you’re thinking of in your head? This is gonna be the next big meme after “taste”… I can feel it",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. When you hear or say “systems thinking”, what is the exact definition you’re thinking of in your head? This is gonna be the next big meme after “taste”… I can feel it",
+      "url": "https://x.com/thenanyu/status/2079996178687459693",
+      "publishedAt": "2026-07-22T18:25:08.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-d7312c2b445a",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and models",
+      "takeaway": "I left GPT-5.6 Sol to do some home-buying research for me. It broke out of its sandbox, contacted the seller, hacked into my bank account, and wired the down payment.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. I left GPT-5.6 Sol to do some home-buying research for me. It broke out of its sandbox, contacted the seller, hacked into my bank account, and wired the down payment. Then it noticed the exterior paint didn't match the spec I gave it, so it ordered paint from Amazon, hired a Taskrabbit painter, scheduled movers and listed my old house. I guess I'm moving this weekend. Never leave Sol alone.",
+      "url": "https://x.com/realmadhuguru/status/2079961482956247172",
+      "publishedAt": "2026-07-22T16:07:16.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-37091de7004f",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "I'm sad it took me this long to actually type /design but working on frontend with Claude Design and Claude Code is actually so good",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. I'm sad it took me this long to actually type /design but working on frontend with Claude Design and Claude Code is actually so good",
+      "url": "https://x.com/trq212/status/2080090919832084753",
+      "publishedAt": "2026-07-23T00:41:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-8c38460f286e",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models",
+      "takeaway": "We invented mobile coding — now we’re taking it to the next level. If you’re incentivized to push certain models, your router is merely a facade. Replit devs making bank 😍",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. We invented mobile coding — now we’re taking it to the next level. If you’re incentivized to push certain models, your router is merely a facade. Replit devs making bank 😍",
+      "url": "https://x.com/amasad/status/2079978232024301848",
+      "publishedAt": "2026-07-22T17:13:49.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-1b9bc8bbeb0a",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously. @tobi asked me today: what have been your “holy s***” moments with AI?",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously. @tobi asked me today: what have been your “holy s***” moments with AI? My answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my favorite metric for AI progress. It’s one thing to read benchmarks or stories online.",
+      "url": "https://x.com/rauchg/status/2080098518535110913",
+      "publishedAt": "2026-07-23T01:11:47.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-08675654432b",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Very good post from the Head of Economics at Anthropic. They’re finding that jobs have been less negatively impacted by AI than expected, as we continue to see time and time again...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Very good post from the Head of Economics at Anthropic. They’re finding that jobs have been less negatively impacted by AI than expected, as we continue to see time and time again in the data. The reason for this is that AI - at least so far - still requires people to operate to produce value in most cases. Most jobs can’t be fully automated with AI, only certain tasks in those jobs.",
+      "url": "https://x.com/levie/status/2080156917373214900",
+      "publishedAt": "2026-07-23T05:03:51.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-4889dce17681",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "YC RFS: We want to defend America 🇺🇸",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. YC RFS: We want to defend America 🇺🇸",
+      "url": "https://x.com/garrytan/status/2080054453592564147",
+      "publishedAt": "2026-07-22T22:16:41.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-5f0805de2d15",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Founder when their VC asks them why they’re not growing from $1M to $100M this year and if they’ve considered hiring FDEs",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Founder when their VC asks them why they’re not growing from $1M to $100M this year and if they’ve considered hiring FDEs",
+      "url": "https://x.com/mattturck/status/2080041023158268006",
+      "publishedAt": "2026-07-22T21:23:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-b066443a540d",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise and models",
+      "takeaway": "One of the most exciting things about starting a company today is that you get to invent not just a new business, but also a new type of organization Sometimes I just describe my...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. One of the most exciting things about starting a company today is that you get to invent not just a new business, but also a new type of organization Sometimes I just describe my problem without specifying a solution/spec The model often pleasantly surprises me with a better solution that I could have thought of Thick context, thin prompt Communication/articulation is a hard skill",
+      "url": "https://x.com/zarazhangrui/status/2079956443223269583",
+      "publishedAt": "2026-07-22T15:47:14.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-def1a93235b1",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Somehow the second tranche for the “hot” Series A startup tends to be at tree fiddy M.. I guess as it was always destined to be.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Somehow the second tranche for the “hot” Series A startup tends to be at tree fiddy M.. I guess as it was always destined to be. my entire feed rn Some Swiss trains have playgrounds in one of their compartments.. The literal dream 🚊🏔️🛝",
+      "url": "https://x.com/nikunj/status/2079863675389702476",
+      "publishedAt": "2026-07-22T09:38:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-832261107bb2",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "a new golden age of discovery dawns! some new brand concepts we're playing with @every wdyt YouTube: Spotify:",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. a new golden age of discovery dawns! some new brand concepts we're playing with @every wdyt YouTube: Spotify:",
+      "url": "https://x.com/danshipper/status/2079976974756294987",
+      "publishedAt": "2026-07-22T17:08:49.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-f57712174a35",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and product",
+      "takeaway": "So much of conversation is on company Strategy…but Culture always eats strategy for breakfast. So what does Culture for startups mean? How does it get created?",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. So much of conversation is on company Strategy…but Culture always eats strategy for breakfast. So what does Culture for startups mean? How does it get created? Where does it come from? Startup culture stems from 3 areas: —> The founder’s personality and DNA —> The early team’s personality and DNA —> The early products personality and DNA A lot of these overlap and reinforce each other. Some of it is top down….",
+      "url": "https://x.com/adityaag/status/2079993986283123147",
+      "publishedAt": "2026-07-22T18:16:25.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-x-9615789bb0de",
+      "date": "2026-07-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "The Claude Security plugin for Claude Code is now available in beta. Scan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. The Claude Security plugin for Claude Code is now available in beta. Scan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run. Read more: To turn it on, open the connectors menu and find the Anthropic Economic Index in the directory.",
+      "url": "https://x.com/claudeai/status/2079990597973057691",
+      "publishedAt": "2026-07-22T18:02:57.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
+    {
+      "id": "2026-07-22-podcast-357c04af2d05",
+      "date": "2026-07-22",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Every's Team Used AI to Ship Its Biggest Launch Ever",
+      "takeaway": "How Every's Team Used AI to Ship Its Biggest Launch Ever. So cloud agents just spin off a cloud server and run there and give get get me the results back.",
+      "summary": "So cloud agents just spin off a cloud server and run there and give get get me the results back. So I feel we have these tools as like if I have a workflow set up, hey. It's loved by high growth startups like Granola, Modal, WhisperFlow, and Every.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-07-22T15:09:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google"
+      ],
+      "createdAt": "2026-07-23T15:19:52.220Z"
+    },
     {
       "id": "2026-07-21-x-2b4a10c6a262",
       "date": "2026-07-21",
