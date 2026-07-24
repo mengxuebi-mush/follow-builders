@@ -1,7 +1,310 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T20:17:45.947Z",
+  "generatedAt": "2026-07-24T15:03:30.417Z",
   "snippets": [
+    {
+      "id": "2026-07-23-x-ce93acea3a8c",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and models",
+      "takeaway": "one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat @thinkymachines at coding, but most people (like @eliebakouch) have been shouting out their excellent papers, but also they're among a rare few to actually expose their full eval dataset as well - beautifully published, with across 6 public...",
+      "url": "https://x.com/swyx/status/2080387171723137440",
+      "publishedAt": "2026-07-23T20:18:48.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-08cd67c15555",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and tools",
+      "takeaway": "Jarvis / Samantha / TARS / Etc Try it, and do your best work all while being away from that keyboard. Time to have fun! Available in the ChatGPT desktop app now.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Jarvis / Samantha / TARS / Etc Try it, and do your best work all while being away from that keyboard. Time to have fun! Available in the ChatGPT desktop app now. From Science Fiction to Science Reality. Join the team if you want to work on some of the coolest and most impactful technology. Should we rename ChatGPT Work to ChatGPT Vibe?",
+      "url": "https://x.com/thsottiaux/status/2080408012515340394",
+      "publishedAt": "2026-07-23T21:41:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-8bb7448dacc5",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "Before and after with ChatGPT Voice The next evolution is being able to spin up multiple ChatGPT Voice threads so I can have a full team talking to me and to each other.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Before and after with ChatGPT Voice The next evolution is being able to spin up multiple ChatGPT Voice threads so I can have a full team talking to me and to each other. 🔥 More feedback: 1. It should let me know when the other threads finish working if I have a bunch of threads going 2. The Chinese pronounciation sounds bad 😅",
+      "url": "https://x.com/petergyang/status/2080505964936241226",
+      "publishedAt": "2026-07-24T04:10:50.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-5aed5097af14",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "Chatted with a friend who leads security at a public company following the GPT Sol incident. some interesting takeaways..",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. Chatted with a friend who leads security at a public company following the GPT Sol incident. some interesting takeaways.. How do you manage security for effectively infinite agents when identity and access management was designed for a finite number of employees? One employee can now spin up hundreds of agents. Those agents can spawn more agents.",
+      "url": "https://x.com/realmadhuguru/status/2080315474093760714",
+      "publishedAt": "2026-07-23T15:33:54.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-332615a65d01",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "Viktor was able to disrupt the agency model and make a lot of money by using Replit. Then he figured: Why not automate the entire thing, not just the coding part?",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Viktor was able to disrupt the agency model and make a lot of money by using Replit. Then he figured: Why not automate the entire thing, not just the coding part? The Agency: It's merely an agent loop... So he asked our team for an MCP, and we built one and he's now built his autonomous agency. My chess autoresearch agent got a PhD in modern LLM finetuning.",
+      "url": "https://x.com/amasad/status/2080371567221944657",
+      "publishedAt": "2026-07-23T19:16:47.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-80df9c3100fe",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and product",
+      "takeaway": "🔴🔊 AI Gateway keeps getting better. Unreal product velocity from the team. Python code now starts 2x faster on Vercel. Automatically!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. 🔴🔊 AI Gateway keeps getting better. Unreal product velocity from the team. Python code now starts 2x faster on Vercel. Automatically!",
+      "url": "https://x.com/rauchg/status/2080344136625049690",
+      "publishedAt": "2026-07-23T17:27:47.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-2be40f728e79",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and product",
+      "takeaway": "The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at which you want to learn about a new one).",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at which you want to learn about a new one). The 3rd category -no existing judgment, no interest in developing it- will basically produce slop and won’t drive that much economically productive activity.",
+      "url": "https://x.com/levie/status/2080471989060559336",
+      "publishedAt": "2026-07-24T01:55:50.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-c6fa36066758",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models and tools",
+      "takeaway": "It’s time to build housing in SF Open weight models are very very important Repeal and reform CEQA, the one regulatory tool that is used and abused by NIMBYs to block housing...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. It’s time to build housing in SF Open weight models are very very important Repeal and reform CEQA, the one regulatory tool that is used and abused by NIMBYs to block housing everywhere in California",
+      "url": "https://x.com/garrytan/status/2080443154730553402",
+      "publishedAt": "2026-07-24T00:01:15.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-006dc940e69f",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "My conversation with @andrewdfeldman, CEO of @cerebras. We started from \"what is a wafer?\" and built up to why the entire chip industry is reorganizing around inference speed.",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. My conversation with @andrewdfeldman, CEO of @cerebras. We started from \"what is a wafer?\" and built up to why the entire chip industry is reorganizing around inference speed. 00:00 Cold open & Intro 01:31 Why speed became the AI bottleneck 02:32 Tokens per second per user, explained 03:16 AI’s broadband moment and the Netflix analogy 04:35 The AI chip landscape: GPUs, TPUs, Trainium, ASICs 06:36 What is an ASIC?",
+      "url": "https://x.com/mattturck/status/2080333707483725876",
+      "publishedAt": "2026-07-23T16:46:21.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-8263d1d990cf",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Things in tech that have lost all signal given how liberally we use this title.. &gt; “neo”-something &gt; full stack &gt; fellows* &gt; labs &gt; partner* &gt; forward deployed...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Things in tech that have lost all signal given how liberally we use this title.. &gt; “neo”-something &gt; full stack &gt; fellows* &gt; labs &gt; partner* &gt; forward deployed &gt; RL (getting there slowly) * yes I know the irony since a) we run a fellowship and b) my own title is partner",
+      "url": "https://x.com/nikunj/status/2080293627784212933",
+      "publishedAt": "2026-07-23T14:07:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-8c66b57d5a9a",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and models",
+      "takeaway": "We see that as well and added code paths that use the claude cli directly - hard to fight the system.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. We see that as well and added code paths that use the claude cli directly - hard to fight the system.",
+      "url": "https://x.com/steipete/status/2080318789980201224",
+      "publishedAt": "2026-07-23T15:47:04.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Claude"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-x-84d9715882fe",
+      "date": "2026-07-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation. Talk through the hard problems out loud, in many more languages.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation. Talk through the hard problems out loud, in many more languages. Voice conversations now use more of the models you have in chat, including Claude Opus and Sonnet. Claude can also reach the tools you've connected mid-conversation, like your email and calendar.",
+      "url": "https://x.com/claudeai/status/2080376094939603366",
+      "publishedAt": "2026-07-23T19:34:47.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-blog-6cd28c156a1c",
+      "date": "2026-07-23",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
+    {
+      "id": "2026-07-23-podcast-ab2b654bc2d1",
+      "date": "2026-07-23",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "The Biggest Chip Ever Built — Why OpenAI Runs On It | Cerebras CEO Andrew Feldman",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "And it's true for queries from from chat, but it's also true for for agentic floats. And so that allows us to get AI nadence as well as large enterprises and and governments. Fast tokens are more productive.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-07-23T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-07-24T15:03:30.417Z"
+    },
     {
       "id": "2026-07-22-x-1170e0c18378",
       "date": "2026-07-22",
