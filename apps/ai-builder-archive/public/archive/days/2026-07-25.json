@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-26T14:42:46.318Z",
+  "feedGeneratedAt": "2026-07-26T07:10:56.474Z",
+  "snippets": [
+    {
+      "id": "2026-07-25-x-ff51b406074b",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "lmao @ClementDelangue doing the 🇳🇴 @cormacb cormac's latest at @aidotengineer is now live!",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. lmao @ClementDelangue doing the 🇳🇴 @cormacb cormac's latest at @aidotengineer is now live!",
+      "url": "https://x.com/swyx/status/2081142196510843374",
+      "publishedAt": "2026-07-25T22:19:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-23c47aa9aa1b",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "ChatGPT Work officially has overtaken Codex in number of active users. Way to go. Game changer when used from mobile. Available in the ChatGPT app already.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. ChatGPT Work officially has overtaken Codex in number of active users. Way to go. Game changer when used from mobile. Available in the ChatGPT app already. It was always possible to speak to your computer. It wouldn’t do much in return. But we fixed that bug.",
+      "url": "https://x.com/thsottiaux/status/2081198608293187635",
+      "publishedAt": "2026-07-26T02:03:09.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-6f29355f345c",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "My friend Kun gives some of the best analysis on models there is, read it below: Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. My friend Kun gives some of the best analysis on models there is, read it below: Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work. In tomorrow’s episode, he showed me his complete Codex work system, including how to: → Run a chief of staff across Slack and email → Turn past sessions into new skills and workflows → Build sites to learn anything, like the drums 📌...",
+      "url": "https://x.com/petergyang/status/2081132101441823068",
+      "publishedAt": "2026-07-25T21:38:53.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-4c417a1ce6f9",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product",
+      "takeaway": "The real reason we don’t have a true SoftwareFactory If you can make a SoftwareFactory, then you can make a SoftwareFactoryFactory I’m talking about software in this case, but it...",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. The real reason we don’t have a true SoftwareFactory If you can make a SoftwareFactory, then you can make a SoftwareFactoryFactory I’m talking about software in this case, but it generalizes into things like public health, or law… Instead of a feature, it’s some other sort of designed and implemented intention",
+      "url": "https://x.com/thenanyu/status/2081195994499133820",
+      "publishedAt": "2026-07-26T01:52:46.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-4ba9dbb2494b",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models",
+      "takeaway": "In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for open-weight models. It feels obvious now. It wasn't even a month ago. It took a series of public “experiments” to play out. DeepSeek. Microsoft-OpenAI breakup. GLM. Kimi. Fable. The OpenAI-Hugging Face episode.",
+      "url": "https://x.com/realmadhuguru/status/2081141594892415028",
+      "publishedAt": "2026-07-25T22:16:36.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "OpenAI",
+        "Microsoft"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-978f2fc9e28d",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and research",
+      "takeaway": "I find them baffling even to me. Especially bad for the ADHD brain. Just deployed a new chess engine; we're closing in on an estimated 1200 Elo.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. I find them baffling even to me. Especially bad for the ADHD brain. Just deployed a new chess engine; we're closing in on an estimated 1200 Elo. The goal is to get it to 2000+, while keeping the constraints: 1. One small finetuned LLM (no custom pretraining or architecture) 2. The model has to produce the moves with no chess engine assistance If you relax these constraints, it gets much easier.",
+      "url": "https://x.com/amasad/status/2081081149355708749",
+      "publishedAt": "2026-07-25T18:16:25.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-616f0457a176",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it. This is what @elonmusk figured out about Tesla, and it's now true for the software world. I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ folder, an 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 describing the format I like and best practices.",
+      "url": "https://x.com/rauchg/status/2081123293340520642",
+      "publishedAt": "2026-07-25T21:03:53.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-fa516d0c46d5",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "Now with Google on board, this is a complete endorsement of open weights AI. Pretty big moment for the industry.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Now with Google on board, this is a complete endorsement of open weights AI. Pretty big moment for the industry.",
+      "url": "https://x.com/levie/status/2081054531908247937",
+      "publishedAt": "2026-07-25T16:30:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Google"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-822930fd0fe6",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "My dad was cheering real loud from the stands Dad stop you’re embarrassing me We should prioritize people and a vibrant community and more housing far far far more than some guy’s...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. My dad was cheering real loud from the stands Dad stop you’re embarrassing me We should prioritize people and a vibrant community and more housing far far far more than some guy’s views PS This is a shitpost",
+      "url": "https://x.com/garrytan/status/2081223316547977529",
+      "publishedAt": "2026-07-26T03:41:20.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-9fafbadaae0d",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "VC trying to resist the temptation to buy three shares of Anthropic through an SPV before the IPO so that they can call themselves early investors Chip landscape 101 with...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. VC trying to resist the temptation to buy three shares of Anthropic through an SPV before the IPO so that they can call themselves early investors Chip landscape 101 with @andrewdfeldman: CPU, GPU, NVIDIA, AMD, TPU, Trainium, Cerebras, etc",
+      "url": "https://x.com/mattturck/status/2081098045211439136",
+      "publishedAt": "2026-07-25T19:23:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-5ff963e2d4c1",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "What do you do when you’re waiting for AI output? AI-native companies have a culture akin to an open-source community",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. What do you do when you’re waiting for AI output? AI-native companies have a culture akin to an open-source community",
+      "url": "https://x.com/zarazhangrui/status/2081200367480738098",
+      "publishedAt": "2026-07-26T02:10:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-595ce8f0655c",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and tools",
+      "takeaway": "No one will admit this but you can only do this sort of thing if a) the CEO has complete control of the company (profitable, no board and VC that I know of) and b) you are as...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. No one will admit this but you can only do this sort of thing if a) the CEO has complete control of the company (profitable, no board and VC that I know of) and b) you are as ambitious and crazy as @DavidSHolz Otherwise imagine telling your broader team a generative media company is acquiring an astrology app. Let’s not even get into their scanners. It’ll be fascinating to see what the future holds!",
+      "url": "https://x.com/nikunj/status/2081017328137916426",
+      "publishedAt": "2026-07-25T14:02:49.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-92f58705ee32",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. 1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart at compaction boundaries and/or the model started cheating.",
+      "url": "https://x.com/steipete/status/2081175795587072421",
+      "publishedAt": "2026-07-26T00:32:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-x-fb101c3c6a93",
+      "date": "2026-07-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "this is crazy",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. this is crazy",
+      "url": "https://x.com/danshipper/status/2081065765638201474",
+      "publishedAt": "2026-07-25T17:15:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-blog-dea52d951227",
+      "date": "2026-07-25",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-blog-f90fa6cabc29",
+      "date": "2026-07-25",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-blog-2a8322b07185",
+      "date": "2026-07-25",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    },
+    {
+      "id": "2026-07-25-podcast-2ee62b67e34f",
+      "date": "2026-07-25",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle",
+      "takeaway": "Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle. We talked about why consumer AI applications aren't really working today, and the kind of jagged edge of capabilities and...",
+      "summary": "We talked about why consumer AI applications aren't really working today, and the kind of jagged edge of capabilities and their implications on enterprise adoption overall. I wrote something at the end of last week talking about token pricing. Speaker 1 | 1:10:06 - 1:10:25 We're gonna need to screw the rest of our budget.",
+      "url": "https://www.youtube.com/watch?v=vDY_ocrkQ5w",
+      "publishedAt": "2026-07-16T12:48:06.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-07-26T14:42:46.318Z"
+    }
+  ]
+}
