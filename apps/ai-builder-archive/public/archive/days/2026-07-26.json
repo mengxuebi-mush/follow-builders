@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-27T15:49:20.005Z",
+  "feedGeneratedAt": "2026-07-27T07:26:55.001Z",
+  "snippets": [
+    {
+      "id": "2026-07-26-x-69418a01c514",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Let ChatGPT *work* for you. How many time have you wanted to negotiate your internet bill, get rid of all those spam emails you’re subscribed to, or find the perfect deal for...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Let ChatGPT *work* for you. How many time have you wanted to negotiate your internet bill, get rid of all those spam emails you’re subscribed to, or find the perfect deal for something you wanted to do or buy. It’s quite literally just one prompt away, all from the comfort of your phone. It does at least 20 things for me every single day and I’m still surprised. Vibes are strong.",
+      "url": "https://x.com/thsottiaux/status/2081444811647963244",
+      "publishedAt": "2026-07-26T18:21:29.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-51610d6be17d",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and costs",
+      "takeaway": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tokens it's \"do I trust ChatGPT enough to share my Gmail,...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tokens it's \"do I trust ChatGPT enough to share my Gmail, Calendar, Google Workspace, Microsoft Office, etc.\" Living life on the edge everyday Just call me Jean Luc Peter",
+      "url": "https://x.com/petergyang/status/2081555286817648738",
+      "publishedAt": "2026-07-27T01:40:28.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-5b672afad976",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product and tools",
+      "takeaway": "When people say AI hasn’t led to shipped impact in products, here’s the piece they are missing. This is phase 1.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. When people say AI hasn’t led to shipped impact in products, here’s the piece they are missing. This is phase 1. Companies with distribution are rapidly expanding to adjacent problem areas - AI helps them execute fast and build functionality that previously required a bunch custom sw (e.g. clothes try on). Companies are figuring out the playbook and the impact is not yet visible at the ecosystem level.",
+      "url": "https://x.com/realmadhuguru/status/2081437850466451736",
+      "publishedAt": "2026-07-26T17:53:49.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-aceb87918dfa",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models",
+      "takeaway": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models.",
+      "url": "https://x.com/amasad/status/2081576172656456076",
+      "publishedAt": "2026-07-27T03:03:28.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-1d8cba93732a",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and models",
+      "takeaway": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. Open source, data, protocols & research enable the technological wonders we enjoy every day, enriching...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Vercel proudly co-signs the Open Weights and American AI Leadership letter. Open source, data, protocols & research enable the technological wonders we enjoy every day, enriching our lives and our world. Open weights are the logical next frontier: I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible. ✓ Resulting binary size: 1.28mb ✓ Startup overhead: 1.5ms (mean) ✓ Compiles in 2.",
+      "url": "https://x.com/rauchg/status/2081546513885622760",
+      "publishedAt": "2026-07-27T01:05:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-d1109faacc3d",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to their workflows. Intelligence alone is not enough to transform most processes because you need to bridge that intelligence with real world feedback loops.",
+      "url": "https://x.com/levie/status/2081491621162668207",
+      "publishedAt": "2026-07-26T21:27:29.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-b76df5d2ac69",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Don’t LARP Be earnest Thank you @sama Couldn’t imagine a better close out anchor to YC Startup School 2026 That’s a wrap! See you next year",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Don’t LARP Be earnest Thank you @sama Couldn’t imagine a better close out anchor to YC Startup School 2026 That’s a wrap! See you next year",
+      "url": "https://x.com/garrytan/status/2081586567211348432",
+      "publishedAt": "2026-07-27T03:44:46.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-0e1e32b0e112",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on costs and product",
+      "takeaway": "I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. I post on X about 3 times a day on average. Posting takes me maybe 15 to 20 minutes a day at most I don't overthink it, I post the moment I think of something, and most of the material is stuff I've already said out loud to someone in person Stop measuring your AI adoption in tokens burned Measure the time from a user need arriving to that thing shipping The reason there are so many AI tutorials: the more general a...",
+      "url": "https://x.com/zarazhangrui/status/2081304884469809295",
+      "publishedAt": "2026-07-26T09:05:27.000Z",
+      "tags": [
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Box"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-f26f89e68816",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "proof of prompt is soon going to replace proof of work",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. proof of prompt is soon going to replace proof of work",
+      "url": "https://x.com/nikunj/status/2081383934928068619",
+      "publishedAt": "2026-07-26T14:19:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-21f82d9c10ca",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and tools",
+      "takeaway": "i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insiders @openai) publishing on @every in a few weeks i will be...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insiders @openai) publishing on @every in a few weeks i will be dropping breadcrumbs and learnings as i go :) subscribe to @every to get it when it comes out:",
+      "url": "https://x.com/danshipper/status/2081412243388788988",
+      "publishedAt": "2026-07-26T16:12:04.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-x-587552dffeaf",
+      "date": "2026-07-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and costs",
+      "takeaway": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best...",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations.",
+      "url": "https://x.com/sama/status/2081396796174282900",
+      "publishedAt": "2026-07-26T15:10:41.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    },
+    {
+      "id": "2026-07-26-podcast-f3abf1e41283",
+      "date": "2026-07-26",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti",
+      "takeaway": "OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti. So now in for OpenAI, in addition to being the application business, consumer and enterprise, and then being in...",
+      "summary": "So now in for OpenAI, in addition to being the application business, consumer and enterprise, and then being in the model AI research business, and then the compute and data center business, it seems that OpenAI is in the chip business, if that's fair. And so I think the best way to visualize data centers is giant factories that are turning electrons into tokens. But three, four years ago, I while I was at Stanford, I did a couple of startups.",
+      "url": "https://www.youtube.com/watch?v=wEZBlmvxx4o",
+      "publishedAt": "2026-07-16T11:30:01.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-07-27T15:49:20.005Z"
+    }
+  ]
+}
