@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-28T15:29:00.930Z",
+  "feedGeneratedAt": "2026-07-28T07:11:51.765Z",
+  "snippets": [
+    {
+      "id": "2026-07-27-x-f9c0d21507fc",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year if you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. incidentally, $ per input/output tokens died as a relevant cost measure sometime last year if you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this...",
+      "url": "https://x.com/swyx/status/2081904230768816487",
+      "publishedAt": "2026-07-28T00:47:03.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-46fcc3523284",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop! Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day! Update.",
+      "url": "https://x.com/thsottiaux/status/2081899343091843463",
+      "publishedAt": "2026-07-28T00:27:37.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-b9c26ad856c8",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and costs",
+      "takeaway": "I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?” Here’s his answer: “I was on a bike ride when a coworker asked me to fix a launch video.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?” Here’s his answer: “I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Slack. Twenty minutes later, there was a new video in the Slack thread.",
+      "url": "https://x.com/petergyang/status/2081775399097549083",
+      "publishedAt": "2026-07-27T16:15:07.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-79a0c884ccca",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product",
+      "takeaway": "A lot of very smart people work very hard to make the product very good and nice to use. If you have very smart people, you should have them make your own product very good and...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. A lot of very smart people work very hard to make the product very good and nice to use. If you have very smart people, you should have them make your own product very good and nice to use. And pay us a nominal fee to use our product. Eclipse where u at",
+      "url": "https://x.com/thenanyu/status/2081768780045156358",
+      "publishedAt": "2026-07-27T15:48:49.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-288d4c479c06",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product and tools",
+      "takeaway": "Most product review meetings are annoying because they’re poorly run. The best product reviews compress months of learnings into an hour by simulating the market reaction to your...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Most product review meetings are annoying because they’re poorly run. The best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas. That only works if the people in the room deeply understand the space, have great product sense, strong opinions, and are often right.",
+      "url": "https://x.com/realmadhuguru/status/2081781952437486052",
+      "publishedAt": "2026-07-27T16:41:09.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-14a6c54a6e41",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and product",
+      "takeaway": "We’re entering a new era of exploration. Our ancestors mapped the Earth. Then they explored space. Our generation may explore the computational universe: the vast space of...",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. We’re entering a new era of exploration. Our ancestors mapped the Earth. Then they explored space. Our generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search.",
+      "url": "https://x.com/amasad/status/2082000490066592127",
+      "publishedAt": "2026-07-28T07:09:33.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-a0147618a09c",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "In our latest benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance. It's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. In our latest benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance. It's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf. Sol remains the frontier, ahead of Opus 5. Kimi's paper underlines the importance of the right security boundary for agents to run in. tl:DR: container-level isolation is not enough.",
+      "url": "https://x.com/rauchg/status/2081852481517318560",
+      "publishedAt": "2026-07-27T21:21:25.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-17ed00bc4de0",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and costs",
+      "takeaway": "The k3 weights have arrived The negative AI jobs outcome just continues to not be happening as some predicted.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The k3 weights have arrived The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I talk with -across industries- are still hiring, just with a tilt in the kind of roles they’re going after. They’re finding that AI is letting them do more, and Jevons paradox is actually playing out. They’re hiring engineers to go after problems they couldn’t tackle before.",
+      "url": "https://x.com/levie/status/2081760710108012702",
+      "publishedAt": "2026-07-27T15:16:45.000Z",
+      "tags": [
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-b68cc3f400bb",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "New study shows that less than 40% of VCs have any successful investment Every VC: “I’m so glad I’m in the 40%!”",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. New study shows that less than 40% of VCs have any successful investment Every VC: “I’m so glad I’m in the 40%!”",
+      "url": "https://x.com/mattturck/status/2081679801769668980",
+      "publishedAt": "2026-07-27T09:55:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-30eb52b3792b",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "How I get endless content ideas, in one picture “The magic you’re looking for is in the work you’re avoiding”",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. How I get endless content ideas, in one picture “The magic you’re looking for is in the work you’re avoiding”",
+      "url": "https://x.com/zarazhangrui/status/2081983750658044079",
+      "publishedAt": "2026-07-28T06:03:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-f9c3f7fd0ea1",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and enterprise",
+      "takeaway": "TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front.. It’s so freaking cute!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front.. It’s so freaking cute! &gt; be @santa_kaus &gt; be a rockstar engineer at @openai &gt; have infinite rizz and taste &gt; burns tokens like no one else &gt; (sometimes) posts performative tennis photos to show he touches grass &gt; but still refuses to get a gf &gt; X do your thing,...",
+      "url": "https://x.com/nikunj/status/2081805464757485706",
+      "publishedAt": "2026-07-27T18:14:35.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-ce3537e364bb",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃 My agent reported a bug, their agent fixed it.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃 My agent reported a bug, their agent fixed it. [in the same night] @jarredsumner's robobun setup is future. See you this weekend!",
+      "url": "https://x.com/steipete/status/2081790109415002468",
+      "publishedAt": "2026-07-27T17:13:34.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-de935aff7246",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "if true, this sucks and shouldn't continue with rare books",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. if true, this sucks and shouldn't continue with rare books",
+      "url": "https://x.com/danshipper/status/2081754482568835152",
+      "publishedAt": "2026-07-27T14:52:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-x-a4be68c00cf0",
+      "date": "2026-07-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "wrong",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. wrong",
+      "url": "https://x.com/sama/status/2081832600591892712",
+      "publishedAt": "2026-07-27T20:02:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    },
+    {
+      "id": "2026-07-27-podcast-357c04af2d05",
+      "date": "2026-07-27",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps",
+      "takeaway": "The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps. We've been working on a Slack agent.",
+      "summary": "We've been working on a Slack agent. How do you think about token spend both on your team and in the product? But they're oftentimes, like, in in my little universe as opposed to I like, I don't go and set up very complicated workflows.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-07-15T15:08:19.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-07-28T15:29:00.930Z"
+    }
+  ]
+}
