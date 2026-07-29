@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-07-28",
-  "generatedAt": "2026-07-29T16:36:54.607Z",
+  "generatedAt": "2026-07-29T18:14:11.993Z",
   "feedGeneratedAt": "2026-07-29T07:13:14.146Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-2a3abf723be3",
@@ -45,7 +45,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-501a52590b6f",
@@ -69,7 +69,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-778a4192e1ab",
@@ -90,7 +90,7 @@
         "Madhu Guru",
         "Claude"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-50d1e5c2e372",
@@ -109,7 +109,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-a86345013ff6",
@@ -128,7 +128,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-7500d73f7ad2",
@@ -148,7 +148,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-9afafe5bfdf6",
@@ -167,7 +167,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-be08153ba7ee",
@@ -188,7 +188,7 @@
         "Dan Shipper",
         "Codex"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     },
     {
       "id": "2026-07-28-x-55689a975b19",
@@ -207,7 +207,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-07-29T16:36:54.607Z"
+      "createdAt": "2026-07-29T18:14:11.993Z"
     }
   ]
 }
