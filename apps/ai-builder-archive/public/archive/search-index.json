@@ -1,7 +1,212 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T20:22:10.890Z",
+  "generatedAt": "2026-07-29T15:16:41.024Z",
   "snippets": [
+    {
+      "id": "2026-07-28-x-47cba348658d",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents",
+      "takeaway": "re: hiring right now it's a huge bull market for AI-native IC's/player-coaches it's a huge bear market for \"heads of X\" managers never seen such furious bifurcation.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. re: hiring right now it's a huge bull market for AI-native IC's/player-coaches it's a huge bear market for \"heads of X\" managers never seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &gt; 10 years experience managing 10-100 people i'm just reporting; many counter examples if you dislike this trend: see Edison on @latentspacepod here",
+      "url": "https://x.com/swyx/status/2082199414656127010",
+      "publishedAt": "2026-07-28T20:20:00.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-2a3abf723be3",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and coding",
+      "takeaway": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans. We’ve been digging into what was happening and have landed several improvements.",
+      "url": "https://x.com/thsottiaux/status/2082317452755751098",
+      "publishedAt": "2026-07-29T04:09:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-501a52590b6f",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games. So I built Tastemaker to let anyone curate their favorite movies, TV shows, and...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games. So I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile. You can use it to: → Rate and review your favorites → Create and share lists → Discover what to watch or play next Because of API limits, I’m launching this as a limited release for the first 100 profiles...",
+      "url": "https://x.com/petergyang/status/2082254840655405293",
+      "publishedAt": "2026-07-29T00:00:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-778a4192e1ab",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and models",
+      "takeaway": "I saw a SWE at work today. No Claude. No wispr. No tab key. Just writing code. With his bare hands.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. I saw a SWE at work today. No Claude. No wispr. No tab key. Just writing code. With his bare hands.",
+      "url": "https://x.com/realmadhuguru/status/2082112941814661236",
+      "publishedAt": "2026-07-28T14:36:23.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Claude"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-50d1e5c2e372",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on costs",
+      "takeaway": "Who’s writing an open letter against destroying rare books? 1300 Elo! Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Who’s writing an open letter against destroying rare books? 1300 Elo! Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search math proofs.",
+      "url": "https://x.com/amasad/status/2082317323445387514",
+      "publishedAt": "2026-07-29T04:08:32.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-a86345013ff6",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "Great piece and vision for AI from Zuckerberg",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Great piece and vision for AI from Zuckerberg",
+      "url": "https://x.com/levie/status/2082114876873597239",
+      "publishedAt": "2026-07-28T14:44:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-7500d73f7ad2",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck Sanctuary city policy was never meant to be used to protect fentanyl...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck Sanctuary city policy was never meant to be used to protect fentanyl dealers or violent criminals The original drafter of Sanctuary Cities never meant for this to happen",
+      "url": "https://x.com/garrytan/status/2082176112906711452",
+      "publishedAt": "2026-07-28T18:47:24.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-9afafe5bfdf6",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models",
+      "takeaway": "Serving large models is hard.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Serving large models is hard.",
+      "url": "https://x.com/steipete/status/2082337130299457652",
+      "publishedAt": "2026-07-29T05:27:14.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-be08153ba7ee",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and models",
+      "takeaway": "i spent the morning writing the definitive history of codex on my couch it comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb my...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. i spent the morning writing the definitive history of codex on my couch it comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb my hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work’s voice mode absolutely goated for creative work.",
+      "url": "https://x.com/danshipper/status/2082130836485259530",
+      "publishedAt": "2026-07-28T15:47:30.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
+    {
+      "id": "2026-07-28-x-55689a975b19",
+      "date": "2026-07-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight: 1/ I want to build new things in the...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight: 1/ I want to build new things in the world 2/ I want to work with brilliant and intense people On days such as this both feel abundant.",
+      "url": "https://x.com/adityaag/status/2082214798935326833",
+      "publishedAt": "2026-07-28T21:21:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-29T15:16:41.024Z"
+    },
     {
       "id": "2026-07-27-x-f9c0d21507fc",
       "date": "2026-07-27",
