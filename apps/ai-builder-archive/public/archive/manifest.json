@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "days": [
     {
+      "date": "2026-07-29",
+      "title": "Issue 2026-07-29",
+      "snippetCount": 18,
+      "sourceCounts": {
+        "x": 16,
+        "podcast": 1,
+        "blog": 1
+      },
+      "generatedAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
       "date": "2026-07-28",
       "title": "Issue 2026-07-28",
       "snippetCount": 10,
@@ -684,5 +695,5 @@
       "generatedAt": "2026-05-16T18:00:00.000Z"
     }
   ],
-  "generatedAt": "2026-07-29T20:15:29.847Z"
+  "generatedAt": "2026-07-30T15:19:54.882Z"
 }

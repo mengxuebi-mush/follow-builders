@@ -1,7 +1,383 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T20:15:29.847Z",
+  "generatedAt": "2026-07-30T15:19:54.882Z",
   "snippets": [
+    {
+      "id": "2026-07-29-x-db8a4cebacc2",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on enterprise",
+      "takeaway": "today i tried to sign up for @docusign and was presented a captcha that i could not solve this is an $11B company that everyone hates people who say \"make something people want\"...",
+      "summary": "Swyx (swyx on X) shared 1 recent update. today i tried to sign up for @docusign and was presented a captcha that i could not solve this is an $11B company that everyone hates people who say \"make something people want\" dont have the full picture",
+      "url": "https://x.com/swyx/status/2082617801362313527",
+      "publishedAt": "2026-07-30T00:02:31.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-63d63601e4c9",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Turns out GPT-5.6 Sol is actually SoTA on ARC-AGI-3. Just took two setting changes. You just have to allow it to reason and work over multiple context windows with the help of our...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Turns out GPT-5.6 Sol is actually SoTA on ARC-AGI-3. Just took two setting changes. You just have to allow it to reason and work over multiple context windows with the help of our canonical compaction implementation. This week is all about intelligence too cheap to meter. Tomorrow we ship again. Terrific work by @ilanbigio and @sandersted on the investigation and post. Seems like it was a lot of fun.",
+      "url": "https://x.com/thsottiaux/status/2082609662231502932",
+      "publishedAt": "2026-07-29T23:30:11.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-1866bee95ce8",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "We’ve gone from AI defaulting to designs that look like purple slop to those that have that recognizable Claude look.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. We’ve gone from AI defaulting to designs that look like purple slop to those that have that recognizable Claude look. To avoid this, I always create a design md file with guidelines for color, typography, and more. Here are a few places to find inspiration for your design md: 1. Go to @mobbin and install its MCP to find design patterns and app screens you like. Paste the screens and ask AI to make a design md. 2.",
+      "url": "https://x.com/petergyang/status/2082519030859264086",
+      "publishedAt": "2026-07-29T17:30:02.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-e9e4c096156b",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product and tools",
+      "takeaway": "Love this POV -- what products do you use which would absolutely suck to switch to an alternative, besides apple products?",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Love this POV -- what products do you use which would absolutely suck to switch to an alternative, besides apple products? When I think about it, a couple of mundane examples come to mind. 3M post-it notes, and Expo whiteboard markers are unmatched. The alternatives are garbage That is why we must pace",
+      "url": "https://x.com/thenanyu/status/2082480369543065855",
+      "publishedAt": "2026-07-29T14:56:25.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-542a92453446",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models",
+      "takeaway": "7 months on, this continues to be true. Biggest alpha lies in understanding the model frontier.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. 7 months on, this continues to be true. Biggest alpha lies in understanding the model frontier.",
+      "url": "https://x.com/realmadhuguru/status/2082629168035201459",
+      "publishedAt": "2026-07-30T00:47:41.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-95f2babd419d",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "Expecting A Minor update? We prefer to B Major. 🎶 @GoogleDeepMind just released Lyria 3.5, and we’ve plugged it directly into @GoogleFlowMusic to power your next session.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Expecting A Minor update? We prefer to B Major. 🎶 @GoogleDeepMind just released Lyria 3.5, and we’ve plugged it directly into @GoogleFlowMusic to power your next session. What this means for your tracks: ✨ Better prompt adherence: Flow Music understands your creative direction with much more accuracy. Set exact BPMs and export stems for full-length songs!",
+      "url": "https://x.com/GoogleLabs/status/2082501360466174163",
+      "publishedAt": "2026-07-29T16:19:49.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-c7fc838382f6",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and product",
+      "takeaway": "This is hands down the best AI design tool, both in taste and how fun and easy it is to use. Try it out!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. This is hands down the best AI design tool, both in taste and how fun and easy it is to use. Try it out! Some models are great at CSS, others are fantastic at SVG, while yet others are really good at animations. Replit Design is powered by the best of open and closed models to generate superior aesthetics. Post-prompt era",
+      "url": "https://x.com/amasad/status/2082504898801999990",
+      "publishedAt": "2026-07-29T16:33:53.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-08d266ce3f13",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The openai agent sandbox escape actually has very real implications for the diffusion of AI in the enterprise.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The openai agent sandbox escape actually has very real implications for the diffusion of AI in the enterprise. The incident showed the power and capability of agents, and the need to harden systems and environments to prepare for agents.",
+      "url": "https://x.com/levie/status/2082514776392175844",
+      "publishedAt": "2026-07-29T17:13:08.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-e939ca85b8f7",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and coding",
+      "takeaway": "your agents, anywhere try Cursor on iOS today",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. your agents, anywhere try Cursor on iOS today",
+      "url": "https://x.com/ryolu_/status/2082539893729972320",
+      "publishedAt": "2026-07-29T18:52:57.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-a151cb36f7c4",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "Seasoned founders in the age of intelligence are aging like fine wine The AI Datacenter Degrowthers are winning and it is actually a psy-op happening under our noses, and it's...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Seasoned founders in the age of intelligence are aging like fine wine The AI Datacenter Degrowthers are winning and it is actually a psy-op happening under our noses, and it's winning in every blue state Manhattan Institute is the truth",
+      "url": "https://x.com/garrytan/status/2082472533337813241",
+      "publishedAt": "2026-07-29T14:25:17.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-6bcf626e3fe9",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Being good at marketing is not just good for your marketing; it’s good for your product So many technical people are building for imaginary audiences with no contact with the...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Being good at marketing is not just good for your marketing; it’s good for your product So many technical people are building for imaginary audiences with no contact with the reality of how people actually perceive and use these products If you both have deep domain expertise & experience AND you’re AI-native and constantly reinventing yourself to adopt the new ways that work get done, you’re basically invincible",
+      "url": "https://x.com/zarazhangrui/status/2082684904136134881",
+      "publishedAt": "2026-07-30T04:29:10.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-95c2bbfc87c6",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "First kid teaches you unconditional love. Second kid teaches you unbridled joy. As AGI (digital & physical) comes close, having close family and friends is going to be the most...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. First kid teaches you unconditional love. Second kid teaches you unbridled joy. As AGI (digital & physical) comes close, having close family and friends is going to be the most important (only?) human connection we have. So if you are on the fence, let this be a vote in the yes direction!",
+      "url": "https://x.com/nikunj/status/2082460273005433192",
+      "publishedAt": "2026-07-29T13:36:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-a5064b2b4a3a",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "lol did nobody at Anthropic stop for a second and wonder why the numbers looked this absurd before posting the “victory”-tweet?",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. lol did nobody at Anthropic stop for a second and wonder why the numbers looked this absurd before posting the “victory”-tweet?",
+      "url": "https://x.com/steipete/status/2082617409408762124",
+      "publishedAt": "2026-07-30T00:00:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-c0f7df8dcf4f",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and enterprise",
+      "takeaway": "Almost every single person @every is freaking out about how good voice mode in ChatGPT for Work is Have not seen vibes this high in a while.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Almost every single person @every is freaking out about how good voice mode in ChatGPT for Work is Have not seen vibes this high in a while. If you haven’t tried it yet, you should usually the most honest answer ime incredibly good write up bad actors will obviously try to use models to do stuff like this on purpose in the future.",
+      "url": "https://x.com/danshipper/status/2082613916706693560",
+      "publishedAt": "2026-07-29T23:47:05.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-f97e52a8e007",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and models",
+      "takeaway": "Imagine if you were LeBron at 19 years old but believed you only had 2 years to maximize earnings before basketball was played by robots.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Imagine if you were LeBron at 19 years old but believed you only had 2 years to maximize earnings before basketball was played by robots. This is what AI researchers are going through and explains all the goddamn drama. They are MVPs with 18 months on the shot clock. Some observations from our Demo Faire yesterday: 1/ There is a tremendous amount of interest from the larger investor community for frontier technology.",
+      "url": "https://x.com/adityaag/status/2082558632705896899",
+      "publishedAt": "2026-07-29T20:07:24.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-x-0ffddc5b04f8",
+      "date": "2026-07-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure...",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves. we all deserve the benefits. goblin-level blog post",
+      "url": "https://x.com/sama/status/2082628413769003269",
+      "publishedAt": "2026-07-30T00:44:41.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-blog-a9ddc31e6892",
+      "date": "2026-07-29",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
+    {
+      "id": "2026-07-29-podcast-357c04af2d05",
+      "date": "2026-07-29",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Best of the Pod: Wired's Kevin Kelly on Why AI Is a 50-year Overnight Success",
+      "takeaway": "Best of the Pod: Wired's Kevin Kelly on Why AI Is a 50-year Overnight Success. That, I would say, would be the the element is is what is that process of pattern matching or if...",
+      "summary": "That, I would say, would be the the element is is what is that process of pattern matching or if that is what it is or deduction or it's a logic or what's the workflow for doing deduction. Well, of course, there's no economic model for the audience of one.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-07-29T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI"
+      ],
+      "createdAt": "2026-07-30T15:19:54.882Z"
+    },
     {
       "id": "2026-07-28-x-47cba348658d",
       "date": "2026-07-28",
