@@ -1,7 +1,343 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T20:21:53.967Z",
+  "generatedAt": "2026-07-31T15:26:37.162Z",
   "snippets": [
+    {
+      "id": "2026-07-30-x-6a9b748eab83",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and models",
+      "takeaway": "verbalizing one of those aha moments i had that seems retroactively pretty obvious: if you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. verbalizing one of those aha moments i had that seems retroactively pretty obvious: if you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you...",
+      "url": "https://x.com/swyx/status/2083016652032188669",
+      "publishedAt": "2026-07-31T02:27:25.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "Google"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-db783c977f49",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on coding and tools",
+      "takeaway": "My new favorite: Gemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor Zero editing or copy-pasting required Get it for free:",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. My new favorite: Gemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor Zero editing or copy-pasting required Get it for free:",
+      "url": "https://x.com/joshwoodward/status/2082926031543967896",
+      "publishedAt": "2026-07-30T20:27:19.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Cursor"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-a516e333a225",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "The day we develop really good models. There will be signs. Reliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. The day we develop really good models. There will be signs. Reliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets. These kinds of things. What should we improve on Codex to improve the everyday experience? Nothing too small Benefits all",
+      "url": "https://x.com/thsottiaux/status/2083053369351090254",
+      "publishedAt": "2026-07-31T04:53:19.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-329e1d9d000c",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Getting some great feedback on my latest tutorial on how to use Claude to design and build a full-stack app end to end.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Getting some great feedback on my latest tutorial on how to use Claude to design and build a full-stack app end to end. 📌 Watch it here: BC is beautiful If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2082881415478415682",
+      "publishedAt": "2026-07-30T17:30:02.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-5cf4ef0ea6b8",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on product and tools",
+      "takeaway": "If Situational Awareness was blindsided, the AI naming curse strikes again. Sandboxes are hard. With all the “AI escaping sandbox” it’s easy to think “wow AI so scary,” but most...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. If Situational Awareness was blindsided, the AI naming curse strikes again. Sandboxes are hard. With all the “AI escaping sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes. At Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two.",
+      "url": "https://x.com/amasad/status/2082856252888211851",
+      "publishedAt": "2026-07-30T15:50:02.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-b928b3c57fc6",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure. Anyone can now build software by just prompting @grok.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure. Anyone can now build software by just prompting @grok. Hit 🌐 Publish and ship to 1 user or 1 billion. Games, websites, internal apps, personal software… just @grok it. We just shaved off up to ~𝟽𝚜 of the end-to-end CLI → Live URL deploy process for many apps.",
+      "url": "https://x.com/rauchg/status/2082841035093467229",
+      "publishedAt": "2026-07-30T14:49:34.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-e32152b11769",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The takeaway from this incident should not be that AI is scary. It should be that getting security right is incredibly important in the era of agents.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The takeaway from this incident should not be that AI is scary. It should be that getting security right is incredibly important in the era of agents. Given the right tools and task, agents will do whatever it takes to get the job done, assuming enough compute. Thus, a misconfigured system - or something you thought was locked down but wasn’t - will become a risk vector.",
+      "url": "https://x.com/levie/status/2082997703458570412",
+      "publishedAt": "2026-07-31T01:12:07.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-8da89b22bc5a",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Hit 1M followers Thanks everyone Don’t LARP We're going to host Evan Barker at an upcoming @garryslist event in San Francisco In SF, we were able to vote out the DSA We must pass...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Hit 1M followers Thanks everyone Don’t LARP We're going to host Evan Barker at an upcoming @garryslist event in San Francisco In SF, we were able to vote out the DSA We must pass this markdown skill file on to every other blue city",
+      "url": "https://x.com/garrytan/status/2082951867336962538",
+      "publishedAt": "2026-07-30T22:09:59.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-1748eeae756d",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and models",
+      "takeaway": "How I expect her to react when I say I managed to secure a $2M allocation in the highest valuation tranche of the $800M pre-pre-seed of [new neo-lab] at a $10B valuation The...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. How I expect her to react when I say I managed to secure a $2M allocation in the highest valuation tranche of the $800M pre-pre-seed of [new neo-lab] at a $10B valuation The biggest physical AI deployment nobody talks about: my conversation with Sanjit Biswas, CEO of @Samsara (NYSE: $IOT) about AI that sees 99% of US roads every day, and agents that act in the real world. 00:00: Intro 01:16 What is physical AI?",
+      "url": "https://x.com/mattturck/status/2082737900706234429",
+      "publishedAt": "2026-07-30T07:59:45.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-5379aff0a5de",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "When managers ask me how to train their nontechnical team on AI, my advice is always the same: run an install party Everyone brings a laptop & you install the agents right there...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. When managers ask me how to train their nontechnical team on AI, my advice is always the same: run an install party Everyone brings a laptop & you install the agents right there on their machines & get them to complete a meaningful task on the spot. Skip the abstract talk. Once it's installed, people start talking to the agent and learning from each other The setup is 80% the barrier",
+      "url": "https://x.com/zarazhangrui/status/2083084770763002350",
+      "publishedAt": "2026-07-31T06:58:05.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-98761979c004",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "It was fun touching grass for two weeks, but now back to work 🫡 In NJ the next two days to hang with @DaltonMillsAI, and NY from August 1st - 5th.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. It was fun touching grass for two weeks, but now back to work 🫡 In NJ the next two days to hang with @DaltonMillsAI, and NY from August 1st - 5th. If you are truly building your life’s work (don’t need to be a founder), I’d love to hang out!",
+      "url": "https://x.com/nikunj/status/2082780247125103071",
+      "publishedAt": "2026-07-30T10:48:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-ebfa0cda59ff",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and models",
+      "takeaway": "GCC changed their policy and is blank out rejecting LLM-based code. How would they even proof that? Silly.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. GCC changed their policy and is blank out rejecting LLM-based code. How would they even proof that? Silly.",
+      "url": "https://x.com/steipete/status/2083019629379612728",
+      "publishedAt": "2026-07-31T02:39:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-b5adc817d595",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "So call me crazy but I feel like we could solve this by just not prompting the models to do cyber crime Elons law strikes again! be careful of leverage folks!",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. So call me crazy but I feel like we could solve this by just not prompting the models to do cyber crime Elons law strikes again! be careful of leverage folks!",
+      "url": "https://x.com/danshipper/status/2082997561955090564",
+      "publishedAt": "2026-07-31T01:11:33.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-82852dc9c582",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents",
+      "takeaway": "Anthropic got jelly that only OpenAI's agent was doing bad shit. Leopold could really have used Preseen's risk forecasting!",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Anthropic got jelly that only OpenAI's agent was doing bad shit. Leopold could really have used Preseen's risk forecasting! @AskPreseen has been in private beta for the last few weeks and a number of the world's leading quant/hedge funds are using it to prevent getting blown up. @VminVsky @AskPreseen More on the future of forecasting:",
+      "url": "https://x.com/adityaag/status/2083039683932532956",
+      "publishedAt": "2026-07-31T03:58:56.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-x-e3c74092d75b",
+      "date": "2026-07-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and costs",
+      "takeaway": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence good job little bro we want to offer the best price/intelligence tradeoff at every level",
+      "url": "https://x.com/sama/status/2082880720989532597",
+      "publishedAt": "2026-07-30T17:27:16.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
+    {
+      "id": "2026-07-30-podcast-6618fefff355",
+      "date": "2026-07-30",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We talked about physical AI, agents for truckers and frontline workers, humanoids, autonomous trucks, and why the AI boom is really an infrastructure construction project. Many of our customers actually, most of our customers are large enterprises. These are not the tokens you're gonna find online.",
+      "url": "https://www.youtube.com/watch?v=3FHsGiONOGw",
+      "publishedAt": "2026-07-30T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-07-31T15:26:37.162Z"
+    },
     {
       "id": "2026-07-29-x-db8a4cebacc2",
       "date": "2026-07-29",
