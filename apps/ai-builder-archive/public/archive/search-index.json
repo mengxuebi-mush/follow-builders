@@ -1,7 +1,327 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T20:34:23.499Z",
+  "generatedAt": "2026-08-01T14:38:53.764Z",
   "snippets": [
+    {
+      "id": "2026-07-31-x-e75089919978",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and tools",
+      "takeaway": "noticed that the perjorative connotation around \"vibe coding\" has completely disappeared since ~everyone, from nontechnical to supertechnical, is now doing it among ai leaders i...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. noticed that the perjorative connotation around \"vibe coding\" has completely disappeared since ~everyone, from nontechnical to supertechnical, is now doing it among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in the g5.",
+      "url": "https://x.com/swyx/status/2083294839186260385",
+      "publishedAt": "2026-07-31T20:52:50.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-76170209b581",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy. Optimize for curiosity ChatGPT Work counted",
+      "url": "https://x.com/thsottiaux/status/2083395449814229287",
+      "publishedAt": "2026-08-01T03:32:37.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-f32a9e5b0e44",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and costs",
+      "takeaway": "The most common loop written in Linear is some variant this one (Issue > Agent > PR > Release) ~30% of our bugs make it all the way through this flow.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. The most common loop written in Linear is some variant this one (Issue > Agent > PR > Release) ~30% of our bugs make it all the way through this flow. But there are some nuances to doing it -- The instructions should ask the agent to extensively research the root cause of the issue and to use Datadog and Sentry MCPs to gather more evidence.",
+      "url": "https://x.com/thenanyu/status/2083230295206121807",
+      "publishedAt": "2026-07-31T16:36:21.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-6d0981ce859e",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models",
+      "takeaway": "~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it:",
+      "url": "https://x.com/amasad/status/2083424608993300824",
+      "publishedAt": "2026-08-01T05:28:29.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-6c3c0a278202",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁 The job of the author / maintainer is to work on the loop that...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁 The job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.",
+      "url": "https://x.com/rauchg/status/2083208578526314513",
+      "publishedAt": "2026-07-31T15:10:03.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-d1b1d0737413",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and costs",
+      "takeaway": "No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for harnesses to break down work in the most efficient way and route to the right model at the right time is going to be a huge variable for maximizing accuracy and reducing costs.",
+      "url": "https://x.com/levie/status/2083389460679373135",
+      "publishedAt": "2026-08-01T03:08:49.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-b8493fa7948c",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise",
+      "takeaway": "Your personal AI or your company brain needs a clean harness and this is the one our team built and uses every day Free and open source If Dems want to win elections that matter...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Your personal AI or your company brain needs a clean harness and this is the one our team built and uses every day Free and open source If Dems want to win elections that matter they need to study the San Francisco local political story of the last 5 years: vote out your local Democratic Socialists early and often",
+      "url": "https://x.com/garrytan/status/2083353760701833546",
+      "publishedAt": "2026-08-01T00:46:58.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-dbcb0acf2609",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "If you want to post here and don't know what to talk about: Remember that everything that feels totally native to you is brand new to someone outside your circle.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. If you want to post here and don't know what to talk about: Remember that everything that feels totally native to you is brand new to someone outside your circle. Just do your normal work, then talk about it. Don’t try to be someone else, don’t overthink Fascinating interview on how Claude Tag has changed the way work is done at Anthropic 65% of PRs by product & eng teams at Anthropic are now raised by Claude Tag...",
+      "url": "https://x.com/zarazhangrui/status/2083349919172313367",
+      "publishedAt": "2026-08-01T00:31:42.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Anthropic",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-cabf2b6bdbfa",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Dads are the original compost box.. Saw my dad scold us for not finishing our food and then happily (?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Dads are the original compost box.. Saw my dad scold us for not finishing our food and then happily (?) eat all the leftovers from our plates (and my mothers as well) Happy to continue the tradition for our family 😂 There's a quiet belief in venture that the best founders are running from something. A troubled childhood. A chip on the shoulder. Pain that keeps the foot on the gas..",
+      "url": "https://x.com/nikunj/status/2083281124302676322",
+      "publishedAt": "2026-07-31T19:58:20.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Box"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-9138f6454dbf",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models",
+      "takeaway": "Jason is doing such great work. Love this. will we have to wear radiation shielded underwear now? Queue was the way but with 5.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Jason is doing such great work. Love this. will we have to wear radiation shielded underwear now? Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just throw stuff at it while it works and it will diligently process whatever you throw at it.",
+      "url": "https://x.com/steipete/status/2083094971167781317",
+      "publishedAt": "2026-07-31T07:38:37.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-5f6ca55a4f1e",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story Human programmer interviews, 2027: Please describe the last 3 unresolved mathematical conjectures you solved, and share your prompts Please describe the last cyber felony your agent unintentionally committed...",
+      "url": "https://x.com/danshipper/status/2083380721607921904",
+      "publishedAt": "2026-08-01T02:34:06.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-9c149e4f059f",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "2 days left. Apply to @spc.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. 2 days left. Apply to @spc.",
+      "url": "https://x.com/adityaag/status/2083330582210380106",
+      "publishedAt": "2026-07-31T23:14:51.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-x-7e5e759d388f",
+      "date": "2026-07-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc. i see your moore's law and i raise you 20x it could be faster",
+      "url": "https://x.com/sama/status/2083221585792762171",
+      "publishedAt": "2026-07-31T16:01:45.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-blog-6cd28c156a1c",
+      "date": "2026-07-31",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
+    {
+      "id": "2026-07-31-podcast-52b21e3f4c65",
+      "date": "2026-07-31",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I think that's something pretty big that happened to all of us software engineers, AI researchers, around November, December of last year, which is that the coding agents suddenly became so powerful that you can't ignore them. You could imagine, obviously, the the parallels in the enterprise space. You should set up an API and charge people by the token.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-07-31T15:15:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Claude",
+        "Cursor",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-08-01T14:38:53.764Z"
+    },
     {
       "id": "2026-07-30-x-6a9b748eab83",
       "date": "2026-07-30",
