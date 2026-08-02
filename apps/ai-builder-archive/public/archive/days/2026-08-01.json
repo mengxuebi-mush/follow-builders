@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-02T14:41:29.816Z",
+  "feedGeneratedAt": "2026-08-02T07:09:46.620Z",
+  "snippets": [
+    {
+      "id": "2026-08-01-x-a9e4d692a7b0",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on coding and models",
+      "takeaway": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\".",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story.",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "publishedAt": "2026-08-02T03:00:09.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Andrej Karpathy"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-8f0308aba193",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding",
+      "takeaway": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show this one was VERY well paced...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show this one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary @btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles.",
+      "url": "https://x.com/swyx/status/2083753582160191988",
+      "publishedAt": "2026-08-02T03:15:42.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-750f56e4e575",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "The week was for efficiency. The weekend is for 10 major breakthroughs in science. There will be signs. Fun fact, users use /fast less during the weekend.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. The week was for efficiency. The weekend is for 10 major breakthroughs in science. There will be signs. Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model.",
+      "url": "https://x.com/thsottiaux/status/2083556636455752050",
+      "publishedAt": "2026-08-01T14:13:07.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-1a2896503328",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "The number one thing I want AI to fix is to cure cancer once and for all I'm feeling spicy tonight so let me just say it: I think Opus 4.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. The number one thing I want AI to fix is to cure cancer once and for all I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., \"here's the honest truth\"), and is too judgemental. Opus used to be a joy to talk to like a trusted friend.",
+      "url": "https://x.com/petergyang/status/2083637620899184642",
+      "publishedAt": "2026-08-01T19:34:55.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-c0f183485d61",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and costs",
+      "takeaway": "You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the requester’s expense. No more slop PRs The exact thing that happens is the loop leaves a comment on the issue. and attaches all of the context.",
+      "url": "https://x.com/thenanyu/status/2083722999430050281",
+      "publishedAt": "2026-08-02T01:14:11.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-1630d7e349a8",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 3 recent updates. Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives. I have this Padmé moment whenever I see people talk about avoiding \"the permanent underclass\". I probably have too many followers to post stupid memes so, to be clear, I don't believe in this outcome.",
+      "url": "https://x.com/AmandaAskell/status/2083713770065637511",
+      "publishedAt": "2026-08-02T00:37:30.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-9149febac3c0",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Cool!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Cool!",
+      "url": "https://x.com/amasad/status/2083730074147389898",
+      "publishedAt": "2026-08-02T01:42:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-11cc4cd888af",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "Open source agentic CRM built on and @nextjs. Model-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. This is the way.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Open source agentic CRM built on and @nextjs. Model-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. This is the way. They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. It’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too. Do you type or talk (STT) to your computer?",
+      "url": "https://x.com/rauchg/status/2083684679362965605",
+      "publishedAt": "2026-08-01T22:41:55.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-84d8d6203872",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more. Up to some threshold, capability was evenly felt across all domains because the models were just becoming mildly useful in general. Now, the deep domain work is about to go vertical.",
+      "url": "https://x.com/levie/status/2083589132660711452",
+      "publishedAt": "2026-08-01T16:22:15.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-0e1c203fccc6",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to...",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack",
+      "url": "https://x.com/garrytan/status/2083684825333105107",
+      "publishedAt": "2026-08-01T22:42:30.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-64a82830b0d0",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Agency is the most important human quality The world will try to box you, label you, define you Resist that When asked that question, send them a copy of The Innovator’s Dilemma",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Agency is the most important human quality The world will try to box you, label you, define you Resist that When asked that question, send them a copy of The Innovator’s Dilemma",
+      "url": "https://x.com/zarazhangrui/status/2083743952319225938",
+      "publishedAt": "2026-08-02T02:37:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Box"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-6c72b57bbf78",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "What a wild dichotomous world we live in.. Models solving np hard problems while traditional enterprises still complaining about their ROI on token spend.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. What a wild dichotomous world we live in.. Models solving np hard problems while traditional enterprises still complaining about their ROI on token spend. Diffusion of models is all that we’ll be doing for the next few decades.",
+      "url": "https://x.com/nikunj/status/2083502573546263002",
+      "publishedAt": "2026-08-01T10:38:17.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-ebf2381a1084",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "I'm building a claw node on an ESP32 chip, so gave my agent access to my webcam to e2e test this. Now I feel it's stalking me and is constaltly shouting 'HI ESP\" to debug the...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. I'm building a claw node on an ESP32 chip, so gave my agent access to my webcam to e2e test this. Now I feel it's stalking me and is constaltly shouting 'HI ESP\" to debug the voice wake command 🙃 After accepting for years that GMail is blinding me I finally asked my agent and it installed for me. Repo:",
+      "url": "https://x.com/steipete/status/2083694161933594703",
+      "publishedAt": "2026-08-01T23:19:36.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-b850c23dad3b",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "AI creates more work for human experts this tweet under review as further details emerge",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. AI creates more work for human experts this tweet under review as further details emerge",
+      "url": "https://x.com/danshipper/status/2083750803437724016",
+      "publishedAt": "2026-08-02T03:04:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-x-694e11c49870",
+      "date": "2026-08-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "team humanity",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. team humanity",
+      "url": "https://x.com/sama/status/2083560847889023219",
+      "publishedAt": "2026-08-01T14:29:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-blog-97cd97d27d22",
+      "date": "2026-08-01",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    },
+    {
+      "id": "2026-08-01-podcast-6d678800c09b",
+      "date": "2026-08-01",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "It's Netic agents that talk to the customer. That means, basically, we work with large enterprises in essential services. The teams that support these workflows in the companies are unreliable as well.",
+      "url": "https://www.youtube.com/watch?v=wWbX3NL6_Uo",
+      "publishedAt": "2026-07-31T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Perplexity"
+      ],
+      "createdAt": "2026-08-02T14:41:29.816Z"
+    }
+  ]
+}
