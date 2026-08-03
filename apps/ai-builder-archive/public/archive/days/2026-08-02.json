@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-03T15:49:54.066Z",
+  "feedGeneratedAt": "2026-08-03T07:26:16.835Z",
+  "snippets": [
+    {
+      "id": "2026-08-02-x-c990106f89f1",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on ai",
+      "takeaway": "More on the pelican on the bicycle test from @simonw: I uploaded the source here so it's playable in the browser, forkable etc. Look out for GTA Hobbiton dropping before GTA VI :)",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. More on the pelican on the bicycle test from @simonw: I uploaded the source here so it's playable in the browser, forkable etc. Look out for GTA Hobbiton dropping before GTA VI :)",
+      "url": "https://x.com/karpathy/status/2083948654377996480",
+      "publishedAt": "2026-08-02T16:10:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Andrej Karpathy"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-83f298e823d8",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and costs",
+      "takeaway": "@akshaynathan_ @AriX live now! in prep for our computer use pod, gonna store a running list of codex cua wow moments.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. @akshaynathan_ @AriX live now! in prep for our computer use pod, gonna store a running list of codex cua wow moments. here it is dealing with support chat for me to escalate for faster resolution these humans have no idea they are talking to a bot support guy tried to say its our fault, bot replied with complete receipts lmao haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes...",
+      "url": "https://x.com/swyx/status/2084155512573288478",
+      "publishedAt": "2026-08-03T05:52:50.000Z",
+      "tags": [
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-d90acf72787b",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents",
+      "takeaway": "Personality matters! A smart friend that's annoying to talk to is no good. Went to a community center in Canada and it has a full swimming pool, jacuzzi, sauna, and even lazy...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Personality matters! A smart friend that's annoying to talk to is no good. Went to a community center in Canada and it has a full swimming pool, jacuzzi, sauna, and even lazy river. In the most expensive Bay Area neighborhoods, the community center is just a fancy building with empty rooms that you can rent. One of the biggest benefits of Hermes is that it builds its own skills to help you get work done.",
+      "url": "https://x.com/petergyang/status/2083947480136421384",
+      "publishedAt": "2026-08-02T16:06:11.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-0d84e2934a39",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on tools",
+      "takeaway": "you can already see Jevons paradox at work in mathematics there is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. you can already see Jevons paradox at work in mathematics there is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels demand for people who think and know about math will go up i think there are lots of parallels to what happened with chess",
+      "url": "https://x.com/trq212/status/2083977795290734975",
+      "publishedAt": "2026-08-02T18:06:39.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-64cab81c4d96",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. 1253 Elo: Woah You can watch the games live on the website.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. My LLM chess engine is now on LiChess autonomously playing real games against people and bots. 1253 Elo: Woah You can watch the games live on the website. Mf is playing 3 concurrent games rn",
+      "url": "https://x.com/amasad/status/2083926395403821427",
+      "publishedAt": "2026-08-02T14:42:24.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-b564c52ef067",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade. We built an agent that powers our company's internal operations called @𝚟. Every day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.",
+      "url": "https://x.com/rauchg/status/2083969120270450911",
+      "publishedAt": "2026-08-02T17:32:11.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-53f8d29932fc",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on coding and models",
+      "takeaway": "We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability. Math, cyber, and code -while being insanely hard and high value fields- have the benefit of being able to be tested that it’s correct objectively.",
+      "url": "https://x.com/levie/status/2083965372747882741",
+      "publishedAt": "2026-08-02T17:17:17.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-5d7f5761eefa",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on tools",
+      "takeaway": "my early mentors were these apps, especially Rdio, Mailbox, and Apple they made new patterns that made software feel simpler and intuitive to touch as we leave the world of apps...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. my early mentors were these apps, especially Rdio, Mailbox, and Apple they made new patterns that made software feel simpler and intuitive to touch as we leave the world of apps behind, what parts of software will remain visible, and how could it feel?",
+      "url": "https://x.com/ryolu_/status/2083939454017053179",
+      "publishedAt": "2026-08-02T15:34:18.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-a6db0e1e5147",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "Growth is good AI will create unimaginable economic growth and that is the best white pill Everyone mistakes the map for the territory Meritocracy is that the territory matters...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Growth is good AI will create unimaginable economic growth and that is the best white pill Everyone mistakes the map for the territory Meritocracy is that the territory matters more than the map And in markets the outcome is the territory: did you make something people want? The sense of wonder disappeared right at the moment the amount of wonder is going parabolic",
+      "url": "https://x.com/garrytan/status/2083957110711386439",
+      "publishedAt": "2026-08-02T16:44:27.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-1ff1b672de25",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "Warm NYC nights are magic 🪄 What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Warm NYC nights are magic 🪄 What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side.. 1) VC has effectively fully become vibes capital. The market reality at the early-mid stage is completely divorced from fundamentals.",
+      "url": "https://x.com/nikunj/status/2083925904598733088",
+      "publishedAt": "2026-08-02T14:40:27.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-876cded11bd9",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "That's a fairly new kind of spam.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. That's a fairly new kind of spam.",
+      "url": "https://x.com/steipete/status/2083976289485230449",
+      "publishedAt": "2026-08-02T18:00:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-x-889e9c494dcd",
+      "date": "2026-08-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and models",
+      "takeaway": "when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. we tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. you are no longer required, and you had no say in the matter. it's a kind of death.",
+      "url": "https://x.com/danshipper/status/2084038453831020916",
+      "publishedAt": "2026-08-02T22:07:41.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Claude"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    },
+    {
+      "id": "2026-08-02-podcast-5636af548291",
+      "date": "2026-08-02",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
+      "takeaway": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil. And the labs that are not the biggest are doing whatever they can to do what the what the what the...",
+      "summary": "And the labs that are not the biggest are doing whatever they can to do what the what the what the most successful labs are doing, and everyone is trying to train the same the same coding agent. But now that I look at the industry, a lot of our computation is inference time and spending it on tokens. It was often seen as unscientific, and research in algorithm was was providing how do we become more and more efficient, how do we, for the same compute budget, get better and better result.",
+      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Codex",
+        "Google",
+        "Meta",
+        "Perplexity"
+      ],
+      "createdAt": "2026-08-03T15:49:54.066Z"
+    }
+  ]
+}
