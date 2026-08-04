@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-04T15:31:57.081Z",
+  "feedGeneratedAt": "2026-08-04T07:11:41.799Z",
+  "snippets": [
+    {
+      "id": "2026-08-03-x-9cbb61c1aa6d",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "lol what are we even doing here anymore guys linking my main cua wow moments thread but this one is just about do we need captchas anymore when clearly bots can clear them",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. lol what are we even doing here anymore guys linking my main cua wow moments thread but this one is just about do we need captchas anymore when clearly bots can clear them",
+      "url": "https://x.com/swyx/status/2084185368950456421",
+      "publishedAt": "2026-08-03T07:51:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-f818a1aafa85",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Given some of the results I'm seeing recently, it's pretty clear Codex is a good harness. But it will seem primitive in 2-3 months and we're about to go through another major...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Given some of the results I'm seeing recently, it's pretty clear Codex is a good harness. But it will seem primitive in 2-3 months and we're about to go through another major evolution in how we use AI at the frontier. The next generation of models need more than your laptop. Crazy thing about OpenAI is you just open your laptop, codex a PR into existence and ship an improvement to 1B users. Just like that.",
+      "url": "https://x.com/thsottiaux/status/2084483765158719542",
+      "publishedAt": "2026-08-04T03:37:12.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-7a9898ca79e3",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "My 6 biggest takeaways from @karan4d, @NousResearch co-founder, on getting the most out of Hermes Agent: 1.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My 6 biggest takeaways from @karan4d, @NousResearch co-founder, on getting the most out of Hermes Agent: 1. The “personal” in personal agent is not the model It’s the agent’s memory of your conversations and the skills you’ve built with it. Karan barely notices when he swaps models because his Hermes already has so much context about him. 2.",
+      "url": "https://x.com/petergyang/status/2084289426012897433",
+      "publishedAt": "2026-08-03T14:44:58.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-fe177375d922",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on models",
+      "takeaway": "I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 2 recent updates. I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g. because they're given false information about their situation. There isn't a line between aligned and harmless: they're different axes. It's surprisingly difficult to acquire a hereditary peerage in the UK.",
+      "url": "https://x.com/AmandaAskell/status/2084369056765989224",
+      "publishedAt": "2026-08-03T20:01:23.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-a46f9f764e9f",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. do it here",
+      "url": "https://x.com/trq212/status/2084387303959740449",
+      "publishedAt": "2026-08-03T21:13:53.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-3c9a727cc014",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "We built a self-driving & self-correcting shared semantic layer on top of our databases, conversations, and docs. Everything is queryable & joinable—regardless of source!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. We built a self-driving & self-correcting shared semantic layer on top of our databases, conversations, and docs. Everything is queryable & joinable—regardless of source! So now anyone at Replit can ask questions that previously needed a team of data scientists weeks of work.",
+      "url": "https://x.com/amasad/status/2084415670486499779",
+      "publishedAt": "2026-08-03T23:06:37.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-ad88c6dd77c9",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "Next.js 16.3: faster, better, stronger. My highlights: 0️⃣ Faster dev & builds Shoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Next.js 16.3: faster, better, stronger. My highlights: 0️⃣ Faster dev & builds Shoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache. 1️⃣ Instant navigations are 🔥 The people wanted SPAs, they shall get SPAs. By turning on instant navs (which will soon be default), your agent is basically forced to make things fast.",
+      "url": "https://x.com/rauchg/status/2084411344623902994",
+      "publishedAt": "2026-08-03T22:49:25.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-11a5f8cb2b21",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and costs",
+      "takeaway": "Another day another near frontier open weights model release. If you had gone back even 3-6 months and given everyone access to what we’re now seeing in open weights even as a...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Another day another near frontier open weights model release. If you had gone back even 3-6 months and given everyone access to what we’re now seeing in open weights even as a closed model, their minds would be completely blown. The fact that this is possible changes the calculations in the industry meaningfully.",
+      "url": "https://x.com/levie/status/2084510498519933318",
+      "publishedAt": "2026-08-04T05:23:25.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-5abba8d6b781",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Simple but effective use case of Codex for trip planning: Taking screenshots of bookings of restaurants/trains/events and asking Codex to put them on your Google Calendar",
+      "url": "https://x.com/zarazhangrui/status/2084536363668611491",
+      "publishedAt": "2026-08-04T07:06:12.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-9f775bf6745b",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Even though I try to make sure to say bye to my kids before I go to work, some days have me crawling out of my house on all fours quietly like a thief so they don’t bawl when they...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Even though I try to make sure to say bye to my kids before I go to work, some days have me crawling out of my house on all fours quietly like a thief so they don’t bawl when they see me leaving. And you learn all about which doors (and drawers) are squeaky and fixing them stat so your crime goes silently unpunished.",
+      "url": "https://x.com/nikunj/status/2084260256503255358",
+      "publishedAt": "2026-08-03T12:49:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-78e9e9ee8138",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "one of the deepest interviews I’ve done",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. one of the deepest interviews I’ve done",
+      "url": "https://x.com/danshipper/status/2084376873887576482",
+      "publishedAt": "2026-08-03T20:32:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-x-4579ed3d8782",
+      "date": "2026-08-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and tools",
+      "takeaway": "My favorite personal and company value @spc is that you can \"just do things\". If you see something you think can be better --> just make it happen.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. My favorite personal and company value @spc is that you can \"just do things\". If you see something you think can be better --> just make it happen. How did @shreepoorna365 build a flight-worthy aircraft in 150 days? By just doing things. Engines. Avionics. Fucking just do it. It is so inspirational. We caught up with the @arctusaerospace team",
+      "url": "https://x.com/adityaag/status/2084323290605113711",
+      "publishedAt": "2026-08-03T16:59:31.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-blog-dea52d951227",
+      "date": "2026-08-03",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-blog-f90fa6cabc29",
+      "date": "2026-08-03",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-blog-2a8322b07185",
+      "date": "2026-08-03",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    },
+    {
+      "id": "2026-08-03-podcast-43612ea214c2",
+      "date": "2026-08-03",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "AI Vibe Check: Chinese Open Models, Distillation & The Hugging Face Breach",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face? And I do think there's this broader trend of companies, enterprises rationalizing their spend on AI and realizing, like, we shouldn't be using the the cutting edge frontier model for everything. And, like, if anything, I think we've started to see this backlash to the token maxing idea in some ways.",
+      "url": "https://www.youtube.com/watch?v=_GlSkJjRDMM",
+      "publishedAt": "2026-08-03T12:55:21.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-08-04T15:31:57.081Z"
+    }
+  ]
+}
