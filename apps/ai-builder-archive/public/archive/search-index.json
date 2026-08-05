@@ -1,7 +1,354 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T20:39:31.581Z",
+  "generatedAt": "2026-08-05T15:24:01.842Z",
   "snippets": [
+    {
+      "id": "2026-08-04-x-2c169224ead4",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "yes smol aha moment at @_chenglou’s @midjourney meetup today - one reason that ontologies and graph knowledge are finally trending now rather than 3 years ago is that “good...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. yes smol aha moment at @_chenglou’s @midjourney meetup today - one reason that ontologies and graph knowledge are finally trending now rather than 3 years ago is that “good enough” intelligence is finally too cheap to meter this is why talks like @coyle_frankp and @emileifrem’s are on fire. the hardest part of KGs is cheap now. intelligence is commoditized so complements are increasing in value confirmation here",
+      "url": "https://x.com/swyx/status/2084698630653641092",
+      "publishedAt": "2026-08-04T17:51:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-f94ac917b2b9",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Notebook is built for thinking, not toggling. While others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Notebook is built for thinking, not toggling. While others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want. Ultra and Pro subscribers can jump in now, rolling out to everyone next. Nice use case!",
+      "url": "https://x.com/joshwoodward/status/2084746170576892342",
+      "publishedAt": "2026-08-04T20:59:54.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-5f34b9bd39d8",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "What is my title at OpenAI Better Cyber. Excited to welcome Halvar Flake to the team soon.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. What is my title at OpenAI Better Cyber. Excited to welcome Halvar Flake to the team soon.",
+      "url": "https://x.com/thsottiaux/status/2084738022650892544",
+      "publishedAt": "2026-08-04T20:27:31.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-c457e80b5459",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Hearing that GPT 5.6 Luna High is much cheaper and basically unlimited usage and I'm running low on Sol :P Can it do complex browser automation tasks? That's 50% of my Codex usage.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Hearing that GPT 5.6 Luna High is much cheaper and basically unlimited usage and I'm running low on Sol :P Can it do complex browser automation tasks? That's 50% of my Codex usage. I think if you vibe code a SaaS these days it can just be a self-serve funnel into a more expensive services offering vs. trying to make alot of money with the SaaS itself.",
+      "url": "https://x.com/petergyang/status/2084849701351035182",
+      "publishedAt": "2026-08-05T03:51:18.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-23f7e9ea312e",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Old heads remember Will Smith eating noodles The real ones remember",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Old heads remember Will Smith eating noodles The real ones remember",
+      "url": "https://x.com/thenanyu/status/2084800235474178138",
+      "publishedAt": "2026-08-05T00:34:44.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-7316458501ce",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "The best model for early product validation is almost never the best model for production. Talked to a bunch of founders this weekend.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. The best model for early product validation is almost never the best model for production. Talked to a bunch of founders this weekend. There’s a standard playbook emerging : 1/ Prototype with the best frontier models. Max quality. Ignore cost and latency. Learn what users actually want and iterate.",
+      "url": "https://x.com/realmadhuguru/status/2084667443046502631",
+      "publishedAt": "2026-08-04T15:47:04.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-c19b409824aa",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "One might say, the investigation was Bari’d.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. One might say, the investigation was Bari’d.",
+      "url": "https://x.com/amasad/status/2084843512496034002",
+      "publishedAt": "2026-08-05T03:26:42.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-13b2e7ea44d4",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and costs",
+      "takeaway": "𝟸𝟶𝟸𝟼 𝟷,𝟶𝟿𝟹,𝟷𝟿𝟿,𝟿𝟾𝟽+ 1 line of code in @aisdk saves you 90% or more in DeepSeek v4 Flash AI Gateway tokens Vercel is the Vercel for backends.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. 𝟸𝟶𝟸𝟼 𝟷,𝟶𝟿𝟹,𝟷𝟿𝟿,𝟿𝟾𝟽+ 1 line of code in @aisdk saves you 90% or more in DeepSeek v4 Flash AI Gateway tokens Vercel is the Vercel for backends. @FactoryAI powers their API services with Fluid compute, with billions of requests per month.",
+      "url": "https://x.com/rauchg/status/2084682618927558811",
+      "publishedAt": "2026-08-04T16:47:22.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-2c50b2279b37",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "One fun benefit of spending so much time with enterprises is you get to see the array of AI implementation strategies that exist in companies right now.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. One fun benefit of spending so much time with enterprises is you get to see the array of AI implementation strategies that exist in companies right now. Unlike the early innings of cloud where there were really only a couple deployment patterns available -including being limited by only a couple infra vendors existing- AI actually has a much wider range of approaches in the enterprise.",
+      "url": "https://x.com/levie/status/2084828773808239080",
+      "publishedAt": "2026-08-05T02:28:08.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Claude"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-fa55b3c96c8a",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "It's insane that the CA Dem Party is endorsing yes on Prop 40, the asset seizure tax that will destroy the California tax base If you want housing prices to go down, you build...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. It's insane that the CA Dem Party is endorsing yes on Prop 40, the asset seizure tax that will destroy the California tax base If you want housing prices to go down, you build more housing. Markets work. If you want housing prices to go up, you try to abolish rent and foment mass asset seizure and expropriation. The revolution only serves those who foment it.",
+      "url": "https://x.com/garrytan/status/2084704793432588435",
+      "publishedAt": "2026-08-04T18:15:29.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-78313767d8ec",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Everyone on X: \"damn, Airtable sold for so low!\" Many SaaS founders, secretly: \"damn, I'd take that any day, at least they had an exit\" What the world What Europeans thinks...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Everyone on X: \"damn, Airtable sold for so low!\" Many SaaS founders, secretly: \"damn, I'd take that any day, at least they had an exit\" What the world What Europeans thinks Europeans in tech actually in tech do in the do in the Summer. Summer.",
+      "url": "https://x.com/mattturck/status/2084759190195536202",
+      "publishedAt": "2026-08-04T21:51:38.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-7f50b2ad4171",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and enterprise",
+      "takeaway": "Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient. Instead, they’ll adopt new technology because: - Someone they know who’s similar to them on some dimension adopted the technology, and got positive results (eg became cooler, richer, more popular/respected), and they wanna become like that person - They feel like everyone around them has adopted the...",
+      "url": "https://x.com/zarazhangrui/status/2084828855404294266",
+      "publishedAt": "2026-08-05T02:28:28.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-21799909864e",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product",
+      "takeaway": "the best vibey, air conditioned, quiet coffee shop to meet founders discretely does not exi- My SF brain shudders at the thought of how much collective time is lost waiting for...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. the best vibey, air conditioned, quiet coffee shop to meet founders discretely does not exi- My SF brain shudders at the thought of how much collective time is lost waiting for New York elevators.. Hotel elevators are simply the worst. Who designed two elevators for 30+ floors? I spent 12 mins recently just trying to get down from my room 😅",
+      "url": "https://x.com/nikunj/status/2084687833516691844",
+      "publishedAt": "2026-08-04T17:08:05.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-836977395c89",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "so freaking cool the best founders know there is no spoon agree except they’ll still be heroes once the agency rupture heals and the AI goes back to being invisible, we’ll think...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. so freaking cool the best founders know there is no spoon agree except they’ll still be heroes once the agency rupture heals and the AI goes back to being invisible, we’ll think only about the humans and what they’ve done. AI use will be assumed and unimportant",
+      "url": "https://x.com/danshipper/status/2084692896696111243",
+      "publishedAt": "2026-08-04T17:28:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-9c9bc1fdd712",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and models",
+      "takeaway": "The right way to deploy AI at scale is to be able to understand how it works. It does NOT need to be a black box.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. The right way to deploy AI at scale is to be able to understand how it works. It does NOT need to be a black box. This is a key step in helping us understand what is going in these LLMs. .@TryRivo is building self-driving finance. Agents connect to the checking account you already have, learn your cash flow, sweep dollars into Treasury-backed yield, and bring them back before your bills hit.",
+      "url": "https://x.com/adityaag/status/2084676740924764625",
+      "publishedAt": "2026-08-04T16:24:01.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Box"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-x-30e5836c5d96",
+      "date": "2026-08-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails...",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails if people don't try. no amount of \"it will never work\" essays will drive society forward.",
+      "url": "https://x.com/sama/status/2084663673570971990",
+      "publishedAt": "2026-08-04T15:32:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
+    {
+      "id": "2026-08-04-podcast-ee948dc3a2cf",
+      "date": "2026-08-04",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "takeaway": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem. And it's one thing to tokenize a string of text.",
+      "summary": "And it's one thing to tokenize a string of text. Like, when we were originally budgeting this, we're like, ah, maybe, like, 20% hit rate, like, three or four years. So, like, when you look at a model like, let's say, CHI one, I think there are 23 distinct submodules in CHI one.",
+      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-05T15:24:01.842Z"
+    },
     {
       "id": "2026-08-03-x-9cbb61c1aa6d",
       "date": "2026-08-03",
