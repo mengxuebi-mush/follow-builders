@@ -1,7 +1,372 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T00:43:25.104Z",
+  "generatedAt": "2026-08-07T14:16:39.132Z",
   "snippets": [
+    {
+      "id": "2026-08-06-x-818892d71310",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "reader: it was not the last spec the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully. also does visuals...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. reader: it was not the last spec the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully. also does visuals... reply",
+      "url": "https://x.com/swyx/status/2085613357080723846",
+      "publishedAt": "2026-08-07T06:25:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-ca2fcd5291b6",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "You can just ask Codex with GPT-5.6 Sol the wildest things and it will just do it. I talk to it for 5 minutes straight with things that just seem to require weeks of work, get up...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. You can just ask Codex with GPT-5.6 Sol the wildest things and it will just do it. I talk to it for 5 minutes straight with things that just seem to require weeks of work, get up to get something in the fridge, pet the dog, come back and ... it's done. I meant to say \"ghiblify\", but I said \"gimlify\" Free users of ChatGPT now have unlimited text chats, powered by GPT-5.6 Luna",
+      "url": "https://x.com/thsottiaux/status/2085597685948813610",
+      "publishedAt": "2026-08-07T05:23:31.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-579ab1521765",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Consumer is basically ChatGPT and Google's market to lose in my opinion. ChatGPT already has 1B users and needs to get them to connect their favorite apps and use agents to do...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Consumer is basically ChatGPT and Google's market to lose in my opinion. ChatGPT already has 1B users and needs to get them to connect their favorite apps and use agents to do work. OpenAI is already pioneering new interaction patterns like voice. The biggest barriers to overcome are: 1) Normies not trusting AI and ChatGPT with full access to their apps and data.",
+      "url": "https://x.com/petergyang/status/2085427222836658600",
+      "publishedAt": "2026-08-06T18:06:09.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-b1451f178a7a",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "I’ve noticed people are much clearer when they speak through new ideas than writing a doc on it. Somewhere between their mouth and the doc, the core idea gets buried as they try...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. I’ve noticed people are much clearer when they speak through new ideas than writing a doc on it. Somewhere between their mouth and the doc, the core idea gets buried as they try to add context, polish it and make it sound smart. So here’s what I ask my teams to do: record yourself explaining the idea exactly as you would to a friend, use ai to do basic cleanup but keep the rough original structure and flow.",
+      "url": "https://x.com/realmadhuguru/status/2085390240899043406",
+      "publishedAt": "2026-08-06T15:39:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-fca1131b70a0",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding and models",
+      "takeaway": "Airtable bookends the rise and fall of “no code.” I remember arguing endlessly with investors about this. UI can never let you build arbitrary software.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Airtable bookends the rise and fall of “no code.” I remember arguing endlessly with investors about this. UI can never let you build arbitrary software. The way to make software accessible was always to solve code itself. For a long time, that sounded delusional. Not anymore.",
+      "url": "https://x.com/amasad/status/2085451197323034902",
+      "publishedAt": "2026-08-06T19:41:25.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-6a8305b30c31",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents",
+      "takeaway": "Devtools must be 1️⃣ open source and 2️⃣ universally extensible. AI coding agents are the most important devtools in the history of our industry.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Devtools must be 1️⃣ open source and 2️⃣ universally extensible. AI coding agents are the most important devtools in the history of our industry. The Plugin standard lets anybody extend them uniformly. This is huge for the ecosystem. Build a Plugin → get exposure to the tidal wave of software creation from every agent: CLIs, IDEs, cloud agents, and even personal assistants. FreeAI",
+      "url": "https://x.com/rauchg/status/2085403169551790359",
+      "publishedAt": "2026-08-06T16:30:35.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-43bfab5a9e88",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Huge Atlassian quarterly beat. There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Huge Atlassian quarterly beat. There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There’s definitely truth in this in some areas, but many were parsing this poorly. In a world where agents are generating 100X more code, processing massive amounts of data, or making decisions across your systems, the role of the platforms that manage this data and...",
+      "url": "https://x.com/levie/status/2085474309943030032",
+      "publishedAt": "2026-08-06T21:13:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-1daeb579c727",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Here's what I think you need to know about personal AGI - not a chatbot that anyone can have, but one that knows you uniquely, now and into the future",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Here's what I think you need to know about personal AGI - not a chatbot that anyone can have, but one that knows you uniquely, now and into the future",
+      "url": "https://x.com/garrytan/status/2085446068461043722",
+      "publishedAt": "2026-08-06T19:21:03.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-0da48eef9bce",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "How to build long-horizon AI agents: behavior specs, ontologies, process supervision - my conversation with @mitch_troy, co-founder of @trybasis 01:09 Why Everyone at Basis Was...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. How to build long-horizon AI agents: behavior specs, ontologies, process supervision - my conversation with @mitch_troy, co-founder of @trybasis 01:09 Why Everyone at Basis Was Whispering to AI when @steph_palazzolo walked in 04:12 Accounting as \"an Intelligence Over the Economy\" 06:11 What Makes an Agent Truly Long-Horizon 08:24 Inside an Autonomous, Multi-Day Tax Return 10:19 Agents That Hand Off Like Senior...",
+      "url": "https://x.com/mattturck/status/2085402933579964730",
+      "publishedAt": "2026-08-06T16:29:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Box"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-3fce54c3a141",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and models",
+      "takeaway": "Question: is anyone using Claude Tag (or other equivalent team agents) heavily in your team? What have been the top use cases/aha moments?",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Question: is anyone using Claude Tag (or other equivalent team agents) heavily in your team? What have been the top use cases/aha moments?",
+      "url": "https://x.com/zarazhangrui/status/2085371310042169630",
+      "publishedAt": "2026-08-06T14:23:59.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-14549c81e71e",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Alright August fundraising season is here (got 9 intros this week) so here’s a brain dump of tips that no VC will tell you..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Alright August fundraising season is here (got 9 intros this week) so here’s a brain dump of tips that no VC will tell you.. > who you talk to and get to an intro at a VC firm really matters. associates and principals ARE really great. i genuinely mean it BUT you have to see what they have backed recently to understand what kind of leverage they have. what’s their standing in the firm.",
+      "url": "https://x.com/nikunj/status/2085382457457828153",
+      "publishedAt": "2026-08-06T15:08:17.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-b0bf9df76c6c",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "your boy made it into @axios today!",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. your boy made it into @axios today!",
+      "url": "https://x.com/danshipper/status/2085420793400316270",
+      "publishedAt": "2026-08-06T17:40:37.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-a8b464ccb4ad",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "A good day to apply to @spc I have learnt an incredible amount from Tom and I could not be more proud that @GoodfireAI was born at SPC. @spc",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. A good day to apply to @spc I have learnt an incredible amount from Tom and I could not be more proud that @GoodfireAI was born at SPC. @spc",
+      "url": "https://x.com/adityaag/status/2085364323707150758",
+      "publishedAt": "2026-08-06T13:56:13.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-d2f80cc2d7e1",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "5.6 Sol much better in chat now and unlimited text chat for free users!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. 5.6 Sol much better in chat now and unlimited text chat for free users!",
+      "url": "https://x.com/sama/status/2085454964814753990",
+      "publishedAt": "2026-08-06T19:56:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-x-e36460fb33a5",
+      "date": "2026-08-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product...",
+      "summary": "Claude (claudeai on X) shared 1 recent update. We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. Fable can now assist on a wider range of everyday health and educational questions.",
+      "url": "https://x.com/claudeai/status/2085563808773189680",
+      "publishedAt": "2026-08-07T03:08:54.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-blog-a9ddc31e6892",
+      "date": "2026-08-06",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
+    {
+      "id": "2026-08-06-podcast-ab2b654bc2d1",
+      "date": "2026-08-06",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
+      "takeaway": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis. And once you realize that, it's like, well, now it's like kind of agent design.",
+      "summary": "And once you realize that, it's like, well, now it's like kind of agent design. And even when the context windows got larger, I don't think by the time Baby AGI came out, the models were actually good at keeping attention over like, once you got past 20,000 tokens. It's the powers, it's the it's the it's the workflows that they own.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-08-06T11:30:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Cursor",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-08-07T14:16:39.132Z"
+    },
     {
       "id": "2026-08-05-x-fe4e4b4699fd",
       "date": "2026-08-05",
