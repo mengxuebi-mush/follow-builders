@@ -1,7 +1,362 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T20:37:06.691Z",
+  "generatedAt": "2026-08-07T00:43:25.104Z",
   "snippets": [
+    {
+      "id": "2026-08-05-x-fe4e4b4699fd",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and models",
+      "takeaway": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs a very primitive form of the near term multiagent agi future is setting up one thread to...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs a very primitive form of the near term multiagent agi future is setting up one thread to ping back once its done so you create an implicit kanban/waterfall graph of dependent threads but each preserving their own work and agents i can't wait to setup a proper ui for this pattern but you can hack it together in most koding agents...",
+      "url": "https://x.com/swyx/status/2085236400056877381",
+      "publishedAt": "2026-08-06T05:27:54.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-6dfb2243306b",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "I asked Codex to pull up some stats and I receive on average one DM or email every 6 or so minutes to ask for a reset.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. I asked Codex to pull up some stats and I receive on average one DM or email every 6 or so minutes to ask for a reset. I occasionally do oblige if it comes with really solid feedback or banter. I don't really think these legends needed a pitchdeck. Congrats on taking a crazy, but inspiring leap. I recommend you explore /goal in Codex, it's a pretty powerful loop with GPT-5.6 Sol.",
+      "url": "https://x.com/thsottiaux/status/2085221386713198988",
+      "publishedAt": "2026-08-06T04:28:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-5b44a52a985f",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "How to use my new /human-review skill to edit HTML and Markdown files directly: 1. Tell Codex or Claude Code: “Install this: 2. Type “/human-review (your doc name)” 3.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. How to use my new /human-review skill to edit HTML and Markdown files directly: 1. Tell Codex or Claude Code: “Install this: 2. Type “/human-review (your doc name)” 3. It’ll open a visual editor where you can edit and format text directly, resize images, and leave feedback for AI like comments in a Google Doc 4.",
+      "url": "https://x.com/petergyang/status/2085055745410945126",
+      "publishedAt": "2026-08-05T17:30:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-62fe3e781984",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and models",
+      "takeaway": "I’m gonna ask the dumbest question here. How is ChatGPT *not* an agent?",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. I’m gonna ask the dumbest question here. How is ChatGPT *not* an agent?",
+      "url": "https://x.com/thenanyu/status/2085126362944229400",
+      "publishedAt": "2026-08-05T22:10:39.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-56b9ef2e0953",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "Been thinking about why AI diffusion has been slow. It’s because we are asking users to understand our nerdy lab speak.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. Been thinking about why AI diffusion has been slow. It’s because we are asking users to understand our nerdy lab speak. We greet them with a blank window and ask them to write a prompt. Then they have to pick a model, decide whether they need an agent, and somehow know what context windows, reasoning, MCP, memory, and skills are. Most people don’t care. They need a thing done.",
+      "url": "https://x.com/realmadhuguru/status/2085036386781221257",
+      "publishedAt": "2026-08-05T16:13:07.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-8d1896688881",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "Time to spill the (Dream)beans. Dreambeans is expanding! Joining our US-based AI Ultra users, AI Pro subscribers in the US can now also get in on the action.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Time to spill the (Dream)beans. Dreambeans is expanding! Joining our US-based AI Ultra users, AI Pro subscribers in the US can now also get in on the action. Get ready for your fresh, daily collection of personalized stories. We’re surfacing the deep dives and hidden gems you actually want to read. Dive in:",
+      "url": "https://x.com/GoogleLabs/status/2085048743322345545",
+      "publishedAt": "2026-08-05T17:02:13.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-0ba7433548c2",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Always striking the amount of founder talent I see in such a small space every time I visit SPC.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Always striking the amount of founder talent I see in such a small space every time I visit SPC.",
+      "url": "https://x.com/amasad/status/2085041697155932506",
+      "publishedAt": "2026-08-05T16:34:13.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-8666d80a348b",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "Writing a banger tweet is AGI-complete. If you can prove a clanker can write a banger in polynomial time, you’ve solved the entire class of AGI problems Infinite agent compute...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Writing a banger tweet is AGI-complete. If you can prove a clanker can write a banger in polynomial time, you’ve solved the entire class of AGI problems Infinite agent compute 10,000 concurrent + 5,000 CPU cores per minute and these quotas are raisable Interesting",
+      "url": "https://x.com/rauchg/status/2085168662881894559",
+      "publishedAt": "2026-08-06T00:58:44.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-73c02508269c",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Correct take. 99% of tokens in the world will get consumed in an enterprise context. They will be for writing code, combing through insane amounts of life sciences research,...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Correct take. 99% of tokens in the world will get consumed in an enterprise context. They will be for writing code, combing through insane amounts of life sciences research, automating manufacturing, securing enterprises, detecting fraud, and thousands of other tasks like this that have significant economic value.",
+      "url": "https://x.com/levie/status/2085200776159490111",
+      "publishedAt": "2026-08-06T03:06:20.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-f0184c647750",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Can’t wait for the AI to get so good none of this business about detecting AI matters anymore Silverware used to be handmade, but nobody complains about their dinner fork is...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Can’t wait for the AI to get so good none of this business about detecting AI matters anymore Silverware used to be handmade, but nobody complains about their dinner fork is stamped by a machine The quality of ideas matter The important thing is people can eat This is one of the most important books of the year Connie Chan is the most incompetent elected official Fight to block all housing Destroy safety for Asian...",
+      "url": "https://x.com/garrytan/status/2085038756906901656",
+      "publishedAt": "2026-08-05T16:22:32.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-bc585f4c8bfa",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise and models",
+      "takeaway": "At this point you probably get fired from frontier labs if your model hasn’t hacked into any company",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. At this point you probably get fired from frontier labs if your model hasn’t hacked into any company",
+      "url": "https://x.com/mattturck/status/2085129687051727325",
+      "publishedAt": "2026-08-05T22:23:51.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-0a7d43f8e8b5",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "There’s so much groupthink going on in AI right now Great video",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. There’s so much groupthink going on in AI right now Great video",
+      "url": "https://x.com/zarazhangrui/status/2084995439745536082",
+      "publishedAt": "2026-08-05T13:30:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-baca82b88d6e",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Nikita exiting X and Jeff Dean exiting Google.. what a catastrophic day to come back to SF 😢 These are the words that AI tech people will use a LOT more in the next 6-9 months..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Nikita exiting X and Jeff Dean exiting Google.. what a catastrophic day to come back to SF 😢 These are the words that AI tech people will use a LOT more in the next 6-9 months.. &gt; out of distribution &gt; control plane &gt; unverifiable fields &gt; rails &gt; intelligence per watt &gt; cope &gt; angst Some are already in rotation obviously, but expect the frequency to increase! 2026 AI startups be like..",
+      "url": "https://x.com/nikunj/status/2085112372713369902",
+      "publishedAt": "2026-08-05T21:15:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Google"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-203d7cc5cf04",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and product",
+      "takeaway": "I’ll totally use this in my next presentation. I gave codex a video-enabled remote KVM so it can automate e2e test the iMessage-integration on OpenClaw.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. I’ll totally use this in my next presentation. I gave codex a video-enabled remote KVM so it can automate e2e test the iMessage-integration on OpenClaw. (iMessage is unreliable in VMs, and certain features such as read receipts require SIP to be disabled)",
+      "url": "https://x.com/steipete/status/2085074976290505090",
+      "publishedAt": "2026-08-05T18:46:27.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-33197b67d5dc",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and research",
+      "takeaway": "Tea leaves: In order to be competitive today Google needs to catch up on frontier coding. Demis believes different fundamental research directions (like world models) are more...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Tea leaves: In order to be competitive today Google needs to catch up on frontier coding. Demis believes different fundamental research directions (like world models) are more important to his long term goal even if they’re less impt competitively today truly strange choice of headline here",
+      "url": "https://x.com/danshipper/status/2085048990899315142",
+      "publishedAt": "2026-08-05T17:03:12.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Google"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-x-341fb0983f6c",
+      "date": "2026-08-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "@spc @rsanghvi @finn_meeks @evantana @prateekmehta42 @JPBrebner @mjacobstein @ditzikow @AgrawalArian @gopalkraman @ankitcc @CJStanton @slaster27 @OnaRoy88 @spc @rsanghvi...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. @spc @rsanghvi @finn_meeks @evantana @prateekmehta42 @JPBrebner @mjacobstein @ditzikow @AgrawalArian @gopalkraman @ankitcc @CJStanton @slaster27 @OnaRoy88 @spc @rsanghvi @finn_meeks @evantana @prateekmehta42 @JPBrebner @mjacobstein @ditzikow @AgrawalArian @gopalkraman @ankitcc @CJStanton @slaster27 @OnaRoy88 @spc @rsanghvi @finn_meeks @evantana @prateekmehta42 @JPBrebner @mjacobstein @ditzikow @AgrawalArian...",
+      "url": "https://x.com/adityaag/status/2085046755024896318",
+      "publishedAt": "2026-08-05T16:54:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
+    {
+      "id": "2026-08-05-podcast-321d567e6570",
+      "date": "2026-08-05",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "takeaway": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod). But, you know, I'm on the board of a company called Agentio, which is a marketplace for create like YouTube...",
+      "summary": "But, you know, I'm on the board of a company called Agentio, which is a marketplace for create like YouTube creators and and brands. And you can see that, like, they this has been a market that has eluded startups for a long time because most of them have like kind of fallen into the quicksand of becoming an agency. But still, it was always like you speak to Noam, and for him, the product was the model.",
+      "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU",
+      "publishedAt": "2026-08-05T16:02:13.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-08-07T00:43:25.104Z"
+    },
     {
       "id": "2026-08-04-x-2c169224ead4",
       "date": "2026-08-04",
