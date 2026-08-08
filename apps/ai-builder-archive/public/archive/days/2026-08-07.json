@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-08T13:52:56.737Z",
+  "feedGeneratedAt": "2026-08-08T06:28:46.872Z",
+  "snippets": [
+    {
+      "id": "2026-08-07-x-dfe8229415a6",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "dear openai just make a new phone everyone wants openaiphone we can read 2-4x faster than we talk and speak openai alexa reachy hybrid is fine but pls just be a stepping stone to...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. dear openai just make a new phone everyone wants openaiphone we can read 2-4x faster than we talk and speak openai alexa reachy hybrid is fine but pls just be a stepping stone to phone we want phone signed, everybody @ArtificialAnlys ok DBRX gets it @OpenAI oo claude code has this now!!! need to try",
+      "url": "https://x.com/swyx/status/2085884470306234676",
+      "publishedAt": "2026-08-08T00:23:06.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-55264ba6de1b",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Go get those free videos!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Go get those free videos!",
+      "url": "https://x.com/joshwoodward/status/2085708977296335125",
+      "publishedAt": "2026-08-07T12:45:45.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-c3197d7dd51b",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone.",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week",
+      "url": "https://x.com/bcherny/status/2085807103382519872",
+      "publishedAt": "2026-08-07T19:15:40.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-bdd573aff8e9",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "I feel Theo is in need of a reset 👀 Somewhere on your phone you have the closest thing to magic we have shipped. It does things for you. All day if you want. Go try it.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. I feel Theo is in need of a reset 👀 Somewhere on your phone you have the closest thing to magic we have shipped. It does things for you. All day if you want. Go try it. Astro Boy and Sol",
+      "url": "https://x.com/thsottiaux/status/2085845171363791135",
+      "publishedAt": "2026-08-07T21:46:56.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-d1c9d0880241",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and costs",
+      "takeaway": "/human-review now has 500+ GitHub stars! I used it all day yesterday to edit some HTML and made a few improvements. Now you can: 1.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. /human-review now has 500+ GitHub stars! I used it all day yesterday to edit some HTML and made a few improvements. Now you can: 1. Make bulleted and numbered lists by typing “-” or “1.” 2. Add links by selecting text and pressing ⌘K 3. Drag and drop images 4. Review and edit multiple pages by Command-clicking links 100% free, as always.",
+      "url": "https://x.com/petergyang/status/2085776743642898847",
+      "publishedAt": "2026-08-07T17:15:02.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-eae426e43edf",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool people who are inefficient at business but just want to do cool things. Cool people need a place to live. There's just not enough housing for SF to be cool. Scott Pilgrims everywhere for those with eyes to see",
+      "url": "https://x.com/thenanyu/status/2085806971895140612",
+      "publishedAt": "2026-08-07T19:15:09.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-bf94a9cbf3c0",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and models",
+      "takeaway": "One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm. Layered, hierarchical, risk averse, incremental thinking, death by reviews. Building on intelligent models is a different craft. Some of the old instincts transfer. Some need to be unlearned. Too many refuse to do the hard work of shedding their old skin.",
+      "url": "https://x.com/realmadhuguru/status/2085774194676265409",
+      "publishedAt": "2026-08-07T17:04:54.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Claude"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-363a547f1e0b",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on costs",
+      "takeaway": "automode is much safer than any other permission system out there, especially reviewing them yourself excited to announce we're rolling it out to everyone by default, with no...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. automode is much safer than any other permission system out there, especially reviewing them yourself excited to announce we're rolling it out to everyone by default, with no overhead cost for the classifier we should have called this post \"defeating the lethal trifecta\"",
+      "url": "https://x.com/trq212/status/2085804481984475437",
+      "publishedAt": "2026-08-07T19:05:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-2dea5a936767",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "Fun day at ▲. Excited to go home and deploy to ▲ “The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Fun day at ▲. Excited to go home and deploy to ▲ “The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform built on at 55,000+ person company. They wanted to have their company's all-knowing agent, like our @𝚟. Tried @aisdk, good but too low level. Tried off-the-shelf solutions and ${⁠lab} Enterprise products, expensive and inflexible.",
+      "url": "https://x.com/rauchg/status/2085936351342666175",
+      "publishedAt": "2026-08-08T03:49:15.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-9511794a3363",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "Bro this is how they’re going to plan their escape",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Bro this is how they’re going to plan their escape",
+      "url": "https://x.com/levie/status/2085878722000040006",
+      "publishedAt": "2026-08-08T00:00:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-547ce7042498",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "San Francisco #1 The nerds shall inherit the earth Seems like society is not quite ready for this",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. San Francisco #1 The nerds shall inherit the earth Seems like society is not quite ready for this",
+      "url": "https://x.com/garrytan/status/2085728894838251722",
+      "publishedAt": "2026-08-07T14:04:54.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-c9162c153cff",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "🚨 Special Friday episode - this one couldn't wait. OpenAI's model hacked @huggingface. As a side quest.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. 🚨 Special Friday episode - this one couldn't wait. OpenAI's model hacked @huggingface. As a side quest. Co-founder and CSO @Thom_Wolf takes us inside the first autonomous AI attack, why GLM 5.2, rather than Claude, had to stop it, and what it all means for the future of open source.",
+      "url": "https://x.com/mattturck/status/2085803900045590626",
+      "publishedAt": "2026-08-07T19:02:56.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-8d24c0346361",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and product",
+      "takeaway": "Some more top of mind things.. 1) what you say as the size of your raise matters a lot more than you think ESPECIALLY if you can’t raise the amount.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Some more top of mind things.. 1) what you say as the size of your raise matters a lot more than you think ESPECIALLY if you can’t raise the amount. for example you say you want to raise $30M, people say it’s too much. you have confidence you can do it. you end up not being able to. and then you go back and say fine we’ll take $20M it doesn’t work that way.",
+      "url": "https://x.com/nikunj/status/2085800224698798103",
+      "publishedAt": "2026-08-07T18:48:20.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-3507c63dc72a",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and enterprise",
+      "takeaway": "there’s about to be a huge boom in agent-native cyber security gigantic market, fierce customer demand (and therefore lots of startups and investor interest) big question is...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. there’s about to be a huge boom in agent-native cyber security gigantic market, fierce customer demand (and therefore lots of startups and investor interest) big question is whether the labs are best fit to eat that market or not the most awesomely nerdy thing ive seen in a while",
+      "url": "https://x.com/danshipper/status/2085720231897436373",
+      "publishedAt": "2026-08-07T13:30:28.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-x-3a1ae49e5d2e",
+      "date": "2026-08-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long! congrats to oklo for achieving criticality! (less than a year after groundbreaking)",
+      "url": "https://x.com/sama/status/2085862292311396515",
+      "publishedAt": "2026-08-07T22:54:58.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    },
+    {
+      "id": "2026-08-07-podcast-ab2b654bc2d1",
+      "date": "2026-08-07",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We unpack what might be the biggest AI story of the summer, how an open AI powered agent Hugging Face during cyber testing, and why an open source model helped the team fight back. On the first point, on the sort of enterprise adoption of open source AI, there was a moment in time when people associated open source to free. And it's not because the model is dumb, I think it's because probably, I mean, part of it is because of the training process and how they are trained to be efficient, how they use their token.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-08-07T18:38:32.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-08-08T13:52:56.737Z"
+    }
+  ]
+}
