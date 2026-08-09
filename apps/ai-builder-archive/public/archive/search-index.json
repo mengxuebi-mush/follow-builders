@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T17:43:47.063Z",
+  "generatedAt": "2026-08-09T19:43:05.656Z",
   "snippets": [
     {
       "id": "2026-08-08-x-14cf1429b2fb",
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-54d25a10f5ce",
@@ -43,7 +43,7 @@
         "Anthropic",
         "Codex"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-05c2c548be6c",
@@ -66,7 +66,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-799aea484ea2",
@@ -85,7 +85,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-301354376984",
@@ -106,7 +106,7 @@
         "Madhu Guru",
         "OpenAI"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-9b57292c43f5",
@@ -128,7 +128,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-ecebc650c56d",
@@ -147,7 +147,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-7f8d77242451",
@@ -170,7 +170,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-8abec1ee87d3",
@@ -193,7 +193,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-c7b10d0933df",
@@ -213,7 +213,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-ab0a8ff7bd57",
@@ -233,7 +233,7 @@
         "Matt Turck",
         "OpenAI"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-f4437cb938d7",
@@ -253,7 +253,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-90296ccd09be",
@@ -272,7 +272,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-x-cf7d5100aab5",
@@ -291,7 +291,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-08-podcast-0aa4355de8d8",
@@ -319,7 +319,7 @@
         "Microsoft",
         "Meta"
       ],
-      "createdAt": "2026-08-09T17:43:47.063Z"
+      "createdAt": "2026-08-09T19:43:05.656Z"
     },
     {
       "id": "2026-08-07-x-dfe8229415a6",
