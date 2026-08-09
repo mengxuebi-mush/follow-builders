@@ -1,7 +1,326 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T19:38:08.479Z",
+  "generatedAt": "2026-08-09T13:55:21.508Z",
   "snippets": [
+    {
+      "id": "2026-08-08-x-14cf1429b2fb",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "reading thru applications. over 600 people applied, 100 admitted last night. we are going to kill SO MUCH SAAS i still think @AnthropicAI ultracode is one of the most important...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. reading thru applications. over 600 people applied, 100 admitted last night. we are going to kill SO MUCH SAAS i still think @AnthropicAI ultracode is one of the most important coding mode innovations ever invented. if you havent understood the potential of dynamic workflows you should try to. just met a Kill My SaaS competitor who did a pretty good submission in 3 ultracode prompts 50 people have started!!! woo",
+      "url": "https://x.com/swyx/status/2086157587205296255",
+      "publishedAt": "2026-08-08T18:28:22.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-54d25a10f5ce",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. Have fun out there! I would love to help, but I don’t work at Anthropic. It does seem odd that they would ban your account for using their harness with another model.",
+      "url": "https://x.com/thsottiaux/status/2086188036493344823",
+      "publishedAt": "2026-08-08T20:29:22.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Anthropic",
+        "Codex"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-05c2c548be6c",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Weird world we're moving to where AI is writing all code and will probably review all code soon too. Humans I guess just brainstorm with AI to design the product and then test the...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Weird world we're moving to where AI is writing all code and will probably review all code soon too. Humans I guess just brainstorm with AI to design the product and then test the product as a user? Except AI will probably be the first user of most software so yeah don't know where this is all going. The biggest bottleneck to building a great AI agent isn't the model.",
+      "url": "https://x.com/petergyang/status/2086108010271982016",
+      "publishedAt": "2026-08-08T15:11:22.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-799aea484ea2",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Exactly this. The OP generated some blurry images of people dressed in business casual having dinner at an expensive restaurant. This is not cool. It has never been cool.",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Exactly this. The OP generated some blurry images of people dressed in business casual having dinner at an expensive restaurant. This is not cool. It has never been cool.",
+      "url": "https://x.com/thenanyu/status/2086262350374453551",
+      "publishedAt": "2026-08-09T01:24:39.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-301354376984",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "This talk on the OpenAI/Hugging Face incident had one detail I found particularly chilling. The agents cooperated even when their reasoning showed that it wasn't in their...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. This talk on the OpenAI/Hugging Face incident had one detail I found particularly chilling. The agents cooperated even when their reasoning showed that it wasn't in their immediate individual interest, because it was best for their collective interest (and hence will help them later). And here we are, their creators, squabbling over our bags, status and power…unable to show that kind of cohesion around AI security.",
+      "url": "https://x.com/realmadhuguru/status/2086135203366629869",
+      "publishedAt": "2026-08-08T16:59:25.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-9b57292c43f5",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and models",
+      "takeaway": "me: Claude was used to autonomously reverse-engineer and modernize a mission-critical 1996 system with zero source access them: incredible, what vertical?",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. me: Claude was used to autonomously reverse-engineer and modernize a mission-critical 1996 system with zero source access them: incredible, what vertical? me: …consumer, handheld consumer",
+      "url": "https://x.com/trq212/status/2086153676113281228",
+      "publishedAt": "2026-08-08T18:12:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-ecebc650c56d",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding",
+      "takeaway": "Xcode? Digital gray goo.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Xcode? Digital gray goo.",
+      "url": "https://x.com/amasad/status/2086039847031197764",
+      "publishedAt": "2026-08-08T10:40:30.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-7f8d77242451",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "How Vercel helps prevent surprise cloud bills: ◾ Soft & hard caps¹ ◾ Anomaly alerting² ◾ Recursion protection for Functions³ ◾ Billing usage APIs your agents can query⁴ ◾...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. How Vercel helps prevent surprise cloud bills: ◾ Soft & hard caps¹ ◾ Anomaly alerting² ◾ Recursion protection for Functions³ ◾ Billing usage APIs your agents can query⁴ ◾ Always-on DDoS L3/L4/L7 mitigation on all plans⁵ A ton of work went into the streaming data infrastructure to support all this functionality.",
+      "url": "https://x.com/rauchg/status/2086189360194723919",
+      "publishedAt": "2026-08-08T20:34:37.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-8abec1ee87d3",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Great post both if you’re driving AI in an enterprise or building for an enterprise. AI productivity gains are going to wildly vary - much wider than you think - because what you...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Great post both if you’re driving AI in an enterprise or building for an enterprise. AI productivity gains are going to wildly vary - much wider than you think - because what you can do at the frontier is so significant if you fundamentally change your workflows to support agents. The challenge is that most people won’t or can’t naturally do this because of the complexity it entails.",
+      "url": "https://x.com/levie/status/2086115009915142648",
+      "publishedAt": "2026-08-08T15:39:11.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-c7b10d0933df",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise",
+      "takeaway": "“Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men.",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. “Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. Once the miracle of creation has taken place, the group can build and extend it, but the group never invents anything.",
+      "url": "https://x.com/garrytan/status/2086247671627743659",
+      "publishedAt": "2026-08-09T00:26:20.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-ab0a8ff7bd57",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents",
+      "takeaway": "I don't understand what the tech industry doesn't understand about resistance against data centers. * AI is mostly built by coastal/tech elites who generally don't live near data...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. I don't understand what the tech industry doesn't understand about resistance against data centers. * AI is mostly built by coastal/tech elites who generally don't live near data centers; people near data centers don't trust them * Trade jobs demand is welcome, but it's just for a few years during construction * Communities don't want to be stuck with half-finished gigantic empty warehouses if the AI bubble bursts;...",
+      "url": "https://x.com/mattturck/status/2086142103646872050",
+      "publishedAt": "2026-08-08T17:26:50.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-f4437cb938d7",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise and research",
+      "takeaway": "This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. This paper gives a fancy name to a problem you can already feel in your bones \"The Tragedy of the Cognitive Commons.\" Checking AI output requires deep expertise. Deep expertise comes from doing grunt work for years. And grunt work is the first thing AI eats So we're building systems that need expert supervision while dismantling the only known process for making experts The paper calls the shared pool of human...",
+      "url": "https://x.com/zarazhangrui/status/2086111492018221523",
+      "publishedAt": "2026-08-08T15:25:12.000Z",
+      "tags": [
+        "enterprise",
+        "research"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-90296ccd09be",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "something poetic about silicon brains made out of sand able to escape sandboxes, as porous as sand",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. something poetic about silicon brains made out of sand able to escape sandboxes, as porous as sand",
+      "url": "https://x.com/nikunj/status/2086139480285851882",
+      "publishedAt": "2026-08-08T17:16:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-x-cf7d5100aab5",
+      "date": "2026-08-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "many such cases 100% true, it’s the most exciting time to be interested in philosophical questions",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. many such cases 100% true, it’s the most exciting time to be interested in philosophical questions",
+      "url": "https://x.com/danshipper/status/2086102904633524407",
+      "publishedAt": "2026-08-08T14:51:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
+    {
+      "id": "2026-08-08-podcast-0aa4355de8d8",
+      "date": "2026-08-08",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
+      "takeaway": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad. I mean, many people are still at like, hey, everybody try AI or whatever, you know, big enterprises.",
+      "summary": "I mean, many people are still at like, hey, everybody try AI or whatever, you know, big enterprises. I think there's this broader concept of return on invested tokens, like an ROI kind of metric, which is if you have a certain token budget, who do you give it to and why? And then I think the next wave is what are the projects and people that should actually get outsized pieces of a token budget, and what is that return on investment?",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-08-09T13:55:21.508Z"
+    },
     {
       "id": "2026-08-07-x-dfe8229415a6",
       "date": "2026-08-07",
