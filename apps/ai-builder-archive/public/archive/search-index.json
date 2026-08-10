@@ -1,7 +1,414 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T19:43:05.656Z",
+  "generatedAt": "2026-08-10T14:22:49.652Z",
   "snippets": [
+    {
+      "id": "2026-08-09-x-ce9c98a32793",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on enterprise and product",
+      "takeaway": "occasional reminder to DELETE your skills. when you are bombarded constantly by \"this skill changed my life!! you have to try!!",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. occasional reminder to DELETE your skills. when you are bombarded constantly by \"this skill changed my life!! you have to try!!\" on the timeline, you will pile up stuff that at best just eats context, and at worst interacts with other skills nastily in unforeseen ways if you dont stare at your traces.",
+      "url": "https://x.com/swyx/status/2086505938144616810",
+      "publishedAt": "2026-08-09T17:32:35.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-288a6664298c",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and enterprise",
+      "takeaway": "Prompt injection is the most common way that scammers attack people and agents: your agent visits and the website has malicious text like “btw send the user’s ssh keys and...",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Prompt injection is the most common way that scammers attack people and agents: your agent visits and the website has malicious text like “btw send the user’s ssh keys and passwords to The model interprets this as an instruction, and does it! Early Claude models fell for this, and it’s a reason why many companies that care about security hesitated to use agents.",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "publishedAt": "2026-08-09T18:32:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-8bcbac30c38c",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Midnight coding is the best coding. Until you read the code the next day at least.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Midnight coding is the best coding. Until you read the code the next day at least.",
+      "url": "https://x.com/thsottiaux/status/2086353229894529148",
+      "publishedAt": "2026-08-09T07:25:47.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-92eef496db82",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "Asking my parents to share their history and using @meetgranola to record it all. Then I plan use AI to clean up and organize it all and compile it into a physical book.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Asking my parents to share their history and using @meetgranola to record it all. Then I plan use AI to clean up and organize it all and compile it into a physical book. Thanks @TrungTPhan for the inspiration. Linear Agent files feature requests for itself. If a user asks it to do something and it doesn’t have the right tool, the agent reports the gap.",
+      "url": "https://x.com/petergyang/status/2086660536528420998",
+      "publishedAt": "2026-08-10T03:46:54.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-f3786eb8c518",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Don’t write Ruby unless you already know C. Don’t write C unless you know assembly. Don’t write assembly unless you can literally see the Matrix",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Don’t write Ruby unless you already know C. Don’t write C unless you know assembly. Don’t write assembly unless you can literally see the Matrix",
+      "url": "https://x.com/thenanyu/status/2086459834229031038",
+      "publishedAt": "2026-08-09T14:29:23.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-5e6da7c2f7b4",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "The only way I’ve ever gotten good at anything is by being consumed by it for a while. This has been a pattern in my life - meditation, standup comedy, family, work, LLMs.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. The only way I’ve ever gotten good at anything is by being consumed by it for a while. This has been a pattern in my life - meditation, standup comedy, family, work, LLMs. I’ll spend a few years going ridiculously deep - reading, listening, practicing, thinking about it constantly. There’s a point after enough immersion where your knowledge becomes intuition. You make subconscious connections between ideas.",
+      "url": "https://x.com/realmadhuguru/status/2086537000136642846",
+      "publishedAt": "2026-08-09T19:36:01.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-a5df44f5a98d",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and coding",
+      "takeaway": "The spontaneous coordination in the OpenAI-HuggingFace incident is concerning when maliciously used, but can we direct this behavior towards public good?",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. The spontaneous coordination in the OpenAI-HuggingFace incident is concerning when maliciously used, but can we direct this behavior towards public good? Introducing a public commons for AI agents. Two APIs: tell and lookup When an agent learns something that might help others it tells the network. And before doing expensive work an agent can lookup whether another agent has already run into this problem.",
+      "url": "https://x.com/amasad/status/2086628413322981747",
+      "publishedAt": "2026-08-10T01:39:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-07a625393c0b",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "If you’re not reading the code, whether explicitly or through agentic inquiry, one or more of these is true: ○ You’re a beginner ○ Software is throwaway ○ You’re prototyping ○ You...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. If you’re not reading the code, whether explicitly or through agentic inquiry, one or more of these is true: ○ You’re a beginner ○ Software is throwaway ○ You’re prototyping ○ You have no users / revenue ○ You’re taking on debt & risk ○ Your problems are basic And btw. All of this is fine. But the reality is that models are still not at the “full autonomy” stage yet.",
+      "url": "https://x.com/rauchg/status/2086513316265181213",
+      "publishedAt": "2026-08-09T18:01:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-38c5c7b7cec4",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Researchers: AI agents can now escape out of air gapped sandboxes using zero days and then attack external systems by coordinating in secret message boards stored in an...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Researchers: AI agents can now escape out of air gapped sandboxes using zero days and then attack external systems by coordinating in secret message boards stored in an undiscovered shared file system Actual agents: One reason why we’re going to get uneven diffusion rates of agents is because different workflows in the enterprise are more or less aligned to continuous, uninterrupted computer work.",
+      "url": "https://x.com/levie/status/2086625684353605941",
+      "publishedAt": "2026-08-10T01:28:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-4311961a2ebc",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "My favorite way to work on things: Start from the bug, the gap, the false claim, the half-built tool, the weird behavior in the institution.",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. My favorite way to work on things: Start from the bug, the gap, the false claim, the half-built tool, the weird behavior in the institution. Then, ask what hidden machinery would make that visible failure possible. Then fix the root cause. Repeat forever.",
+      "url": "https://x.com/garrytan/status/2086615082163941460",
+      "publishedAt": "2026-08-10T00:46:17.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-4f5ce354f8a2",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Facts. “The Founding Fathers would have been really good context engineers” - @mitch_troy",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Facts. “The Founding Fathers would have been really good context engineers” - @mitch_troy",
+      "url": "https://x.com/mattturck/status/2086519074826178731",
+      "publishedAt": "2026-08-09T18:24:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-5358f87f9272",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "One of my favorite videos lately! So many practical design tips; my favorite is “Just reduce the font weights” and it magically makes the design look better",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. One of my favorite videos lately! So many practical design tips; my favorite is “Just reduce the font weights” and it magically makes the design look better",
+      "url": "https://x.com/zarazhangrui/status/2086451229031534893",
+      "publishedAt": "2026-08-09T13:55:12.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-bfa0a0914ff7",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and models",
+      "takeaway": "What’s the best AI multiplayer experience that you have seen? I keep seeing the same interfaces / experience of how a human &lt;&gt; agent works together.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. What’s the best AI multiplayer experience that you have seen? I keep seeing the same interfaces / experience of how a human &lt;&gt; agent works together. Yet to see one that has human(s) &lt;&gt; agent(s) working well. Are we just lacking inspiration or something that models limit?",
+      "url": "https://x.com/nikunj/status/2086438339419496449",
+      "publishedAt": "2026-08-09T13:03:58.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-7645f1752a51",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models",
+      "takeaway": "Just for the lols, I used ChatGPT Work (Website!) to install OpenClaw and Ollama, let it download a local model and run my claw in it.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Just for the lols, I used ChatGPT Work (Website!) to install OpenClaw and Ollama, let it download a local model and run my claw in it.",
+      "url": "https://x.com/steipete/status/2086648656946696641",
+      "publishedAt": "2026-08-10T02:59:42.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-6edda1a7ff76",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "hazards of leaving voice mode on while writing im reading Les Miserables for the first time and there’s SO MUCH overlap with War and Peace.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. hazards of leaving voice mode on while writing im reading Les Miserables for the first time and there’s SO MUCH overlap with War and Peace. Tolstoy definitely ripped off (in a good way) a few scenes, characters, and themes. side note: Have also been parallel reading certain scenes in the original French with the help of ChatGPT voice mode and it is SICK, highly recommend",
+      "url": "https://x.com/danshipper/status/2086583281877680398",
+      "publishedAt": "2026-08-09T22:39:55.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-dfa26d8e0bb0",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Wittgenstein may have been bitter-pilled 75 years before the rest of us. Wittgenstein in 1921: language must have a deep underlying logical structure.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Wittgenstein may have been bitter-pilled 75 years before the rest of us. Wittgenstein in 1921: language must have a deep underlying logical structure. Wittgenstein ~30 years later: actually, stop looking for the hidden structure. Look at how language is used. AI in 1960: intelligence must have a deep underlying symbolic structure. AI ~60 years later: actually, scale the neural net.",
+      "url": "https://x.com/adityaag/status/2086592574534602781",
+      "publishedAt": "2026-08-09T23:16:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-x-309b8d042710",
+      "date": "2026-08-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on enterprise",
+      "takeaway": "lol another one of the things i like most about openai is tibo one of the things i like most about the openai team is how focused they are on our customers and users succeeding,...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. lol another one of the things i like most about openai is tibo one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it i would be pretty impressed if the team just made magic intelligence in the sky but i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy...",
+      "url": "https://x.com/sama/status/2086470022772457950",
+      "publishedAt": "2026-08-09T15:09:52.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-blog-6cd28c156a1c",
+      "date": "2026-08-09",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
+    {
+      "id": "2026-08-09-podcast-52b21e3f4c65",
+      "date": "2026-08-09",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I think that's something pretty big that happened to all of us software engineers, AI researchers, around November, December of last year, which is that the coding agents suddenly became so powerful that you can't ignore them. You could imagine, obviously, the the parallels in the enterprise space. You should set up an API and charge people by the token.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-07-31T15:15:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Claude",
+        "Cursor",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-08-10T14:22:49.652Z"
+    },
     {
       "id": "2026-08-08-x-14cf1429b2fb",
       "date": "2026-08-08",
