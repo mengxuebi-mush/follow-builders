@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-11T14:22:51.465Z",
+  "feedGeneratedAt": "2026-08-11T06:34:38.754Z",
+  "snippets": [
+    {
+      "id": "2026-08-10-x-3c45a50241f2",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "worktrees must die this is 20GB of repeated node_modules lol gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. worktrees must die this is 20GB of repeated node_modules lol gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via fal\" i woke up to these two and assumed fable was left and luna was right i was wrong... it was the other way!! objectively, fable did the better visual clone.",
+      "url": "https://x.com/swyx/status/2086962980235939920",
+      "publishedAt": "2026-08-10T23:48:43.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-f4a37cdbebdc",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Hi. It is done. Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week. Cybersecurity is changing rapidly.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Hi. It is done. Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week. Cybersecurity is changing rapidly. To help accelerate defense, we are broadening access to frontier cyber capabilities through the new Daybreak Blue & Red access tiers and are introducing a new model GPT-5.6-Cyber.",
+      "url": "https://x.com/thsottiaux/status/2086972802457063486",
+      "publishedAt": "2026-08-11T00:27:44.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-4814428ca79d",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end: 1. The first step is to map the actual workflow.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end: 1. The first step is to map the actual workflow. Identify where work starts, which systems hold context, what actions complete the job, what “done” means, and where a person needs to review.",
+      "url": "https://x.com/petergyang/status/2086824976800436676",
+      "publishedAt": "2026-08-10T14:40:20.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-512eae339866",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product and tools",
+      "takeaway": "been deep down this rabbit hole at the intersection of AI and consumer experiences recently: How do you develop a theory of why someone did something, rather than just a history...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 3 recent updates. been deep down this rabbit hole at the intersection of AI and consumer experiences recently: How do you develop a theory of why someone did something, rather than just a history of what they did? Consumer products have a mix of explicit signals from search/chat and implicit signals from what you watch, skip, linger on, revisit.",
+      "url": "https://x.com/realmadhuguru/status/2086909974668784113",
+      "publishedAt": "2026-08-10T20:18:05.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-a3fc83f9208d",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on costs and product",
+      "takeaway": "I think this shows 2 key skills w/ AI 1) compute allocation - for most jobs there's not a list of \"X most important problems\", you have to decide what problems are worth it 2)...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. I think this shows 2 key skills w/ AI 1) compute allocation - for most jobs there's not a list of \"X most important problems\", you have to decide what problems are worth it 2) thought partnership - @__alpoge__ had to really dig into and understand the proof to know it was real I see parallels with game design, it's nice that anyone can make a basic game, but I am most excited for expert game designers to be able to...",
+      "url": "https://x.com/trq212/status/2086931647468097932",
+      "publishedAt": "2026-08-10T21:44:12.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-5084adfce7b8",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on product",
+      "takeaway": "We love to test new ideas, get quick feedback from you, and learn. With this, we've gathered so many great insights from our Portraits experiment and are concluding it on...",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. We love to test new ideas, get quick feedback from you, and learn. With this, we've gathered so many great insights from our Portraits experiment and are concluding it on September 14. We’ll be taking what we learned about expert-grounded AI and weaving it into other Google products. Thank you for experimenting with us. Stay tuned for what's next and keep trying out our other experiments at",
+      "url": "https://x.com/GoogleLabs/status/2086936798710923603",
+      "publishedAt": "2026-08-10T22:04:40.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-b569c4b7833c",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel. “Did you deepsec it?",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel. “Did you deepsec it?” “@𝚟 can you deepsec” “/𝚍𝚎𝚎𝚙𝚜𝚎𝚌” It’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠 but for the security of your code. Must have in your software factory. Was so fun to speak to the @speedrun @a16z startups while enjoying ▲ 🍵.",
+      "url": "https://x.com/rauchg/status/2086965425968148806",
+      "publishedAt": "2026-08-10T23:58:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-5adc7a87f562",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and models",
+      "takeaway": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. This will continue to help drive down the cost of intelligence, it allows companies to run models as they see fit, as well as allows them to post train their own models for specific use-cases to get better performance gains in their domain.",
+      "url": "https://x.com/levie/status/2086802472950239618",
+      "publishedAt": "2026-08-10T13:10:55.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Meta"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-0591ebe29655",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with gratitude, but also with the feeling that i need a different rhythm. slower time. different weather. more culture, aliveness, and humans in the everyday. Asia feels like the right place to begin again.",
+      "url": "https://x.com/ryolu_/status/2086854498639822942",
+      "publishedAt": "2026-08-10T16:37:39.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-cd3937a52776",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Are they going to send this to China too? YC is the YC for hard tech Vote overwhelmingly in favor of people who want to build housing and the politicians will fix the policy...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Are they going to send this to China too? YC is the YC for hard tech Vote overwhelmingly in favor of people who want to build housing and the politicians will fix the policy really quickly YIMBY was invented in SF",
+      "url": "https://x.com/garrytan/status/2087015462014197906",
+      "publishedAt": "2026-08-11T03:17:15.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-8abf1cdfece0",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and models",
+      "takeaway": "Big Data era: \"our data science models work great, the problem is the underlying data\" Modern data stack era: \"our dashboards work great, the problem is the underlying data\" Gen...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Big Data era: \"our data science models work great, the problem is the underlying data\" Modern data stack era: \"our dashboards work great, the problem is the underlying data\" Gen AI era: our chatbot works great, the problem is the underlying data Agentic AI era: \"our agents work great, the problem is the underlying data\"",
+      "url": "https://x.com/mattturck/status/2086882606638153882",
+      "publishedAt": "2026-08-10T18:29:20.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-009ed12b633b",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and enterprise",
+      "takeaway": "A great way to learn design: Give Codex a well-designed website, ask it to analyze what makes the design great, then ask it to take a complete screenshot of the website & add...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. A great way to learn design: Give Codex a well-designed website, ask it to analyze what makes the design great, then ask it to take a complete screenshot of the website & add annotations on the image that breaks down why the design works Learning from examples is always better than learning from theory!",
+      "url": "https://x.com/zarazhangrui/status/2086758509979316423",
+      "publishedAt": "2026-08-10T10:16:13.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-0963ed188e56",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. ",
+      "url": "https://x.com/nikunj/status/2086945175709114841",
+      "publishedAt": "2026-08-10T22:37:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-fc3d67c6c513",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models",
+      "takeaway": "Must be load-bearing. Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Must be load-bearing. Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user.",
+      "url": "https://x.com/steipete/status/2086938582825173277",
+      "publishedAt": "2026-08-10T22:11:46.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Claude"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-73b0c1633b9b",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "co-sign putting this in fable’s context next time i give it a hard task prompting pro tip: gas up your unreleased frontier model and it may accomplish heretofore impossible tasks",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. co-sign putting this in fable’s context next time i give it a hard task prompting pro tip: gas up your unreleased frontier model and it may accomplish heretofore impossible tasks",
+      "url": "https://x.com/danshipper/status/2086957346576626116",
+      "publishedAt": "2026-08-10T23:26:19.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-190ea739ee04",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "The most ambitious founders are building bigger than ever before. My conversation with @tbpn on what's next for @spc",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. The most ambitious founders are building bigger than ever before. My conversation with @tbpn on what's next for @spc",
+      "url": "https://x.com/adityaag/status/2086886464281788518",
+      "publishedAt": "2026-08-10T18:44:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-d13338eb7f39",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "please consider using our models to help defend your systems",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. please consider using our models to help defend your systems",
+      "url": "https://x.com/sama/status/2086881528282587524",
+      "publishedAt": "2026-08-10T18:25:03.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-x-5c4794494cfa",
+      "date": "2026-08-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and costs",
+      "takeaway": "We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and...",
+      "summary": "Claude (claudeai on X) shared 1 recent update. We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
+      "url": "https://x.com/claudeai/status/2086891169217122586",
+      "publishedAt": "2026-08-10T19:03:21.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-blog-97cd97d27d22",
+      "date": "2026-08-10",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    },
+    {
+      "id": "2026-08-10-podcast-0aa4355de8d8",
+      "date": "2026-08-10",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "It's Netic agents that talk to the customer. That means, basically, we work with large enterprises in essential services. The teams that support these workflows in the companies are unreliable as well.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-07-31T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Perplexity"
+      ],
+      "createdAt": "2026-08-11T14:22:51.465Z"
+    }
+  ]
+}
