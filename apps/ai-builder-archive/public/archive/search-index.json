@@ -1,7 +1,428 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T19:58:05.825Z",
+  "generatedAt": "2026-08-14T14:18:31.346Z",
   "snippets": [
+    {
+      "id": "2026-08-13-x-1bebffc3c79b",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and costs",
+      "takeaway": "human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /align-me modification which allows for batches of questions instead of round-by-round.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /align-me modification which allows for batches of questions instead of round-by-round. same intuition as spec decoding, you speed up by looking ahead 2-10 steps works INCREDIBLY for design explorations matt's latest: thariq's latest: bonus dont miss @_philschmid's banger all 3 of these frontier skills guys contributing to the discussion...",
+      "url": "https://x.com/swyx/status/2088073777779515615",
+      "publishedAt": "2026-08-14T01:22:37.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-dec495fc38a7",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "3.7 Flash: Fast, 50% cheaper, happened in ~3 weeks",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. 3.7 Flash: Fast, 50% cheaper, happened in ~3 weeks",
+      "url": "https://x.com/joshwoodward/status/2088016871710957587",
+      "publishedAt": "2026-08-13T21:36:30.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-f02ed6582eed",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Slack channel called proj-claude-maintains-apps.",
+      "url": "https://x.com/bcherny/status/2088014489438621990",
+      "publishedAt": "2026-08-13T21:27:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-4089ff7abc62",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on enterprise and models",
+      "takeaway": "Sometimes you have have to go /ultrafast. Work with Google docs, sheets and slides right inside ChatGPT. This has changed how I write documents, brainstorm or proofread things.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Sometimes you have have to go /ultrafast. Work with Google docs, sheets and slides right inside ChatGPT. This has changed how I write documents, brainstorm or proofread things. I just open it and then chat or talk my way through changes and it all happens right there in the flow. Ask ChatGPT to roast your computer usage after a day.",
+      "url": "https://x.com/thsottiaux/status/2088019704803897705",
+      "publishedAt": "2026-08-13T21:47:45.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Google"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-52baee349613",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and product",
+      "takeaway": "I'm dealing with a family health situation and thought I would be using AI to research and understand the illness but in reality it's been most helpful to navigate the healthcare...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I'm dealing with a family health situation and thought I would be using AI to research and understand the illness but in reality it's been most helpful to navigate the healthcare system bureaucracy. The biggest compliment I can give @maticrobots is that my wife runs it non-stop which is getting pretty annoying but keeps our floors super clean.",
+      "url": "https://x.com/petergyang/status/2087946170274570385",
+      "publishedAt": "2026-08-13T16:55:33.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-73d75f2fd36d",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "Prompt debt is the new tech debt. With every model update, you should be cutting at least 50% of your prompts.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. Prompt debt is the new tech debt. With every model update, you should be cutting at least 50% of your prompts. Most AI products have bloated prompts that are making your product quality worse. The typical flow is: model fails at something -> add 10 rules. Tool call fails -> add 10 examples. Output is weird -> add formatting constraints. 3 months later, your system prompt is a novel.",
+      "url": "https://x.com/realmadhuguru/status/2087916590964851172",
+      "publishedAt": "2026-08-13T14:58:01.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-95d5413f19cd",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on ai",
+      "takeaway": "Join office hours with the Cowork team If you're in marketing, sales, finance, legal, ops, or any non-eng role, book a 15 min slot to show us how you use Cowork so we can make it...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Join office hours with the Cowork team If you're in marketing, sales, finance, legal, ops, or any non-eng role, book a 15 min slot to show us how you use Cowork so we can make it better for you: Thank you for sharing your feedback!",
+      "url": "https://x.com/_catwu/status/2088006642189361564",
+      "publishedAt": "2026-08-13T20:55:51.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-d7e16a7abfd8",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "everything truly is code",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. everything truly is code",
+      "url": "https://x.com/trq212/status/2088049989306192106",
+      "publishedAt": "2026-08-13T23:48:06.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-e41e7368cfe8",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and costs",
+      "takeaway": "By next year, using a computer will be optional. Work will radically change. It’s certainly true at Replit. ARC-AGI-3 is nearly solved by merely adding a coding harness.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. By next year, using a computer will be optional. Work will radically change. It’s certainly true at Replit. ARC-AGI-3 is nearly solved by merely adding a coding harness. As predicted, coding generalizes LLMs.",
+      "url": "https://x.com/amasad/status/2088110851681386864",
+      "publishedAt": "2026-08-14T03:49:56.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-fcedb65e3f3e",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and models",
+      "takeaway": "The best things in life are free Try with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai One command to rule them all (tokens).",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. The best things in life are free Try with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai One command to rule them all (tokens). I predict that this will become the default way of using coding AI at scale. Uptime, model choice, lower costs, observability, ZDR… The cool thing is that this command configures every *existing* coding harness, like Claude Code & Codex!",
+      "url": "https://x.com/rauchg/status/2087900672083857815",
+      "publishedAt": "2026-08-13T13:54:46.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-c4f9e17059a9",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on coding and models",
+      "takeaway": "The elimination of engineers was one of the wilder hypotheses out there. Just like absurdly wrong. We just gave engineers a power tool that can accelerate the development of...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The elimination of engineers was one of the wilder hypotheses out there. Just like absurdly wrong. We just gave engineers a power tool that can accelerate the development of whatever we want. Of course their value not only remains critical in that world, but actually goes up in many domains because we can apply engineering to far more work than before. If you’re trying to automate drug discovery, you need engineers.",
+      "url": "https://x.com/levie/status/2088105350201270529",
+      "publishedAt": "2026-08-14T03:28:05.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-73de3ca3d956",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "matic is the first robot i’ve owned that actually feels like it gets smarter with every update",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. matic is the first robot i’ve owned that actually feels like it gets smarter with every update",
+      "url": "https://x.com/ryolu_/status/2087992867918864668",
+      "publishedAt": "2026-08-13T20:01:07.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-4f1bc6da0d39",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "I agree, you need topics per-bot please! YC is the YC for hard tech So great to host who we hope is our next Governor of California, @XavierBecerra for a @garryslist citizen’s...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. I agree, you need topics per-bot please! YC is the YC for hard tech So great to host who we hope is our next Governor of California, @XavierBecerra for a @garryslist citizen’s union gathering. We can make California the best win-win place: support building businesses AND make it affordable and livable for the every Californian.",
+      "url": "https://x.com/garrytan/status/2088029937714565260",
+      "publishedAt": "2026-08-13T22:28:25.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-3fff57f14a3b",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise and tools",
+      "takeaway": "Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a constant death match with other rocketships to capture customers, sacrificing gross margins; or * basically left for dead, regardless of how good a company you actually are This has been the case for a...",
+      "url": "https://x.com/mattturck/status/2087978386195103916",
+      "publishedAt": "2026-08-13T19:03:34.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-7db16bc7314c",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: forward-deployed engineer, design engineer, product engineer, growth engineer…",
+      "url": "https://x.com/zarazhangrui/status/2088087765267386564",
+      "publishedAt": "2026-08-14T02:18:12.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-42281e544157",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss: But I go back and forth on this a lot: Will users (personal and business) want one super agent...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss: But I go back and forth on this a lot: Will users (personal and business) want one super agent that holds all the context or sub agents that are designated to do a slice of tasks? If we treat agents as humans, then the Grok Bot design makes a ton of sense.",
+      "url": "https://x.com/nikunj/status/2087906119914340540",
+      "publishedAt": "2026-08-13T14:16:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-7f7faa531d8d",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "Averaging 2 applications per minute from: Citadel OpenAI Red Bull Microsoft Profound Alpha School NASDAQ Google Pinnacle Cohete Bessemer Lenovo PwC Square You should apply!",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. Averaging 2 applications per minute from: Citadel OpenAI Red Bull Microsoft Profound Alpha School NASDAQ Google Pinnacle Cohete Bessemer Lenovo PwC Square You should apply! concerning",
+      "url": "https://x.com/danshipper/status/2087995350745244083",
+      "publishedAt": "2026-08-13T20:10:59.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-a9f81dedd8a8",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "It would be amazing to host @JeffDean at @spc for a fireside chat. How do we make that happen? Really enjoyed my conversation with @Samirkaji.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. It would be amazing to host @JeffDean at @spc for a fireside chat. How do we make that happen? Really enjoyed my conversation with @Samirkaji. We spoke about what makes great companies work and how we're thinking about the future at @spc.",
+      "url": "https://x.com/adityaag/status/2088058783767658541",
+      "publishedAt": "2026-08-14T00:23:02.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-x-d4c87de9b4a4",
+      "date": "2026-08-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "/ultrafast",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. /ultrafast",
+      "url": "https://x.com/sama/status/2088101491802243121",
+      "publishedAt": "2026-08-14T03:12:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
+    {
+      "id": "2026-08-13-podcast-0aa4355de8d8",
+      "date": "2026-08-13",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "takeaway": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest. And then of course, we're also using it in our development and product life cycle as we build...",
+      "summary": "And then of course, we're also using it in our development and product life cycle as we build specs, as we, you know, do more agentic development where, you know, as I like to say, like have an idea or see a problem, fix a problem. And you took a, I guess, somewhat unconventional startup path or founder CEO path to get here. We have more statistical models, machine learning models, and that really kind of track how people play chess.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-13T17:29:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors"
+      ],
+      "createdAt": "2026-08-14T14:18:31.346Z"
+    },
     {
       "id": "2026-08-12-x-b9dfe3f14001",
       "date": "2026-08-12",
