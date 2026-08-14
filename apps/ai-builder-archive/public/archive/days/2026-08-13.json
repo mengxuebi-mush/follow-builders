@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-13",
-  "generatedAt": "2026-08-14T18:01:36.059Z",
+  "generatedAt": "2026-08-14T19:52:04.252Z",
   "feedGeneratedAt": "2026-08-14T06:46:42.819Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-dec495fc38a7",
@@ -42,7 +42,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-f02ed6582eed",
@@ -65,7 +65,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-4089ff7abc62",
@@ -89,7 +89,7 @@
         "Thibault Sottiaux",
         "Google"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-52baee349613",
@@ -110,7 +110,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-73d75f2fd36d",
@@ -135,7 +135,7 @@
         "Google",
         "Box"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-95d5413f19cd",
@@ -155,7 +155,7 @@
       "entities": [
         "Cat Wu"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-d7e16a7abfd8",
@@ -175,7 +175,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-e41e7368cfe8",
@@ -196,7 +196,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-fcedb65e3f3e",
@@ -219,7 +219,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-c4f9e17059a9",
@@ -240,7 +240,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-73de3ca3d956",
@@ -260,7 +260,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-4f1bc6da0d39",
@@ -279,7 +279,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-3fff57f14a3b",
@@ -299,7 +299,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-7db16bc7314c",
@@ -318,7 +318,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-42281e544157",
@@ -341,7 +341,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-7f7faa531d8d",
@@ -363,7 +363,7 @@
         "Google",
         "Microsoft"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-a9f81dedd8a8",
@@ -382,7 +382,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-x-d4c87de9b4a4",
@@ -401,7 +401,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     },
     {
       "id": "2026-08-13-podcast-0aa4355de8d8",
@@ -423,7 +423,7 @@
       "entities": [
         "No Priors"
       ],
-      "createdAt": "2026-08-14T18:01:36.059Z"
+      "createdAt": "2026-08-14T19:52:04.252Z"
     }
   ]
 }
