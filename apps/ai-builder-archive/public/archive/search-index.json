@@ -1,7 +1,280 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T19:29:02.407Z",
+  "generatedAt": "2026-08-16T13:39:07.804Z",
   "snippets": [
+    {
+      "id": "2026-08-15-x-b4f19bd593b4",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other.",
+      "summary": "Swyx (swyx on X) shared 1 recent update. in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see.",
+      "url": "https://x.com/swyx/status/2088755688361378082",
+      "publishedAt": "2026-08-15T22:32:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-9823b1a0e10e",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on enterprise and models",
+      "takeaway": "Incredible things are happening at OpenAI right now. Energy is high. If you have a company and still use Opus instead of Sol, why so? Does price not matter to you?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Incredible things are happening at OpenAI right now. Energy is high. If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch? On tokens and prices per token. I said I’d write more about this, so here goes: an OpenAI token != another model’s token.",
+      "url": "https://x.com/thsottiaux/status/2088725514542575903",
+      "publishedAt": "2026-08-15T20:32:23.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-995902fb1a2f",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should have access to and it doesn't seem to work?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I am a fan of Grok Bot but @X is the #1 differentiated data source that it should have access to and it doesn't seem to work? The connector doesn't work and I can't even login to X on the cloud computer. Am I doing something wrong? Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.",
+      "url": "https://x.com/petergyang/status/2088773343629750535",
+      "publishedAt": "2026-08-15T23:42:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-f5c8370a6a63",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents",
+      "takeaway": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. These two were ahead of their time Watches",
+      "url": "https://x.com/thenanyu/status/2088810666958196988",
+      "publishedAt": "2026-08-16T02:10:45.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-4a04bb63f8dc",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product",
+      "takeaway": "There is no longer an excuse for B2B software to have such poor UX. Thanks to AI, every software product can and should be as easy to use as the best consumer software.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. There is no longer an excuse for B2B software to have such poor UX. Thanks to AI, every software product can and should be as easy to use as the best consumer software.",
+      "url": "https://x.com/realmadhuguru/status/2088710566689018103",
+      "publishedAt": "2026-08-15T19:33:00.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-88675399a959",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work. I made this artifact with Claude to help me understand how it works, sharing in case it's...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work. I made this artifact with Claude to help me understand how it works, sharing in case it's helpful.",
+      "url": "https://x.com/trq212/status/2088721023223132213",
+      "publishedAt": "2026-08-15T20:14:33.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-823f7b0472eb",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on costs and product",
+      "takeaway": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. Improvement in algorithms and continued hardware efficiency gains means there is no reason to assume AGI-level capabilities will always require a data center to run. Scaling laws are not laws of physics.",
+      "url": "https://x.com/amasad/status/2088867492907327573",
+      "publishedAt": "2026-08-16T05:56:34.000Z",
+      "tags": [
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-2a30fbcf4113",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding",
+      "takeaway": "I think people don’t realize how much of the success of React is actually @shadcn. I once referred to React as the actual “LEGO brick for adults.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I think people don’t realize how much of the success of React is actually @shadcn. I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec. Shadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library.",
+      "url": "https://x.com/rauchg/status/2088757738037989755",
+      "publishedAt": "2026-08-15T22:40:26.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-349a1176841a",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and product",
+      "takeaway": "Anyone else's Codex Desktop app erroring out on chats? Whitepill timeline cleanser: Progress and abundance looks like record production of crops, year on year, progressing upwards...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Anyone else's Codex Desktop app erroring out on chats? Whitepill timeline cleanser: Progress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia.",
+      "url": "https://x.com/garrytan/status/2088642982614651196",
+      "publishedAt": "2026-08-15T15:04:26.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Codex"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-ef843d469873",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards).. They’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy.",
+      "url": "https://x.com/nikunj/status/2088716743615352963",
+      "publishedAt": "2026-08-15T19:57:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-beafa7413ab5",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "Dario should tweet more",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. Dario should tweet more",
+      "url": "https://x.com/danshipper/status/2088780884048552202",
+      "publishedAt": "2026-08-16T00:12:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-x-4e53000446b3",
+      "date": "2026-08-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "America turned 250 years old earlier this year. India turns 80 today...80 years young. Building countries is really hard. 80 years in...America was struggling with a civil war.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. America turned 250 years old earlier this year. India turns 80 today...80 years young. Building countries is really hard. 80 years in...America was struggling with a civil war. Indians should be damn proud of the country they have built. Like America, India wants more. She wants to be better and stronger and more successful. She will get there. This is remarkably well done.",
+      "url": "https://x.com/adityaag/status/2088734739893293175",
+      "publishedAt": "2026-08-15T21:09:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
+    {
+      "id": "2026-08-15-podcast-321d567e6570",
+      "date": "2026-08-15",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "takeaway": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod). But, you know, I'm on the board of a company called Agentio, which is a marketplace for create like YouTube...",
+      "summary": "But, you know, I'm on the board of a company called Agentio, which is a marketplace for create like YouTube creators and and brands. And you can see that, like, they this has been a market that has eluded startups for a long time because most of them have like kind of fallen into the quicksand of becoming an agency. But still, it was always like you speak to Noam, and for him, the product was the model.",
+      "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU",
+      "publishedAt": "2026-08-05T16:02:13.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-08-16T13:39:07.804Z"
+    },
     {
       "id": "2026-08-14-x-9e4d5646a5dd",
       "date": "2026-08-14",
