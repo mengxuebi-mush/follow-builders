@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-17T13:48:43.043Z",
+  "feedGeneratedAt": "2026-08-17T06:28:37.062Z",
+  "snippets": [
+    {
+      "id": "2026-08-16-x-bdb60e6e4e4c",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "5 years later and most of the best players here have been bought",
+      "summary": "Swyx (swyx on X) shared 1 recent update. 5 years later and most of the best players here have been bought",
+      "url": "https://x.com/swyx/status/2089221797254459822",
+      "publishedAt": "2026-08-17T05:24:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-8570a974880a",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. Even though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented. A larger context window lets Codex retain more code, tool output, and conversation history before summarizing older material. You need a model that supports it. And GPT-5.",
+      "url": "https://x.com/thsottiaux/status/2089082893804896524",
+      "publishedAt": "2026-08-16T20:12:29.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-c1834ddabd73",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and costs",
+      "takeaway": "I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? How do I set up this thing to work across all apps not just codex?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? How do I set up this thing to work across all apps not just codex? Damn nevermind",
+      "url": "https://x.com/petergyang/status/2089205978877268334",
+      "publishedAt": "2026-08-17T04:21:35.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-1f3a83c2b454",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Moving house, and I’m finally ready to let these old friends go History rhymes",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Moving house, and I’m finally ready to let these old friends go History rhymes",
+      "url": "https://x.com/thenanyu/status/2089146409152872764",
+      "publishedAt": "2026-08-17T00:24:53.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-24f418a33e99",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "the more you earn, the more you crave the things money can’t buy.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. the more you earn, the more you crave the things money can’t buy.",
+      "url": "https://x.com/realmadhuguru/status/2089022997407686663",
+      "publishedAt": "2026-08-16T16:14:29.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-1c1a71c60d99",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early",
+      "url": "https://x.com/trq212/status/2089085004966207679",
+      "publishedAt": "2026-08-16T20:20:53.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-a00c87fc9fab",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "18x improvement in intelligence per joule in 16 months.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. 18x improvement in intelligence per joule in 16 months.",
+      "url": "https://x.com/amasad/status/2089069905375351169",
+      "publishedAt": "2026-08-16T19:20:53.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-54ea0d891a8b",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and costs",
+      "takeaway": "We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier. Given its lower costs, I expect this to be a boon for defensive security work. e.g.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier. Given its lower costs, I expect this to be a boon for defensive security work. e.g., it means you can run at least 3× more often!",
+      "url": "https://x.com/rauchg/status/2089179650891432270",
+      "publishedAt": "2026-08-17T02:36:58.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-9449d5699e59",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types.",
+      "url": "https://x.com/levie/status/2088995821056659901",
+      "publishedAt": "2026-08-16T14:26:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-701f3c608cff",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "There's nothing more conservative than a liberal with a house. Everyone go follow this guy on instagram, he's amazing",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. There's nothing more conservative than a liberal with a house. Everyone go follow this guy on instagram, he's amazing",
+      "url": "https://x.com/garrytan/status/2089012811007688746",
+      "publishedAt": "2026-08-16T15:34:00.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-6bbcef09b8eb",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on research",
+      "takeaway": "What are your favorite technical papers that you have read end to end this year? And separately what are the most riveting reads (scifi ideally) that I should read this year?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. What are your favorite technical papers that you have read end to end this year? And separately what are the most riveting reads (scifi ideally) that I should read this year? I try to parallelize both to keep things interesting 😅",
+      "url": "https://x.com/nikunj/status/2089212708621291766",
+      "publishedAt": "2026-08-17T04:48:20.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-2717387315ee",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box. Time for Chrome Lite?",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box. Time for Chrome Lite?",
+      "url": "https://x.com/steipete/status/2089154019885490449",
+      "publishedAt": "2026-08-17T00:55:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Box"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-x-79c216881ec0",
+      "date": "2026-08-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and enterprise",
+      "takeaway": "used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis we live in incredible times where detailed understanding of each of your...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis we live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort i am also skeptical of the centralization of power hypothesis it comes from Lewis Mumford in 1964 who argued: \"from late Neolithic times in the Near East, right...",
+      "url": "https://x.com/danshipper/status/2089121597017759800",
+      "publishedAt": "2026-08-16T22:46:17.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    },
+    {
+      "id": "2026-08-16-podcast-47615d206018",
+      "date": "2026-08-16",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We unpack what might be the biggest AI story of the summer, how an open AI powered agent Hugging Face during cyber testing, and why an open source model helped the team fight back. On the first point, on the sort of enterprise adoption of open source AI, there was a moment in time when people associated open source to free. And it's not because the model is dumb, I think it's because probably, I mean, part of it is because of the training process and how they are trained to be efficient, how they use their token.",
+      "url": "https://www.youtube.com/watch?v=FU9A481E2W8",
+      "publishedAt": "2026-08-07T18:38:32.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-08-17T13:48:43.043Z"
+    }
+  ]
+}
