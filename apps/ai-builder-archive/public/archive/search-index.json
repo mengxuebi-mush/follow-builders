@@ -1,7 +1,330 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T19:35:38.396Z",
+  "generatedAt": "2026-08-18T13:51:51.457Z",
   "snippets": [
+    {
+      "id": "2026-08-17-x-683cdeddd869",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding",
+      "takeaway": "Trajectory have generally impressed me with their tasteful execution on ambitious goals. on our Continual Learning track, @rronak_ gave a very thoughtful overview on how they're...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. Trajectory have generally impressed me with their tasteful execution on ambitious goals. on our Continual Learning track, @rronak_ gave a very thoughtful overview on how they're tackling the main data problems left in CL, including why GRPO isn't enough and they had to go on-policy.... and then subsequently fix all the issues that come up with it nice overview from one of the early leaders in this field!",
+      "url": "https://x.com/swyx/status/2089393073327653344",
+      "publishedAt": "2026-08-17T16:45:02.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-e44cd66c6fa5",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and tools",
+      "takeaway": "Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better?",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better? #1: Testing revamped Workspace tools in 1-2 weeks #2: 3.7 Flash showed improvements in tool calling, more coming here #3: New “Projects” design done, implementing now #4: 49 connectors (and counting) supported now #5: Backend work done, frontend work started #6: Done #7: Done, ramping...",
+      "url": "https://x.com/joshwoodward/status/2089520767281324112",
+      "publishedAt": "2026-08-18T01:12:26.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-a2c400329576",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on ai",
+      "takeaway": "Let us know what you think! Small quality of life improvements like this add up. More on the way",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. Let us know what you think! Small quality of life improvements like this add up. More on the way",
+      "url": "https://x.com/bcherny/status/2089537919795212565",
+      "publishedAt": "2026-08-18T02:20:36.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-45f26e5f3e13",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "What is an obvious thing that we should do with Codex, API or our models that we should just do but haven't yet? What is 100% within reach, but we just seem to be missing?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. What is an obvious thing that we should do with Codex, API or our models that we should just do but haven't yet? What is 100% within reach, but we just seem to be missing? Gimme, gimme, gimme Codex after midnight Won’t somebody make these failing tests all go away? Gimme, gimme, gimme Codex after midnight Ship it through the darkness by the start of the day",
+      "url": "https://x.com/thsottiaux/status/2089500941842342287",
+      "publishedAt": "2026-08-17T23:53:40.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-0d42e764df4a",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and product",
+      "takeaway": "Most inspirational video you’ll watch today What AI skills or tools are people using to edit YouTube talking head intros?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Most inspirational video you’ll watch today What AI skills or tools are people using to edit YouTube talking head intros? Stuff like zoom ins and animating in captions, logos, and b-roll. I've been testing @HyperFrames_ for this but curious if there are alternatives. I want to do the full edit just by talking to Codex or another harness.",
+      "url": "https://x.com/petergyang/status/2089526739815092580",
+      "publishedAt": "2026-08-18T01:36:10.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-71c568090e7d",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Many such cases",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Many such cases",
+      "url": "https://x.com/thenanyu/status/2089555421593768061",
+      "publishedAt": "2026-08-18T03:30:09.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-6305258691a7",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and product",
+      "takeaway": "The best way to get good at evals is to take a workflow you know really well and figure out how to make its quality measurable.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. The best way to get good at evals is to take a workflow you know really well and figure out how to make its quality measurable. Study the actual traces - the sequence of prompts typical users have, what good responses would look like at each step and for the end to end outcome. Study where your product fails and create traces that capture them - messy tool call responses, missing context etc.",
+      "url": "https://x.com/realmadhuguru/status/2089480958571331623",
+      "publishedAt": "2026-08-17T22:34:15.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-51cc8f388b41",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "go into CC and type /design &lt;something you want to design&gt; do it rn all of the recent proc gen art, video editing and 3d game demos recently have made me update towards LLM...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. go into CC and type /design &lt;something you want to design&gt; do it rn all of the recent proc gen art, video editing and 3d game demos recently have made me update towards LLM coding models being better at a lot of creative work than diffusion models the nice things about code is that it is easier to edit and nudge in the directions you want and export to work with existing tools",
+      "url": "https://x.com/trq212/status/2089529798850969805",
+      "publishedAt": "2026-08-18T01:48:20.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-485dd5cd9834",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding",
+      "takeaway": "It’s not enough to scan your code for vulnerabilities; it’s important to try to break them with pen testing.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. It’s not enough to scan your code for vulnerabilities; it’s important to try to break them with pen testing. This team doesn’t have “AI” anywhere in their pitch but has AI growth rates and would have 10x the headcount if they weren’t so AI-pilled. Labour to keep alive in your Breast that Little Spark of Celestial fire Called Conscience",
+      "url": "https://x.com/amasad/status/2089435606338416884",
+      "publishedAt": "2026-08-17T19:34:03.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-453d886a2f6c",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding",
+      "takeaway": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁 Wow",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁 Wow",
+      "url": "https://x.com/rauchg/status/2089409162270965858",
+      "publishedAt": "2026-08-17T17:48:58.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Cursor",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-04bb9cf56185",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "When you hear that data is the new oil, this is ultimately what that looks like. AI has such a thirst for data that we’re entering an era where it’s valuable almost in any form.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. When you hear that data is the new oil, this is ultimately what that looks like. AI has such a thirst for data that we’re entering an era where it’s valuable almost in any form. In a world of AI, information actually belongs as an asset on the balance sheet. This data sale is just one example of the implications of what that will look like.",
+      "url": "https://x.com/levie/status/2089499887905997272",
+      "publishedAt": "2026-08-17T23:49:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-919c66855360",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "What do you get? A private github repo with 70 of my proven skills and the beginnings of your Karpathy-style knowledge wiki. Read the full docs in the README.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. What do you get? A private github repo with 70 of my proven skills and the beginnings of your Karpathy-style knowledge wiki. Read the full docs in the README. All of this is MIT-licensed open source and free. It's free to try and works with your existing Claude Code or Codex subscription right now.",
+      "url": "https://x.com/garrytan/status/2089425134339961173",
+      "publishedAt": "2026-08-17T18:52:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-e4f4bc1ce159",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "the models have no moat (OpenAI, Anthropic, XAI) the IDEs have no moat (Cursor, Windsurf) the harnesses have no moat (Cognition, Factory, LangChain) the app builders have no moat...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. the models have no moat (OpenAI, Anthropic, XAI) the IDEs have no moat (Cursor, Windsurf) the harnesses have no moat (Cognition, Factory, LangChain) the app builders have no moat (Replit, Lovable, Bolt) the wrappers have no moat (Harvey, Abridge, OpenEvidence) the inference providers have no moat (Together, Fireworks, Groq) the voice layer has no moat (Sierra, Decagon, ElevenLabs) the data labeling companies have no...",
+      "url": "https://x.com/nikunj/status/2089486802356961364",
+      "publishedAt": "2026-08-17T22:57:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Replit"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-x-01243bd8ada4",
+      "date": "2026-08-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "I have had extremely similar experiences Voice mode even better The question CFOs around the country are asking everyone in their organization Lfgggg!!!",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. I have had extremely similar experiences Voice mode even better The question CFOs around the country are asking everyone in their organization Lfgggg!!!",
+      "url": "https://x.com/danshipper/status/2089525989223157976",
+      "publishedAt": "2026-08-18T01:33:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
+    {
+      "id": "2026-08-17-podcast-8781a78392c8",
+      "date": "2026-08-17",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
+      "takeaway": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad. I mean, many people are still at like, hey, everybody try AI or whatever, you know, big enterprises.",
+      "summary": "I mean, many people are still at like, hey, everybody try AI or whatever, you know, big enterprises. I think there's this broader concept of return on invested tokens, like an ROI kind of metric, which is if you have a certain token budget, who do you give it to and why? And then I think the next wave is what are the projects and people that should actually get outsized pieces of a token budget, and what is that return on investment?",
+      "url": "https://www.youtube.com/watch?v=6l8oAO_LBx4",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-08-18T13:51:51.457Z"
+    },
     {
       "id": "2026-08-16-x-bdb60e6e4e4c",
       "date": "2026-08-16",
