@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-19T13:52:28.455Z",
+  "feedGeneratedAt": "2026-08-19T07:05:10.221Z",
+  "snippets": [
+    {
+      "id": "2026-08-18-x-95300c2be67b",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "we've been doing a lot of a/b testing of @aiDotEngineer youtube thumbnails. i always hated that it is such an opaque process. open sourcing/crowdsourcing our learnings today!",
+      "summary": "Swyx (swyx on X) shared 1 recent update. we've been doing a lot of a/b testing of @aiDotEngineer youtube thumbnails. i always hated that it is such an opaque process. open sourcing/crowdsourcing our learnings today! doing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think",
+      "url": "https://x.com/swyx/status/2089798658225266806",
+      "publishedAt": "2026-08-18T19:36:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-ebd23cfda891",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on tools",
+      "takeaway": "The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more!",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more!",
+      "url": "https://x.com/bcherny/status/2089924199804711410",
+      "publishedAt": "2026-08-19T03:55:32.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-deef6201164b",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "I was gifted a very fancy new reset button today Hi! Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. I was gifted a very fancy new reset button today Hi! Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. A few weeks ago, we started investigating a small number of reports where GPT-5.6 in Codex took destructive actions outside what the user asked for.",
+      "url": "https://x.com/thsottiaux/status/2089941380336644295",
+      "publishedAt": "2026-08-19T05:03:48.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-06b7c8502835",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. Have been leaving it downstairs for 3 days now and it has noticeably improved my sleep. It's the hardest thing to stay disciplined about. Always an excuse just waiting (\"let me see what my agents are up to in bed!)\" 3.",
+      "url": "https://x.com/petergyang/status/2089931839016468575",
+      "publishedAt": "2026-08-19T04:25:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-65454ca6a127",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "I wish it was a better watch More examples",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. I wish it was a better watch More examples",
+      "url": "https://x.com/thenanyu/status/2089692801537560610",
+      "publishedAt": "2026-08-18T12:36:03.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-a50d7b4efdf1",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and costs",
+      "takeaway": "Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve. Start with the highest quality way you can know if your AI product is working as intended. First get clear on what good looks like - Write the rubric. Then figure out the best way to measure it - humans / LLM judge / automated verification.",
+      "url": "https://x.com/realmadhuguru/status/2089918106814603728",
+      "publishedAt": "2026-08-19T03:31:20.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-363379e76b45",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and enterprise",
+      "takeaway": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+      "url": "https://x.com/trq212/status/2089844723691479333",
+      "publishedAt": "2026-08-18T22:39:44.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-f6f7f751abba",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on agents and product",
+      "takeaway": "Do you C what I C? ⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand!",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Do you C what I C? ⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏 ⦿ We're also expanding availability in the US and Canada. If you've been on the waitlist, we're rolling out invitations to get access starting today. ⦿ We've upgraded CC to help manage your calendar.",
+      "url": "https://x.com/GoogleLabs/status/2089812430885208361",
+      "publishedAt": "2026-08-18T20:31:25.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-d43d1efe0d9a",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon We are putting $1M...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.",
+      "url": "https://x.com/rauchg/status/2089804717337817514",
+      "publishedAt": "2026-08-18T20:00:45.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-8e36e5350b36",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Model capability is obviously doing a lot of heavy lifting in agentic products, but there’s still a lot more work to diffuse AI into the enterprise. 1.",
+      "url": "https://x.com/levie/status/2089921630650925170",
+      "publishedAt": "2026-08-19T03:45:20.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-5e7ee7e0337b",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "first step moving to asia: help me empty my apartment! if you can pick up in SF, place an order and we meet next week :) made with @bot and @NotionHQ",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. first step moving to asia: help me empty my apartment! if you can pick up in SF, place an order and we meet next week :) made with @bot and @NotionHQ",
+      "url": "https://x.com/ryolu_/status/2089894938934911053",
+      "publishedAt": "2026-08-19T01:59:16.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-dbcdfe619267",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "If you want SF rent to be $10K/mo for a 1BR (you're a NIMBY landlord and you hate newcomers and young people) only then would you vote for Connie Chan The Dem machine smokescreen...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. If you want SF rent to be $10K/mo for a 1BR (you're a NIMBY landlord and you hate newcomers and young people) only then would you vote for Connie Chan The Dem machine smokescreen to try to force Chan into Congress is shameless and must be repudiated Many such cases",
+      "url": "https://x.com/garrytan/status/2089869693201092848",
+      "publishedAt": "2026-08-19T00:18:57.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-a3fc0195aefb",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and models",
+      "takeaway": "I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan",
+      "url": "https://x.com/zarazhangrui/status/2089940315268645373",
+      "publishedAt": "2026-08-19T04:59:35.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-b668efe4e871",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Life honestly gets a lot simpler if you treat it as if nobody owes you a damn thing. Too many people playing finite games when there’s many infinite games to play.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Life honestly gets a lot simpler if you treat it as if nobody owes you a damn thing. Too many people playing finite games when there’s many infinite games to play. Do good by people and life (and karma) takes care of itself.",
+      "url": "https://x.com/nikunj/status/2089870745174446217",
+      "publishedAt": "2026-08-19T00:23:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-51a350688293",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "512GB RAM Studios. Apple was good to us. 🦞 The irony. pssst, you wake the cli people that will give you $reasons why this can’t work. I was one of them before I saw the light.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. 512GB RAM Studios. Apple was good to us. 🦞 The irony. pssst, you wake the cli people that will give you $reasons why this can’t work. I was one of them before I saw the light.",
+      "url": "https://x.com/steipete/status/2089877190422974974",
+      "publishedAt": "2026-08-19T00:48:44.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-8d9fc0bcac47",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "I can reliably tell im hitting a deeper point in a meditation because my nose clears completely This checks out we asked @ajambrosino to send us his thesis for the future of work...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. I can reliably tell im hitting a deeper point in a meditation because my nose clears completely This checks out we asked @ajambrosino to send us his thesis for the future of work after automation he replied with only one word: \"tibo\"",
+      "url": "https://x.com/danshipper/status/2089877888396906801",
+      "publishedAt": "2026-08-19T00:51:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-17878d0ab502",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise",
+      "takeaway": "I was talking to someone about @travisk today And I was reflecting that there was no one else on this earth who could have had the resilience to make sure that I can go from Point...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. I was talking to someone about @travisk today And I was reflecting that there was no one else on this earth who could have had the resilience to make sure that I can go from Point A to Point B in almost every global city No one else in Silicon Valley had the guts. He did. TY.",
+      "url": "https://x.com/adityaag/status/2089845563097563604",
+      "publishedAt": "2026-08-18T22:43:04.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-a89287ac5ce8",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment. We care very deeply about AI safety.",
+      "url": "https://x.com/sama/status/2089787807611195475",
+      "publishedAt": "2026-08-18T18:53:34.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-x-2a7697ec0027",
+      "date": "2026-08-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from the connectors menu to try. Available on all paid plans. Claude Cowork is now available on mobile and web for all paid plans.",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "publishedAt": "2026-08-18T20:06:01.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-blog-97cd97d27d22",
+      "date": "2026-08-18",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-blog-6cd28c156a1c",
+      "date": "2026-08-18",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    },
+    {
+      "id": "2026-08-18-podcast-e98f54685988",
+      "date": "2026-08-18",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "takeaway": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again. It doesn't doesn't come from agent's experience.",
+      "summary": "It doesn't doesn't come from agent's experience. Because it was before the current kind of scaling paradigm around large language models had taken off, but it was after deep learning had really proven itself.",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Meta"
+      ],
+      "createdAt": "2026-08-19T13:52:28.455Z"
+    }
+  ]
+}
