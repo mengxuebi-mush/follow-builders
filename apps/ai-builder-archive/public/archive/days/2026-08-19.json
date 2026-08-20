@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-20T13:54:16.630Z",
+  "feedGeneratedAt": "2026-08-20T07:06:19.935Z",
+  "snippets": [
+    {
+      "id": "2026-08-19-x-0401fcf38321",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can u imagine covering ai with zero context, zero reasoning, zero internal world model.",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need, what a time to be alive positive UBB take if you view openrouter in that lens",
+      "url": "https://x.com/swyx/status/2090314794456785263",
+      "publishedAt": "2026-08-20T05:47:37.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-8da30614b250",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on enterprise and product",
+      "takeaway": "University student plans are back! We've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. University student plans are back! We've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️",
+      "url": "https://x.com/joshwoodward/status/2090166806401228912",
+      "publishedAt": "2026-08-19T19:59:34.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-1be6b021e72b",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "It has not been used yet, but would you look at that. Codex for scale. Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. It has not been used yet, but would you look at that. Codex for scale. Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data. For ZDR deployments, content stays on infrastructure the customer controls.",
+      "url": "https://x.com/thsottiaux/status/2090116476414136830",
+      "publishedAt": "2026-08-19T16:39:35.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-9a3d40152b8b",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "I wrote about my mom, her battles with breast cancer, and how we’re using AI to navigate the healthcare system.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I wrote about my mom, her battles with breast cancer, and how we’re using AI to navigate the healthcare system. I'm grateful to @MaorShlomo and the team at the Sijbrandij Foundation for sharing their time and advice. 📌 Read my new essay here: mRNA vaccines to treat cancer seems extremely promising although ChatGPT tells me there are no active mRNA trials for breast cancer. How does this process work?",
+      "url": "https://x.com/petergyang/status/2090087911471644829",
+      "publishedAt": "2026-08-19T14:46:04.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-d93243c37c49",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product and research",
+      "takeaway": "The best way to get good at evals - Part 3. Let’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. The best way to get good at evals - Part 3. Let’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals. Start with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters. Get specific - “bad answer” isn’t a useful cluster name.",
+      "url": "https://x.com/realmadhuguru/status/2090242427944833047",
+      "publishedAt": "2026-08-20T01:00:04.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-6d783e0d7f4c",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on ai",
+      "takeaway": "We'd love to talk with Cowork users in Corporate Finance and Accounting roles! Have ideas on how we can improve? Sign up for a screen share with our team here:",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. We'd love to talk with Cowork users in Corporate Finance and Accounting roles! Have ideas on how we can improve? Sign up for a screen share with our team here:",
+      "url": "https://x.com/_catwu/status/2090249465844380154",
+      "publishedAt": "2026-08-20T01:28:02.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-4ed2b0d36078",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on costs and product",
+      "takeaway": "for its entire existence, the creation of software has been an incredibly unreliable endeavor most projects ran late, over budget, and still missed user needs if you were an SMB,...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. for its entire existence, the creation of software has been an incredibly unreliable endeavor most projects ran late, over budget, and still missed user needs if you were an SMB, you simply couldn't get good software built for you this is the promise of the 'software factory' I saw this demo last summer and told Sam he needed to ship it, so glad it’s out. It’s really fun.",
+      "url": "https://x.com/trq212/status/2090134945490678071",
+      "publishedAt": "2026-08-19T17:52:58.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-616b282fc664",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents",
+      "takeaway": "Agents made software cheaper but made coding expensive. Today, together with @OpenAI, we’re changing this: Excited for our partnership with OpenAI",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Agents made software cheaper but made coding expensive. Today, together with @OpenAI, we’re changing this: Excited for our partnership with OpenAI",
+      "url": "https://x.com/amasad/status/2090079496124674377",
+      "publishedAt": "2026-08-19T14:12:38.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-73d199491136",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents",
+      "takeaway": "SF has breathtaking views is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. SF has breathtaking views is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² AI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot. Fast is a one-way street. ¹ that's microseconds ² fun fact: the wasm build is actually *smaller*.",
+      "url": "https://x.com/rauchg/status/2090119796784570872",
+      "publishedAt": "2026-08-19T16:52:46.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-60bc0c5aeb8a",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Good details on the Stripe + OpenRouter deal here. For AI to diffuse more broadly, developers and enterprises will want ways of being able to mix and match intelligence from a...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Good details on the Stripe + OpenRouter deal here. For AI to diffuse more broadly, developers and enterprises will want ways of being able to mix and match intelligence from a variety of provers seamlessly and better manage costs. This will be an important part of that. There tends to be a debate between being an expert or generalist in the era of AI.",
+      "url": "https://x.com/levie/status/2090137914785280189",
+      "publishedAt": "2026-08-19T18:04:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-28efd5e8ce0a",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "AI labs: give us billions, we’ll cure cancer Moderna:",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. AI labs: give us billions, we’ll cure cancer Moderna:",
+      "url": "https://x.com/mattturck/status/2090070949567574151",
+      "publishedAt": "2026-08-19T13:38:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-3db82de815c3",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise",
+      "takeaway": "People keep talking about AGI and yet 98/100 cold emails I get are pure garbage. Still a lot of alpha out there for being thoughtful, curious and using AI judiciously where needed!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. People keep talking about AGI and yet 98/100 cold emails I get are pure garbage. Still a lot of alpha out there for being thoughtful, curious and using AI judiciously where needed! latest home project: rotating iconic patent drawings 📜 display: 13.3” spectra 6 e-ink controller: esp32-s3 server: @railway battery powered (should last ~three months)",
+      "url": "https://x.com/nikunj/status/2090105846810476644",
+      "publishedAt": "2026-08-19T15:57:20.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-68c9c2c117bc",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Can’t wait to show you all what we been cookin’!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Can’t wait to show you all what we been cookin’!",
+      "url": "https://x.com/steipete/status/2090162595257102731",
+      "publishedAt": "2026-08-19T19:42:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-8cce8c9fcfaa",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and tools",
+      "takeaway": "we now have a frontier team! a group of people inside of every explicitly dedicated to mapping and experimenting at the edge of ai",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. we now have a frontier team! a group of people inside of every explicitly dedicated to mapping and experimenting at the edge of ai",
+      "url": "https://x.com/danshipper/status/2090122240025071907",
+      "publishedAt": "2026-08-19T17:02:29.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-452f4c519f0f",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and product",
+      "takeaway": "I was recently talking to a founder who had gone through a slog through hell. SaaS. Series B. Low growth. Stagnating company I asked him his biggest takeaway.....",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. I was recently talking to a founder who had gone through a slog through hell. SaaS. Series B. Low growth. Stagnating company I asked him his biggest takeaway.....it wasn't to pick a bigger market. Or more growth It was simply: Work on something consequential and meaningful. Some have asked what this means. It’s simple: Work on things that truly matter. Not just good product or business ideas. Things that matter.",
+      "url": "https://x.com/adityaag/status/2090174782633566473",
+      "publishedAt": "2026-08-19T20:31:16.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-x-63b292d99f16",
+      "date": "2026-08-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "we support business privacy!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. we support business privacy!",
+      "url": "https://x.com/sama/status/2090163991234453611",
+      "publishedAt": "2026-08-19T19:48:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    },
+    {
+      "id": "2026-08-19-podcast-357c04af2d05",
+      "date": "2026-08-19",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
+      "takeaway": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod). It's the agentic CRM that runs the work behind every win.",
+      "summary": "It's the agentic CRM that runs the work behind every win. Well, so I think two things really, actually three things have landed sort of fortunately for us, you know, all startups involve all successful startups involve an element of very good luck. And what we saw, and this was really right before you and I got to know each other, you know, we saw that the sort of trend lines around the speed of generation, the quality of generation, this is the kind of GPT three to four class model kind of cusp.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-19T15:16:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-08-20T13:54:16.630Z"
+    }
+  ]
+}
