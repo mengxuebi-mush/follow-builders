@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-20",
-  "generatedAt": "2026-08-21T15:43:45.981Z",
+  "generatedAt": "2026-08-21T17:39:30.435Z",
   "feedGeneratedAt": "2026-08-21T07:07:46.815Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-a085d4ddad98",
@@ -45,7 +45,7 @@
         "Boris Cherny",
         "Anthropic"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-3b7e9043a143",
@@ -67,7 +67,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-a8c4d742f858",
@@ -92,7 +92,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-7b84fd7648be",
@@ -115,7 +115,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-35934819d887",
@@ -137,7 +137,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-8be94d951c82",
@@ -158,7 +158,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-93112f5574b1",
@@ -179,7 +179,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-fdcae05ec59e",
@@ -203,7 +203,7 @@
         "Aaron Levie",
         "Box"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-d070d1f5f300",
@@ -223,7 +223,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-b4752acf1733",
@@ -243,7 +243,7 @@
         "Zara Zhang",
         "Claude"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-fbb4cfec663c",
@@ -269,7 +269,7 @@
         "Anthropic",
         "Cursor"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-c68497e78a1a",
@@ -290,7 +290,7 @@
         "Aditya Agarwal",
         "Google"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-x-47691fa4283f",
@@ -310,7 +310,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-blog-dea52d951227",
@@ -335,7 +335,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-blog-f90fa6cabc29",
@@ -360,7 +360,7 @@
         "Claude",
         "Meta"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-blog-2a8322b07185",
@@ -386,7 +386,7 @@
         "Claude",
         "Vercel"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     },
     {
       "id": "2026-08-20-podcast-f0bd294d22c7",
@@ -409,7 +409,7 @@
         "No Priors",
         "Anthropic"
       ],
-      "createdAt": "2026-08-21T15:43:45.981Z"
+      "createdAt": "2026-08-21T17:39:30.435Z"
     }
   ]
 }
