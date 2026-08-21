@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-21T13:53:39.454Z",
+  "feedGeneratedAt": "2026-08-21T07:07:46.815Z",
+  "snippets": [
+    {
+      "id": "2026-08-20-x-fdbf75771b3f",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and product",
+      "takeaway": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations…) /wayfinder is @mattpocockuk’s /grill-me for /grill-me, when you are just navigating the fog of war and don’t yet know what you dont yet know, and need to orchestrate research and other grill...",
+      "url": "https://x.com/swyx/status/2090550020496040266",
+      "publishedAt": "2026-08-20T21:22:20.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-a085d4ddad98",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on enterprise and models",
+      "takeaway": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
+      "url": "https://x.com/bcherny/status/2090537902912815536",
+      "publishedAt": "2026-08-20T20:34:11.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-3b7e9043a143",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent. What we did see is that when talking to affected users many were using sub2api.",
+      "url": "https://x.com/thsottiaux/status/2090675027670978569",
+      "publishedAt": "2026-08-21T05:39:04.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-a8c4d742f858",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like: \"Are you sure this is the best you...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like: \"Are you sure this is the best you can do?\" \"I think you can do better, try again\" \"Take a closer look, give me 11/10 output\" I'm on my way back to Vancouver to be with my mom but wanted to take a moment to celebrate crossing 100K subs on YouTube.",
+      "url": "https://x.com/petergyang/status/2090564541499498919",
+      "publishedAt": "2026-08-20T22:20:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-7b84fd7648be",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "How to build great evals - part 4 The reason enterprises struggle with building decent AI systems is the lack of an eval strategy.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. How to build great evals - part 4 The reason enterprises struggle with building decent AI systems is the lack of an eval strategy. You need a laddered eval strategy, for your unique use cases, with multiple evals on the cost/realism spectrum.",
+      "url": "https://x.com/realmadhuguru/status/2090595384905113939",
+      "publishedAt": "2026-08-21T00:22:35.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-35934819d887",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on enterprise and product",
+      "takeaway": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives & who has access to it we've been developing...",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives & who has access to it we've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall",
+      "url": "https://x.com/trq212/status/2090569474139439335",
+      "publishedAt": "2026-08-20T22:39:38.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-8be94d951c82",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "This partnership with @OpenAI is long overdue. Before Replit was in YC, PG asked Sam to recruit us. Here’s Sam telling the story of how we first met: You can really build a TON...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. This partnership with @OpenAI is long overdue. Before Replit was in YC, PG asked Sam to recruit us. Here’s Sam telling the story of how we first met: You can really build a TON with Free Mode on Replit! One of the more underrated aspects of the new Free Mode is how fast it is. Making coding interactive again!",
+      "url": "https://x.com/amasad/status/2090514571513708874",
+      "publishedAt": "2026-08-20T19:01:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-93112f5574b1",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and product",
+      "takeaway": "0.0.5 gets even smaller fits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed) shipping tomorrow with our most-asked feature!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. 0.0.5 gets even smaller fits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed) shipping tomorrow with our most-asked feature! Bun’s pursuit of simple, fast & open is the perfect match for Vercel and how we think about the world. Congrats @jarredsumner on shipping! We’re building AWS for agents",
+      "url": "https://x.com/rauchg/status/2090600467592266240",
+      "publishedAt": "2026-08-21T00:42:47.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-fdcae05ec59e",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Great post on what post training looks like for applied AI use-cases to bring down costs and improve accuracy on certain tasks.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Great post on what post training looks like for applied AI use-cases to bring down costs and improve accuracy on certain tasks. This will increasingly be an approach that companies that can get closer to the underlying workflow in an enterprise will take.",
+      "url": "https://x.com/levie/status/2090664811185205722",
+      "publishedAt": "2026-08-21T04:58:28.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-d070d1f5f300",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product and research",
+      "takeaway": "YC is the YC for consumer hardware Interesting violation of “you should dogfood your own product” YC is the YC for AI Researchers",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. YC is the YC for consumer hardware Interesting violation of “you should dogfood your own product” YC is the YC for AI Researchers",
+      "url": "https://x.com/garrytan/status/2090469087722041567",
+      "publishedAt": "2026-08-20T16:00:44.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-b4752acf1733",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "The other day I was feeling unmotivated and talked to Claude about it. Claude said something that completely changed how I see motivation: \"Motivation follows action more than it...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. The other day I was feeling unmotivated and talked to Claude about it. Claude said something that completely changed how I see motivation: \"Motivation follows action more than it precedes it\" Boom.",
+      "url": "https://x.com/zarazhangrui/status/2090399357145317837",
+      "publishedAt": "2026-08-20T11:23:39.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-fbb4cfec663c",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and enterprise",
+      "takeaway": "My last post on ambition struck a nerve. Got a bunch of DMs from founders asking the same thing: why does ambition matter so much to investors? Let me try to explain the math.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. My last post on ambition struck a nerve. Got a bunch of DMs from founders asking the same thing: why does ambition matter so much to investors? Let me try to explain the math. A couple of things have happened, right? Anthropic became the fastest company to go from zero to a trillion dollars in valuation, beating every revenue record you can think of. OpenAI did the same over a longer period. SpaceX went public at $1.",
+      "url": "https://x.com/nikunj/status/2090585553947517298",
+      "publishedAt": "2026-08-20T23:43:31.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI",
+        "Anthropic",
+        "Cursor"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-c68497e78a1a",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and tools",
+      "takeaway": "One of the attributes that we look for the most @spc is Clarity. The ability to be honest. To cut through the fog of war. To chart a path through murky waters.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. One of the attributes that we look for the most @spc is Clarity. The ability to be honest. To cut through the fog of war. To chart a path through murky waters. @RamaswmySridhar demonstrates this to the maximum degree. Minus One episode out now.",
+      "url": "https://x.com/adityaag/status/2090478527313252494",
+      "publishedAt": "2026-08-20T16:38:14.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Google"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-x-47691fa4283f",
+      "date": "2026-08-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "What are you building with Claude?",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. What are you building with Claude?",
+      "url": "https://x.com/claudeai/status/2090557651595722851",
+      "publishedAt": "2026-08-20T21:52:39.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-blog-dea52d951227",
+      "date": "2026-08-20",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-blog-f90fa6cabc29",
+      "date": "2026-08-20",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-blog-2a8322b07185",
+      "date": "2026-08-20",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "takeaway": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model...",
+      "summary": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels. Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls.",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "publishedAt": "May 19, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    },
+    {
+      "id": "2026-08-20-podcast-f0bd294d22c7",
+      "date": "2026-08-20",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
+      "takeaway": "From Restoring Sight to Reimagining the Brain, with Max Hodak. We also talk about alignable representations between AI models and the future of neuroscience.",
+      "summary": "We also talk about alignable representations between AI models and the future of neuroscience.",
+      "url": "https://www.youtube.com/watch?v=7HXqMepjvy8",
+      "publishedAt": "2026-08-20T10:00:00.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "No Priors",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-21T13:53:39.454Z"
+    }
+  ]
+}
