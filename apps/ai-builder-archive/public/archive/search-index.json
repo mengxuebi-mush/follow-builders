@@ -1,7 +1,359 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T19:32:13.501Z",
+  "generatedAt": "2026-08-22T13:39:22.329Z",
   "snippets": [
+    {
+      "id": "2026-08-21-x-d03431e59812",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. I am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models...",
+      "url": "https://x.com/swyx/status/2090948945753076141",
+      "publishedAt": "2026-08-21T23:47:31.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-96e67c56f91a",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may. The banked reset has landed, I repeat, the banked reset has landed. Have an amazing weekend. Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before.",
+      "url": "https://x.com/thsottiaux/status/2090947196107764189",
+      "publishedAt": "2026-08-21T23:40:34.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-af50486d19ef",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records?",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records? I can't recommend this to anyone until this is figured out. Thanks @clairevo for spotting this. Instinct is very well done. I'm particularly impressed by how smooth the onboarding experience is to connect iMessages, Google Workspace, and my MCPs.",
+      "url": "https://x.com/petergyang/status/2090936583814025417",
+      "publishedAt": "2026-08-21T22:58:23.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-87083430d73c",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and research",
+      "takeaway": "How to build great evals - part 5 Stop dumbing down the results from your beautiful, complex eval suite into one single score.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. How to build great evals - part 5 Stop dumbing down the results from your beautiful, complex eval suite into one single score. This often happens because some senior wants a simplified number to make decisions. Happened to us in the early days of Gemini. And I see it happening with a lot of teams. This is the tyranny of the average. AI systems do not have a simple dimension of quality.",
+      "url": "https://x.com/realmadhuguru/status/2090930137885774324",
+      "publishedAt": "2026-08-21T22:32:47.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-7b6ccac77091",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words\" debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin...",
+      "url": "https://x.com/trq212/status/2090884854590382515",
+      "publishedAt": "2026-08-21T19:32:50.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-7dfcdad5aa41",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "You can just make money from your phone! 🤯",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. You can just make money from your phone! 🤯",
+      "url": "https://x.com/amasad/status/2090846057408483668",
+      "publishedAt": "2026-08-21T16:58:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-bc1d580189aa",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and costs",
+      "takeaway": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against until it got to 100/100. It made us close quite a few gaps.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against until it got to 100/100. It made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time & tokens. now supports your @Grok & Codex subs Test it out on a sandbox. Instant to install: Our Python team is making rapid progress",
+      "url": "https://x.com/rauchg/status/2090858571613470919",
+      "publishedAt": "2026-08-21T17:48:24.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Codex"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-3339b62edf63",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on enterprise and models",
+      "takeaway": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domain. As intelligence becomes too cheap to meter, then the big opportunity is driving diffusion of AI into the economy.",
+      "url": "https://x.com/levie/status/2091038566260539574",
+      "publishedAt": "2026-08-22T05:43:38.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-15498e28fc09",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "This is a UC Berkeley CS professor 😳 Asian American erasure, example #107492 Hate to say it but the luxury belief industrial complex is alive and well",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. This is a UC Berkeley CS professor 😳 Asian American erasure, example #107492 Hate to say it but the luxury belief industrial complex is alive and well",
+      "url": "https://x.com/garrytan/status/2090801607894344047",
+      "publishedAt": "2026-08-21T14:02:03.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-6742914d5f12",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "VC each time a company they passed on at the seed does another huge round",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. VC each time a company they passed on at the seed does another huge round",
+      "url": "https://x.com/mattturck/status/2090870362007281984",
+      "publishedAt": "2026-08-21T18:35:15.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-69d561606105",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Show up every day Always be launching And don't be afraid of repeating yourself, over and over and over again",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Show up every day Always be launching And don't be afraid of repeating yourself, over and over and over again",
+      "url": "https://x.com/zarazhangrui/status/2090702627206214081",
+      "publishedAt": "2026-08-21T07:28:44.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-adcb1ca7d655",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "This is still SO underrated btw.. My daughter just started kindergarten. The daily meal is on a random website with weird unstructured data.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. This is still SO underrated btw.. My daughter just started kindergarten. The daily meal is on a random website with weird unstructured data. Asked Claude Code to find the API through network requests, which turned out to be luckily unauthenticated. It figured out the right format and give it to our existing Hermes bot.",
+      "url": "https://x.com/nikunj/status/2090884422178627624",
+      "publishedAt": "2026-08-21T19:31:07.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-d5902f99a788",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" dropping new skill brb",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" dropping new skill brb",
+      "url": "https://x.com/steipete/status/2090898421108605078",
+      "publishedAt": "2026-08-21T20:26:45.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-d3354617e8fc",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "gang gang",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. gang gang",
+      "url": "https://x.com/danshipper/status/2090860697504653480",
+      "publishedAt": "2026-08-21T17:56:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-66b572991cc1",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "The frontier model race is just getting started. Full episode with @RamaswmySridhar at @spc",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. The frontier model race is just getting started. Full episode with @RamaswmySridhar at @spc",
+      "url": "https://x.com/adityaag/status/2090814574400307585",
+      "publishedAt": "2026-08-21T14:53:34.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-x-0ea854a7a391",
+      "date": "2026-08-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix. Suggested patches open in Claude Code on the web, using the models your team already uses.",
+      "url": "https://x.com/claudeai/status/2090852316328902930",
+      "publishedAt": "2026-08-21T17:23:33.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
+    {
+      "id": "2026-08-21-podcast-0aa4355de8d8",
+      "date": "2026-08-21",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "takeaway": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest. And then of course, we're also using it in our development and product life cycle as we build...",
+      "summary": "And then of course, we're also using it in our development and product life cycle as we build specs, as we, you know, do more agentic development where, you know, as I like to say, like have an idea or see a problem, fix a problem. And you took a, I guess, somewhat unconventional startup path or founder CEO path to get here. We have more statistical models, machine learning models, and that really kind of track how people play chess.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-13T17:29:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors"
+      ],
+      "createdAt": "2026-08-22T13:39:22.329Z"
+    },
     {
       "id": "2026-08-20-x-fdbf75771b3f",
       "date": "2026-08-20",
