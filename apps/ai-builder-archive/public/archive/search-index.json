@@ -1,7 +1,220 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T19:30:21.084Z",
+  "generatedAt": "2026-08-23T13:40:14.419Z",
   "snippets": [
+    {
+      "id": "2026-08-22-x-cead3367c46b",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and costs",
+      "takeaway": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow.",
+      "url": "https://x.com/thsottiaux/status/2091407991736332689",
+      "publishedAt": "2026-08-23T06:11:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-18fa5da69e6e",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "If you care about your privacy: 1. Go to in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. If you care about your privacy: 1. Go to in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell AI to do it Just disconnected half the apps that should no longer have my Google info. I’m working on a new AI skill.",
+      "url": "https://x.com/petergyang/status/2091331251211059468",
+      "publishedAt": "2026-08-23T01:06:40.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-93dd62ee4b84",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and models",
+      "takeaway": "How to build great evals - part 6 Hill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. How to build great evals - part 6 Hill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it. This could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.",
+      "url": "https://x.com/realmadhuguru/status/2091278653435072523",
+      "publishedAt": "2026-08-22T21:37:39.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-9118497963b4",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "“Pretty soon” turned out to be 3 months. A week has 7 days That means 7 ships",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. “Pretty soon” turned out to be 3 months. A week has 7 days That means 7 ships",
+      "url": "https://x.com/amasad/status/2091217410615644349",
+      "publishedAt": "2026-08-22T17:34:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-526018866082",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on tools",
+      "takeaway": "San Francisco is a paradise on Earth AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. San Francisco is a paradise on Earth AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early. cc @windows",
+      "url": "https://x.com/rauchg/status/2091263423359389951",
+      "publishedAt": "2026-08-22T20:37:08.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-ce2291e9f0a1",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models. The far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company.",
+      "url": "https://x.com/levie/status/2091359223368315050",
+      "publishedAt": "2026-08-23T02:57:49.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-7891cc6127f9",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Everyone who’s ahead in using AI thinks they’re behind There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Everyone who’s ahead in using AI thinks they’re behind There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it’s even decreased) This is why I’m seeing more and more talented people leave large companies.",
+      "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+      "publishedAt": "2026-08-23T01:34:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-426c2f636e24",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 Few things: 1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one shouldn’t have passed the bar. 2) Doxxing someone is not my style.",
+      "url": "https://x.com/nikunj/status/2091381756012511244",
+      "publishedAt": "2026-08-23T04:27:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-x-67a647f006cd",
+      "date": "2026-08-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "agent native ftw we’re hiring @every!",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. agent native ftw we’re hiring @every!",
+      "url": "https://x.com/danshipper/status/2091162447029608735",
+      "publishedAt": "2026-08-22T13:55:53.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
+    {
+      "id": "2026-08-22-podcast-357c04af2d05",
+      "date": "2026-08-22",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "One of the knocks on, you know, using agents for coding is it gets rid of some of that feeling or something like that. And like, even if you sort of scope it down narrowly to enterprise agents, like one of the things as CTO that I've been pushing for at Microsoft is like, I want all of our systems internally to speak a standard protocol to all of the agents that we're writing inside of Microsoft.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-12T16:55:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Microsoft"
+      ],
+      "createdAt": "2026-08-23T13:40:14.419Z"
+    },
     {
       "id": "2026-08-21-x-d03431e59812",
       "date": "2026-08-21",
