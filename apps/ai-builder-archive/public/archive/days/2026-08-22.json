@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-22",
-  "generatedAt": "2026-08-23T13:40:14.419Z",
+  "generatedAt": "2026-08-23T15:32:14.421Z",
   "feedGeneratedAt": "2026-08-23T06:27:32.823Z",
   "snippets": [
     {
@@ -26,7 +26,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-18fa5da69e6e",
@@ -50,7 +50,7 @@
         "Codex",
         "Google"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-93dd62ee4b84",
@@ -73,7 +73,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-9118497963b4",
@@ -92,7 +92,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-526018866082",
@@ -111,7 +111,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-ce2291e9f0a1",
@@ -133,7 +133,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-7891cc6127f9",
@@ -154,7 +154,7 @@
         "OpenAI",
         "Anthropic"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-426c2f636e24",
@@ -173,7 +173,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-x-67a647f006cd",
@@ -192,7 +192,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     },
     {
       "id": "2026-08-22-podcast-357c04af2d05",
@@ -215,7 +215,7 @@
         "AI & I by Every",
         "Microsoft"
       ],
-      "createdAt": "2026-08-23T13:40:14.419Z"
+      "createdAt": "2026-08-23T15:32:14.421Z"
     }
   ]
 }
