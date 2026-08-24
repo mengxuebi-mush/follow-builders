@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-24T13:57:24.098Z",
+  "feedGeneratedAt": "2026-08-24T06:28:47.362Z",
+  "snippets": [
+    {
+      "id": "2026-08-23-x-6497ac9214be",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. 2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure Meant 2pm obviously",
+      "url": "https://x.com/thsottiaux/status/2091688655828246890",
+      "publishedAt": "2026-08-24T00:46:51.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-8fe9ca472fb3",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "There are two types of AI evals - tops down and bottoms up. From @sh_reya: “Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. There are two types of AI evals - tops down and bottoms up. From @sh_reya: “Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals. Bottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals?",
+      "url": "https://x.com/petergyang/status/2091586298779955512",
+      "publishedAt": "2026-08-23T18:00:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-0d4cb276df1d",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Also every other category of software",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Also every other category of software",
+      "url": "https://x.com/thenanyu/status/2091559951739277451",
+      "publishedAt": "2026-08-23T16:15:26.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-406d4bf93af5",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and product",
+      "takeaway": "How to build great evals - part 7. The Goldilocks principle for eval construction. Your evals should measure at the level of the various jobs to be done, not just the final answer.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. How to build great evals - part 7. The Goldilocks principle for eval construction. Your evals should measure at the level of the various jobs to be done, not just the final answer. E.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most common mistake I see is teams create a golden set of right answers and check if the agent recommended the \"right” stock.",
+      "url": "https://x.com/realmadhuguru/status/2091684812012875981",
+      "publishedAt": "2026-08-24T00:31:35.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-37b64c0cae0b",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "Our philosophy on extending 𝚏𝚡: open protocols. ∙ MCP (modelcontextprotocol⁠.io) ∙ Skills (agentskills⁠.io) ∙ Plugins (agent-plugins⁠.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Our philosophy on extending 𝚏𝚡: open protocols. ∙ MCP (modelcontextprotocol⁠.io) ∙ Skills (agentskills⁠.io) ∙ Plugins (agent-plugins⁠.org) And the best one, Unix: ① Small programs that do one thing well and compose by calling other programs. ② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
+      "url": "https://x.com/rauchg/status/2091583525661384813",
+      "publishedAt": "2026-08-23T17:49:06.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-e681d8491e78",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "I’m good to retire now",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. I’m good to retire now",
+      "url": "https://x.com/levie/status/2091580656598102047",
+      "publishedAt": "2026-08-23T17:37:42.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-a2525f0b9a22",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on tools",
+      "takeaway": "leaving leaving is the process from fullness into emptiness from the familiar circle of life the routines undone the streets i knew by heart the people i kept meeting the names...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. leaving leaving is the process from fullness into emptiness from the familiar circle of life the routines undone the streets i knew by heart the people i kept meeting the names and labels that had gathered on my skin toward a place entirely unknown where a new life waits to be written before i go i take out everything i had hidden in my heart and say goodbye to it piece by piece memory rises and feeling rises with...",
+      "url": "https://x.com/ryolu_/status/2091596272654582062",
+      "publishedAt": "2026-08-23T18:39:46.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-67533bf962fd",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+      "url": "https://x.com/garrytan/status/2091742825042030681",
+      "publishedAt": "2026-08-24T04:22:06.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-af2f226fd042",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Mother in law is visiting from India.. Wants to do serendipitous date night with her grand daughter. Realized she didn’t sign up for roaming and we need a way to communicate.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Mother in law is visiting from India.. Wants to do serendipitous date night with her grand daughter. Realized she didn’t sign up for roaming and we need a way to communicate. I get a data eSIM in under three minutes and she’s connected. What a wonderful world we live in 🤗 (real ones know this would historically be a trip to the store or calling the carrier for an extra line that I need to cancel in a month)",
+      "url": "https://x.com/nikunj/status/2091696412744700268",
+      "publishedAt": "2026-08-24T01:17:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-x-8619d0b72176",
+      "date": "2026-08-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "cli is nice, having UI visualizations and your team where you work is nicer. I added the rotation USB protocol to and told my claw to look around- now it's having fun with my 360...",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. cli is nice, having UI visualizations and your team where you work is nicer. I added the rotation USB protocol to and told my claw to look around- now it's having fun with my 360 webcam.",
+      "url": "https://x.com/steipete/status/2091650136506327253",
+      "publishedAt": "2026-08-23T22:13:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    },
+    {
+      "id": "2026-08-23-blog-a9ddc31e6892",
+      "date": "2026-08-23",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "takeaway": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a...",
+      "summary": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework. Today we&#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "publishedAt": "Jun 08, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-24T13:57:24.098Z"
+    }
+  ]
+}
