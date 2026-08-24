@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-23",
-  "generatedAt": "2026-08-24T17:41:21.720Z",
+  "generatedAt": "2026-08-24T19:37:36.743Z",
   "feedGeneratedAt": "2026-08-24T06:28:47.362Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-8fe9ca472fb3",
@@ -47,7 +47,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-0d4cb276df1d",
@@ -66,7 +66,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-406d4bf93af5",
@@ -88,7 +88,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-37b64c0cae0b",
@@ -112,7 +112,7 @@
         "OpenAI",
         "Vercel"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-e681d8491e78",
@@ -131,7 +131,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-a2525f0b9a22",
@@ -152,7 +152,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-67533bf962fd",
@@ -172,7 +172,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-af2f226fd042",
@@ -191,7 +191,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-x-8619d0b72176",
@@ -210,7 +210,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     },
     {
       "id": "2026-08-23-blog-a9ddc31e6892",
@@ -235,7 +235,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-08-24T17:41:21.720Z"
+      "createdAt": "2026-08-24T19:37:36.743Z"
     }
   ]
 }
