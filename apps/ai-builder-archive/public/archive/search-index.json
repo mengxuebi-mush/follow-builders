@@ -1,7 +1,277 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T19:37:36.743Z",
+  "generatedAt": "2026-08-25T13:58:20.627Z",
   "snippets": [
+    {
+      "id": "2026-08-24-x-f415f4317965",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it. This is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of weekly usage and (b) users on the Plus plan are relatively casual and new users, but then also just accidentally eat through their whole...",
+      "url": "https://x.com/thsottiaux/status/2092058556707344708",
+      "publishedAt": "2026-08-25T01:16:43.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-bab360a0519b",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and enterprise",
+      "takeaway": "I got 3 AI chief of staffs now, clearly the next step is to add one more I'd like to try using AI to call customer support phone numbers using voice, navigate the terrible...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I got 3 AI chief of staffs now, clearly the next step is to add one more I'd like to try using AI to call customer support phone numbers using voice, navigate the terrible automated phone systems, and talk to a human to book appointments or cancel subscriptions. What's the easiest way to try this?",
+      "url": "https://x.com/petergyang/status/2092048940732682395",
+      "publishedAt": "2026-08-25T00:38:30.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-f01d8193e904",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on coding and costs",
+      "takeaway": "setting up a new computer with Codex is kind of nice... \"download and install handy, slack, chrome, cleanshot, rectangle\" makes you wish siri was good Feel the agi “L7 promo:...",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. setting up a new computer with Codex is kind of nice... \"download and install handy, slack, chrome, cleanshot, rectangle\" makes you wish siri was good Feel the agi “L7 promo: shipped emoji reactions to Gmail that show up as ugly random one character emails with metadata to anyone using another mail app including iPhone mail app the most common mail app on Earth”",
+      "url": "https://x.com/thenanyu/status/2092048044502192374",
+      "publishedAt": "2026-08-25T00:34:56.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu",
+        "Codex"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-9fb1a5d1de8e",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and research",
+      "takeaway": "How to build great evals - part 8. The discriminatory property of evals. A hill-climbing eval is useful when it can separate AI systems that are meaningfully different.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. How to build great evals - part 8. The discriminatory property of evals. A hill-climbing eval is useful when it can separate AI systems that are meaningfully different. Imagine you run an eval on five AI systems: A: 94 B: 93 C: 95 D: 94 E: 92 Now suppose you already know A and C are substantially better systems than D and E. The eval is bad cos it doesn’t tell you that. It has low discriminatory power.",
+      "url": "https://x.com/realmadhuguru/status/2092058332735693264",
+      "publishedAt": "2026-08-25T01:15:49.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-879a65ab6fd0",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and coding",
+      "takeaway": "Only a few have reached this milestone! True. Replit Agent completely replaced Claude CoWork in my day-to-day work.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Only a few have reached this milestone! True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. Cool!",
+      "url": "https://x.com/amasad/status/2091963442186092639",
+      "publishedAt": "2026-08-24T18:58:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Claude",
+        "Replit"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-640c826371af",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on product",
+      "takeaway": "If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow. Turns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂 I asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s.",
+      "url": "https://x.com/rauchg/status/2091957823945216474",
+      "publishedAt": "2026-08-24T18:36:26.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-8bc688054590",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did. Agents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and more.",
+      "url": "https://x.com/levie/status/2092087679240569126",
+      "publishedAt": "2026-08-25T03:12:26.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-16df9ef8dd86",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product",
+      "takeaway": "Datacenters create jobs and prosperity, actually Form a view. Turn it into an artifact or experiment. Put it in contact with reality. Read the result without self-deception.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Datacenters create jobs and prosperity, actually Form a view. Turn it into an artifact or experiment. Put it in contact with reality. Read the result without self-deception. Revise and run again. Conductor Cloud has made me so much more productive and I don't have to keep my Macbook Pro cracked open anymore",
+      "url": "https://x.com/garrytan/status/2092062820229890209",
+      "publishedAt": "2026-08-25T01:33:39.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-5e9e572a88f7",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on tools",
+      "takeaway": "Unpopular opinion: hackathons are an outdated event format (at least the way they’re traditionally held) I really appreciate how @davidsenra immediately cuts to the chase and gets...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Unpopular opinion: hackathons are an outdated event format (at least the way they’re traditionally held) I really appreciate how @davidsenra immediately cuts to the chase and gets his guests to be their most natural selves I've watched lots of Sam Altman interviews; I feel like he's his most comfortable self during this one",
+      "url": "https://x.com/zarazhangrui/status/2092079390301556883",
+      "publishedAt": "2026-08-25T02:39:30.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-4886232dc244",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Every (unconventional) deal that’s officially wired dies a 100 times in venture.. It usually takes one champion sticking their neck out for the founder - and quietly steering it...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Every (unconventional) deal that’s officially wired dies a 100 times in venture.. It usually takes one champion sticking their neck out for the founder - and quietly steering it to the completion line. Founders it’s in your benefit to figure out who your real champion is to help steer the fund dynamics and arm them with whatever info you can to make your case.",
+      "url": "https://x.com/nikunj/status/2092079149028716877",
+      "publishedAt": "2026-08-25T02:38:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-1757f438031c",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "We need to get away from software that we can’t change with a prompt. TIL: prompt kiddie More blog posts should come with theme songs.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. We need to get away from software that we can’t change with a prompt. TIL: prompt kiddie More blog posts should come with theme songs.",
+      "url": "https://x.com/steipete/status/2091923535513928015",
+      "publishedAt": "2026-08-24T16:20:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-26469305e365",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "so it looks @google disabled the @youtube account for @every with 0 notice and no reason given... anyone have any experience with this or know how to help us get it back?",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. so it looks @google disabled the @youtube account for @every with 0 notice and no reason given... anyone have any experience with this or know how to help us get it back? @Google @YouTube @every @YouTubeCreators can you help?",
+      "url": "https://x.com/danshipper/status/2092026065644335446",
+      "publishedAt": "2026-08-24T23:07:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Google"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
+    {
+      "id": "2026-08-24-x-c5ab9babbdb8",
+      "date": "2026-08-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "Hans Robertson was early at @VMware, co-founded @meraki and sold it to Cisco for $1.2B, and co-founded Verkada in 2016. He's still running it today. He's coming by @spc this week.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Hans Robertson was early at @VMware, co-founded @meraki and sold it to Cisco for $1.2B, and co-founded Verkada in 2016. He's still running it today. He's coming by @spc this week. Apply to SPC if you'd like to join us",
+      "url": "https://x.com/adityaag/status/2091958074827313523",
+      "publishedAt": "2026-08-24T18:37:26.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-25T13:58:20.627Z"
+    },
     {
       "id": "2026-08-23-x-6497ac9214be",
       "date": "2026-08-23",
