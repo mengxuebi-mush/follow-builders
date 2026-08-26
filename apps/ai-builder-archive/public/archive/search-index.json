@@ -1,7 +1,394 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T19:39:57.657Z",
+  "generatedAt": "2026-08-26T14:00:10.108Z",
   "snippets": [
+    {
+      "id": "2026-08-25-x-e182f3788222",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and product",
+      "takeaway": "PSA: do not use codex \"locked use\" capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week.",
+      "summary": "Swyx (swyx on X) shared 1 recent update. PSA: do not use codex \"locked use\" capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week. thx @_chenglou for linking to apple developer forums acknowledging this is a \"known bug\". just avoid. ofc, would be nice to do everything in cloud, but cloud isn't there yet.",
+      "url": "https://x.com/swyx/status/2092492963435946494",
+      "publishedAt": "2026-08-26T06:02:53.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-46f94db7dc68",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on ai",
+      "takeaway": "A small improvement: memory is now simpler and more powerful. Enjoy!",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. A small improvement: memory is now simpler and more powerful. Enjoy!",
+      "url": "https://x.com/bcherny/status/2092355642363453943",
+      "publishedAt": "2026-08-25T20:57:13.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-6d12db1759fd",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "So much demand for this one. Works similar to the Pro $100 plan but designed for teams and small companies.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. So much demand for this one. Works similar to the Pro $100 plan but designed for teams and small companies. ✅ All ChatGPT, ChatGPT Work, and Codex features ✅ Connect to Google Workspace, Slack, GitHub, Microsoft 365, and more ✅ Secure workspace with SAML, SSO, and MFA ✅ Centralized billing and administration ✅ Usage analytics and spend controls ✅ No 5h limits Good products take time. At least 34 days.",
+      "url": "https://x.com/thsottiaux/status/2092345330272780499",
+      "publishedAt": "2026-08-25T20:16:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-2ad0cfd869ac",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Today, I’m open-sourcing /fuck-cancer, an AI skill that helps patients and caregivers navigate cancer diagnosis and treatment and advocate for themselves and their loved ones.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Today, I’m open-sourcing /fuck-cancer, an AI skill that helps patients and caregivers navigate cancer diagnosis and treatment and advocate for themselves and their loved ones. Here’s what patients and caregivers have told me since I shared my mom’s story: “You have to be a huge patient advocate. Ask questions and push for answers, biopsies, and proper testing.",
+      "url": "https://x.com/petergyang/status/2092249012913258946",
+      "publishedAt": "2026-08-25T13:53:31.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-f8ea4210b672",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and costs",
+      "takeaway": "How to build great evals — Part 9 The Eval Roadmap Problem Most evals fail because teams treat them as static artifacts while their users expectations and behaviors have evolved.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. How to build great evals — Part 9 The Eval Roadmap Problem Most evals fail because teams treat them as static artifacts while their users expectations and behaviors have evolved. Your evals need a roadmap that evolves with your product and actual usage patterns. Take a financial research agent. Here is how use cases will evolve over time. Early user: Summarize this 5-page earnings report.",
+      "url": "https://x.com/realmadhuguru/status/2092426017118028266",
+      "publishedAt": "2026-08-26T01:36:52.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-31a3d17a8b24",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on models",
+      "takeaway": "Thanks to your feedback, we’ve unified memory across Chat and Cowork. Now, you can tell Claude to remember something once and it’ll have that context across surfaces!",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Thanks to your feedback, we’ve unified memory across Chat and Cowork. Now, you can tell Claude to remember something once and it’ll have that context across surfaces! Tell us what you’d like to see next :)",
+      "url": "https://x.com/_catwu/status/2092337156455051345",
+      "publishedAt": "2026-08-25T19:43:46.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-6d3b58c3b198",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "excited to share more on how we’re making Claude Code more hackable soon",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. excited to share more on how we’re making Claude Code more hackable soon",
+      "url": "https://x.com/trq212/status/2092303682616627311",
+      "publishedAt": "2026-08-25T17:30:45.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-aa09b4f4177c",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on tools",
+      "takeaway": "🚨 NEW LABS EXPERIMENT 🚨 Great minds t̵h̵i̵n̵k̵ play alike! Play with Putty is a collaborative vibe coding tool that lets you build tools and websites together in real time.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. 🚨 NEW LABS EXPERIMENT 🚨 Great minds t̵h̵i̵n̵k̵ play alike! Play with Putty is a collaborative vibe coding tool that lets you build tools and websites together in real time. 🫟 Ready for your imagination to go multiplayer? Join the waitlist at and share your feedback with us! US only, ages 18+",
+      "url": "https://x.com/GoogleLabs/status/2092293667688173593",
+      "publishedAt": "2026-08-25T16:50:57.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-84a3553bdb22",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution. When agents write code, you don't always need a full sandbox.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution. When agents write code, you don't always need a full sandbox. You can 𝚛𝚞𝚗 their code in a lightweight QuickJS secure context. Faster and more cost-efficient. 𝚗𝚙𝚖 𝚒 𝚛𝚞𝚗 The hardest problem in building agents is secure connectivity to services and data. Excited for Vercel Connect to be GA. Run e.",
+      "url": "https://x.com/rauchg/status/2092382653161107534",
+      "publishedAt": "2026-08-25T22:44:33.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-36d6c52aa8fb",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI models and the underlying workflows of an enterprise, which leaves...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI models and the underlying workflows of an enterprise, which leaves a ton of opportunity for applied AI companies. “The world doesn’t just want raw models and agents; it wants problems resolved and outcomes achieved.",
+      "url": "https://x.com/levie/status/2092466424694649066",
+      "publishedAt": "2026-08-26T04:17:26.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-d2e23c7fbd4e",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "lmao You need to be cross-harness memory maxxing Ok apparently this guy came up with it Don’t really care though Clout chaser lmao he is the one who blocked me",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. lmao You need to be cross-harness memory maxxing Ok apparently this guy came up with it Don’t really care though Clout chaser lmao he is the one who blocked me",
+      "url": "https://x.com/garrytan/status/2092321194037195022",
+      "publishedAt": "2026-08-25T18:40:20.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-f23ba372b90d",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding and models",
+      "takeaway": "find someone who loves you as much as the VC who loves posting photos of an “exclusive” dinner 🙈 Introducing the El Niño situation monitor (elneenyo dot com)..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. find someone who loves you as much as the VC who loves posting photos of an “exclusive” dinner 🙈 Introducing the El Niño situation monitor (elneenyo dot com).. > real time updates, news and what’s happening straight from government sources > impact per region and costs > historical records and what’s the importance > glossary and FAQ on all the different readings If this topic pops up in your group chat, you know...",
+      "url": "https://x.com/nikunj/status/2092476274312933634",
+      "publishedAt": "2026-08-26T04:56:34.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Codex"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-ed59ba789edc",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "This week.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. This week.",
+      "url": "https://x.com/steipete/status/2092294123638362346",
+      "publishedAt": "2026-08-25T16:52:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-d5adfb95a9ce",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "I got one of these to test @every vibe check forthcoming! GET DOT",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. I got one of these to test @every vibe check forthcoming! GET DOT",
+      "url": "https://x.com/danshipper/status/2092277639591461056",
+      "publishedAt": "2026-08-25T15:47:16.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-9e154b08b3eb",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on tools",
+      "takeaway": "It's totally unsurprising that the general population hates datacenter buildout. AI today primarily helps knowledge workers and the highest paid segments of the country.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. It's totally unsurprising that the general population hates datacenter buildout. AI today primarily helps knowledge workers and the highest paid segments of the country. I suspect that the big change will happen when AI is able to find cures for diseases that ail everyone. We are starting to see light at the end of the tunnel here. Also makes sense why some of the brightest minds now want to focus there.",
+      "url": "https://x.com/adityaag/status/2092290497826173186",
+      "publishedAt": "2026-08-25T16:38:22.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-fae28a120c81",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "we made a chip and it is fast",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. we made a chip and it is fast",
+      "url": "https://x.com/sama/status/2092339694210040187",
+      "publishedAt": "2026-08-25T19:53:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-x-03fd5cb69243",
+      "date": "2026-08-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Claude now has one memory across chat and Claude Cowork, and you decide what's in it. Hand Cowork a task and it starts from what Claude already knows from your chats: the project...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude now has one memory across chat and Claude Cowork, and you decide what's in it. Hand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter. Everything Claude remembers is saved as a list of topics in Settings, where you can read, edit, or delete each one.",
+      "url": "https://x.com/claudeai/status/2092299704864284888",
+      "publishedAt": "2026-08-25T17:14:57.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
+    {
+      "id": "2026-08-25-podcast-9618b0feaaa9",
+      "date": "2026-08-25",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Our view at Parallel is that human click data is a bug, and agent doing work with search should rely on agent feedback, not human feedback. We announced today, actually, that we are working with Google Cloud to be a search and grounding provider for their enterprise agent APIs. Like I think if you go back to my framing around like this 100,000,000,000 to 100,000,000,000 matching problem, every query is essentially, give me a thousand tokens from a trillion web pages on the web and make sure they're the right...",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Google"
+      ],
+      "createdAt": "2026-08-26T14:00:10.108Z"
+    },
     {
       "id": "2026-08-24-x-f415f4317965",
       "date": "2026-08-24",
