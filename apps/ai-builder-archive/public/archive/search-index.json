@@ -1,7 +1,409 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T21:47:18.355Z",
+  "generatedAt": "2026-08-27T22:55:36.477Z",
   "snippets": [
+    {
+      "id": "2026-08-26-x-df336ceb64c3",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Experimenting with multiplayer AI",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Experimenting with multiplayer AI",
+      "url": "https://x.com/joshwoodward/status/2092614266818064389",
+      "publishedAt": "2026-08-26T14:04:54.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-7098f5fe134a",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days A good thing about having aged is that I feel...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow and dust it up",
+      "url": "https://x.com/thsottiaux/status/2092756702349398036",
+      "publishedAt": "2026-08-26T23:30:54.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-14286eaf8e18",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Who should I tag for @X bugs now that @nikitabier has retired? @ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Who should I tag for @X bugs now that @nikitabier has retired? @ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: Only thing linear is missing is a sauna perk wdyt @karrisaarinen 😅",
+      "url": "https://x.com/petergyang/status/2092829981885796800",
+      "publishedAt": "2026-08-27T04:22:05.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-b8c9ece7d450",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Ah yes, the rule of 2.5 scrum I am upset because the terrible comms has caused @gruber to lose his mind about watermarking and make @ditheringfm unlistenable for like 2 full...",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Ah yes, the rule of 2.5 scrum I am upset because the terrible comms has caused @gruber to lose his mind about watermarking and make @ditheringfm unlistenable for like 2 full episodes",
+      "url": "https://x.com/thenanyu/status/2092726934216343739",
+      "publishedAt": "2026-08-26T21:32:36.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-0a5db94906c0",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on enterprise and models",
+      "takeaway": "this was my change, excited to roll it out Claude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. this was my change, excited to roll it out Claude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to draft and approve it the feedback helps us improve and understand problems, so it's very appreciated We're seeing several of our customers be targeted by fraudulent requests and glad for all the work Stripe is doing to help them.",
+      "url": "https://x.com/trq212/status/2092696449616376140",
+      "publishedAt": "2026-08-26T19:31:28.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-450e3985623e",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Interesting",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Interesting",
+      "url": "https://x.com/amasad/status/2092658681947246868",
+      "publishedAt": "2026-08-26T17:01:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-f97f0c77f180",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI. Much like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI. Much like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security posture with human-in-the-loop, or run in crons. Who would have thunk CLIs would save the world 😁 So cool. Global compute at your (agents') fingertips.",
+      "url": "https://x.com/rauchg/status/2092621371914482026",
+      "publishedAt": "2026-08-26T14:33:08.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-58e731e329f8",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Yesterday, at Box we reported our Q2 results with revenue of $321.1 million for the quarter, up 9%, or 11% in constant currency (our highest constant-currency growth rate in 14...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Yesterday, at Box we reported our Q2 results with revenue of $321.1 million for the quarter, up 9%, or 11% in constant currency (our highest constant-currency growth rate in 14 quarters), and we raised our full-year revenue target to $1.290 billion. Overall, this growth is being driven by the demand we're seeing from enterprises aiming to get the most out of their enterprise content and transform in the era of AI.",
+      "url": "https://x.com/levie/status/2092702955292230100",
+      "publishedAt": "2026-08-26T19:57:19.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-3048e6200d2c",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and tools",
+      "takeaway": "Truly a win-win-win: * NVIDIA is officially the center of open source AI w/ Nemotron and now HF * Hugging Face scores huge + gets the perfect home (no more nagging re business...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Truly a win-win-win: * NVIDIA is officially the center of open source AI w/ Nemotron and now HF * Hugging Face scores huge + gets the perfect home (no more nagging re business model!) * Open source AI wins! Massive congrats to friends @ClementDelangue, @Thom_Wolf (+ @ctnzr!) Fun to be in the guest chair (vs host), for once.",
+      "url": "https://x.com/mattturck/status/2092808287280329097",
+      "publishedAt": "2026-08-27T02:55:52.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-d8ee7bdeef3e",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise and product",
+      "takeaway": "When it comes to AI writing, many people seem to apply a double standard to the effect of “it’s fine if I use it; it’s not fine if YOU use it” Most PR teams at large companies...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. When it comes to AI writing, many people seem to apply a double standard to the effect of “it’s fine if I use it; it’s not fine if YOU use it” Most PR teams at large companies exist in order to block real marketing and branding It’s so ironic that a function designed to enhance a company’s brand ends up being antithetical to it",
+      "url": "https://x.com/zarazhangrui/status/2092773720112988366",
+      "publishedAt": "2026-08-27T00:38:31.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-23ede0f40d85",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. ",
+      "url": "https://x.com/nikunj/status/2092748226701210023",
+      "publishedAt": "2026-08-26T22:57:13.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-33d26041f5d2",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding and product",
+      "takeaway": "codex' visualization feature got really good. maybe it is a bubble?",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. codex' visualization feature got really good. maybe it is a bubble?",
+      "url": "https://x.com/steipete/status/2092822007843061823",
+      "publishedAt": "2026-08-27T03:50:24.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-c10efda435b4",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and tools",
+      "takeaway": "THEY DID IT FOLKS definite golden age for polymaths and philosophers (luckily, a good antidote for epistemic despair) incredible time Codex native apps are here!",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. THEY DID IT FOLKS definite golden age for polymaths and philosophers (luckily, a good antidote for epistemic despair) incredible time Codex native apps are here!",
+      "url": "https://x.com/danshipper/status/2092756144447983619",
+      "publishedAt": "2026-08-26T23:28:41.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-5bebc665cf0e",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and research",
+      "takeaway": "The AI frontier will be determined by post-training. @DeepCogito is a post-training research lab. Today they’re announcing their $43M Series A.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. The AI frontier will be determined by post-training. @DeepCogito is a post-training research lab. Today they’re announcing their $43M Series A. Their research focuses on large-scale reinforcement learning and recursive self-improvement. The core method is iterated distillation and amplification (IDA). They’ve already proven the method in public for models from 3B to 600B+ parameters.",
+      "url": "https://x.com/adityaag/status/2092679288869019700",
+      "publishedAt": "2026-08-26T18:23:17.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-fa2f334ed33c",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "i think we should do another party for our next model release, the 5.5 party was a lot of fun. what would make the next one awesome? this is a good report about a bad thing:",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. i think we should do another party for our next model release, the 5.5 party was a lot of fun. what would make the next one awesome? this is a good report about a bad thing:",
+      "url": "https://x.com/sama/status/2092733018838290817",
+      "publishedAt": "2026-08-26T21:56:47.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-x-77d5164b5091",
+      "date": "2026-08-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "Claude now has its own built-in browser in Cowork. When your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude now has its own built-in browser in Cowork. When your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job. There's nothing to install. Claude's browser is built into the desktop app and stays separate from your own browser and logins.",
+      "url": "https://x.com/claudeai/status/2092755571455758427",
+      "publishedAt": "2026-08-26T23:26:24.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-blog-b197d60a88e2",
+      "date": "2026-08-26",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude in Chrome is generally available",
+      "takeaway": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan.",
+      "summary": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude .",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-blog-af9006b6bcf2",
+      "date": "2026-08-26",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude gets its own browser in Cowork",
+      "takeaway": "Claude gets its own browser in Cowork. Claude now has a browser built into Claude Cowork on the desktop app.",
+      "summary": "Claude gets its own browser in Cowork. Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector.",
+      "url": "https://claude.com/blog/cowork-built-in-browser",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
+    {
+      "id": "2026-08-26-podcast-357c04af2d05",
+      "date": "2026-08-26",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "takeaway": "A $10B Hedge Fund’s AI Playbook (Best of the Pod). So that's when we started, you know, an effort to say, okay, for fundamental investing, absolutely, there should be agents that...",
+      "summary": "So that's when we started, you know, an effort to say, okay, for fundamental investing, absolutely, there should be agents that are ultimately helping with analysis and ultimately to provide me into what's going on. Know, I've noticed the productivity improvements that I see using using these tools, just even for from a writing perspective, let alone some of the sort of more advanced things you can do.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Google"
+      ],
+      "createdAt": "2026-08-27T22:55:36.477Z"
+    },
     {
       "id": "2026-08-25-x-e182f3788222",
       "date": "2026-08-25",
