@@ -1,7 +1,394 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T03:32:40.464Z",
+  "generatedAt": "2026-08-28T22:59:50.103Z",
   "snippets": [
+    {
+      "id": "2026-08-27-x-14250ed81295",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "Turn your favorite books into your personal brain trust! You can now buy a book, drop it in Notebook, and apply the author’s lessons to your project.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. Turn your favorite books into your personal brain trust! You can now buy a book, drop it in Notebook, and apply the author’s lessons to your project. For authors and publishers, we co-created this program so you could reach new and more engaged readers. Look what you can do: - Tell Gemini what you want done - Gemini gets to work This is the Year of Voice Try it out",
+      "url": "https://x.com/joshwoodward/status/2093070717508296923",
+      "publishedAt": "2026-08-27T20:18:41.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-7fe0de7f90b5",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "ChatGPT can now do your groceries, book an Uber, get you that haircut appointment (hint hint), and much more. All without ever seeing your actual credentials and keeping it secure.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. ChatGPT can now do your groceries, book an Uber, get you that haircut appointment (hint hint), and much more. All without ever seeing your actual credentials and keeping it secure. Starting to see more and more Codex users on airplanes and in cafés. Underdog energy gone mainstream. But flying close to Sol doesn't make it faster, sorry.",
+      "url": "https://x.com/thsottiaux/status/2093074717590921245",
+      "publishedAt": "2026-08-27T20:34:34.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-3f3494175cc0",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and costs",
+      "takeaway": "I receive around 3-5 requests to test a new AI product daily. Almost all of them require creating a new account and logging into a separate website or app.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I receive around 3-5 requests to test a new AI product daily. Almost all of them require creating a new account and logging into a separate website or app. Meanwhile, I basically only use ChatGPT, Grok, etc to do everything on my computer and browser. These harnesses already have all my context and I don't want to start over from scratch with a new website or tool that only understands a small slice of my data.",
+      "url": "https://x.com/petergyang/status/2093126719888916616",
+      "publishedAt": "2026-08-28T00:01:13.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-0872a8d46932",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "the most important non-default setting you probably don't have toggled rn (@CleanShot) This video is the future of the tech job market (if we get this AI thing right)",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. the most important non-default setting you probably don't have toggled rn (@CleanShot) This video is the future of the tech job market (if we get this AI thing right)",
+      "url": "https://x.com/thenanyu/status/2093010530403561964",
+      "publishedAt": "2026-08-27T16:19:31.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-0299832cb7ce",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "If you lead AI for an enterprise, the highest leverage thing you can do is to make your AI stack model agnostic. There are two things I would invest in.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. If you lead AI for an enterprise, the highest leverage thing you can do is to make your AI stack model agnostic. There are two things I would invest in. 1/ Today: build an eval suite that fully captures your use cases and business outcomes. Most companies I’ve seen do not do a good job of this. 2/ Within the next year: build the capability to post-train open models.",
+      "url": "https://x.com/realmadhuguru/status/2093143877087879377",
+      "publishedAt": "2026-08-28T01:09:23.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-eeb5f9e7658f",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "life is stranger than fiction",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. life is stranger than fiction",
+      "url": "https://x.com/trq212/status/2093176635940016380",
+      "publishedAt": "2026-08-28T03:19:34.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-0ebad823471e",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and costs",
+      "takeaway": "Our best products have been exports of internal technology we gain strong conviction in. @matinotfound and team have been shipping extraordinary WebGPU creative productions, and...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Our best products have been exports of internal technology we gain strong conviction in. @matinotfound and team have been shipping extraordinary WebGPU creative productions, and now is here. It’s a fully agent-native devtool: it was designed for agents, not humans alone. Much like 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, it’s part of a new exciting generation of tools to serve the new world.",
+      "url": "https://x.com/rauchg/status/2093019310725951683",
+      "publishedAt": "2026-08-27T16:54:24.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-1d06428912a4",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and research",
+      "takeaway": "This week’s tech earnings calls were a critical reminder of how valuable the relationship is between software and AI.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This week’s tech earnings calls were a critical reminder of how valuable the relationship is between software and AI. Software provides the guardrails for how data is managed, how business logic in workflows are maintained, how you manage and govern access to information, how you protect data, and more. You want these systems to work the same way every time, without fail.",
+      "url": "https://x.com/levie/status/2093192697331011846",
+      "publishedAt": "2026-08-28T04:23:23.000Z",
+      "tags": [
+        "agents",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-1ec646b088f4",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product and tools",
+      "takeaway": "Seems likely that on a long enough time frame, AI will generate cash flows faster than the economy can find productive uses for new capital The Tampa Bay Wave of influential...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Seems likely that on a long enough time frame, AI will generate cash flows faster than the economy can find productive uses for new capital The Tampa Bay Wave of influential people in AI SF YIMBY Action has been a trash organization for years Don’t join them and don’t give them money. Support CA YIMBY and YIMBY Law",
+      "url": "https://x.com/garrytan/status/2093056910631293063",
+      "publishedAt": "2026-08-27T19:23:49.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-61d4b514950b",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and costs",
+      "takeaway": "AI Could Take Over in 2029. Is It Already Too Late? My conversation with @RyanGreenblatt of @redwood_ai about AI 2040, RSI, AI alignment, and how he believes the transition to...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. AI Could Take Over in 2029. Is It Already Too Late? My conversation with @RyanGreenblatt of @redwood_ai about AI 2040, RSI, AI alignment, and how he believes the transition to superintelligence actually unfolds. 01:24 The AI CEOs are aware of the risks, but \"proceeding anyway\" 03:27 Astra paused, and the \"Pacing the Frontier\" letter 05:45 \"Not bad. Dangerous.",
+      "url": "https://x.com/mattturck/status/2093016366475276662",
+      "publishedAt": "2026-08-27T16:42:42.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-52eaa2ec1021",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "The funniest thing about Silicon Valley group chats is that a) everyone uses Signal with disappearing messages on but b) everyone also screenshots and sends these messages around...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The funniest thing about Silicon Valley group chats is that a) everyone uses Signal with disappearing messages on but b) everyone also screenshots and sends these messages around in (sometimes) non-ephemeral channels Like, what are we doing here friends? 😂 Gym bros 🤝 VCs explaining their gains strategy \"barbell\" Truly floored by all the comments to the most recent essay.. thank you.",
+      "url": "https://x.com/nikunj/status/2093094684403134748",
+      "publishedAt": "2026-08-27T21:53:55.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-7f063fa9d64d",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "This turned out so good! Thank you GitHub folks for making this happen! 🙏",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. This turned out so good! Thank you GitHub folks for making this happen! 🙏",
+      "url": "https://x.com/steipete/status/2093013213038469205",
+      "publishedAt": "2026-08-27T16:30:10.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-07d529ce931f",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "agi?",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. agi?",
+      "url": "https://x.com/danshipper/status/2093025595290452243",
+      "publishedAt": "2026-08-27T17:19:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-d631e90ada95",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on tools",
+      "takeaway": "this is a critically important moment for cyber defense with AI; there is not much time to act. we are happy if you want to work with us or any of our competitors or partners, but...",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. this is a critically important moment for cyber defense with AI; there is not much time to act. we are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously. only an urgent and intense collective response will work.",
+      "url": "https://x.com/sama/status/2093060670472241368",
+      "publishedAt": "2026-08-27T19:38:45.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-x-8d6e85a222b0",
+      "date": "2026-08-27",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists.",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year.",
+      "url": "https://x.com/claudeai/status/2093059087298601113",
+      "publishedAt": "2026-08-27T19:32:28.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-blog-97cd97d27d22",
+      "date": "2026-08-27",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-blog-6cd28c156a1c",
+      "date": "2026-08-27",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
+    {
+      "id": "2026-08-27-podcast-654f3422ca59",
+      "date": "2026-08-27",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
+      "takeaway": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt. And, like, yeah, the field is very different, and I think things have sort of there's sort of post g p d...",
+      "summary": "And, like, yeah, the field is very different, and I think things have sort of there's sort of post g p d four era, and then there's a more recent, like, post wide adoption of coding agents era. Or if there's some very inefficient way you could do your training that would make things much safer, we have sort of the budget to be able to do that. So, specifically, when I paused its Astra model of our safety, following the hugging face incident.",
+      "url": "https://www.youtube.com/watch?v=SK9ITBK5osA",
+      "publishedAt": "2026-08-27T14:22:21.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-08-28T22:59:50.103Z"
+    },
     {
       "id": "2026-08-26-x-df336ceb64c3",
       "date": "2026-08-26",
