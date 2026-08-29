@@ -1,7 +1,397 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T02:06:14.258Z",
+  "generatedAt": "2026-08-29T17:05:05.401Z",
   "snippets": [
+    {
+      "id": "2026-08-28-x-86961dca44bf",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "One of my favorite parts of Expert Intelligence in @Gemini_Notebook is the letter from the author, such a nice touch!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. One of my favorite parts of Expert Intelligence in @Gemini_Notebook is the letter from the author, such a nice touch!",
+      "url": "https://x.com/joshwoodward/status/2093409673571631480",
+      "publishedAt": "2026-08-28T18:45:34.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-7c7e4270511d",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give you some time to plan.",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "publishedAt": "2026-08-29T01:47:44.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex",
+        "Cursor"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-e2f78433ef97",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people. Grok Bot I think people can easily \"grok\" that it's a computer that runs in the cloud. If you asked people to explain what the difference between ChatGPT Work and Codex is (e.g.",
+      "url": "https://x.com/petergyang/status/2093379695144530313",
+      "publishedAt": "2026-08-28T16:46:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-e9b2a5b71200",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "VCs: Now that SF has discovered Paris, maybe it's safe to go to Japan again. This is true",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. VCs: Now that SF has discovered Paris, maybe it's safe to go to Japan again. This is true",
+      "url": "https://x.com/thenanyu/status/2093411864667656633",
+      "publishedAt": "2026-08-28T18:54:16.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-9b798ea3ccb3",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and product",
+      "takeaway": "AI product building has a ~3-month playbook half-life. Here’s how to adapt. Most trad product teams are built to discover a playbook and then milk it for the next 5 years.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. AI product building has a ~3-month playbook half-life. Here’s how to adapt. Most trad product teams are built to discover a playbook and then milk it for the next 5 years. However in the AI labs, we consciously throw away playbooks every few months cos we start seeing diminishing returns.",
+      "url": "https://x.com/realmadhuguru/status/2093562783627620456",
+      "publishedAt": "2026-08-29T04:53:58.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Meta"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-f270259cb488",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "Long-time admirer of the Cursor team, few have done more to bring AI coding to the world. Excited to continue to partner with them.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. Long-time admirer of the Cursor team, few have done more to bring AI coding to the world. Excited to continue to partner with them.",
+      "url": "https://x.com/trq212/status/2093541555068182781",
+      "publishedAt": "2026-08-29T03:29:37.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Cursor"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-19e4e6c44782",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and coding",
+      "takeaway": "You can access OpenAI models on Replit for free. Our router also makes high-end models incredibly cost-efficient.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. You can access OpenAI models on Replit for free. Our router also makes high-end models incredibly cost-efficient. If you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition. Growth agent is such an untapped potential.",
+      "url": "https://x.com/amasad/status/2093533378880667787",
+      "publishedAt": "2026-08-29T02:57:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Cursor",
+        "Replit"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-a3ae861b956f",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "I see the web evolving in two extremes: 1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I see the web evolving in two extremes: 1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. / threejs / typegpu are enabling this 2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure, lossless signal for machines.",
+      "url": "https://x.com/rauchg/status/2093482695838007318",
+      "publishedAt": "2026-08-28T23:35:44.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-12b100bf1cbc",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment: * OSS is too far behind to catch up * The labs can’t be profitable at scale * All software will be replaced by agents * You can’t build moats on top of models * Cheaper models will mean less compute * You don’t need evals * RAG is...",
+      "url": "https://x.com/levie/status/2093568352736436576",
+      "publishedAt": "2026-08-29T05:16:06.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-9499cfa01733",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Datacenters create prosperity and good jobs An unfit SF city supervisor who has only hurt the city and its citizens has quiet quit the job to try to jump to the next rung of utter...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Datacenters create prosperity and good jobs An unfit SF city supervisor who has only hurt the city and its citizens has quiet quit the job to try to jump to the next rung of utter incompetence Connie Chan doesn’t deserve public office Fund treatment and recovery and defund nonprofits that hurt treatment and recovery with their insistence unlimited support for drug use is the only way to “help” It’s harm acceleration",
+      "url": "https://x.com/garrytan/status/2093500353849544842",
+      "publishedAt": "2026-08-29T00:45:54.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-f5f4d038cce9",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "VC due diligence in a hot round",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. VC due diligence in a hot round",
+      "url": "https://x.com/mattturck/status/2093304544029463009",
+      "publishedAt": "2026-08-28T11:47:49.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-fc4685727a60",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and costs",
+      "takeaway": "Whether something is slop or not has less to do with whether it's AI-generated and more to do with whether it is informed by specific, unique human experiences/perspectives...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Whether something is slop or not has less to do with whether it's AI-generated and more to do with whether it is informed by specific, unique human experiences/perspectives There's plenty of human-generated slop Question on @bot : if I sign into my actual X account on Grok Bot's virtual computer & ask it to do stuff (e.g.",
+      "url": "https://x.com/zarazhangrui/status/2093396989329469505",
+      "publishedAt": "2026-08-28T17:55:10.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-3dd58a29c565",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Dear founder, 1) The best pitches don’t even need to use the word “AI”. 2) AI cannot be the only “why now” for your pitch.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Dear founder, 1) The best pitches don’t even need to use the word “AI”. 2) AI cannot be the only “why now” for your pitch. Obviously it’s just me speaking, subjective to each VC etc. But trust me, it’ll help if you get ahead of these two! Bay Area put on a show last night 🌅",
+      "url": "https://x.com/nikunj/status/2093367245024240043",
+      "publishedAt": "2026-08-28T15:56:58.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-c38a5e48a7c3",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and research",
+      "takeaway": "WE NOW HAVE A HEAD OF EVALS the work he's doing is honestly gamechanging. cannot wait to show it to you in AI there are no bad ideas just weak models every idea has its day as the...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. WE NOW HAVE A HEAD OF EVALS the work he's doing is honestly gamechanging. cannot wait to show it to you in AI there are no bad ideas just weak models every idea has its day as the exponential continues unrealistic, i would never surf in a t-shirt",
+      "url": "https://x.com/danshipper/status/2093347973669286146",
+      "publishedAt": "2026-08-28T14:40:24.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-x-db8313582b8e",
+      "date": "2026-08-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "It's interesting to me to see a lot of people comment on visa stuff without actually going through it.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. It's interesting to me to see a lot of people comment on visa stuff without actually going through it. I am a proud American citizen who has also had the following visas: F1, OPT, CPT, H1-B, EB-3 Green Card etc. I think ALL of the following things can be true: 1/ There is abuse of the H1-B system. We should 100% stop that. It prevents legitimate use cases. I am glad the government is doing something about this.",
+      "url": "https://x.com/adityaag/status/2093468512459321512",
+      "publishedAt": "2026-08-28T22:39:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-blog-dea52d951227",
+      "date": "2026-08-28",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-blog-f90fa6cabc29",
+      "date": "2026-08-28",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
+    {
+      "id": "2026-08-28-podcast-0aa4355de8d8",
+      "date": "2026-08-28",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "What we're seeing now on steroids is that the same type of threat is coming from nonhuman actors, agents that essentially have legitimate access to the environment with legitimate permissions. Ophelia Gunnen, thank you so much for joining me Enterprise today. You need to pay for that, for storage and of course, tokens.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-27T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Google"
+      ],
+      "createdAt": "2026-08-29T17:05:05.401Z"
+    },
     {
       "id": "2026-08-27-x-14250ed81295",
       "date": "2026-08-27",
