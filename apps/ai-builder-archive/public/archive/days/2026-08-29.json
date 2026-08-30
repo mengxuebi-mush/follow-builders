@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-30T18:34:31.966Z",
+  "generatedAt": "2026-08-30T19:47:50.051Z",
   "feedGeneratedAt": "2026-08-30T06:36:35.226Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-073c25f2dc68",
@@ -41,7 +41,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-e5f9c9c214b9",
@@ -60,7 +60,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-c0570cf17208",
@@ -84,7 +84,7 @@
         "Guillermo Rauch",
         "Supabase"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-4d8f2378018e",
@@ -103,7 +103,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-0b2a6d25a152",
@@ -123,7 +123,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-1448f6cd1438",
@@ -145,7 +145,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-x-12989eead5ea",
@@ -164,7 +164,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     },
     {
       "id": "2026-08-29-podcast-0aa4355de8d8",
@@ -187,7 +187,7 @@
         "No Priors",
         "Anthropic"
       ],
-      "createdAt": "2026-08-30T18:34:31.966Z"
+      "createdAt": "2026-08-30T19:47:50.051Z"
     }
   ]
 }
