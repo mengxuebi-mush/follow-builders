@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-31T21:53:17.949Z",
+  "generatedAt": "2026-08-31T23:10:40.113Z",
   "feedGeneratedAt": "2026-08-31T06:49:51.273Z",
   "snippets": [
     {
@@ -25,7 +25,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-d67d915bc3da",
@@ -44,7 +44,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-bf310c456dbb",
@@ -65,7 +65,7 @@
         "Amjad Masad",
         "OpenAI"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-57969a90a517",
@@ -86,7 +86,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-dd58efa86d46",
@@ -107,7 +107,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-38e79b1b9bac",
@@ -127,7 +127,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-f604b1eff11b",
@@ -146,7 +146,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-0ffe94f69e33",
@@ -165,7 +165,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-bd6cc06f54af",
@@ -185,7 +185,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-x-71e79434cf13",
@@ -205,7 +205,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     },
     {
       "id": "2026-08-30-podcast-357c04af2d05",
@@ -231,7 +231,7 @@
         "Claude",
         "Meta"
       ],
-      "createdAt": "2026-08-31T21:53:17.949Z"
+      "createdAt": "2026-08-31T23:10:40.113Z"
     }
   ]
 }
