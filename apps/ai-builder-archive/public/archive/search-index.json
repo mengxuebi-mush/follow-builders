@@ -1,7 +1,236 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T21:53:25.288Z",
+  "generatedAt": "2026-08-31T19:28:55.682Z",
   "snippets": [
+    {
+      "id": "2026-08-30-x-97da68d21a91",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex. See you soon for more news from The Reset Company. For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.",
+      "url": "https://x.com/thsottiaux/status/2094252447271366730",
+      "publishedAt": "2026-08-31T02:34:27.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-d67d915bc3da",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding",
+      "takeaway": "Sigh this is so dumb At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem @bot @SpaceXAI Me and my Doomscrolling Uncle bot sent codes...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Sigh this is so dumb At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem @bot @SpaceXAI Me and my Doomscrolling Uncle bot sent codes to a bunch of folks including @LubaYudasina @DontFearAI @SpecialeRob @yorkartur @anishkumar_ts @DavidFiocchi @GiggleVolt @sanjabh @yugmarwaha @chrisschouk @dweekly Thanks for playing! Will let you know if I get more codes.",
+      "url": "https://x.com/petergyang/status/2094216304844833079",
+      "publishedAt": "2026-08-31T00:10:50.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-bf310c456dbb",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and...",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs. The obvious miss here by OpenAI is that they should’ve been monitoring CoTs — Something they themselves called out as a safety strategy more than a year ago.",
+      "url": "https://x.com/amasad/status/2094215744842248418",
+      "publishedAt": "2026-08-31T00:08:36.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-57969a90a517",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on enterprise and product",
+      "takeaway": "Digital abundance When something goes viral on the internet, especially on X, it attracts all kinds of attention.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Digital abundance When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks. Extremely proud of the Vercel CDN & Traffic Security teams, who protect 400,000+ customers and tens of millions of Vercel users 24x7x365. Cool",
+      "url": "https://x.com/rauchg/status/2094242622642782696",
+      "publishedAt": "2026-08-31T01:55:25.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-dd58efa86d46",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day. Basically enterprises have an unending stream of tasks that they’d love to be able to bring automation to.",
+      "url": "https://x.com/levie/status/2094123406811922930",
+      "publishedAt": "2026-08-30T18:01:41.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-38e79b1b9bac",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA These are policy disasters and can be...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA These are policy disasters and can be fixed with better policies but so far California has failed to fix it So it’s a mass trash fire Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr In the future the agents...",
+      "url": "https://x.com/garrytan/status/2094056908462358592",
+      "publishedAt": "2026-08-30T13:37:27.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-f604b1eff11b",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Being on a board with Doug was certainly one of the most formative experiences of my VC career. The goat. That is, if goats were jacked.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Being on a board with Doug was certainly one of the most formative experiences of my VC career. The goat. That is, if goats were jacked.",
+      "url": "https://x.com/mattturck/status/2094219007708512499",
+      "publishedAt": "2026-08-31T00:21:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-0ffe94f69e33",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models",
+      "takeaway": "Reality is stranger than fiction Have a cup of coffee, sit down and read this end to end.. and try not to faint What are they feeding @claudeai.. “canon on prod” 😂",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Reality is stranger than fiction Have a cup of coffee, sit down and read this end to end.. and try not to faint What are they feeding @claudeai.. “canon on prod” 😂",
+      "url": "https://x.com/nikunj/status/2094067027719922143",
+      "publishedAt": "2026-08-30T14:17:39.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-bd6cc06f54af",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and costs",
+      "takeaway": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using - our shared agent that...",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using - our shared agent that knows what everyone’s working on and orchestrates it all. Multiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build. Local harnesses feel like relics of the past now.",
+      "url": "https://x.com/steipete/status/2094290652649636173",
+      "publishedAt": "2026-08-31T05:06:16.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-x-71e79434cf13",
+      "date": "2026-08-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and tools",
+      "takeaway": "is the HuggingFace attack something that should be taken seriously? yes. is it the first warning shot of a machine takeover? no.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. is the HuggingFace attack something that should be taken seriously? yes. is it the first warning shot of a machine takeover? no. will issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. will that happen automatically? no. as always, will require work from smart people and their agents.",
+      "url": "https://x.com/danshipper/status/2094073306739576964",
+      "publishedAt": "2026-08-30T14:42:36.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
+    {
+      "id": "2026-08-30-podcast-357c04af2d05",
+      "date": "2026-08-30",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
+      "takeaway": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod). It's the agentic CRM that runs the work behind every win.",
+      "summary": "It's the agentic CRM that runs the work behind every win. Well, so I think two things really, actually three things have landed sort of fortunately for us, you know, all startups involve all successful startups involve an element of very good luck. And what we saw, and this was really right before you and I got to know each other, you know, we saw that the sort of trend lines around the speed of generation, the quality of generation, this is the kind of GPT three to four class model kind of cusp.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-19T15:16:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-08-31T19:28:55.682Z"
+    },
     {
       "id": "2026-08-29-x-28fc9c28b15c",
       "date": "2026-08-29",
