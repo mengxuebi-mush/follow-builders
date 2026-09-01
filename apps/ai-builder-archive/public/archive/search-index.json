@@ -1,7 +1,240 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T23:10:40.113Z",
+  "generatedAt": "2026-09-01T17:18:03.751Z",
   "snippets": [
+    {
+      "id": "2026-08-31-x-60326d7a79e0",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?",
+      "url": "https://x.com/thsottiaux/status/2094588317245509959",
+      "publishedAt": "2026-09-01T00:49:05.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-0689fe11e3e8",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents",
+      "takeaway": "Great advice Trust is going to be the biggest barrier (and driver) of personal agent adoption. Btw @drhoeflinger I just watched your videos and wow they’re so good.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Great advice Trust is going to be the biggest barrier (and driver) of personal agent adoption. Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge",
+      "url": "https://x.com/petergyang/status/2094529713524117596",
+      "publishedAt": "2026-08-31T20:56:12.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-83358e5f3fc6",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on coding and models",
+      "takeaway": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter. 🤞🏻 Concerning",
+      "url": "https://x.com/thenanyu/status/2094427243565269107",
+      "publishedAt": "2026-08-31T14:09:02.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-e9c4fbe5cba4",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and product",
+      "takeaway": "If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases. You should be able to answer the following better than most frontier lab researchers and PMs for your use cases: 1/ What can models in each size category do well today? 2/ Where does each model fail? 3/ What workarounds can you use to overcome these failures ?",
+      "url": "https://x.com/realmadhuguru/status/2094591503981281503",
+      "publishedAt": "2026-09-01T01:01:44.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-22f6b87f3b33",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Good iOS interaction tips!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Good iOS interaction tips!",
+      "url": "https://x.com/amasad/status/2094642492125950394",
+      "publishedAt": "2026-09-01T04:24:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-b227a9cca346",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs and product",
+      "takeaway": "Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop. And how you can truly, finally scale design taste within a large organization. Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: \"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.",
+      "url": "https://x.com/rauchg/status/2094541309579235680",
+      "publishedAt": "2026-08-31T21:42:17.000Z",
+      "tags": [
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-14b9734104de",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.",
+      "url": "https://x.com/levie/status/2094650992818274514",
+      "publishedAt": "2026-09-01T04:58:08.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-13c9ee2b0eeb",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and models",
+      "takeaway": "Circleback is so much better than Granola, it's not even close Granola still doesn't even support multiple person disambiguation I just made some new GBrain evals that help prove...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Circleback is so much better than Granola, it's not even close Granola still doesn't even support multiple person disambiguation I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop And I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain Receipts at",
+      "url": "https://x.com/garrytan/status/2094465505142960443",
+      "publishedAt": "2026-08-31T16:41:04.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-b6160a9cc255",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. ",
+      "url": "https://x.com/nikunj/status/2094556598492631281",
+      "publishedAt": "2026-08-31T22:43:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-x-108e03e80721",
+      "date": "2026-08-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and enterprise",
+      "takeaway": "Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc.",
+      "url": "https://x.com/danshipper/status/2094406185109647580",
+      "publishedAt": "2026-08-31T12:45:21.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
+    {
+      "id": "2026-08-31-podcast-9618b0feaaa9",
+      "date": "2026-08-31",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "takeaway": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again. It doesn't doesn't come from agent's experience.",
+      "summary": "It doesn't doesn't come from agent's experience. Because it was before the current kind of scaling paradigm around large language models had taken off, but it was after deep learning had really proven itself.",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Meta"
+      ],
+      "createdAt": "2026-09-01T17:18:03.751Z"
+    },
     {
       "id": "2026-08-30-x-97da68d21a91",
       "date": "2026-08-30",
