@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-09-01T19:54:25.455Z",
+  "generatedAt": "2026-09-01T21:43:04.701Z",
   "feedGeneratedAt": "2026-09-01T06:42:22.120Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-0689fe11e3e8",
@@ -42,7 +42,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-83358e5f3fc6",
@@ -65,7 +65,7 @@
         "OpenAI",
         "Codex"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-e9c4fbe5cba4",
@@ -86,7 +86,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-22f6b87f3b33",
@@ -105,7 +105,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-b227a9cca346",
@@ -126,7 +126,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-14b9734104de",
@@ -148,7 +148,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-13c9ee2b0eeb",
@@ -170,7 +170,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-b6160a9cc255",
@@ -189,7 +189,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-x-108e03e80721",
@@ -209,7 +209,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     },
     {
       "id": "2026-08-31-podcast-9618b0feaaa9",
@@ -235,7 +235,7 @@
         "Cursor",
         "Meta"
       ],
-      "createdAt": "2026-09-01T19:54:25.455Z"
+      "createdAt": "2026-09-01T21:43:04.701Z"
     }
   ]
 }
