@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-03T17:00:54.515Z",
+  "feedGeneratedAt": "2026-09-03T06:41:29.179Z",
+  "snippets": [
+    {
+      "id": "2026-09-02-x-e3fd270cb168",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "3.8 Flash rolling out to @GeminiApp 3.8 Flash = great quality @ great price",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. 3.8 Flash rolling out to @GeminiApp 3.8 Flash = great quality @ great price",
+      "url": "https://x.com/joshwoodward/status/2095177483129917849",
+      "publishedAt": "2026-09-02T15:50:13.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-6196c25edfc1",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on enterprise and models",
+      "takeaway": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that...",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on. Claude Tag is available in Slack on Team and Enterprise plans. Background computer use is underrated",
+      "url": "https://x.com/bcherny/status/2095276133214491086",
+      "publishedAt": "2026-09-02T22:22:13.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-fb424cbbf0a0",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and product",
+      "takeaway": "The ChatGPT desktop app is now my main browser and my productivity has never been higher I think the best way to describe OpenAI's culture is as a mega startup.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. The ChatGPT desktop app is now my main browser and my productivity has never been higher I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
+      "url": "https://x.com/thsottiaux/status/2095288416292487289",
+      "publishedAt": "2026-09-02T23:11:01.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-c4a2f33cb5ba",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product and tools",
+      "takeaway": "Damn I'm running out of Fable limit already, anyone in the same boat? GG Product manager = Member of product staff Designer = Member of design staff Engineer = Member of technical...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Damn I'm running out of Fable limit already, anyone in the same boat? GG Product manager = Member of product staff Designer = Member of design staff Engineer = Member of technical staff Is this AI making job functions more verbose? 😅 If this flattens levels and titles, I'm all for it though.",
+      "url": "https://x.com/petergyang/status/2095275295511281918",
+      "publishedAt": "2026-09-02T22:18:53.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-bc1d38f2e053",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "Every AI product should be working towards abstracting model choice away from users. In any product, the intelligence is the underlying engine - all the user cares about is that...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Every AI product should be working towards abstracting model choice away from users. In any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. Model picking is too much cognitive load for the user. There have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.",
+      "url": "https://x.com/realmadhuguru/status/2095174463696589223",
+      "publishedAt": "2026-09-02T15:38:13.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-ee0bb8279be6",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. Was OOO and did not realize this didn’t go out with the model launch.",
+      "url": "https://x.com/trq212/status/2095367584489038044",
+      "publishedAt": "2026-09-03T04:25:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-a44e344a2f2e",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Replit is coming to London 🇬🇧 To celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a...",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Replit is coming to London 🇬🇧 To celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg). Thursday, September 10th, RSVP:",
+      "url": "https://x.com/amasad/status/2095291912706220410",
+      "publishedAt": "2026-09-02T23:24:55.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-60d8dd6e2c3b",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and costs",
+      "takeaway": "It took blood, sweat, and tokens Follow @eve Everything is code",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. It took blood, sweat, and tokens Follow @eve Everything is code",
+      "url": "https://x.com/rauchg/status/2095260872537227585",
+      "publishedAt": "2026-09-02T21:21:34.000Z",
+      "tags": [
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-e28b53d9da43",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on models and tools",
+      "takeaway": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. If this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness.",
+      "url": "https://x.com/levie/status/2095234253613359200",
+      "publishedAt": "2026-09-02T19:35:48.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-0b612e2d3d22",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "It's ridiculous man Opening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies What's your California Dream?",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. It's ridiculous man Opening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies What's your California Dream? Building housing supply needs to be a top issue for how you vote this November",
+      "url": "https://x.com/garrytan/status/2095177204712017920",
+      "publishedAt": "2026-09-02T15:49:06.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-49f021b33c8a",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.",
+      "url": "https://x.com/zarazhangrui/status/2095375073381318656",
+      "publishedAt": "2026-09-03T04:55:22.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-7180a9483105",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅",
+      "url": "https://x.com/nikunj/status/2095158216409911381",
+      "publishedAt": "2026-09-02T14:33:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-9fb7cae91e48",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "many such cases it me pro tip: use your alien superintelligence to plan your next order of chocolate bars",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. many such cases it me pro tip: use your alien superintelligence to plan your next order of chocolate bars",
+      "url": "https://x.com/danshipper/status/2095320346261848169",
+      "publishedAt": "2026-09-03T01:17:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-7150bc8d1e81",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\". This is a huge reason to use OSS models.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\". This is a huge reason to use OSS models. What a weird world. Use the 🇨🇳 models to make sure your stuff is private. Also why it is critical to have 🇺🇸 OSS. Too many startups are focused on solving model issues (or leveraging model capabilities) as they exist today.",
+      "url": "https://x.com/adityaag/status/2095227334534041714",
+      "publishedAt": "2026-09-02T19:08:18.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-x-3e603eb7bfd7",
+      "date": "2026-09-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs.",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "publishedAt": "2026-09-02T19:06:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    },
+    {
+      "id": "2026-09-02-podcast-357c04af2d05",
+      "date": "2026-09-02",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How a Professional Writer Writes With AI",
+      "takeaway": "How a Professional Writer Writes With AI. Like, I would have my persistent documents, and I would just in a Google Doc, and I would copy and paste the context window so that the...",
+      "summary": "Like, I would have my persistent documents, and I would just in a Google Doc, and I would copy and paste the context window so that the agent, so that it wasn't an agent. But because I was working on a budget with no clear visibility into how long I would be unemployed, hiring a real career coach wasn't really an option for me.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-02T15:01:40.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-09-03T17:00:54.515Z"
+    }
+  ]
+}
