@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T18:33:56.072Z",
+  "generatedAt": "2026-09-03T19:46:24.126Z",
   "snippets": [
     {
       "id": "2026-09-02-x-e3fd270cb168",
@@ -19,7 +19,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-6196c25edfc1",
@@ -42,7 +42,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-fb424cbbf0a0",
@@ -65,7 +65,7 @@
         "Thibault Sottiaux",
         "OpenAI"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-c4a2f33cb5ba",
@@ -85,7 +85,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-bc1d38f2e053",
@@ -107,7 +107,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-ee0bb8279be6",
@@ -130,7 +130,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-a44e344a2f2e",
@@ -151,7 +151,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-60d8dd6e2c3b",
@@ -171,7 +171,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-e28b53d9da43",
@@ -191,7 +191,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-0b612e2d3d22",
@@ -210,7 +210,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-49f021b33c8a",
@@ -229,7 +229,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-7180a9483105",
@@ -248,7 +248,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-9fb7cae91e48",
@@ -267,7 +267,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-7150bc8d1e81",
@@ -286,7 +286,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-x-3e603eb7bfd7",
@@ -308,7 +308,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-02-podcast-357c04af2d05",
@@ -333,7 +333,7 @@
         "Codex",
         "Google"
       ],
-      "createdAt": "2026-09-03T18:33:56.072Z"
+      "createdAt": "2026-09-03T19:46:24.126Z"
     },
     {
       "id": "2026-09-01-x-ad2aa393c208",
