@@ -1,7 +1,347 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T21:08:21.566Z",
+  "generatedAt": "2026-09-06T16:10:21.316Z",
   "snippets": [
+    {
+      "id": "2026-09-05-x-900f66c16c3a",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!!",
+      "summary": "Swyx (swyx on X) shared 1 recent update. i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol",
+      "url": "https://x.com/swyx/status/2096095862732755342",
+      "publishedAt": "2026-09-05T04:39:31.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-9dbbca7ad00c",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on product and tools",
+      "takeaway": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "publishedAt": "2026-09-05T00:39:25.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-941dda9d06e7",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and tools",
+      "takeaway": "OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. Then I won't have to carry my phone around and have screen addiction. Or maybe this is what the rumored OpenAI device does. Astra generated the most stereotypical image of a PM I've ever seen for my game Would you all want to play my roguelike deckbuilder",
+      "url": "https://x.com/petergyang/status/2096086845159563476",
+      "publishedAt": "2026-09-05T04:03:41.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-b557042ba315",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and product",
+      "takeaway": "Here’s one practical thing you can do this weekend to get better at building AI products. Pick a workflow you know well - from your personal life or your work.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Here’s one practical thing you can do this weekend to get better at building AI products. Pick a workflow you know well - from your personal life or your work. Automate the whole thing with AI. Use the AI product you’re comfortable with - you’ll probably have to experiment with a few. This exercise will force you to think about 1/ What does a great end-to-end experience look like?",
+      "url": "https://x.com/realmadhuguru/status/2095907570540335174",
+      "publishedAt": "2026-09-04T16:11:19.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-f075a4389a00",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "The singularity is here, it’s just not evenly distributed It’s coming 🤗 Astra on Replit ✨",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. The singularity is here, it’s just not evenly distributed It’s coming 🤗 Astra on Replit ✨",
+      "url": "https://x.com/amasad/status/2096022087035195647",
+      "publishedAt": "2026-09-04T23:46:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-ce5d7a172a8a",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "AI software factories will yield bug-free, self-improving software Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. AI software factories will yield bug-free, self-improving software Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient. Some pretty unique wins too. e.g: Next.",
+      "url": "https://x.com/rauchg/status/2095926173293572467",
+      "publishedAt": "2026-09-04T17:25:14.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-140d6f95c552",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and product",
+      "takeaway": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience.",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. Aside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults GStack now uses @AsideAI browser as it's preferred remote session browser Does your AI agent need access to web and credentials as you?",
+      "url": "https://x.com/garrytan/status/2095971990645755941",
+      "publishedAt": "2026-09-04T20:27:18.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-a76afc012eb0",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol From our recent pod:",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol From our recent pod:",
+      "url": "https://x.com/mattturck/status/2095885284801982779",
+      "publishedAt": "2026-09-04T14:42:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-02a0f54811d2",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Most people perceive AI to be a better writer than it actually is",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Most people perceive AI to be a better writer than it actually is",
+      "url": "https://x.com/zarazhangrui/status/2096082116828406233",
+      "publishedAt": "2026-09-05T03:44:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-5ac65a890fc3",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Adding “sovereign” to this list based on the last few weeks",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Adding “sovereign” to this list based on the last few weeks",
+      "url": "https://x.com/nikunj/status/2095890365723406590",
+      "publishedAt": "2026-09-04T15:02:57.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-0cab90d35715",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "i've got Astra doing film study for our @every fantasy football draft we going to take over this league 😤 can’t help myself can you tell Astra is running my @every office fantasy...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. i've got Astra doing film study for our @every fantasy football draft we going to take over this league 😤 can’t help myself can you tell Astra is running my @every office fantasy team this is my team name:",
+      "url": "https://x.com/danshipper/status/2095882683729490108",
+      "publishedAt": "2026-09-04T14:32:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-72cd812db243",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "Me: I totally understand how RL, inference time scaling, modern data-verification loops work. Also Me: These models are total sorcery.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Me: I totally understand how RL, inference time scaling, modern data-verification loops work. Also Me: These models are total sorcery. There is no way that they should be able to do what they do.",
+      "url": "https://x.com/adityaag/status/2095910036652577028",
+      "publishedAt": "2026-09-04T16:21:07.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-x-4f752a51b382",
+      "date": "2026-09-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on coding and enterprise",
+      "takeaway": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience. Now out to all Plus and Business users. Happy building!",
+      "url": "https://x.com/sama/status/2095973658867171733",
+      "publishedAt": "2026-09-04T20:33:56.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman",
+        "Codex"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-blog-b197d60a88e2",
+      "date": "2026-09-05",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude in Chrome is generally available",
+      "takeaway": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan.",
+      "summary": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude .",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-blog-af9006b6bcf2",
+      "date": "2026-09-05",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude gets its own browser in Cowork",
+      "takeaway": "Claude gets its own browser in Cowork. Claude now has a browser built into Claude Cowork on the desktop app.",
+      "summary": "Claude gets its own browser in Cowork. Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector.",
+      "url": "https://claude.com/blog/cowork-built-in-browser",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
+    {
+      "id": "2026-09-05-podcast-0aa4355de8d8",
+      "date": "2026-09-05",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "takeaway": "Redefining Chip Architecture with Arm CEO Rene Haas. They wanted a general purpose agentic CPU. Something has to do the orchestration, arbitration decision around where those...",
+      "summary": "They wanted a general purpose agentic CPU. Something has to do the orchestration, arbitration decision around where those tokens go. I'm And just curious about how you've done that at R and Personally, I'm a huge believer in AI as a utility that's going to help productivity for every single industry.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-03T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-06T16:10:21.316Z"
+    },
     {
       "id": "2026-09-04-x-900f66c16c3a",
       "date": "2026-09-04",
