@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-07T18:13:26.841Z",
+  "feedGeneratedAt": "2026-09-07T06:50:41.247Z",
+  "snippets": [
+    {
+      "id": "2026-09-06-x-e8a965241e04",
+      "date": "2026-09-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s",
+      "summary": "Peter Yang (petergyang on X) shared 1 recent update. This man isn't even on Time's 100 Top AI List so why are we listening to him /s",
+      "url": "https://x.com/petergyang/status/2096815819997204639",
+      "publishedAt": "2026-09-07T04:20:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    },
+    {
+      "id": "2026-09-06-x-36dfeef82536",
+      "date": "2026-09-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "J-dog calling AGI",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. J-dog calling AGI",
+      "url": "https://x.com/thenanyu/status/2096796392102752507",
+      "publishedAt": "2026-09-07T03:03:11.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    },
+    {
+      "id": "2026-09-06-x-d7ed10681b64",
+      "date": "2026-09-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more.",
+      "url": "https://x.com/levie/status/2096735726750908464",
+      "publishedAt": "2026-09-06T23:02:07.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    },
+    {
+      "id": "2026-09-06-x-441f536dbc5a",
+      "date": "2026-09-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+      "url": "https://x.com/zarazhangrui/status/2096824861108928701",
+      "publishedAt": "2026-09-07T04:56:18.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    },
+    {
+      "id": "2026-09-06-x-abcfd1764480",
+      "date": "2026-09-06",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on coding",
+      "takeaway": "Fable reviewing literally every Astra code change.. \"this fix is the real deal\" Fable PM, Astra engineer is undefeated 🤝",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Fable reviewing literally every Astra code change.. \"this fix is the real deal\" Fable PM, Astra engineer is undefeated 🤝",
+      "url": "https://x.com/nikunj/status/2096798671547646134",
+      "publishedAt": "2026-09-07T03:12:14.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    },
+    {
+      "id": "2026-09-06-podcast-0aa4355de8d8",
+      "date": "2026-09-06",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "What we're seeing now on steroids is that the same type of threat is coming from nonhuman actors, agents that essentially have legitimate access to the environment with legitimate permissions. Ophelia Gunnen, thank you so much for joining me Enterprise today. You need to pay for that, for storage and of course, tokens.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-27T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Google"
+      ],
+      "createdAt": "2026-09-07T18:13:26.841Z"
+    }
+  ]
+}
