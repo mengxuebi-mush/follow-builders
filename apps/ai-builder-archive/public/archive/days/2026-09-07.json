@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-08T17:13:00.857Z",
+  "feedGeneratedAt": "2026-09-08T06:40:22.478Z",
+  "snippets": [
+    {
+      "id": "2026-09-07-x-7d7784cda395",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and product",
+      "takeaway": "I think I can officially say: we are so back All reset for everyone. Enjoy the week with Astra. Looking at this 28 page deck right now where Codex is keeping track of all the...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. I think I can officially say: we are so back All reset for everyone. Enjoy the week with Astra. Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it. Brought to you by an incredible team (and Astra)",
+      "url": "https://x.com/thsottiaux/status/2097088586843816330",
+      "publishedAt": "2026-09-07T22:24:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-c69de6f3adab",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on tools",
+      "takeaway": "Yeah I don't know if I'm doing something wrong but Astra seems worse at triggering my skills automatically and following my instructions in them. AI for family videos to remember.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Yeah I don't know if I'm doing something wrong but Astra seems worse at triggering my skills automatically and following my instructions in them. AI for family videos to remember. It did a pretty great job. Btw @GeminiApp is fantastic for all kinds of music",
+      "url": "https://x.com/petergyang/status/2097095296862036404",
+      "publishedAt": "2026-09-07T22:50:55.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-f31f94bd19ff",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "hard to see at first",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. hard to see at first",
+      "url": "https://x.com/thenanyu/status/2097030970117702117",
+      "publishedAt": "2026-09-07T18:35:18.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-b2a042886e35",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on agents and models",
+      "takeaway": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
+      "url": "https://x.com/AmandaAskell/status/2096995340654444674",
+      "publishedAt": "2026-09-07T16:13:44.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-50d879235fe2",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relentless programmer that doesn’t get bored or tired.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relentless programmer that doesn’t get bored or tired. So any problem that can be casted as a coding problem is virtually solved. Honored to have the Mayor of London, Sadiq Khan, help us open Replit’s first international office in London!",
+      "url": "https://x.com/amasad/status/2096936109817135331",
+      "publishedAt": "2026-09-07T12:18:22.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-bfbb6217c2db",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the new...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA. ▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors.",
+      "url": "https://x.com/rauchg/status/2097134278358548658",
+      "publishedAt": "2026-09-08T01:25:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-e8e21d69d668",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is because AI is bringing automation to areas that don’t have finite...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still require human operators and oversight to generate value from them.",
+      "url": "https://x.com/levie/status/2097004960307449937",
+      "publishedAt": "2026-09-07T16:51:57.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-c8c17d70caaa",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise",
+      "takeaway": "Children need to be teach-yourself-on-YouTube-maxxing It’s fair to say RFS are just hunches on what might be next, and conversation starters for people starting out.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Children need to be teach-yourself-on-YouTube-maxxing It’s fair to say RFS are just hunches on what might be next, and conversation starters for people starting out. The main determiner of a startup idea’s success are the specific founders building specific tech for specific customers. The rest is categorization. They shout “billionaires” when actually their cronies straight up loot the public coffers",
+      "url": "https://x.com/garrytan/status/2097133868549816429",
+      "publishedAt": "2026-09-08T01:24:11.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-c5efb44035a9",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "More and more people are coming to the same conclusion.. As building gets easier, what to build becomes the important bottle neck.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. More and more people are coming to the same conclusion.. As building gets easier, what to build becomes the important bottle neck. You might not need many of them, but the good ones are extremely well setup for the AI native organizations.",
+      "url": "https://x.com/nikunj/status/2096963347359150348",
+      "publishedAt": "2026-09-07T14:06:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-77a0f9c2b361",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workflow?",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
+      "url": "https://x.com/steipete/status/2097091456234111377",
+      "publishedAt": "2026-09-07T22:35:39.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-x-e0aaac495b51",
+      "date": "2026-09-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on costs",
+      "takeaway": "i was looking through my gmail messages from the early 2000s i have incredible news for you 13 year old dan....",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. i was looking through my gmail messages from the early 2000s i have incredible news for you 13 year old dan....you came up with a name :) hard to express how much building something like this was my childhood dream and how out of reach it was until last week there are some things more tokens can’t make for everything else there’s Fable and Astra",
+      "url": "https://x.com/danshipper/status/2097136523066110240",
+      "publishedAt": "2026-09-08T01:34:44.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    },
+    {
+      "id": "2026-09-07-podcast-357c04af2d05",
+      "date": "2026-09-07",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "takeaway": "A $10B Hedge Fund’s AI Playbook (Best of the Pod). So that's when we started, you know, an effort to say, okay, for fundamental investing, absolutely, there should be agents that...",
+      "summary": "So that's when we started, you know, an effort to say, okay, for fundamental investing, absolutely, there should be agents that are ultimately helping with analysis and ultimately to provide me into what's going on. Know, I've noticed the productivity improvements that I see using using these tools, just even for from a writing perspective, let alone some of the sort of more advanced things you can do.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Google"
+      ],
+      "createdAt": "2026-09-08T17:13:00.857Z"
+    }
+  ]
+}
