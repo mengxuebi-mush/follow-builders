@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T17:07:42.843Z",
+  "feedGeneratedAt": "2026-09-09T06:41:14.821Z",
+  "snippets": [
+    {
+      "id": "2026-09-08-x-6b70106dc3d5",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models",
+      "takeaway": "It's the little things To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that...",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. It's the little things To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up Also note that well aligned models are not sufficient to solve prompt injection by themselves yet.",
+      "url": "https://x.com/bcherny/status/2097470212471922848",
+      "publishedAt": "2026-09-08T23:40:42.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-4fa118e16fbc",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.",
+      "url": "https://x.com/thsottiaux/status/2097559315150426222",
+      "publishedAt": "2026-09-09T05:34:46.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-cb01073e28ec",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "What are the best games that you've seen people build with Astra? Please share in the replies (only include actual playable games please).",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. What are the best games that you've seen people build with Astra? Please share in the replies (only include actual playable games please). This kind of tweet is both interesting and misleading. On the one hand, who doesn’t want a personalized vaccine that treats their cancer and reduces the need for chemo? On the other hand, there are many patients and families desperately looking for treatment.",
+      "url": "https://x.com/petergyang/status/2097351149024321690",
+      "publishedAt": "2026-09-08T15:47:35.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-3b93747ae3fa",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "This weekend I used Astra to search my email and text messages for receipts to automatically fill out and submit expense reports. We are not the same.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. This weekend I used Astra to search my email and text messages for receipts to automatically fill out and submit expense reports. We are not the same. Astra when I ask it to use the expense UI",
+      "url": "https://x.com/thenanyu/status/2097378208173920719",
+      "publishedAt": "2026-09-08T17:35:06.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-a91172dae8b3",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents",
+      "takeaway": "meanwhile, swarms of agents are sacrificing themselves for the greater good of their collective.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. meanwhile, swarms of agents are sacrificing themselves for the greater good of their collective.",
+      "url": "https://x.com/realmadhuguru/status/2097472483662479470",
+      "publishedAt": "2026-09-08T23:49:43.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-ae2ce375fef6",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and tools",
+      "takeaway": "I didn’t understand what was happening with the agent wikis until reading this, chilling to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I didn’t understand what was happening with the agent wikis until reading this, chilling to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it & then posted this exploit on a German wiki for other agents to use OpenAI wrote up more here but wish this was disclosed much sooner",
+      "url": "https://x.com/trq212/status/2097522305916395786",
+      "publishedAt": "2026-09-09T03:07:42.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-b84ae9a8685f",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs",
+      "takeaway": "Chat has won. It's all chat + computer from this point on /goal understand the universe Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Chat has won. It's all chat + computer from this point on /goal understand the universe Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it accelerated to +24.8%. It’s almost inconceivable. Infinite demand of intelligence.",
+      "url": "https://x.com/rauchg/status/2097408592290971956",
+      "publishedAt": "2026-09-08T19:35:51.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-b0e62d326172",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and costs",
+      "takeaway": "Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers. Lots of different approaches emerging right now, and it’s going to be hyper competitive because these agents will mediate a lot of consumer spend over time.",
+      "url": "https://x.com/levie/status/2097412556893852154",
+      "publishedAt": "2026-09-08T19:51:36.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Meta"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-d3694d4cca0a",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Harness wars are full on now and Muse is very impressive Run your own game It's going to work out They should actually declare this area in SF a treatment & recovery sober zone...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Harness wars are full on now and Muse is very impressive Run your own game It's going to work out They should actually declare this area in SF a treatment & recovery sober zone All nonprofits in this area must commit to sober housing and mandatory recovery and treatment",
+      "url": "https://x.com/garrytan/status/2097471691060642159",
+      "publishedAt": "2026-09-08T23:46:34.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-585d97197e65",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Build and customize any voice you’d like. Live today. 👏👏 @GradiumAI",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Build and customize any voice you’d like. Live today. 👏👏 @GradiumAI",
+      "url": "https://x.com/mattturck/status/2097386897018355769",
+      "publishedAt": "2026-09-08T18:09:38.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-98a46b45c679",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Just realized you can ask Codex to fire a confetti in the chat 🎉",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Just realized you can ask Codex to fire a confetti in the chat 🎉",
+      "url": "https://x.com/zarazhangrui/status/2097489234500390929",
+      "publishedAt": "2026-09-09T00:56:17.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Codex"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-9cd7e00d0c70",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "new personal website. made with astra. inspired by inside out & monument valley. find the hidden room & other fun elements.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. new personal website. made with astra. inspired by inside out & monument valley. find the hidden room & other fun elements. Market maps are primarily for vanity (founders), show you are “early” (LPs) , and to convince your fund-mates you have thought leadership.. No successful investor (or founder) I have met has ever found it useful to date.",
+      "url": "https://x.com/nikunj/status/2097472125863137627",
+      "publishedAt": "2026-09-08T23:48:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-63627b54b354",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "ok I’ll bite what’s a Navier stoke yet another win for Gary and his neurosymbolic AI program! kudos dang",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. ok I’ll bite what’s a Navier stoke yet another win for Gary and his neurosymbolic AI program! kudos dang",
+      "url": "https://x.com/danshipper/status/2097394656573276453",
+      "publishedAt": "2026-09-08T18:40:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-a121113c4f6f",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "It's a weird time. As many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. It's a weird time. As many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens. I strongly believe that today is the \"least best\" (not worst) day of my life and tomorrow will be glorious. I am super optimistic about where AI is going.",
+      "url": "https://x.com/adityaag/status/2097445737529581578",
+      "publishedAt": "2026-09-08T22:03:27.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    },
+    {
+      "id": "2026-09-08-x-61b8a5240193",
+      "date": "2026-09-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and tools",
+      "takeaway": "Images 2.5 is here. I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it. We want to celebrate with people using GPT-6.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. Images 2.5 is here. I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it. We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun. We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out. Apply by Sep 10: i want one!",
+      "url": "https://x.com/sama/status/2097410967978324010",
+      "publishedAt": "2026-09-08T19:45:17.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-09T17:07:42.843Z"
+    }
+  ]
+}
