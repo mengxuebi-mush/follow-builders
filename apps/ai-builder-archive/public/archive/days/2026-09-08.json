@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-08",
-  "generatedAt": "2026-09-09T18:30:28.724Z",
+  "generatedAt": "2026-09-09T19:43:55.006Z",
   "feedGeneratedAt": "2026-09-09T06:41:14.821Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Boris Cherny"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-4fa118e16fbc",
@@ -47,7 +47,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-cb01073e28ec",
@@ -66,7 +66,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-3b93747ae3fa",
@@ -85,7 +85,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-a91172dae8b3",
@@ -104,7 +104,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-ae2ce375fef6",
@@ -127,7 +127,7 @@
         "Thariq",
         "OpenAI"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-b84ae9a8685f",
@@ -147,7 +147,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-b0e62d326172",
@@ -169,7 +169,7 @@
         "Aaron Levie",
         "Meta"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-d3694d4cca0a",
@@ -188,7 +188,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-585d97197e65",
@@ -207,7 +207,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-98a46b45c679",
@@ -227,7 +227,7 @@
         "Zara Zhang",
         "Codex"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-9cd7e00d0c70",
@@ -246,7 +246,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-63627b54b354",
@@ -265,7 +265,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-a121113c4f6f",
@@ -284,7 +284,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     },
     {
       "id": "2026-09-08-x-61b8a5240193",
@@ -304,7 +304,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-09-09T18:30:28.724Z"
+      "createdAt": "2026-09-09T19:43:55.006Z"
     }
   ]
 }
