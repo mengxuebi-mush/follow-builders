@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-10T16:57:57.845Z",
+  "feedGeneratedAt": "2026-09-10T06:40:40.193Z",
+  "snippets": [
+    {
+      "id": "2026-09-09-x-ecb41a28deba",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize. Happy to be building here with you all. Lots to explore One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff",
+      "url": "https://x.com/thsottiaux/status/2097752790177370535",
+      "publishedAt": "2026-09-09T18:23:34.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-02d35f438d73",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 My favorite way to test a new model's thinking abilities: Ask it for brutally honest feedback about your blind spots that are holding you back with this prompt (just...",
+      "url": "https://x.com/petergyang/status/2097763574886375832",
+      "publishedAt": "2026-09-09T19:06:25.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-e7b5a4b296c0",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on tools",
+      "takeaway": "Introducing Apple Orbital Strike",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Introducing Apple Orbital Strike",
+      "url": "https://x.com/thenanyu/status/2097726586191851790",
+      "publishedAt": "2026-09-09T16:39:26.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-7e5aea5a1413",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and research",
+      "takeaway": "8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… AI Benchmarks with @Benchmark & @Vercel.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. 8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… AI Benchmarks with @Benchmark & @Vercel. It's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation. The companies that benchmark models and guide the world towards skill, truth and efficiency. Join us:",
+      "url": "https://x.com/rauchg/status/2097828203658383674",
+      "publishedAt": "2026-09-09T23:23:14.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-24e6ea962b52",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You could bring the world’s greatest superintelligence to many workflows, and still be bound by the laws of corporate physics: getting data prepared and put into a pipeline, process reengineering and change...",
+      "url": "https://x.com/levie/status/2097738533297689012",
+      "publishedAt": "2026-09-09T17:26:55.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-0bccad0ba7f5",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Jane Kim: Big Talk, little respect for facts, outright falsehoods Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance...",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Jane Kim: Big Talk, little respect for facts, outright falsehoods Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner She is no public servant. We should keep her out of office.",
+      "url": "https://x.com/garrytan/status/2097728692596486487",
+      "publishedAt": "2026-09-09T16:47:48.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-0aad33195464",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring",
+      "url": "https://x.com/mattturck/status/2097738051577422256",
+      "publishedAt": "2026-09-09T17:25:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-29ccdbedc623",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Idea is easy Conviction is hard",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Idea is easy Conviction is hard",
+      "url": "https://x.com/zarazhangrui/status/2097599758391255259",
+      "publishedAt": "2026-09-09T08:15:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-2a67b49d3712",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Finally",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Finally",
+      "url": "https://x.com/nikunj/status/2097870497505837478",
+      "publishedAt": "2026-09-10T02:11:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-8e1ea77040ea",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on costs and tools",
+      "takeaway": "This is brilliant. Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. This is brilliant. Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. Finally got cloud sessions working *fast* in OpenClaw. Remote Terminal, WebVNC and CUA for computer use.",
+      "url": "https://x.com/steipete/status/2097830230899769349",
+      "publishedAt": "2026-09-09T23:31:17.000Z",
+      "tags": [
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-ba0e1aa0dbed",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and product",
+      "takeaway": "this is a very good and well designed report however, two impt assumptions in it that significantly change the analysis once you start to play with it: 1.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. this is a very good and well designed report however, two impt assumptions in it that significantly change the analysis once you start to play with it: 1. the report assumes that jobs can be decomposed into tasks 2. the report models human tasks created by automation always as a fraction of automated tasks.",
+      "url": "https://x.com/danshipper/status/2097758891270697101",
+      "publishedAt": "2026-09-09T18:47:48.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-af19635e1cc7",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "One of the greatest examples of human-oriented technology is @Waymo. But it took a long road to get here. @dmitri_dolgov joined Google's self-driving project in 2009.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. One of the greatest examples of human-oriented technology is @Waymo. But it took a long road to get here. @dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO. He's coming by @spc this month. More coming soon at SPC Spots limited, RSVP here",
+      "url": "https://x.com/adityaag/status/2097736847879192917",
+      "publishedAt": "2026-09-09T17:20:13.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Google"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-962bd07fcb2a",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on enterprise",
+      "takeaway": "ocarina of time remake is the best news in a long time. i will be unavailable november 5 and 6; need to find a case of mountain dew.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. ocarina of time remake is the best news in a long time. i will be unavailable november 5 and 6; need to find a case of mountain dew. This would suck, but we will prioritize great service for customers until we can get back on top of things. Welcome, Paul. Grateful you are doing this, and all you have done for AI safety. Excited to work together again.",
+      "url": "https://x.com/sama/status/2097696043492143157",
+      "publishedAt": "2026-09-09T14:38:04.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    },
+    {
+      "id": "2026-09-09-x-73f65cf7cee5",
+      "date": "2026-09-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on agents and coding",
+      "takeaway": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered...",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents. Get started: If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product:",
+      "url": "https://x.com/claudeai/status/2097718980437831935",
+      "publishedAt": "2026-09-09T16:09:13.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Claude",
+        "Anthropic",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-10T16:57:57.845Z"
+    }
+  ]
+}
