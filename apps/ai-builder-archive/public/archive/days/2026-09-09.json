@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-09",
-  "generatedAt": "2026-09-10T19:36:49.707Z",
+  "generatedAt": "2026-09-10T21:34:16.054Z",
   "feedGeneratedAt": "2026-09-10T06:40:40.193Z",
   "snippets": [
     {
@@ -25,7 +25,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-02d35f438d73",
@@ -46,7 +46,7 @@
         "Peter Yang",
         "Codex"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-e7b5a4b296c0",
@@ -66,7 +66,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-7e5aea5a1413",
@@ -87,7 +87,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-24e6ea962b52",
@@ -110,7 +110,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-0bccad0ba7f5",
@@ -129,7 +129,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-0aad33195464",
@@ -148,7 +148,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-29ccdbedc623",
@@ -167,7 +167,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-2a67b49d3712",
@@ -186,7 +186,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-8e1ea77040ea",
@@ -206,7 +206,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-ba0e1aa0dbed",
@@ -227,7 +227,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-af19635e1cc7",
@@ -247,7 +247,7 @@
         "Aditya Agarwal",
         "Google"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-962bd07fcb2a",
@@ -266,7 +266,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     },
     {
       "id": "2026-09-09-x-73f65cf7cee5",
@@ -291,7 +291,7 @@
         "Anthropic",
         "Vercel"
       ],
-      "createdAt": "2026-09-10T19:36:49.707Z"
+      "createdAt": "2026-09-10T21:34:16.054Z"
     }
   ]
 }
