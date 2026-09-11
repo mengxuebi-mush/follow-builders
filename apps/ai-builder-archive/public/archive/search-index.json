@@ -1,7 +1,407 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:34:16.054Z",
+  "generatedAt": "2026-09-11T17:00:00.913Z",
   "snippets": [
+    {
+      "id": "2026-09-10-x-0aba8b4159c9",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Gemini, now on Windows! Get it:",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Gemini, now on Windows! Get it:",
+      "url": "https://x.com/joshwoodward/status/2098131750660772342",
+      "publishedAt": "2026-09-10T19:29:25.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-ac1ae96919f5",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation.",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation. What do you think? Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box.",
+      "url": "https://x.com/bcherny/status/2098217571153838124",
+      "publishedAt": "2026-09-11T01:10:26.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-ff6d2baadd7d",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and models",
+      "takeaway": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.",
+      "url": "https://x.com/thsottiaux/status/2098113585683808624",
+      "publishedAt": "2026-09-10T18:17:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-185ac63f7944",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "In my humble opinion, for getting shit done Sol &gt; Astra",
+      "summary": "Peter Yang (petergyang on X) shared 1 recent update. In my humble opinion, for getting shit done Sol &gt; Astra",
+      "url": "https://x.com/petergyang/status/2098215935467544604",
+      "publishedAt": "2026-09-11T01:03:56.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-5dba69eecd7a",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Don't call it a private equity acquisition for a huge discount from peak valuation. Call it an Italian goodbye.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Don't call it a private equity acquisition for a huge discount from peak valuation. Call it an Italian goodbye. Yet normies use Google and Instagram and Zillow and Doordash all day every day. Still. Early.",
+      "url": "https://x.com/thenanyu/status/2098094411465048497",
+      "publishedAt": "2026-09-10T17:01:03.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu",
+        "Google"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-6e846cbc8084",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and research",
+      "takeaway": "How to build great evals - part 10 Measure the steps, not just the result. Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are...",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. How to build great evals - part 10 Measure the steps, not just the result. Much like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical. Two agent trajectories might produce the same answer (42!!). but one of them searches the right sources, retrieves the right document, makes 4 clean tool calls and calculates the result.",
+      "url": "https://x.com/realmadhuguru/status/2098064969464217720",
+      "publishedAt": "2026-09-10T15:04:03.000Z",
+      "tags": [
+        "agents",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-be39c346a66d",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and tools",
+      "takeaway": "Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant...",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory.",
+      "url": "https://x.com/trq212/status/2098157600361861579",
+      "publishedAt": "2026-09-10T21:12:08.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-2792f1a43872",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on tools",
+      "takeaway": "It’s time to ☁️ dream bigger ☁️ Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. It’s time to ☁️ dream bigger ☁️ Dreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required. You can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insightful and personalized daily stories. Get your daily, freshly brewed collection of stories here:",
+      "url": "https://x.com/GoogleLabs/status/2098110018289803558",
+      "publishedAt": "2026-09-10T18:03:04.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-95a1115c33ca",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. Chat with PG in London! Chat with the etn bros!",
+      "url": "https://x.com/amasad/status/2098171265924116732",
+      "publishedAt": "2026-09-10T22:06:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-8bd9bd8f2653",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment. Underlying our CDN is a global metadata store that synchronizes within hundreds of milliseconds, globally. e.",
+      "url": "https://x.com/rauchg/status/2098091056302833837",
+      "publishedAt": "2026-09-10T16:47:43.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-423d93f00693",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise. Some of the biggest trends right now: * Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident.",
+      "url": "https://x.com/levie/status/2098218284139311615",
+      "publishedAt": "2026-09-11T01:13:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI",
+        "Box"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-47f6c3c70ae6",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and models",
+      "takeaway": "When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. 00:00 Intro: AI That Improves Itself 00:55 Why Scientific Progress Is Slowing 03:08 The...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. 00:00 Intro: AI That Improves Itself 00:55 Why Scientific Progress Is Slowing 03:08 The Labyrinth of Human Knowledge 05:59 Can AI Put Science Back Together? 07:57 How LLMs Learn Biology and Proteins 10:56 Next-Token Prediction as a World Model 16:44 Can AI Generate Truly Original Ideas?",
+      "url": "https://x.com/mattturck/status/2098081448330674182",
+      "publishedAt": "2026-09-10T16:09:32.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-e5f34f0fbd65",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on costs",
+      "takeaway": "Why is computer use still so painfully slow??",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Why is computer use still so painfully slow??",
+      "url": "https://x.com/zarazhangrui/status/2098136119154254287",
+      "publishedAt": "2026-09-10T19:46:46.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-6e1f8461dbfd",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models",
+      "takeaway": "Three truths in early stage venture right now: 1) everyone wants to raise a $50 million seed 2) everyone thinks they will hit $30 million ARR next year 3) every hot tranched seed...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Three truths in early stage venture right now: 1) everyone wants to raise a $50 million seed 2) everyone thinks they will hit $30 million ARR next year 3) every hot tranched seed round magically ends up at the ~$300 million valuation This post is probably my personal record from thought -> publishing.. lacks some of the usual polish!",
+      "url": "https://x.com/nikunj/status/2098078391065018816",
+      "publishedAt": "2026-09-10T15:57:23.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-01fd5e31a3fe",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on costs",
+      "takeaway": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. Better hop on soon. Astra demand is growing too fast! Trading tokens for an AC.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. Better hop on soon. Astra demand is growing too fast! Trading tokens for an AC. Who knew SF could be so hot 🫠",
+      "url": "https://x.com/steipete/status/2098089196800098798",
+      "publishedAt": "2026-09-10T16:40:19.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-45926ab1bee5",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "the possibilities for this are incredible extremely psyched to experiment I’m so sorry very handsome interviewer too",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. the possibilities for this are incredible extremely psyched to experiment I’m so sorry very handsome interviewer too",
+      "url": "https://x.com/danshipper/status/2098116268671025210",
+      "publishedAt": "2026-09-10T18:27:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-7b722c05df56",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases. How much of your GDP would you devote to this machine?",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases. How much of your GDP would you devote to this machine? I think the answer is: very high. This is the world we live in now.",
+      "url": "https://x.com/adityaag/status/2098112281267843264",
+      "publishedAt": "2026-09-10T18:12:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-x-04420fd8cf3e",
+      "date": "2026-09-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25.",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at",
+      "url": "https://x.com/claudeai/status/2098138736642933143",
+      "publishedAt": "2026-09-10T19:57:11.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
+    {
+      "id": "2026-09-10-podcast-ab2b654bc2d1",
+      "date": "2026-09-10",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "When AI Improves Itself | Richard Socher (Recursive)",
+      "takeaway": "When AI Improves Itself | Richard Socher (Recursive). The third thing is a simulation and the fourth thing, fourth pillar, is essentially robotic process automation to collect...",
+      "summary": "The third thing is a simulation and the fourth thing, fourth pillar, is essentially robotic process automation to collect even more data and verify whether, the inventions really made sense and on top of those four you have an agent swarm and a community of scientists. There's still a good number of people out there that think of generative AI as a next token predictor, as a chatbot, as something for language.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-09-10T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-11T17:00:00.913Z"
+    },
     {
       "id": "2026-09-09-x-ecb41a28deba",
       "date": "2026-09-09",
