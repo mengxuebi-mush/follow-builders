@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T16:14:03.055Z",
+  "feedGeneratedAt": "2026-09-12T06:36:41.733Z",
+  "snippets": [
+    {
+      "id": "2026-09-11-x-364470d0ec35",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents and coding",
+      "takeaway": "Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you, we have found and fixed the following issues: - Some skills...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you, we have found and fixed the following issues: - Some skills written for previous models were triggering too often or preventing the model from checking its work. - An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it.",
+      "url": "https://x.com/thsottiaux/status/2098612714704891959",
+      "publishedAt": "2026-09-12T03:20:36.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-56336116b8c0",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and costs",
+      "takeaway": "I am skeptical of \"software factories.\" Other than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I am skeptical of \"software factories.\" Other than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop. Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens.",
+      "url": "https://x.com/petergyang/status/2098565668241334366",
+      "publishedAt": "2026-09-12T00:13:39.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-66ea5a3fa520",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "Why most enterprise AI efforts fail. 1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead a central AI team.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. Why most enterprise AI efforts fail. 1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company. The problem here is the skill gap. The team structure, product patterns, how you launch and learn that got you here do not work with AI.",
+      "url": "https://x.com/realmadhuguru/status/2098448235048378456",
+      "publishedAt": "2026-09-11T16:27:01.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-79f143618e2a",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and research",
+      "takeaway": "it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failures I see in benchmarks are due to overly strict hidden tests,...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in...",
+      "url": "https://x.com/trq212/status/2098490139798655427",
+      "publishedAt": "2026-09-11T19:13:32.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-f89cbb451f68",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on costs",
+      "takeaway": "Replit acquires a business entirely built on Replit. I expect first of many to come. Love seeing all the Astra 3D experiments on Replit! Routines with budgets!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Replit acquires a business entirely built on Replit. I expect first of many to come. Love seeing all the Astra 3D experiments on Replit! Routines with budgets!",
+      "url": "https://x.com/amasad/status/2098548464452055437",
+      "publishedAt": "2026-09-11T23:05:17.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-dc9b7eb2d395",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on enterprise and models",
+      "takeaway": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly. Proud to serve Tailscale, the 🐐 networking technology company",
+      "url": "https://x.com/rauchg/status/2098531157230969062",
+      "publishedAt": "2026-09-11T21:56:31.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-2be1bb0acf07",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent's computer. As AI agents execute critical workflows in the enterprise, they're going to need the same primitives that people have had.",
+      "url": "https://x.com/levie/status/2098478938003841123",
+      "publishedAt": "2026-09-11T18:29:01.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-0eb66bc7f03b",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and coding",
+      "takeaway": "i emptied my house said goodbyes and moved to taipei so far so great! 💛 long-lived agents for your big ideas now in Cursor",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. i emptied my house said goodbyes and moved to taipei so far so great! 💛 long-lived agents for your big ideas now in Cursor",
+      "url": "https://x.com/ryolu_/status/2098612137321201942",
+      "publishedAt": "2026-09-12T03:18:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-5255ce69cd25",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence But instead...",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized",
+      "url": "https://x.com/garrytan/status/2098615692425851205",
+      "publishedAt": "2026-09-12T03:32:26.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-9392df36c343",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "My 9/11 story (lightly updated version of a blog post I wrote in 2016 for the 15th anniversary) In September 2001, I was the young co-founder of a NYC tech startup, TripleHop...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. My 9/11 story (lightly updated version of a blog post I wrote in 2016 for the 15th anniversary) In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies. We were building enterprise search software, using whatever AI existed at the time, building what would be today close to what a Glean does. We had maybe 25 people on the team at the time.",
+      "url": "https://x.com/mattturck/status/2098517022049190227",
+      "publishedAt": "2026-09-11T21:00:21.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-d8be0f1eed51",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on enterprise",
+      "takeaway": "I think the idea of a \"one-person company\" is overrated Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. I think the idea of a \"one-person company\" is overrated Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together... It is extremely easy to lose motivation when you don't tie yourself to the mast together with somebody else",
+      "url": "https://x.com/zarazhangrui/status/2098483800456179923",
+      "publishedAt": "2026-09-11T18:48:20.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-d4031f79a005",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "“Success has many fathers, but failure is an orphan.” I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. “Success has many fathers, but failure is an orphan.” I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals. And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the next fund on (your own or part of the firm).",
+      "url": "https://x.com/nikunj/status/2098550718923997430",
+      "publishedAt": "2026-09-11T23:14:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-1bec1bf4a9be",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain. Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!",
+      "url": "https://x.com/steipete/status/2098527519213604889",
+      "publishedAt": "2026-09-11T21:42:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-335aede28d91",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and research",
+      "takeaway": "okay this is not great join the most ai pilled team on earth be at the center of the AI wave, with access to the new models, tools, and teams that matter do the best writing of...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. okay this is not great join the most ai pilled team on earth be at the center of the AI wave, with access to the new models, tools, and teams that matter do the best writing of your life: better benchmark scores don't tell you much about how well a model does on your real work that's why for the last 3 years @every we've done vibe checks on new models: long-form reviews based on hands-on testing on each model for...",
+      "url": "https://x.com/danshipper/status/2098579426178908494",
+      "publishedAt": "2026-09-12T01:08:19.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-x-d4482cfc3361",
+      "date": "2026-09-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House. I have been thinking about 9/11 all day… I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh. So many heroes on that day. How do we encourage true innovation in CA? How do we enable a two-party state?",
+      "url": "https://x.com/adityaag/status/2098580235268899123",
+      "publishedAt": "2026-09-12T01:11:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    },
+    {
+      "id": "2026-09-11-podcast-1be2be002b1b",
+      "date": "2026-09-11",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "takeaway": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're...",
+      "summary": "And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're seeing are under 30¢. So, we just announced our tokenized stocks product, which is only available outside The US right now, unfortunately, but we're working with the SEC and others to get it a path to do it in The US. At a certain size of the company, you're basically just allocating budgets and capital.",
+      "url": "https://www.youtube.com/watch?v=uLDK4l_-gUE",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-12T16:14:03.055Z"
+    }
+  ]
+}
