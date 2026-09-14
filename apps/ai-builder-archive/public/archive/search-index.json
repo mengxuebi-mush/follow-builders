@@ -1,7 +1,330 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T21:23:58.648Z",
+  "generatedAt": "2026-09-14T18:33:10.218Z",
   "snippets": [
+    {
+      "id": "2026-09-13-x-c1028deef04b",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models",
+      "takeaway": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude",
+      "url": "https://x.com/bcherny/status/2099322487603634395",
+      "publishedAt": "2026-09-14T02:20:59.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-41d6a36b4521",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents",
+      "takeaway": "While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of the world hasn’t even started using it yet.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of the world hasn’t even started using it yet. Pedro, Brex’s CEO, likes to refer to a specific chart (see the clip): “Each dot is 3.2 million people. Every gray box is someone that never used AI in the world (84%). Green boxes are free chatbot users (16%).",
+      "url": "https://x.com/petergyang/status/2099200231820963891",
+      "publishedAt": "2026-09-13T18:15:11.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Box"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-a589afa9d4f2",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "37 signals would have called the the Nuse Feed",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. 37 signals would have called the the Nuse Feed",
+      "url": "https://x.com/thenanyu/status/2099216347138011190",
+      "publishedAt": "2026-09-13T19:19:13.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-7610ea479056",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "Stud traders like Kaushik love Muse!",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Stud traders like Kaushik love Muse!",
+      "url": "https://x.com/realmadhuguru/status/2099224198732517750",
+      "publishedAt": "2026-09-13T19:50:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-9ee127cb7dd4",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again! Nominal determinism strikes again.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again! Nominal determinism strikes again.",
+      "url": "https://x.com/amasad/status/2099197117013340450",
+      "publishedAt": "2026-09-13T18:02:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-f830919dc0f6",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "You don't get it, I build software to relax",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. You don't get it, I build software to relax",
+      "url": "https://x.com/rauchg/status/2099248037507797164",
+      "publishedAt": "2026-09-13T21:25:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-ce76966c62fc",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents",
+      "takeaway": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. “Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. However, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different.",
+      "url": "https://x.com/levie/status/2099167992835924301",
+      "publishedAt": "2026-09-13T16:07:04.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-e3321c836943",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "The content about startups we do is merely the teaser for the specific advice we give 1:1 when you actually are a YC startup",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. The content about startups we do is merely the teaser for the specific advice we give 1:1 when you actually are a YC startup",
+      "url": "https://x.com/garrytan/status/2099181676039704870",
+      "publishedAt": "2026-09-13T17:01:27.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-3d4cb787b4db",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "Seed investor when a company he forgot about years ago gets acquired out of nowhere",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Seed investor when a company he forgot about years ago gets acquired out of nowhere",
+      "url": "https://x.com/mattturck/status/2099257395708879286",
+      "publishedAt": "2026-09-13T22:02:20.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-7f77a6014cdb",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "Anyone else notices this problem with Astra? Astra: I have done X Me: This is wrong, you should do Y instead Astra: You're right. I should do Y Me: ...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Anyone else notices this problem with Astra? Astra: I have done X Me: This is wrong, you should do Y instead Astra: You're right. I should do Y Me: ... Why doesn't it just go and do Y, like the other models??",
+      "url": "https://x.com/zarazhangrui/status/2099348631291883945",
+      "publishedAt": "2026-09-14T04:04:52.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-e47549cf9011",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and product",
+      "takeaway": "I get at least 1x text a day from a founder facing this exact conundrum.. Applicants your entry valuation being higher and your total comp being higher is often a bug and not a...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. I get at least 1x text a day from a founder facing this exact conundrum.. Applicants your entry valuation being higher and your total comp being higher is often a bug and not a feature. Just because a company has raised at a higher valuation doesn’t mean they are realistically more secure and the better place to go.",
+      "url": "https://x.com/nikunj/status/2099198567923765357",
+      "publishedAt": "2026-09-13T18:08:34.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-6ccfd1325a0f",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding",
+      "takeaway": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones. Also saves lots of disk space. This is all written in Rust.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones. Also saves lots of disk space. This is all written in Rust. Because you can't escape Rust. And yes, I'll test this for a few weeks and if we see that this helps the majority of users I'll try to get this into codex!",
+      "url": "https://x.com/steipete/status/2099197266636783989",
+      "publishedAt": "2026-09-13T18:03:24.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-012b2cf24f28",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "started using Astra medium for simple tasks call that pacing the frontier we’re going to the moon",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. started using Astra medium for simple tasks call that pacing the frontier we’re going to the moon",
+      "url": "https://x.com/danshipper/status/2099231248027730195",
+      "publishedAt": "2026-09-13T20:18:26.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-8d943cf4c86d",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Imagine a world where we didn’t have to rely on any one organization to be good and virtuous.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Imagine a world where we didn’t have to rely on any one organization to be good and virtuous.",
+      "url": "https://x.com/adityaag/status/2099259374544003527",
+      "publishedAt": "2026-09-13T22:10:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-x-b536771b7380",
+      "date": "2026-09-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on enterprise and models",
+      "takeaway": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot. We welcome a federal framework that sets consistent safety requirements for frontier AI.",
+      "url": "https://x.com/sama/status/2099348812305473766",
+      "publishedAt": "2026-09-14T04:05:35.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
+    {
+      "id": "2026-09-13-podcast-0aa4355de8d8",
+      "date": "2026-09-13",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "takeaway": "Redefining Chip Architecture with Arm CEO Rene Haas. They wanted a general purpose agentic CPU. Something has to do the orchestration, arbitration decision around where those...",
+      "summary": "They wanted a general purpose agentic CPU. Something has to do the orchestration, arbitration decision around where those tokens go. I'm And just curious about how you've done that at R and Personally, I'm a huge believer in AI as a utility that's going to help productivity for every single industry.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-03T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-14T18:33:10.218Z"
+    },
     {
       "id": "2026-09-12-x-ac3c5fd698d4",
       "date": "2026-09-12",
