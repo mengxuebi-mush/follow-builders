@@ -1,0 +1,385 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-15T17:38:41.174Z",
+  "feedGeneratedAt": "2026-09-15T06:42:09.351Z",
+  "snippets": [
+    {
+      "id": "2026-09-14-x-8dc27a01504f",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product and tools",
+      "takeaway": "2 months ago, we launched a Gemini power user group to test early features in the app. 20+ features tested later, your feedback has been incredible. Thank you!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. 2 months ago, we launched a Gemini power user group to test early features in the app. 20+ features tested later, your feedback has been incredible. Thank you! A new cohort is now getting early access to what’s next for Daily Brief & Personal Intelligence, and we’ll keep onboarding people. ​Join our community: Come design with us!",
+      "url": "https://x.com/joshwoodward/status/2099558443078365287",
+      "publishedAt": "2026-09-14T17:58:35.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-b85761d8829f",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models",
+      "takeaway": "Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical details, and more cool demos",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical details, and more cool demos",
+      "url": "https://x.com/bcherny/status/2099551291601248485",
+      "publishedAt": "2026-09-14T17:30:10.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-eb54f50ff47c",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and product",
+      "takeaway": "What’s a feature we should remove from Codex that isn’t useful anymore? This week will also be a level of ships that you could have expected for DevDay 2025. Crazy",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. What’s a feature we should remove from Codex that isn’t useful anymore? This week will also be a level of ships that you could have expected for DevDay 2025. Crazy",
+      "url": "https://x.com/thsottiaux/status/2099393115241300166",
+      "publishedAt": "2026-09-14T07:01:38.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-b59c11b4962d",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product",
+      "takeaway": "She sounds super cool tbh Screw it I can't wait to 2030 Voice has made me more productive going on walks in nature than staring at my screen which is an incredible feeling",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. She sounds super cool tbh Screw it I can't wait to 2030 Voice has made me more productive going on walks in nature than staring at my screen which is an incredible feeling",
+      "url": "https://x.com/petergyang/status/2099668196651610556",
+      "publishedAt": "2026-09-15T01:14:42.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-0ccaf6245c15",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "just finished recording on latent space I’m excited about this one- we get very technical about things we haven’t really talked about much yet I talked to Sid & Robert about...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. just finished recording on latent space I’m excited about this one- we get very technical about things we haven’t really talked about much yet I talked to Sid & Robert about building Claude Code: how much things have changed, how hard it's been to keep up with model capabilities and also what we miss about software engineering before AI.",
+      "url": "https://x.com/trq212/status/2099671266068496802",
+      "publishedAt": "2026-09-15T01:26:54.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-b03b134725db",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. ",
+      "url": "https://x.com/amasad/status/2099749752892186925",
+      "publishedAt": "2026-09-15T06:38:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-7f6ac27e30ef",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "Welcoming Steren, creator of Google Cloud Run, to Vercel. He will lead the Fluid family of compute products (Functions, Containers, Sandbox, Builds).",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Welcoming Steren, creator of Google Cloud Run, to Vercel. He will lead the Fluid family of compute products (Functions, Containers, Sandbox, Builds). Serverless was the last chapter of the cloud, and Steren helped define the paradigm at Google. Agents are the next frontier, and they require new compute primitives designed for them. Excited for Steren to lead this transition once again.",
+      "url": "https://x.com/rauchg/status/2099514906366328902",
+      "publishedAt": "2026-09-14T15:05:35.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-77e958e15392",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "We probably need to all update our sense of what’s coming in terms of agentic workloads with the combination of agent swarms, better computer use, the next wave of APIs and MCPs...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. We probably need to all update our sense of what’s coming in terms of agentic workloads with the combination of agent swarms, better computer use, the next wave of APIs and MCPs coming online, and new form factors like Muse or Instinct, vertical enterprise agents, background workflow agents, and other products that are emerging right now.",
+      "url": "https://x.com/levie/status/2099739019517235618",
+      "publishedAt": "2026-09-15T05:56:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "OpenAI",
+        "Anthropic",
+        "Box"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-4af746929e10",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "Ok, this was a fun weekend, but we all understand AI progress is not going to slow down, right? Too many players, too many economic incentives and too much prisoner's dilemma,...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Ok, this was a fun weekend, but we all understand AI progress is not going to slow down, right? Too many players, too many economic incentives and too much prisoner's dilemma, both domestically and globally. Ramp’s brand marketing is just genius at this point - an actual Broadway musical about bills is… unhinged in the best possible way lol (👏@eglyman and team… no CMO)",
+      "url": "https://x.com/mattturck/status/2099589199104033031",
+      "publishedAt": "2026-09-14T20:00:48.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-c415149bd3ee",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "PSA to the new Dreamforce visitors.. Lyft bike is way way faster for your intra city commutes than spending hours stuck in a Waymo / Uber.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. PSA to the new Dreamforce visitors.. Lyft bike is way way faster for your intra city commutes than spending hours stuck in a Waymo / Uber. The dedicated bike lanes in SOMA make this a breeze. Just like open source models you get 90% of the value for 10% of the time! I have been obsessed with closed payment loops for a LONG time, and have been looking to find a company trying to solve a real problem..",
+      "url": "https://x.com/nikunj/status/2099536440006955445",
+      "publishedAt": "2026-09-14T16:31:09.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-c2c53d26016f",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding",
+      "takeaway": "This is so useful. pushing to add this to codex as well.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. This is so useful. pushing to add this to codex as well.",
+      "url": "https://x.com/steipete/status/2099571935495827761",
+      "publishedAt": "2026-09-14T18:52:12.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-x-5914cd970a56",
+      "date": "2026-09-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "This is an incredible demo. AI can be human. That is the ultimate goal. So proud to have been their earliest partner. As always, a lot more to build.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. This is an incredible demo. AI can be human. That is the ultimate goal. So proud to have been their earliest partner. As always, a lot more to build. Seriously you'll want to see this for yourself",
+      "url": "https://x.com/adityaag/status/2099529959262019887",
+      "publishedAt": "2026-09-14T16:05:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-blog-97cd97d27d22",
+      "date": "2026-09-14",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-blog-dea52d951227",
+      "date": "2026-09-14",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-blog-f90fa6cabc29",
+      "date": "2026-09-14",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-blog-6cd28c156a1c",
+      "date": "2026-09-14",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Code now supports artifacts",
+      "takeaway": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages—...",
+      "summary": "Claude Code now supports artifacts. Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data.",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "publishedAt": "Jun 18, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    },
+    {
+      "id": "2026-09-14-podcast-357c04af2d05",
+      "date": "2026-09-14",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How a Professional Writer Writes With AI",
+      "takeaway": "How a Professional Writer Writes With AI. Like, I would have my persistent documents, and I would just in a Google Doc, and I would copy and paste the context window so that the...",
+      "summary": "Like, I would have my persistent documents, and I would just in a Google Doc, and I would copy and paste the context window so that the agent, so that it wasn't an agent. But because I was working on a budget with no clear visibility into how long I would be unemployed, hiring a real career coach wasn't really an option for me.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-02T15:01:40.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-09-15T17:38:41.174Z"
+    }
+  ]
+}
