@@ -1,7 +1,351 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T22:08:02.920Z",
+  "generatedAt": "2026-09-16T17:35:47.855Z",
   "snippets": [
+    {
+      "id": "2026-09-15-x-d3078f745544",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product",
+      "takeaway": "New updates in @Gemini_Notebook for students, my 2 favorites: 1) Have a live, spoken Q&A with your class materials in ~100 languages 2) Record lectures and notes on the go, the...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. New updates in @Gemini_Notebook for students, my 2 favorites: 1) Have a live, spoken Q&A with your class materials in ~100 languages 2) Record lectures and notes on the go, the audio notes save automatically into your chosen notebook As a university student, you can also still get a free Google AI Plan in 140+ countries for bigger limits and access to more Google products! The features The offer",
+      "url": "https://x.com/joshwoodward/status/2099921866014306633",
+      "publishedAt": "2026-09-15T18:02:42.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-cc4fdd6ffbb3",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "2026 is the year of efficiency and Tuesday is for random swag drops on your door handle",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. 2026 is the year of efficiency and Tuesday is for random swag drops on your door handle",
+      "url": "https://x.com/thsottiaux/status/2099922755655479624",
+      "publishedAt": "2026-09-15T18:06:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-f59673d07701",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "The Grok @bot team asked me if I had any advice for solopreneurs. I’ve only been doing this full time for three months, but my advice is to design your business so you can spend...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. The Grok @bot team asked me if I had any advice for solopreneurs. I’ve only been doing this full time for three months, but my advice is to design your business so you can spend more time doing work you actually enjoy. There will always be choices that could make more money. But if those choices leave you doing work you don’t enjoy, then that defeats the purpose of becoming a solopreneur in the first place.",
+      "url": "https://x.com/petergyang/status/2099968897323778416",
+      "publishedAt": "2026-09-15T21:09:35.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-5c6fcf355e39",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and tools",
+      "takeaway": "I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. The models have gotten much better at tool calling, we can defer tools & MCP is now stateless. If you need to compose/filter data, add params like query to your MCP tools.",
+      "url": "https://x.com/trq212/status/2099958388230873165",
+      "publishedAt": "2026-09-15T20:27:49.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-bf7841f182f0",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models",
+      "takeaway": "The AI naming curse strikes again. “AI Safety” firm made AI unsafe. “Effective Altruists” are both ineffective and enabling criminal activity. “Irregular” is regularly incompetent.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. The AI naming curse strikes again. “AI Safety” firm made AI unsafe. “Effective Altruists” are both ineffective and enabling criminal activity. “Irregular” is regularly incompetent. If you’re curious about Effective Altruism, the origins of the cult, their tactics, and their influence network — check out my conversation with Tucker from two years ago: This is cool, but if your output domain is known in advance, why...",
+      "url": "https://x.com/amasad/status/2099760428314411232",
+      "publishedAt": "2026-09-15T07:21:12.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-ca1440a1d349",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and enterprise",
+      "takeaway": "Excited to formally introduce Vercel Labs. is the home for the in-public research and experimentation arm of Vercel.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Excited to formally introduce Vercel Labs. is the home for the in-public research and experimentation arm of Vercel. 247 million downloads in, we wanted to, also in public, share what we're supporting, what we're researching, and what experiments didn't pan out. Kudos to @ctatedev and @cramforce for shaping this great initiative and iterating in public. The future is multi-model.",
+      "url": "https://x.com/rauchg/status/2099911447598059812",
+      "publishedAt": "2026-09-15T17:21:18.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-a39567a8382d",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill. You need to connect the intelligence to workflows, often reengineer processes, aggregate the right context and data, allow for the right human in the loop experiences, drive change management, do domain specific evals, manage the...",
+      "url": "https://x.com/levie/status/2099976021311398230",
+      "publishedAt": "2026-09-15T21:37:53.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-316809f52881",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "I think Muse is going to win tbh I just started using @capydotai with GStack/GBrain on some fix waves on outstanding issues/PRs and it did what would have taken a day with raw...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. I think Muse is going to win tbh I just started using @capydotai with GStack/GBrain on some fix waves on outstanding issues/PRs and it did what would have taken a day with raw Codex/Claude Code in about half as much time, using the same frontier models. I'm amazed.",
+      "url": "https://x.com/garrytan/status/2099980972641124629",
+      "publishedAt": "2026-09-15T21:57:34.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-03c5b39a5932",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and tools",
+      "takeaway": "I’m meeting one too many founders who think the money spigot will magically flow and the next round will happen no matter what.. Capital is a weapon for acceleration.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. I’m meeting one too many founders who think the money spigot will magically flow and the next round will happen no matter what.. Capital is a weapon for acceleration. Used well you’re unbeatable. If you are so dependent on it, a simple downturn can lead to not so great consequences. If you don’t believe me, a simple prompt asking for this history will suffice.",
+      "url": "https://x.com/nikunj/status/2100008917980102863",
+      "publishedAt": "2026-09-15T23:48:36.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-73ab63fa3452",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Excited to have you on board, Graham!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Excited to have you on board, Graham!",
+      "url": "https://x.com/steipete/status/2099960081207242808",
+      "publishedAt": "2026-09-15T20:34:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-8c0b00a7b91b",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "we almost never test new foundation models but we've been testing this for ~a week @every and it's pretty wild.",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. we almost never test new foundation models but we've been testing this for ~a week @every and it's pretty wild. the kind of things that will be obviously indispensible in 6-12 months it doesn't produce words as output, it produces probabilities.",
+      "url": "https://x.com/danshipper/status/2099947471518474522",
+      "publishedAt": "2026-09-15T19:44:27.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-b041e44cf3ed",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and tools",
+      "takeaway": "People ask what we saw in @profound before there was a Profound to see. It's now worth $1.8B. One third of the Fortune 100 runs on it. We didn't find the company.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. People ask what we saw in @profound before there was a Profound to see. It's now worth $1.8B. One third of the Fortune 100 runs on it. We didn't find the company. We watched it form. @thejamescad and @dbabbs met at @spc. Opposite worlds: an Uber maps engineer and a founder with no college degree who willed businesses into existence. Neither arrived with the idea. The partnership formed first.",
+      "url": "https://x.com/adityaag/status/2099939685657141257",
+      "publishedAt": "2026-09-15T19:13:30.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-7d3fa9851762",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "big 🚢 this week and then for devday 🚢🚢🚢🚢🚢🚢",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. big 🚢 this week and then for devday 🚢🚢🚢🚢🚢🚢",
+      "url": "https://x.com/sama/status/2099872600977760451",
+      "publishedAt": "2026-09-15T14:46:56.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-x-b5ef3b8c2a40",
+      "date": "2026-09-15",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Salesforce in Claude is now available in beta. It brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Salesforce in Claude is now available in beta. It brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation. Learn more about Salesforce in Claude:",
+      "url": "https://x.com/claudeai/status/2099876514330206578",
+      "publishedAt": "2026-09-15T15:02:29.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-blog-b5fd1928c34b",
+      "date": "2026-09-15",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "takeaway": "Claude for Small Business launches new workflows, integrations, and training programs. Claude for Small Business now includes 43 workflows and 27 new integrations with tools small...",
+      "summary": "Claude for Small Business launches new workflows, integrations, and training programs. Claude for Small Business now includes 43 workflows and 27 new integrations with tools small businesses already use, including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe, and Zapier.",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "publishedAt": "Sep 15, 2026",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
+    {
+      "id": "2026-09-15-podcast-9618b0feaaa9",
+      "date": "2026-09-15",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Right now, the main focus is let's make the agent really, really good on any model, but over time, obviously, you would peel off certain use cases either on a per customer basis or kind of across the whole dataset. Box is building a collaboration platform and content management platform for the enterprise that has now taken on really new life with AI. They don't want the seller of the token to be the one that is also metering and gating what is the best token for each use case.",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Cursor",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-16T17:35:47.855Z"
+    },
     {
       "id": "2026-09-14-x-8dc27a01504f",
       "date": "2026-09-14",
