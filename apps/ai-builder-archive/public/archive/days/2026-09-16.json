@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-17T17:35:51.081Z",
+  "feedGeneratedAt": "2026-09-17T06:42:41.601Z",
+  "snippets": [
+    {
+      "id": "2026-09-16-x-c1ff88aed946",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or...",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat. Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code.",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "publishedAt": "2026-09-16T16:28:29.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-604a9ca48b0b",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Sometimes physics can't be cheated Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone What is ChatGPT",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Sometimes physics can't be cheated Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone What is ChatGPT",
+      "url": "https://x.com/thsottiaux/status/2100363668051603608",
+      "publishedAt": "2026-09-16T23:18:15.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-7e3d42585b28",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and models",
+      "takeaway": "I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way. 1.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way. 1. /podcast-prep does research on the guest and then preps an interview guide. 2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel along with moments to cut. 3. /podcast-production orchestrates 5 skills to turn the full episode into 6 different assets.",
+      "url": "https://x.com/petergyang/status/2100328939034128856",
+      "publishedAt": "2026-09-16T21:00:15.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-03989b614433",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and product",
+      "takeaway": "Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside.",
+      "url": "https://x.com/realmadhuguru/status/2100312717739667963",
+      "publishedAt": "2026-09-16T19:55:48.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-3fe20031cd3e",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and models",
+      "takeaway": "Today, we are merging Claude Cowork and chat to simplify how you use Claude! We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Today, we are merging Claude Cowork and chat to simplify how you use Claude! We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps. Many of you shared that you didn't want to choose which Claude product to use for any task. As Claude models have become more capable, we've found that Claude can handle the routing for you.",
+      "url": "https://x.com/_catwu/status/2100260655312089562",
+      "publishedAt": "2026-09-16T16:28:55.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-7822a136707a",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "related to this- I think bash is no longer all you need, if your goal is just reliably tool calling but sandboxes + bash are still good for work that involves code generation &...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. related to this- I think bash is no longer all you need, if your goal is just reliably tool calling but sandboxes + bash are still good for work that involves code generation & execution I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection e.g.",
+      "url": "https://x.com/trq212/status/2100315535758217422",
+      "publishedAt": "2026-09-16T20:07:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-d4adffe89fee",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models",
+      "takeaway": "We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command. That reviewer runs on GPT Luna today.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command. That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It's coming to @vercel AI Gateway and likely new default.",
+      "url": "https://x.com/rauchg/status/2100307962262872105",
+      "publishedAt": "2026-09-16T19:36:54.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-90892a071883",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on product",
+      "takeaway": "The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own. And the new slides/docs/design integrations work very well.",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own. And the new slides/docs/design integrations work very well.",
+      "url": "https://x.com/alexalbert__/status/2100295757953917120",
+      "publishedAt": "2026-09-16T18:48:24.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-b366800abe7a",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars. Being able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.",
+      "url": "https://x.com/levie/status/2100448648672993540",
+      "publishedAt": "2026-09-17T04:55:56.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-13732da0fa99",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "I can use any harness I want and it's the same personality and full memory of my personal AGI Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. I can use any harness I want and it's the same personality and full memory of my personal AGI Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI Register for the event and join me:",
+      "url": "https://x.com/garrytan/status/2100339347669279149",
+      "publishedAt": "2026-09-16T21:41:37.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Supabase"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-259f71f879b2",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "I find myself using Claude less these days because the way it speaks has just become insufferable Like it’s constantly trying to showcase how smart/sophisticated it is, rather...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. I find myself using Claude less these days because the way it speaks has just become insufferable Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across",
+      "url": "https://x.com/zarazhangrui/status/2100278750776824115",
+      "publishedAt": "2026-09-16T17:40:50.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-2b3df1bb75bd",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and models",
+      "takeaway": "Wife wanted Black Forest cake for her birthday.. I haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT) Happy birthday @shimoleejhaveri -...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Wife wanted Black Forest cake for her birthday.. I haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT) Happy birthday @shimoleejhaveri - I love you mostest ❤️ Been tinkering with a “Home” @NousResearch agent for a few months and it’s finally gotten really good..",
+      "url": "https://x.com/nikunj/status/2100115958862107100",
+      "publishedAt": "2026-09-16T06:53:57.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-0b4737eeb69e",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "THEY DID IT THE END OF THE TABS ERA IS UPON US big big big big big LLMs are just jev is just a JSON autocomplete classifier 🤝 🚩",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. THEY DID IT THE END OF THE TABS ERA IS UPON US big big big big big LLMs are just jev is just a JSON autocomplete classifier 🤝 🚩",
+      "url": "https://x.com/danshipper/status/2100269017977987341",
+      "publishedAt": "2026-09-16T17:02:09.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-f7233f31b602",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Great ideas rarely emerge from isolation. If California were a startup, what would its board ask the CEO?",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Great ideas rarely emerge from isolation. If California were a startup, what would its board ask the CEO? I’m hosting CA governor candidate @SteveHiltonx at @spc in a couple of weeks. On the agenda: priorities, execution, and what he’d want us to hold him accountable for. Sign up here to attend:",
+      "url": "https://x.com/adityaag/status/2100347763502329951",
+      "publishedAt": "2026-09-16T22:15:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-3f12ab8aaaa1",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on product",
+      "takeaway": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+      "url": "https://x.com/sama/status/2100351958167220547",
+      "publishedAt": "2026-09-16T22:31:44.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-x-e39b298449ac",
+      "date": "2026-09-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "You can also now make decks, docs, and designs in your conversation. Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. You can also now make decks, docs, and designs in your conversation. Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.",
+      "url": "https://x.com/claudeai/status/2100258492590207079",
+      "publishedAt": "2026-09-16T16:20:20.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    },
+    {
+      "id": "2026-09-16-blog-b121f3ccdf2a",
+      "date": "2026-09-16",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Cowork and chat are now one Claude",
+      "takeaway": "Claude Cowork and chat are now one Claude. Starting today, Claude Cowork and chat are merging into one Claude.",
+      "summary": "Claude Cowork and chat are now one Claude. Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either.",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "publishedAt": "Sep 16, 2026",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-17T17:35:51.081Z"
+    }
+  ]
+}
