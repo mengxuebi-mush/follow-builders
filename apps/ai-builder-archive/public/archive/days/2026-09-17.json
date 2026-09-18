@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-18T17:03:14.366Z",
+  "feedGeneratedAt": "2026-09-18T06:41:02.530Z",
+  "snippets": [
+    {
+      "id": "2026-09-17-x-fca2a9acd299",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Have a family? We ❤️ this in ours. If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Have a family? We ❤️ this in ours. If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story!",
+      "url": "https://x.com/joshwoodward/status/2100665648825483726",
+      "publishedAt": "2026-09-17T19:18:13.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-535947006d3f",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Projects have changed not only how I interact with Claude but how I code. I stopped managing sessions.",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. Projects have changed not only how I interact with Claude but how I code. I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now. [screenshot: my actual prompts for claude code cli yesterday] Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience!",
+      "url": "https://x.com/bcherny/status/2100669598995816511",
+      "publishedAt": "2026-09-17T19:33:55.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-896dc9c07b65",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on tools",
+      "takeaway": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+      "url": "https://x.com/thsottiaux/status/2100645454245720513",
+      "publishedAt": "2026-09-17T17:57:59.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-e1cab0dacb60",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "My little @Muse red panda is both cute and saving me money - a winning combination Aww it's so cute",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. My little @Muse red panda is both cute and saving me money - a winning combination Aww it's so cute",
+      "url": "https://x.com/petergyang/status/2100740523539751337",
+      "publishedAt": "2026-09-18T00:15:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-904d82b895d8",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on models",
+      "takeaway": "In the new Projects experience, Claude coordinates all of your sessions. I've been using it every day since it lets me operate at a higher level of abstraction.",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. In the new Projects experience, Claude coordinates all of your sessions. I've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it. We're rolling this out over the coming weeks.",
+      "url": "https://x.com/_catwu/status/2100641163120423057",
+      "publishedAt": "2026-09-17T17:40:55.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-188b003850d5",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "Projects brings the architecture of Claude Tag to Claude Code. It has one agent per project that manages memory and spins off subagents for tasks.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. Projects brings the architecture of Claude Tag to Claude Code. It has one agent per project that manages memory and spins off subagents for tasks. You can ask it to be proactive, to do things on a schedule, etc. It feels a lot nicer than a bunch of sessions, try it out!",
+      "url": "https://x.com/trq212/status/2100638355872706571",
+      "publishedAt": "2026-09-17T17:29:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-1a5d527758fe",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on agents and research",
+      "takeaway": "CC the entire fam 🤝! Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. CC the entire fam 🤝! Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together. You can now: 👤 Add up to 5 members to your CC agent ☀️ Start mornings aligned with a shared \"Your Day Ahead\" brief email 🗓️ Autosync schedules & to-dos with a shared Google Calendar and Tasks 💬 Coordinate in Google Chat with CC to offload relevant tasks (ie.",
+      "url": "https://x.com/GoogleLabs/status/2100653821907366366",
+      "publishedAt": "2026-09-17T18:31:14.000Z",
+      "tags": [
+        "agents",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-5fe29a8b3060",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "This is why we need a gazillion data centers (worth it)",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. This is why we need a gazillion data centers (worth it)",
+      "url": "https://x.com/amasad/status/2100829093923320083",
+      "publishedAt": "2026-09-18T06:07:42.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-12bb4f512d31",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone. Some of this will be tiny, personal and even disposable software.",
+      "url": "https://x.com/rauchg/status/2100698591417499972",
+      "publishedAt": "2026-09-17T21:29:07.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-e6c111dbf9b9",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two. The vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7.",
+      "url": "https://x.com/levie/status/2100799668573946191",
+      "publishedAt": "2026-09-18T04:10:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-bb7fff1c2e9c",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on costs",
+      "takeaway": "The future is already here We just have to choose it and spread it faster Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. The future is already here We just have to choose it and spread it faster Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory Be careful what you wish for This is why we need alignment to humankind vs any other goal",
+      "url": "https://x.com/garrytan/status/2100612808568172830",
+      "publishedAt": "2026-09-17T15:48:15.000Z",
+      "tags": [
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-3409dabf0803",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and models",
+      "takeaway": "I have been obsessed with self driving companies for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with \"claude\" in...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. I have been obsessed with self driving companies for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with \"claude\" in the loop. Introducing my first experiment: nosugarforkids (dot com) 🙅‍♂️ > catalog of only healthy snacks for kids (surprisingly this didn't exist) > you can chat to get recommendations for school, lunches, snack boxes > built a \"tier\"...",
+      "url": "https://x.com/nikunj/status/2100714665571737885",
+      "publishedAt": "2026-09-17T22:33:00.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-6490327abf96",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "it's happening!",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. it's happening!",
+      "url": "https://x.com/danshipper/status/2100587802748440581",
+      "publishedAt": "2026-09-17T14:08:53.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-64dd9c5d2598",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and models",
+      "takeaway": "This is the right way to solve alignment and safety. @GoodfireAI is the leading non-frontier-lab company that is working on this. This is generationally important.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. This is the right way to solve alignment and safety. @GoodfireAI is the leading non-frontier-lab company that is working on this. This is generationally important.",
+      "url": "https://x.com/adityaag/status/2100746235426836708",
+      "publishedAt": "2026-09-18T00:38:27.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    },
+    {
+      "id": "2026-09-17-x-22e5dbeec376",
+      "date": "2026-09-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and costs",
+      "takeaway": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service. The project's library keeps the files you add and the ones Claude creates.",
+      "url": "https://x.com/claudeai/status/2100632684074549309",
+      "publishedAt": "2026-09-17T17:07:14.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-18T17:03:14.366Z"
+    }
+  ]
+}
