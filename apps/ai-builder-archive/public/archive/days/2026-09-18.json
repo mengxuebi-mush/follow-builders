@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-18",
-  "generatedAt": "2026-09-19T16:23:36.931Z",
+  "generatedAt": "2026-09-19T17:57:00.179Z",
   "feedGeneratedAt": "2026-09-19T06:37:30.918Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-5efee2f3f521",
@@ -44,7 +44,7 @@
         "Peter Yang",
         "Meta"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-ce6d55c0c5f1",
@@ -63,7 +63,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-ff916376ea3b",
@@ -85,7 +85,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-52767511694f",
@@ -104,7 +104,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-658e4cfb2721",
@@ -127,7 +127,7 @@
         "OpenAI",
         "Vercel"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-2445c6d9b81c",
@@ -150,7 +150,7 @@
         "Aaron Levie",
         "Box"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-cec420ad4f45",
@@ -169,7 +169,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-cb5c6a9b7d11",
@@ -188,7 +188,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-d6edcc6f6c91",
@@ -208,7 +208,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-56ac4d980eef",
@@ -227,7 +227,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-b97cf605be16",
@@ -246,7 +246,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-x-078ad538e4b7",
@@ -266,7 +266,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     },
     {
       "id": "2026-09-18-podcast-0aa4355de8d8",
@@ -290,7 +290,7 @@
         "OpenAI",
         "Perplexity"
       ],
-      "createdAt": "2026-09-19T16:23:36.931Z"
+      "createdAt": "2026-09-19T17:57:00.179Z"
     }
   ]
 }
