@@ -1,7 +1,295 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T21:36:10.282Z",
+  "generatedAt": "2026-09-19T16:23:36.931Z",
   "snippets": [
+    {
+      "id": "2026-09-18-x-51fa494a3c41",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession.",
+      "url": "https://x.com/thsottiaux/status/2101157729037586694",
+      "publishedAt": "2026-09-19T03:53:34.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-5efee2f3f521",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and enterprise",
+      "takeaway": "Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent. Here's my new video where I walk through 10 of my favorite Muse use cases, including a personalized morning news feed, a habit tracker, and how I got Muse to call customer support and negotiate my bills for me.",
+      "url": "https://x.com/petergyang/status/2101033599319613533",
+      "publishedAt": "2026-09-18T19:40:20.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Meta"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-ce6d55c0c5f1",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "This is the best movie ever made The pre-roll was legendary",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. This is the best movie ever made The pre-roll was legendary",
+      "url": "https://x.com/thenanyu/status/2101013559287435709",
+      "publishedAt": "2026-09-18T18:20:42.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-ff916376ea3b",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.",
+      "url": "https://x.com/trq212/status/2101009392611278961",
+      "publishedAt": "2026-09-18T18:04:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-52767511694f",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. ",
+      "url": "https://x.com/amasad/status/2101129866779545727",
+      "publishedAt": "2026-09-19T02:02:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-658e4cfb2721",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and costs",
+      "takeaway": "Free Jev on Vercel I know what I’m doing this weekend 😁 The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Free Jev on Vercel I know what I’m doing this weekend 😁 The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it. I think it's a great product, but this is also downstream of the \"AI is too expensive/slow\" zeitgeist. People are eager to optimize and put AI in even more places! Looks like today may be a record day for token volume % of open models on Vercel AI Gateway: 🟦 Open 78.",
+      "url": "https://x.com/rauchg/status/2101116978677285241",
+      "publishedAt": "2026-09-19T01:11:39.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-2445c6d9b81c",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise. Here's a quick demo with Box and Jev to make that real. The demo pulls an incident report from Box, asks whether it's customer-facing and how severe it is, moves the file into escalate, monitor, or review folders, and sets a metadata template...",
+      "url": "https://x.com/levie/status/2101007708044574906",
+      "publishedAt": "2026-09-18T17:57:27.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-cec420ad4f45",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "It’s hard not to create slop when most things you consume are slop To fix output, first fix input",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. It’s hard not to create slop when most things you consume are slop To fix output, first fix input",
+      "url": "https://x.com/zarazhangrui/status/2101123389528457596",
+      "publishedAt": "2026-09-19T01:37:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-cb5c6a9b7d11",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Jev scoring 3000 kid snacks with multiple criteria on in 28 seconds for $0.11 🤯 Looking for inspiration on what you are able to do with Jev (by @typefaceai) this weekend?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Jev scoring 3000 kid snacks with multiple criteria on in 28 seconds for $0.11 🤯 Looking for inspiration on what you are able to do with Jev (by @typefaceai) this weekend? Built a website called Jevable ( which showcases all the fun demos on X - filterable by a few categories. Feel free to add your own project by using the + button! Oops @typesafeai",
+      "url": "https://x.com/nikunj/status/2101006585481073093",
+      "publishedAt": "2026-09-18T17:52:59.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-d6edcc6f6c91",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and models",
+      "takeaway": "The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt-live and knows about all the sessions it's juggling.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt-live and knows about all the sessions it's juggling. We can ask it about context to current and past sessions right while we have meetings. Love having @vhbrzezowski hijacking my sessions and desloping them before the PR lands.",
+      "url": "https://x.com/steipete/status/2101141707375227372",
+      "publishedAt": "2026-09-19T02:49:55.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-56ac4d980eef",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "Roose on the loose. Very concerning there are certainly over the top AI demos on X, but it very sad to see someone call @jackcheng’s work “fake” He’s one of the smartest, most...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Roose on the loose. Very concerning there are certainly over the top AI demos on X, but it very sad to see someone call @jackcheng’s work “fake” He’s one of the smartest, most intellectually honest, and craft-focused people I’ve ever worked with. And his demo is both real and an interesting peak into the future not a good look! THIS CANNOT STAND",
+      "url": "https://x.com/danshipper/status/2100961925840404886",
+      "publishedAt": "2026-09-18T14:55:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-b97cf605be16",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "AI is a full circle. Everything old is new again.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. AI is a full circle. Everything old is new again.",
+      "url": "https://x.com/adityaag/status/2101097330107875437",
+      "publishedAt": "2026-09-18T23:53:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-x-078ad538e4b7",
+      "date": "2026-09-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on ai",
+      "takeaway": "What are you building this weekend?",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. What are you building this weekend?",
+      "url": "https://x.com/claudeai/status/2101017907136258511",
+      "publishedAt": "2026-09-18T18:37:58.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
+    {
+      "id": "2026-09-18-podcast-0aa4355de8d8",
+      "date": "2026-09-18",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
+      "takeaway": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon. They they are building like voice agents.",
+      "summary": "They they are building like voice agents. Because it's diffusion, because you're outputting many tokens at the same time, we were able to generate text like 10x faster compared to the autoregressive model. Addressable by models that are within a given latency budget, they would give you the highest possible quality.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-18T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Perplexity"
+      ],
+      "createdAt": "2026-09-19T16:23:36.931Z"
+    },
     {
       "id": "2026-09-17-x-fca2a9acd299",
       "date": "2026-09-17",
