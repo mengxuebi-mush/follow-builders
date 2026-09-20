@@ -1,7 +1,198 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T21:25:58.821Z",
+  "generatedAt": "2026-09-20T16:45:28.184Z",
   "snippets": [
+    {
+      "id": "2026-09-19-x-13130180c994",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "2026 is the year of linux desktop",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. 2026 is the year of linux desktop",
+      "url": "https://x.com/thsottiaux/status/2101431497437950458",
+      "publishedAt": "2026-09-19T22:01:26.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-411fc80ea250",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Apple TV is full of bangers, canceled my Netflix. Widow's Peak, 9.5/10 Silo season 3, 9/10 What's next? Already seen: Severance, 9.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Apple TV is full of bangers, canceled my Netflix. Widow's Peak, 9.5/10 Silo season 3, 9/10 What's next? Already seen: Severance, 9.5/10 Slow Horses, 8/10, gonna wait for more episodes for new season My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI.",
+      "url": "https://x.com/petergyang/status/2101497327861248090",
+      "publishedAt": "2026-09-20T02:23:01.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-18f535e67405",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "I’m trying to place calls with both muse and instinct and they both claim to be unable to do so… is this still rolling out?",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. I’m trying to place calls with both muse and instinct and they both claim to be unable to do so… is this still rolling out?",
+      "url": "https://x.com/thenanyu/status/2101383106372805103",
+      "publishedAt": "2026-09-19T18:49:09.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-ff96f534e52e",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "The coolest thing about the recent wave of AI is that everyone is excited about building. All short-term drama aside, this is an immeasurably good development for the world.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. The coolest thing about the recent wave of AI is that everyone is excited about building. All short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume. “I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city...",
+      "url": "https://x.com/rauchg/status/2101397206595231765",
+      "publishedAt": "2026-09-19T19:45:10.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-8f71c95863fd",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and product",
+      "takeaway": "Personal agents are the ultimate manifestation of “build something that agents want”. The form factor of a product like Muse is you want to be able to hand off a task to the agent...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Personal agents are the ultimate manifestation of “build something that agents want”. The form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.",
+      "url": "https://x.com/levie/status/2101427997597446636",
+      "publishedAt": "2026-09-19T21:47:31.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-695fc2128a55",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Stop racial discrimination in the University of California system",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Stop racial discrimination in the University of California system",
+      "url": "https://x.com/garrytan/status/2101456284482441656",
+      "publishedAt": "2026-09-19T23:39:56.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-f7d89e565642",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos.. I get basically a DM a day asking “aren’t you a VC, why are you doing this?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos.. I get basically a DM a day asking “aren’t you a VC, why are you doing this?” Unlike other eras, things are moving SO fast that if you don’t do this, I simply don’t understand how folks will ever learn what’s coming next.",
+      "url": "https://x.com/nikunj/status/2101340098356990058",
+      "publishedAt": "2026-09-19T15:58:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-x-43beef226887",
+      "date": "2026-09-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents",
+      "takeaway": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states without them knowing about it.",
+      "url": "https://x.com/adityaag/status/2101426570850451914",
+      "publishedAt": "2026-09-19T21:41:51.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
+    {
+      "id": "2026-09-19-podcast-ab2b654bc2d1",
+      "date": "2026-09-19",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "When AI Improves Itself | Richard Socher (Recursive)",
+      "takeaway": "When AI Improves Itself | Richard Socher (Recursive). The third thing is a simulation and the fourth thing, fourth pillar, is essentially robotic process automation to collect...",
+      "summary": "The third thing is a simulation and the fourth thing, fourth pillar, is essentially robotic process automation to collect even more data and verify whether, the inventions really made sense and on top of those four you have an agent swarm and a community of scientists. There's still a good number of people out there that think of generative AI as a next token predictor, as a chatbot, as something for language.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-09-10T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-20T16:45:28.184Z"
+    },
     {
       "id": "2026-09-18-x-51fa494a3c41",
       "date": "2026-09-18",
