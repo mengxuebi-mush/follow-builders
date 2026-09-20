@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-19",
-  "generatedAt": "2026-09-20T19:25:01.064Z",
+  "generatedAt": "2026-09-20T21:28:32.016Z",
   "feedGeneratedAt": "2026-09-20T06:37:53.420Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-411fc80ea250",
@@ -44,7 +44,7 @@
         "Peter Yang",
         "OpenAI"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-18f535e67405",
@@ -63,7 +63,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-ff96f534e52e",
@@ -82,7 +82,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-8f71c95863fd",
@@ -103,7 +103,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-695fc2128a55",
@@ -122,7 +122,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-f7d89e565642",
@@ -145,7 +145,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-x-43beef226887",
@@ -167,7 +167,7 @@
         "Anthropic",
         "Google"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     },
     {
       "id": "2026-09-19-podcast-ab2b654bc2d1",
@@ -193,7 +193,7 @@
         "Meta",
         "Box"
       ],
-      "createdAt": "2026-09-20T19:25:01.064Z"
+      "createdAt": "2026-09-20T21:28:32.016Z"
     }
   ]
 }
