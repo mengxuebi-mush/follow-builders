@@ -1,7 +1,234 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T21:28:32.016Z",
+  "generatedAt": "2026-09-21T18:37:34.200Z",
   "snippets": [
+    {
+      "id": "2026-09-20-x-c14a0cef3983",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "Jev pod tomorrow subscribe on apple /youtube @latentspacepod thanks to @allenpark and Ke for making this happen!",
+      "summary": "Swyx (swyx on X) shared 1 recent update. Jev pod tomorrow subscribe on apple /youtube @latentspacepod thanks to @allenpark and Ke for making this happen!",
+      "url": "https://x.com/swyx/status/2101873256097804529",
+      "publishedAt": "2026-09-21T03:16:49.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-9cb74043cc1a",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "My “armchair” thoughts on the personal agent race: 1. Muse is poised to become the leader. The app is intuitive, and Meta is aggressively promoting it across all its properties.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My “armchair” thoughts on the personal agent race: 1. Muse is poised to become the leader. The app is intuitive, and Meta is aggressively promoting it across all its properties. Once you use the Muse app, you realize that it makes little sense for an agent to live in an existing messaging app like iMessage.",
+      "url": "https://x.com/petergyang/status/2101862331345154469",
+      "publishedAt": "2026-09-21T02:33:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-959efa509881",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "there is something about video games that give high stakes and responsibilities to young people who couldn’t really get them irl but it is a fine line and at some point you need...",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. there is something about video games that give high stakes and responsibilities to young people who couldn’t really get them irl but it is a fine line and at some point you need to graduate",
+      "url": "https://x.com/trq212/status/2101844435353145452",
+      "publishedAt": "2026-09-21T01:22:18.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-590f4fa7b07f",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on costs",
+      "takeaway": "Built my son his first computer",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Built my son his first computer",
+      "url": "https://x.com/amasad/status/2101852258468299182",
+      "publishedAt": "2026-09-21T01:53:23.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-88b53e1c65a3",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering right in a mobile (in-app) browser.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering right in a mobile (in-app) browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral vercel deployment to throw at an iPhone simulator! The absolute grind on these things. Humans could simply never match this level of intensity.",
+      "url": "https://x.com/rauchg/status/2101728091710341176",
+      "publishedAt": "2026-09-20T17:39:59.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-846e6663637e",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents",
+      "takeaway": "Literally impenetrable from agent swarms",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Literally impenetrable from agent swarms",
+      "url": "https://x.com/levie/status/2101731574668747081",
+      "publishedAt": "2026-09-20T17:53:50.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-3eebbaf0b3c8",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all the way back to mid last week. Simpler times.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all the way back to mid last week. Simpler times.",
+      "url": "https://x.com/mattturck/status/2101820308009206077",
+      "publishedAt": "2026-09-20T23:46:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-07c68760d073",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it overnight and serve it the next day.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it overnight and serve it the next day. Saying this as I devour my leftover Manchurian. Have the exact same experience with Ramen, Indian food, Thai curry and others. Might be blasphemous to the purists but they taste so much better!",
+      "url": "https://x.com/nikunj/status/2101742225906655315",
+      "publishedAt": "2026-09-20T18:36:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-6ec165b61a04",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on research",
+      "takeaway": "New benchmark dropped Your claw can now FaceTime you!",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. New benchmark dropped Your claw can now FaceTime you!",
+      "url": "https://x.com/steipete/status/2101748820237500557",
+      "publishedAt": "2026-09-20T19:02:22.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-x-807496f5b27d",
+      "date": "2026-09-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "highly recommend this is my favorite book",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. highly recommend this is my favorite book",
+      "url": "https://x.com/danshipper/status/2101816740741329218",
+      "publishedAt": "2026-09-20T23:32:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
+    {
+      "id": "2026-09-20-podcast-0aa4355de8d8",
+      "date": "2026-09-20",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "takeaway": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're...",
+      "summary": "And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we're seeing are under 30¢. So, we just announced our tokenized stocks product, which is only available outside The US right now, unfortunately, but we're working with the SEC and others to get it a path to do it in The US. At a certain size of the company, you're basically just allocating budgets and capital.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-09-21T18:37:34.200Z"
+    },
     {
       "id": "2026-09-19-x-13130180c994",
       "date": "2026-09-19",
