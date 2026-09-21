@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-20",
-  "generatedAt": "2026-09-21T18:37:34.200Z",
+  "generatedAt": "2026-09-21T19:56:59.734Z",
   "feedGeneratedAt": "2026-09-21T06:52:51.933Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-9cb74043cc1a",
@@ -49,7 +49,7 @@
         "Google",
         "Meta"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-959efa509881",
@@ -69,7 +69,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-590f4fa7b07f",
@@ -88,7 +88,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-88b53e1c65a3",
@@ -109,7 +109,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-846e6663637e",
@@ -128,7 +128,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-3eebbaf0b3c8",
@@ -147,7 +147,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-07c68760d073",
@@ -166,7 +166,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-6ec165b61a04",
@@ -185,7 +185,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-x-807496f5b27d",
@@ -204,7 +204,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     },
     {
       "id": "2026-09-20-podcast-0aa4355de8d8",
@@ -229,7 +229,7 @@
         "Meta",
         "Box"
       ],
-      "createdAt": "2026-09-21T18:37:34.200Z"
+      "createdAt": "2026-09-21T19:56:59.734Z"
     }
   ]
 }
