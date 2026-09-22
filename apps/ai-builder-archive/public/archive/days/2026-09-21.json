@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-22T17:36:38.875Z",
+  "feedGeneratedAt": "2026-09-22T06:42:06.429Z",
+  "snippets": [
+    {
+      "id": "2026-09-21-x-3040dc68be35",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "@latentspacepod @allenpark out now wherever fine podcasts are sold! (email, apple podcasts, youtube)",
+      "summary": "Swyx (swyx on X) shared 1 recent update. @latentspacepod @allenpark out now wherever fine podcasts are sold! (email, apple podcasts, youtube)",
+      "url": "https://x.com/swyx/status/2102160025666101658",
+      "publishedAt": "2026-09-21T22:16:21.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-ae4517362149",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+      "url": "https://x.com/thsottiaux/status/2102254445082116335",
+      "publishedAt": "2026-09-22T04:31:32.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-102eefee12f4",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and enterprise",
+      "takeaway": "I think we're in for a rude awakening in the ad markets: If a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I think we're in for a rude awakening in the ad markets: If a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing your ads at all? Nah. I no longer live in email or text, I live in the chat with my agent(s). ChatGPT Finances can help you spot charges you missed and get your money back.",
+      "url": "https://x.com/petergyang/status/2102215701255844074",
+      "publishedAt": "2026-09-22T01:57:35.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-0c8b1484d763",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "I now type \"use big pictures and few words\" several times a day",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. I now type \"use big pictures and few words\" several times a day",
+      "url": "https://x.com/trq212/status/2102186805034635576",
+      "publishedAt": "2026-09-22T00:02:45.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-cd6fda571aec",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "AI is reviving the American Dream.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. AI is reviving the American Dream.",
+      "url": "https://x.com/amasad/status/2102120769232978174",
+      "publishedAt": "2026-09-21T19:40:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-3e7d8b03ba98",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and tools",
+      "takeaway": "I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast! Game recognizing game In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway",
+      "url": "https://x.com/rauchg/status/2102089968860721335",
+      "publishedAt": "2026-09-21T17:37:58.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-a66c5bdda5fa",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and tools",
+      "takeaway": "AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need many of the core primitives that people have used. In fact, in many ways these core primitives become even more important when agents can take destructive actions in our systems or where the context they’re accessing with make or break the...",
+      "url": "https://x.com/levie/status/2102235949430354273",
+      "publishedAt": "2026-09-22T03:18:02.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-2d1d1cf288a6",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week. If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea Example PR - here is executing against a very...",
+      "url": "https://x.com/garrytan/status/2102095924893827501",
+      "publishedAt": "2026-09-21T18:01:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-61cc627ae9fd",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it.. Instinct and Muse are great especially for browser use on the phone. It shows what a great agent is like for the masses with ZERO setup. But, Codex on Mac is simply undefeated in all the work in can do with Computer Use (h/t @AriX and the Sky team).",
+      "url": "https://x.com/nikunj/status/2102186665863463199",
+      "publishedAt": "2026-09-22T00:02:12.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Codex"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-x-6837799adb56",
+      "date": "2026-09-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos!",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! The beauty of running a claw yourself: they cannot block you. Proud to say that we did our homework. They found nothing critical.",
+      "url": "https://x.com/steipete/status/2102116206371315854",
+      "publishedAt": "2026-09-21T19:22:13.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Meta"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    },
+    {
+      "id": "2026-09-21-blog-b197d60a88e2",
+      "date": "2026-09-21",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude in Chrome is generally available",
+      "takeaway": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan.",
+      "summary": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude .",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-22T17:36:38.875Z"
+    }
+  ]
+}
