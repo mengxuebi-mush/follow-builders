@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-23",
-  "generatedAt": "2026-09-24T17:49:59.531Z",
+  "generatedAt": "2026-09-24T19:03:30.485Z",
   "feedGeneratedAt": "2026-09-24T06:42:38.168Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-8120608cf46d",
@@ -40,7 +40,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-5d416f6d43a1",
@@ -63,7 +63,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-fb96bd6361a7",
@@ -83,7 +83,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-b3f7137ed691",
@@ -106,7 +106,7 @@
         "Peter Yang",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-b7f81da41a0b",
@@ -129,7 +129,7 @@
         "Google",
         "Meta"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-72a13538577b",
@@ -151,7 +151,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-00928fcdc70d",
@@ -170,7 +170,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-03a97c9a3f0f",
@@ -194,7 +194,7 @@
         "Guillermo Rauch",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-4bcfa67a7bd8",
@@ -215,7 +215,7 @@
         "Aaron Levie",
         "Box"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-69d3f0719553",
@@ -238,7 +238,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-da4fedbbe1fb",
@@ -259,7 +259,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-7448571fe91f",
@@ -278,7 +278,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-686ea4a4fb28",
@@ -297,7 +297,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-3ae87620e1d5",
@@ -316,7 +316,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-8ae77954f21f",
@@ -335,7 +335,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-x-0df3201badbc",
@@ -359,7 +359,7 @@
         "Claude",
         "Cursor"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-blog-97cd97d27d22",
@@ -384,7 +384,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-blog-dea52d951227",
@@ -409,7 +409,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     },
     {
       "id": "2026-09-23-blog-f90fa6cabc29",
@@ -434,7 +434,7 @@
         "Claude",
         "Meta"
       ],
-      "createdAt": "2026-09-24T17:49:59.531Z"
+      "createdAt": "2026-09-24T19:03:30.485Z"
     }
   ]
 }
