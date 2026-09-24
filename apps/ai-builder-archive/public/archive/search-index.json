@@ -1,7 +1,439 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T22:13:12.045Z",
+  "generatedAt": "2026-09-24T17:49:59.531Z",
   "snippets": [
+    {
+      "id": "2026-09-23-x-a70c095da5e1",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: 5.5 Opus is the new default model for AINews going forward.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: 5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus. @latentspacepod benched",
+      "url": "https://x.com/swyx/status/2102650014552182920",
+      "publishedAt": "2026-09-23T06:43:23.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-8120608cf46d",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. More of your favorite apps are coming to Gemini! Which ones do you want next?",
+      "url": "https://x.com/joshwoodward/status/2102800209894056351",
+      "publishedAt": "2026-09-23T16:40:12.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-5d416f6d43a1",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "If you've noticed how fast and the Desktop app have become in the last few weeks, here's how we did it.",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. If you've noticed how fast and the Desktop app have become in the last few weeks, here's how we did it. Lots of juicy learnings & techniques in the blog post for engineers working on speeding up your own apps. It was an honor to meet Donald Knuth at the Computer History Museum today More details for the formal methods people -- what's happening is Claude is doing something like: 1.",
+      "url": "https://x.com/bcherny/status/2102854267782705648",
+      "publishedAt": "2026-09-23T20:15:01.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-fb96bd6361a7",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins,...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins. Can't wait for DevDay next Tuesday. Some really fun stuff, but also many many things that should change the way you work.",
+      "url": "https://x.com/thsottiaux/status/2102814202117411196",
+      "publishedAt": "2026-09-23T17:35:48.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-b3f7137ed691",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Opus 5.5 is: - Smart - Fast - Fun to talk to - Good at writing - Friendly on rate limits - Constantly surprising at just how much it is capable of No more crappy corporate slides,...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Opus 5.5 is: - Smart - Fast - Fun to talk to - Good at writing - Friendly on rate limits - Constantly surprising at just how much it is capable of No more crappy corporate slides, the result of this prompt blew me away lol With a model this good the Claude Code harness really needs great live voice and browser + computer use (latter is improving!) Right now one lab has the best model and another has the best harness.",
+      "url": "https://x.com/petergyang/status/2102946952740741394",
+      "publishedAt": "2026-09-24T02:23:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-b7f81da41a0b",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and costs",
+      "takeaway": "I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship with “doing things”.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship with “doing things”. I’ve learned it the hard way from building consumer and smb products for years at Google and now Meta. Browsing clothes can be entertainment (for some). But hiring a roofer is miserable (for most). Even with shopping, sometimes you want to browse for an hour.",
+      "url": "https://x.com/realmadhuguru/status/2102777931764498536",
+      "publishedAt": "2026-09-23T15:11:41.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-72a13538577b",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and tools",
+      "takeaway": "this is a new type of post we're trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate let us know if it's...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. this is a new type of post we're trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate let us know if it's useful or if you have any feedback! the post: \"Claude one-shot this\" the prompt: 10k characters with good takes plus skills, examples and API keys also it does look incredible",
+      "url": "https://x.com/trq212/status/2102857025206255902",
+      "publishedAt": "2026-09-23T20:25:58.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-00928fcdc70d",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "You need young people to break the mold, question deeply held beliefs, and attempt the impossible. The ideal college would cultivate exactly that. 👀",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. You need young people to break the mold, question deeply held beliefs, and attempt the impossible. The ideal college would cultivate exactly that. 👀",
+      "url": "https://x.com/amasad/status/2102799031038878172",
+      "publishedAt": "2026-09-23T16:35:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-03a97c9a3f0f",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Brain → model, harness (logic) 👐 Hands → tools, computer, browser 🗃️ Files → memories,...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Brain → model, harness (logic) 👐 Hands → tools, computer, browser 🗃️ Files → memories, skills, repos The 'easy' way is to throw all these in 1 stateful computer (a Mac Mini) Like, you run 𝚌𝚕𝚊𝚞𝚍𝚎 or 𝚏𝚡 in your mac, you keep it running all day with 𝚌𝚊𝚏𝚏𝚎𝚒𝚗𝚊𝚝𝚎, it has storage, and CLIs and apps installed.",
+      "url": "https://x.com/rauchg/status/2102820148629614685",
+      "publishedAt": "2026-09-23T17:59:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-4bcfa67a7bd8",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on costs and tools",
+      "takeaway": "Muse and Box, together at last Great vision for the future of the creative industry with AI from the one person who can actually predict these things.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Muse and Box, together at last Great vision for the future of the creative industry with AI from the one person who can actually predict these things. “As the barriers and the costs come down, more films will get made, not fewer. Studios will get to take more risks. There will be more seats at the table, and very soon entirely new forms of storytelling.",
+      "url": "https://x.com/levie/status/2102915863989075979",
+      "publishedAt": "2026-09-24T00:19:46.000Z",
+      "tags": [
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-69d3f0719553",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and models",
+      "takeaway": "efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge more manage more agents compress every loop remove every pause...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge more manage more agents compress every loop remove every pause turn every hour into output but what is the point of endless production if there is no time left to think deeply?",
+      "url": "https://x.com/ryolu_/status/2102933485795369213",
+      "publishedAt": "2026-09-24T01:29:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-da4fedbbe1fb",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and enterprise",
+      "takeaway": "Two important simultaneous important trends in how startups get customers: Make software agents want Use agents to make people want software This is not priced in yet Muse is very...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Two important simultaneous important trends in how startups get customers: Make software agents want Use agents to make people want software This is not priced in yet Muse is very impressive",
+      "url": "https://x.com/garrytan/status/2102955139875397806",
+      "publishedAt": "2026-09-24T02:55:51.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-7448571fe91f",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise",
+      "takeaway": "When I cajole a seed investor to send me their best company..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. When I cajole a seed investor to send me their best company..",
+      "url": "https://x.com/nikunj/status/2102899862127943985",
+      "publishedAt": "2026-09-23T23:16:11.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-686ea4a4fb28",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Astra is crushing it. Who needs VNC when there's browsers. crushed it.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Astra is crushing it. Who needs VNC when there's browsers. crushed it.",
+      "url": "https://x.com/steipete/status/2103001790069526564",
+      "publishedAt": "2026-09-24T06:01:13.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-3ae87620e1d5",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "sick tomorrow at 6pm we find out if an ai agent can throw a good party the @every agent planned every’s september meetup from the food and drinks menu to the guest list.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. sick tomorrow at 6pm we find out if an ai agent can throw a good party the @every agent planned every’s september meetup from the food and drinks menu to the guest list. come grade it with in our brownstone in brooklyn! rsvp:",
+      "url": "https://x.com/danshipper/status/2102810679287914502",
+      "publishedAt": "2026-09-23T17:21:48.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-8ae77954f21f",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise",
+      "takeaway": "You think Zuck is good when he is down and in the trenches and in lockdown and in war mode? Just see how he dominates when he has the big stack. Proud Facebook alum. LFG.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. You think Zuck is good when he is down and in the trenches and in lockdown and in war mode? Just see how he dominates when he has the big stack. Proud Facebook alum. LFG. It tells you a lot when someone has moved around a lot in their career. Also tells you a lot when there is low company turnover.",
+      "url": "https://x.com/adityaag/status/2102948781813792996",
+      "publishedAt": "2026-09-24T02:30:35.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-x-0df3201badbc",
+      "date": "2026-09-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on agents and coding",
+      "takeaway": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from...",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from companies like Cursor and CrowdStrike - Scale with service partners like Accenture and Deloitte Browse the marketplace: And if you're building for Claude, list your tools, agents or services here:",
+      "url": "https://x.com/claudeai/status/2102840851538080172",
+      "publishedAt": "2026-09-23T19:21:42.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Cursor"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-blog-97cd97d27d22",
+      "date": "2026-09-23",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-blog-dea52d951227",
+      "date": "2026-09-23",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
+    {
+      "id": "2026-09-23-blog-f90fa6cabc29",
+      "date": "2026-09-23",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-09-24T17:49:59.531Z"
+    },
     {
       "id": "2026-09-22-x-349a49a59720",
       "date": "2026-09-22",
