@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-27T17:41:24.305Z",
+  "feedGeneratedAt": "2026-05-16T07:04:43.402Z",
+  "snippets": [
+    {
+      "id": "2026-09-26-x-72f036902340",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing @gabrielchua was demoing this and i was like “you guys have agentic...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing @gabrielchua was demoing this and i was like “you guys have agentic excel on mac” @Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.",
+      "url": "https://x.com/swyx/status/2055494400252481687",
+      "publishedAt": "2026-05-16T03:43:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-d413de6e3f73",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and tools",
+      "takeaway": "This is a really great update. I just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off Doesn't appear...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. This is a really great update. I just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off Doesn't appear there's a \"Use for ad targeting\" toggle here so I'll assume the same toggle applies to both. ChatGPT Finances is pretty awesome. AI still has trouble classifying transactions correctly though. lol this is why he’s the best",
+      "url": "https://x.com/petergyang/status/2055450577094738018",
+      "publishedAt": "2026-05-16T00:49:40.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-b7f9e5bee7e6",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on product",
+      "takeaway": "A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them. For two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain. That made a lot of PM work dry and mechanical. But for a long time, it was enough to build a career. It’s also why so much software feels the same.",
+      "url": "https://x.com/realmadhuguru/status/2055414865146327088",
+      "publishedAt": "2026-05-15T22:27:46.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-5d99bfd959b7",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable. We all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.",
+      "url": "https://x.com/rauchg/status/2055278852931530784",
+      "publishedAt": "2026-05-15T13:27:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Claude",
+        "Codex",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-bc98d773adc3",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Headless software is the future I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Headless software is the future I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification).",
+      "url": "https://x.com/levie/status/2055357619888595271",
+      "publishedAt": "2026-05-15T18:40:17.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-9b7d844e9c77",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as the CA asset seizure tax by SEIU. Bad anti-business policy that makes our cities and states poorer. It's time to vote in California elections and here is my voter guide. There are a lot of things to get right here.",
+      "url": "https://x.com/garrytan/status/2055446378596474891",
+      "publishedAt": "2026-05-16T00:32:59.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-dba9d9733fea",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Some personal news: He slid into my DMs, don't say prayers don't work y'all",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Some personal news: He slid into my DMs, don't say prayers don't work y'all",
+      "url": "https://x.com/mattturck/status/2055404881024848056",
+      "publishedAt": "2026-05-15T21:48:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-223cf816827e",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product and tools",
+      "takeaway": "Man, /goal is just AGI if given the right tools.. Like what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Man, /goal is just AGI if given the right tools.. Like what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs caused by different images, the descriptions, used browser harness to get real-time info from the web, used web search for fact checking, wrote scripts for all the work you did for the future..",
+      "url": "https://x.com/nikunj/status/2055426430654439485",
+      "publishedAt": "2026-05-15T23:13:43.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-1149d24aecf6",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question: How would we build...",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question: How would we build software in the future if tokens don't matter? We constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.",
+      "url": "https://x.com/steipete/status/2055405041843052792",
+      "publishedAt": "2026-05-15T21:48:44.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-45989541d8dc",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "Codex-native apps are the future. our full deep-dive on trying to launch an agent-as-a-service platform built on openclaw! my two bigs ones: 1.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Codex-native apps are the future. our full deep-dive on trying to launch an agent-as-a-service platform built on openclaw! my two bigs ones: 1. OpenClaw is awesome but it's EXTREMELY hard to build on it as a platform. it moves super fast, there are tons of regressions, it's not great to be the layer in between OpenClaw and a user 2. One super agent for a company beats 1-1 agents for everyone.",
+      "url": "https://x.com/danshipper/status/2055451869841965154",
+      "publishedAt": "2026-05-16T00:54:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-x-87f47117754f",
+      "date": "2026-09-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on tools",
+      "takeaway": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please')",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please')",
+      "url": "https://x.com/sama/status/2055356452286640630",
+      "publishedAt": "2026-05-15T18:35:39.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    },
+    {
+      "id": "2026-09-26-podcast-52b21e3f4c65",
+      "date": "2026-09-26",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong",
+      "takeaway": "Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong. A world model, at a very general level, is something that allows an agentic system to...",
+      "summary": "A world model, at a very general level, is something that allows an agentic system to anticipate the consequences of its own actions. LLMs do not have the ability to predict the consequences of their actions, and they do not have any planning abilities, because inference is by predicting the next token. And so it made sense to really do a startup around it and sort of go to into high gear, you know, and pushing that.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-05-15T12:50:21.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-09-27T17:41:24.305Z"
+    }
+  ]
+}
