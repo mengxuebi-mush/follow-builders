@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T18:58:00.952Z",
+  "generatedAt": "2026-09-27T20:06:27.597Z",
   "snippets": [
     {
       "id": "2026-09-26-x-d902b117cca9",
@@ -20,7 +20,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-cd414a4fdd7c",
@@ -42,7 +42,7 @@
         "Claude",
         "Google"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-9a34877968e0",
@@ -63,7 +63,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-d9a997ac094d",
@@ -82,7 +82,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-bb47bab11d07",
@@ -103,7 +103,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-293036249578",
@@ -122,7 +122,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-b9b843cedd8e",
@@ -141,7 +141,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-x-ef7c137c2757",
@@ -160,7 +160,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-26-podcast-0aa4355de8d8",
@@ -184,7 +184,7 @@
         "OpenAI",
         "Perplexity"
       ],
-      "createdAt": "2026-09-27T18:58:00.952Z"
+      "createdAt": "2026-09-27T20:06:27.597Z"
     },
     {
       "id": "2026-09-25-x-073cc159d1ba",
