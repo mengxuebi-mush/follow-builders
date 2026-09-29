@@ -1,7 +1,385 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T23:48:13.508Z",
+  "generatedAt": "2026-09-29T18:34:35.766Z",
   "snippets": [
+    {
+      "id": "2026-09-28-x-753c45499e1c",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product",
+      "takeaway": "oai designers have to be trolling us",
+      "summary": "Swyx (swyx on X) shared 1 recent update. oai designers have to be trolling us",
+      "url": "https://x.com/swyx/status/2104741800393253322",
+      "publishedAt": "2026-09-29T01:15:24.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-00190f6e7ce6",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Having just come back from Yosemite recently, this is awesome!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Having just come back from Yosemite recently, this is awesome!",
+      "url": "https://x.com/joshwoodward/status/2104616392297451882",
+      "publishedAt": "2026-09-28T16:57:04.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-a6e1ea86f9bf",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage.",
+      "url": "https://x.com/bcherny/status/2104638725317923228",
+      "publishedAt": "2026-09-28T18:25:49.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-7386dcaf72fc",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Sunday vibes. See you at Fort Mason soon 🎮👩‍💻 Hi, Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Sunday vibes. See you at Fort Mason soon 🎮👩‍💻 Hi, Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan.",
+      "url": "https://x.com/thsottiaux/status/2104465709384491519",
+      "publishedAt": "2026-09-28T06:58:18.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-18b4c3574a16",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "My very first @OpenAI dev day is tomorrow. If you're going I hope to see you there! I built a working StarCraft level with Sonnet 5.5.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. My very first @OpenAI dev day is tomorrow. If you're going I hope to see you there! I built a working StarCraft level with Sonnet 5.5. You play Terran, defending your base against the Zerg: → Build Marines, Siege Tanks, and Battlecruisers → Use SC2 models from Sketchfab (by Catholomew) → Music generated with Suno 📌 Play it here: Sonnet also made the sizzle reel below.",
+      "url": "https://x.com/petergyang/status/2104781373433377030",
+      "publishedAt": "2026-09-29T03:52:39.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-2aa34c2b54c2",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and models",
+      "takeaway": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work.",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work. Here it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :)",
+      "url": "https://x.com/_catwu/status/2104639552170377399",
+      "publishedAt": "2026-09-28T18:29:06.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-61829ee49c8c",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and models",
+      "takeaway": "it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, skills and examples I often ask my agent to look at 3 other...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, skills and examples I often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.",
+      "url": "https://x.com/trq212/status/2104608785696440510",
+      "publishedAt": "2026-09-28T16:26:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-bdf2a814af77",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents",
+      "takeaway": "We migrated with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. We migrated with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. We derived two AI skills from the migration that we'll be sharing back. It was a mature workload with a lot of \"$formerProvider-isms\", and yet the net of the work was done in under a week. If it's [built / rendered / shipped] fast, it's on Vercel.",
+      "url": "https://x.com/rauchg/status/2104660502723072281",
+      "publishedAt": "2026-09-28T19:52:21.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-59d76bb8bdee",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on models",
+      "takeaway": "Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with.",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with.",
+      "url": "https://x.com/alexalbert__/status/2104633937280811010",
+      "publishedAt": "2026-09-28T18:06:47.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-359ae7e1bd13",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content. Across the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster to a finished deliverable on 12% fewer tokens.",
+      "url": "https://x.com/levie/status/2104648654074343480",
+      "publishedAt": "2026-09-28T19:05:16.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-f0ba2a4e0c13",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "what i’ve been doing: i love youbike 💛 try it in all cities with youbike in taiwan docks, navigation, live turn-by-turn directions with voice",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. what i’ve been doing: i love youbike 💛 try it in all cities with youbike in taiwan docks, navigation, live turn-by-turn directions with voice",
+      "url": "https://x.com/ryolu_/status/2104546417281020315",
+      "publishedAt": "2026-09-28T12:19:01.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-1f4ee99f5c3f",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and tools",
+      "takeaway": "Karma isn’t a thing that happens, it’s a choice you can make now Codegen meets WhatsApp actually makes a ton of sense",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Karma isn’t a thing that happens, it’s a choice you can make now Codegen meets WhatsApp actually makes a ton of sense",
+      "url": "https://x.com/garrytan/status/2104559514699837634",
+      "publishedAt": "2026-09-28T13:11:03.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-1ede5de4bf21",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "Hello, I'm looking to chat with some of my followers! If you're - building web-based/frontend experiences with AI but have a hard time making it look beautiful/not AI slop -...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Hello, I'm looking to chat with some of my followers! If you're - building web-based/frontend experiences with AI but have a hard time making it look beautiful/not AI slop - seeing all these cool demos on X built with latest models but have no idea how to replicate them - are creating these cool demos yourself and would like to share your creation process/tips Would love to have a chat; DM me or comment below!",
+      "url": "https://x.com/zarazhangrui/status/2104689580045979811",
+      "publishedAt": "2026-09-28T21:47:53.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-9f2017af73b7",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "Where are all the “distribution is a moat and hence raise a lot of money” investors today.. when the *checks notes* incumbents are flexing their distribution muscle.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Where are all the “distribution is a moat and hence raise a lot of money” investors today.. when the *checks notes* incumbents are flexing their distribution muscle. It’s SO important to stay first principles on what matters. Find your unfair advantages. Build a great product with high retention and ideally network effects. Use capital as a weapon to compound and not as destiny.",
+      "url": "https://x.com/nikunj/status/2104566122549063756",
+      "publishedAt": "2026-09-28T13:37:19.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-276cf231756a",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "See ya there!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. See ya there!",
+      "url": "https://x.com/steipete/status/2104702088626557384",
+      "publishedAt": "2026-09-28T22:37:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-88e53debc203",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and product",
+      "takeaway": "SONNET 5.5 IS OUT! It has dramatically improved writing even versus Opus 5.5 in my testing for @every.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. SONNET 5.5 IS OUT! It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks. It's faster and cheaper than Opus 5.5, so it's @kieranklaassen's preferred model for quick iterative coding and design work.",
+      "url": "https://x.com/danshipper/status/2104636728992776510",
+      "publishedAt": "2026-09-28T18:17:53.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-829c9061a4f1",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "Pretty excited for DevDay tomorrow. We have found a new thing.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. Pretty excited for DevDay tomorrow. We have found a new thing.",
+      "url": "https://x.com/sama/status/2104661956879913457",
+      "publishedAt": "2026-09-28T19:58:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
+    {
+      "id": "2026-09-28-x-94dc7c4f03ce",
+      "date": "2026-09-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding",
+      "takeaway": "Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. Pixel-art forest creatures by @measure_plan, every frame drawn in code.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Bouncing-ball physics tests by @forwardeditor from the same prompt, Sonnet 5 vs Sonnet 5.5. Pixel-art forest creatures by @measure_plan, every frame drawn in code. What are you exploring with Sonnet 5.5?",
+      "url": "https://x.com/claudeai/status/2104675003673325732",
+      "publishedAt": "2026-09-28T20:49:58.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-09-29T18:34:35.766Z"
+    },
     {
       "id": "2026-09-27-x-37b41286fa76",
       "date": "2026-09-27",
