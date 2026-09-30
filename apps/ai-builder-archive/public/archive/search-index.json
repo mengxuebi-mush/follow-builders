@@ -1,7 +1,311 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T22:55:34.690Z",
+  "generatedAt": "2026-09-30T18:24:52.242Z",
   "snippets": [
+    {
+      "id": "2026-09-29-x-a132352714ad",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by! annual ranking of best ai podcasts just dropped i have the best reply guys",
+      "url": "https://x.com/swyx/status/2105000738745376769",
+      "publishedAt": "2026-09-29T18:24:19.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-b3bfe9f0fad5",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "We will have a few million dots online within days, working on all sorts of things across such a diverse and large community.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. Excited to learn from all of you on what you love and what doesn’t yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferences and things on my mind.",
+      "url": "https://x.com/thsottiaux/status/2105105086506840421",
+      "publishedAt": "2026-09-30T01:18:58.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-ea22b0eb0b36",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product and tools",
+      "takeaway": "I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅 Instead, I spent the day catching up with some great folks, so I'm going to...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅 Instead, I spent the day catching up with some great folks, so I'm going to embarass some of them now: 1. @lennysan the nicest most humble successful person I've had the pleasure of being friends with 2. @bb_fresh the comedy legend, search \"krazam microservices\" on YouTube for a laugh.",
+      "url": "https://x.com/petergyang/status/2105114973819244676",
+      "publishedAt": "2026-09-30T01:58:15.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-da1a0316b23e",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on research",
+      "takeaway": "New benchmark to climb",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. New benchmark to climb",
+      "url": "https://x.com/thenanyu/status/2105049816388755620",
+      "publishedAt": "2026-09-29T21:39:20.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-67708c32ce60",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "have you tried telling Claude \"we have the power to do anything, please be braver\" also, have you tried telling yourself from our blog post on how we made Claude faster: See it...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. have you tried telling Claude \"we have the power to do anything, please be braver\" also, have you tried telling yourself from our blog post on how we made Claude faster: See it here:",
+      "url": "https://x.com/trq212/status/2105065127892734076",
+      "publishedAt": "2026-09-29T22:40:11.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-7769b3a1d7e3",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and costs",
+      "takeaway": "How to design and build a harness to reach frontier performance at a fraction of the cost!",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. How to design and build a harness to reach frontier performance at a fraction of the cost!",
+      "url": "https://x.com/amasad/status/2104996638817386820",
+      "publishedAt": "2026-09-29T18:08:02.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-9e68cd7582f9",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and product",
+      "takeaway": "AI SDK has hit 30M weekly downloads. One-shotted this video in fframes + + opus. I asked 𝚏𝚡 to look at and highlight the 5M/10M/20M/30M milestones.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. AI SDK has hit 30M weekly downloads. One-shotted this video in fframes + + opus. I asked 𝚏𝚡 to look at and highlight the 5M/10M/20M/30M milestones. Yes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw You can just ship things (and wallow in cartographic filigree) Plotted: the inverse correlation between product defects and downloads. h/t @anthonysheww",
+      "url": "https://x.com/rauchg/status/2105043144975011982",
+      "publishedAt": "2026-09-29T21:12:50.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-b8e3343d83f0",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on ai",
+      "takeaway": "It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future. At some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are still in a phase where the industry can absolutely align on these efforts collectively.",
+      "url": "https://x.com/levie/status/2105111520913039530",
+      "publishedAt": "2026-09-30T01:44:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-eccf2fd2efa3",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. Luckily intelligence is on tap these days!",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. Luckily intelligence is on tap these days!",
+      "url": "https://x.com/garrytan/status/2105049005147525231",
+      "publishedAt": "2026-09-29T21:36:07.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-acaef2e5fcdb",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models and tools",
+      "takeaway": "I made a marketing website for my water bottle The whole thing was done by Opus 5.5 (6 prompts); it used: - Elevenlabs to generate the music - Meshy to generate the 3D assets -...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. I made a marketing website for my water bottle The whole thing was done by Opus 5.5 (6 prompts); it used: - Elevenlabs to generate the music - Meshy to generate the 3D assets - OpenAI API to generate images (sound on)",
+      "url": "https://x.com/zarazhangrui/status/2105096296831017078",
+      "publishedAt": "2026-09-30T00:44:02.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "OpenAI"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-b6738b0381c5",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and product",
+      "takeaway": "Two random honest thoughts on the market right now.. First is on people: It's harder than ever to find missionaries.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Two random honest thoughts on the market right now.. First is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the \"obvious\" winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a moment's notice. Companies getting Windsurf-ed where only the choice people are getting to join the future company.",
+      "url": "https://x.com/nikunj/status/2105148927599423752",
+      "publishedAt": "2026-09-30T04:13:10.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-3347a2529ae4",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "This is pretty amazing. That /goal is still running.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. This is pretty amazing. That /goal is still running.",
+      "url": "https://x.com/steipete/status/2105048996549116268",
+      "publishedAt": "2026-09-29T21:36:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-b0d1ad50ec5d",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "im biased but im insanely proud of @every's dev day coverage - two vibe checks - live feed - livestream - podcast with @sama (coming tomorrow!",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. im biased but im insanely proud of @every's dev day coverage - two vibe checks - live feed - livestream - podcast with @sama (coming tomorrow!) insane amount of effort from the team: @every @sama read the vibe check if you haven't: @sama subscribe to @every to get it:",
+      "url": "https://x.com/danshipper/status/2105066959822114972",
+      "publishedAt": "2026-09-29T22:47:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-x-7af750b1154b",
+      "date": "2026-09-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "Dots are here! A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. Dots are here! A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level. Ultrafast is so fast I do not ever want to go back 6.1 Sol at 1/5th of the price of Astra, and 95% cache read discount! Extremely capable model.",
+      "url": "https://x.com/sama/status/2104995014208258235",
+      "publishedAt": "2026-09-29T18:01:34.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
+    {
+      "id": "2026-09-29-blog-b197d60a88e2",
+      "date": "2026-09-29",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude in Chrome is generally available",
+      "takeaway": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan.",
+      "summary": "Claude in Chrome is generally available . Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude .",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "publishedAt": "Aug 26, 2026",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-09-30T18:24:52.242Z"
+    },
     {
       "id": "2026-09-28-x-753c45499e1c",
       "date": "2026-09-28",
