@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-30",
-  "generatedAt": "2026-10-01T20:18:56.464Z",
+  "generatedAt": "2026-10-01T21:46:54.400Z",
   "feedGeneratedAt": "2026-10-01T06:46:31.245Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-f7da88f7d631",
@@ -41,7 +41,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-5fb9bf6cef11",
@@ -64,7 +64,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-38c2e34f6fca",
@@ -84,7 +84,7 @@
         "Peter Yang",
         "Google"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-44dd15e6e915",
@@ -106,7 +106,7 @@
         "Nan Yu",
         "OpenAI"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-11160f07d7b0",
@@ -127,7 +127,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-6c68a406c54e",
@@ -150,7 +150,7 @@
         "Google Labs",
         "Google"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-4605d95fd033",
@@ -170,7 +170,7 @@
         "Amjad Masad",
         "Meta"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-c24a96695cbd",
@@ -194,7 +194,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-d6e6b9f7b2e5",
@@ -217,7 +217,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-e8a9342b7b0d",
@@ -240,7 +240,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-e906ae6cc6c8",
@@ -260,7 +260,7 @@
         "Matt Turck",
         "Anthropic"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-320e7fa8f8f7",
@@ -279,7 +279,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-ff0b76a25f03",
@@ -298,7 +298,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-3fe9d50fbfdd",
@@ -317,7 +317,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-8baa17afe578",
@@ -336,7 +336,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-x-cbc49a7c5ac0",
@@ -356,7 +356,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     },
     {
       "id": "2026-09-30-podcast-357c04af2d05",
@@ -380,7 +380,7 @@
         "OpenAI",
         "Codex"
       ],
-      "createdAt": "2026-10-01T20:18:56.464Z"
+      "createdAt": "2026-10-01T21:46:54.400Z"
     }
   ]
 }
