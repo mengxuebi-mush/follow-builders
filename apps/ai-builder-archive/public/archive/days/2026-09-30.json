@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T18:49:04.861Z",
+  "feedGeneratedAt": "2026-10-01T06:46:31.245Z",
+  "snippets": [
+    {
+      "id": "2026-09-30-x-edd740dfa7b4",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and tools",
+      "takeaway": "is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in professional tech media Flow is doing for hardware engineering...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in professional tech media Flow is doing for hardware engineering what Git+GitHub did for software engineering. It's enabled so much acceleration due to aligning thousands of stakeholders for complex, irreversible, high value pipelines from cars to rockets.",
+      "url": "https://x.com/swyx/status/2105538561672085751",
+      "publishedAt": "2026-10-01T06:01:26.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-f7da88f7d631",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Gemini 4 Argon!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Gemini 4 Argon!",
+      "url": "https://x.com/joshwoodward/status/2105396307250782446",
+      "publishedAt": "2026-09-30T20:36:10.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-5fb9bf6cef11",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brough more capacity...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday. Asked my dot to paint me.",
+      "url": "https://x.com/thsottiaux/status/2105464274747527543",
+      "publishedAt": "2026-10-01T01:06:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-38c2e34f6fca",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents",
+      "takeaway": "Google cooked on Gemini 4! Now they just need to be more competitive on coding harness (Antigravity) + personal agent (Spark).",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Google cooked on Gemini 4! Now they just need to be more competitive on coding harness (Antigravity) + personal agent (Spark). This is getting nuclear 🌶️ People I met at DevDay: I love your channel! Thank you! People in YouTube comments: Fing AI shill 🥲",
+      "url": "https://x.com/petergyang/status/2105393240392585359",
+      "publishedAt": "2026-09-30T20:23:59.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-44dd15e6e915",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on enterprise and product",
+      "takeaway": "It’s interesting to contrast, what different companies take for granted in their internal cultures I’ve only been at OpenAI for about a week, and the thing that stands out is...",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. It’s interesting to contrast, what different companies take for granted in their internal cultures I’ve only been at OpenAI for about a week, and the thing that stands out is absurdly high bias towards action This shows up in ways big and small… Sometimes you have a casual discussion about a possible feature, and the PR is sitting in front of you by the time you get back to your desk Or you meet someone on Slack and...",
+      "url": "https://x.com/thenanyu/status/2105316751802348005",
+      "publishedAt": "2026-09-30T15:20:03.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu",
+        "OpenAI"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-11160f07d7b0",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on product",
+      "takeaway": "While prototypes are fun, I think ideally I'd work on this with a small group of 2-3 people. The animations, design, etc.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. While prototypes are fun, I think ideally I'd work on this with a small group of 2-3 people. The animations, design, etc. are fine but someone with expertise could help make it much better. This all prototype quality. The graphics and feel are not high quality enough for you to play. To make a real game I'd probably go through 3-4 variations of this character, and have maybe 8-10 characters in the game.",
+      "url": "https://x.com/trq212/status/2105333509246386546",
+      "publishedAt": "2026-09-30T16:26:38.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-6c68a406c54e",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on agents and enterprise",
+      "takeaway": "💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. 💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and today, supporting the global launch of skills in @GeminiApp!",
+      "url": "https://x.com/GoogleLabs/status/2105352889665564838",
+      "publishedAt": "2026-09-30T17:43:39.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-4605d95fd033",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "Make and one-click publish Meta VR apps.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Make and one-click publish Meta VR apps.",
+      "url": "https://x.com/amasad/status/2105321112389443805",
+      "publishedAt": "2026-09-30T15:37:22.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Meta"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-c24a96695cbd",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect. With code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps. ¹ The world of building agents is plagued with static credentials. You're supposed to give a bunch of keys to each agent or app you build.",
+      "url": "https://x.com/rauchg/status/2105390544096841942",
+      "publishedAt": "2026-09-30T20:13:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-d6e6b9f7b2e5",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to look like in the form of software and agents, but also it opens up new services firms opportunities.",
+      "url": "https://x.com/levie/status/2105354449795621179",
+      "publishedAt": "2026-09-30T17:49:51.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-e8a9342b7b0d",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "*chefs kiss* Other code editors let you top down coordinate child agents I’ve never really seen this where agent swarms speak to one another as peers and self coordinate allowing...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. *chefs kiss* Other code editors let you top down coordinate child agents I’ve never really seen this where agent swarms speak to one another as peers and self coordinate allowing you to organically explore the space instead of pre-arrange it, have you? Capy is special I asked Secretary Duffy what Americans should be able to do, if we get this decade right, that they can't do today.",
+      "url": "https://x.com/garrytan/status/2105472268482875898",
+      "publishedAt": "2026-10-01T01:38:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-e906ae6cc6c8",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "SaaS companies seeing Anthropic’s ARR growth flatline",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. SaaS companies seeing Anthropic’s ARR growth flatline",
+      "url": "https://x.com/mattturck/status/2105261211906384132",
+      "publishedAt": "2026-09-30T11:39:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-320e7fa8f8f7",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Still looking for this.. If you are building an insanely good multiplayer experience, please DM or reply here with a demo!",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Still looking for this.. If you are building an insanely good multiplayer experience, please DM or reply here with a demo! I have automated most of my job away except the following.. a) sourcing and writing outbound emails (convinced no amount of tech helps here) b) meeting founders (primarily in person, zoom sucks) c) writing pass notes/calls (still write every single one by hand & frankly the hardest part of the...",
+      "url": "https://x.com/nikunj/status/2105397656994652178",
+      "publishedAt": "2026-09-30T20:41:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-ff0b76a25f03",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!) I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow.",
+      "url": "https://x.com/steipete/status/2105341288958869952",
+      "publishedAt": "2026-09-30T16:57:33.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-3fe9d50fbfdd",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "Okay i thought this model was already out phew. @sundarpichai would love to vibe check it we will be ready to vibe check! read it on @every:",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Okay i thought this model was already out phew. @sundarpichai would love to vibe check it we will be ready to vibe check! read it on @every:",
+      "url": "https://x.com/danshipper/status/2105391711950393423",
+      "publishedAt": "2026-09-30T20:17:55.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-8baa17afe578",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise",
+      "takeaway": "The question I keep on asking everyone @spc is \"What is the maximalist version of this company?\". Perhaps this has always been true....",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. The question I keep on asking everyone @spc is \"What is the maximalist version of this company?\". Perhaps this has always been true....but if you are building a company today, then the only way is to have the boldest, most audacious and maximalist version of the idea and how it can change the arc of the future.",
+      "url": "https://x.com/adityaag/status/2105339569139056776",
+      "publishedAt": "2026-09-30T16:50:43.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-x-cbc49a7c5ac0",
+      "date": "2026-09-30",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and office hours with our team, plus time to meet others building with...",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you. Register for San Francisco: Register for Stockholm:",
+      "url": "https://x.com/claudeai/status/2105370680485417401",
+      "publishedAt": "2026-09-30T18:54:20.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    },
+    {
+      "id": "2026-09-30-podcast-357c04af2d05",
+      "date": "2026-09-30",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Sam Altman Uses Dots to Take Back His Time",
+      "takeaway": "How Sam Altman Uses Dots to Take Back His Time. I've been thinking, if an agent solves a Navier Stokes in a data center, but no one finds out, did it really solve it?",
+      "summary": "I've been thinking, if an agent solves a Navier Stokes in a data center, but no one finds out, did it really solve it? Yeah, and also being able to bring your tokens from your ChatDBT subscription to an app developer, it changes the equation for someone like me where normally you're thinking about, okay, how much AI can I let my users use so that it doesn't bankrupt me? I've never seen startups get as successful as quickly.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-30T20:05:56.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-10-01T18:49:04.861Z"
+    }
+  ]
+}
