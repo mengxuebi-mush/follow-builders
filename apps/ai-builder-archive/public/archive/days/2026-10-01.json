@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-02T18:21:07.292Z",
+  "feedGeneratedAt": "2026-10-02T06:45:05.163Z",
+  "snippets": [
+    {
+      "id": "2026-10-01-x-e3887eee4b96",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on agents and coding",
+      "takeaway": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing.",
+      "summary": "Andrej Karpathy (karpathy on X) shared 2 recent updates. We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation.",
+      "url": "https://x.com/karpathy/status/2105819303471976479",
+      "publishedAt": "2026-10-02T00:37:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Andrej Karpathy"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-434ef0a6801a",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "pls support smol creators",
+      "summary": "Swyx (swyx on X) shared 1 recent update. pls support smol creators",
+      "url": "https://x.com/swyx/status/2105560981757931664",
+      "publishedAt": "2026-10-01T07:30:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-378bad842288",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on product",
+      "takeaway": "Introducing the Stitch CLI, get design ideas on demand",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Introducing the Stitch CLI, get design ideas on demand",
+      "url": "https://x.com/joshwoodward/status/2105697351205810382",
+      "publishedAt": "2026-10-01T16:32:25.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-5850fb18c85d",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models",
+      "takeaway": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others can try your mods too.",
+      "url": "https://x.com/bcherny/status/2105756563302723721",
+      "publishedAt": "2026-10-01T20:27:42.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-45bffbb5b2c6",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on enterprise and models",
+      "takeaway": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days. You can ask your dot to \"create a pet and set it as your avatar\". It can be based on an idea, an image or pretty much anything.",
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "publishedAt": "2026-10-02T02:14:51.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-1f10a8bcfe11",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "I love a good reset although these days Claude Max feels basically unlimited on Opus and Sonnet Last week, I launched my AI course to help you build a personal AI system that...",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. I love a good reset although these days Claude Max feels basically unlimited on Opus and Sonnet Last week, I launched my AI course to help you build a personal AI system that takes work off your plate. 100+ new members have joined since then, and I'm grateful.",
+      "url": "https://x.com/petergyang/status/2105855807061655827",
+      "publishedAt": "2026-10-02T03:02:03.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-4661a52c373f",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "There is only One True SaaS Layout. You may not like it, but this is what peak usability looks like This but unironically Oh. My. God.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. There is only One True SaaS Layout. You may not like it, but this is what peak usability looks like This but unironically Oh. My. God.",
+      "url": "https://x.com/thenanyu/status/2105704619704029435",
+      "publishedAt": "2026-10-01T17:01:18.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-1c861900fcc3",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "Tantalum being discovered in 1802 and turning out to have an isotope with a half life so long that we might never see it decay is a great example of nominative determinism.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. Tantalum being discovered in 1802 and turning out to have an isotope with a half life so long that we might never see it decay is a great example of nominative determinism.",
+      "url": "https://x.com/AmandaAskell/status/2105901984889086203",
+      "publishedAt": "2026-10-02T06:05:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-d861fd8eb3d7",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and product",
+      "takeaway": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me & find references.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me & find references. I asked Claude to make an animation editor where we could iterate on the jump, I'm really happy with how it came out. Here's a side-by-side video This is a personal side project I've been working on!",
+      "url": "https://x.com/trq212/status/2105849295580889208",
+      "publishedAt": "2026-10-02T02:36:11.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-860fc167b9f3",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. SvelteKit 3 is a wonder.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. SvelteKit 3 is a wonder. Congrats to the team. So excited for Async Svelte & Remote Functions to cook. I built a tiny app, it built & deployed in 15 seconds end-to-end, it’s instant, and fx + opus figured it all out effortlessly. Here's the app.",
+      "url": "https://x.com/rauchg/status/2105723481413550427",
+      "publishedAt": "2026-10-01T18:16:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-8ca408bb2666",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying workflows. This requires a high level of technical expertise, an understanding of AI, and the ability to understand the workflows and processes that the enterprise is trying to automate.",
+      "url": "https://x.com/levie/status/2105695329513504976",
+      "publishedAt": "2026-10-01T16:24:23.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-426ee41ccebe",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "flip phone. full desktop. a whole little world. ryOS on iPhone Duo",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. flip phone. full desktop. a whole little world. ryOS on iPhone Duo",
+      "url": "https://x.com/ryolu_/status/2105775325385040243",
+      "publishedAt": "2026-10-01T21:42:15.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-3babba78709f",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Harm accelerationist Gary McCoy is going to ruin San Francisco When people say McCoy is not an extremist you can tell those people are gaslighting you This guy is now the...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Harm accelerationist Gary McCoy is going to ruin San Francisco When people say McCoy is not an extremist you can tell those people are gaslighting you This guy is now the frontrunner for D8 Supervisor in SF. You should probably be looking for alternatives.",
+      "url": "https://x.com/garrytan/status/2105796174464815210",
+      "publishedAt": "2026-10-01T23:05:06.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-e9144372ab41",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and models",
+      "takeaway": "AI Podcasts be like: Cold open: \"AI is about to destroy humanity. RSI is leading to a hard take off that we won't be able to control.",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. AI Podcasts be like: Cold open: \"AI is about to destroy humanity. RSI is leading to a hard take off that we won't be able to control.\" &lt;&lt; but first, a message from our sponsors: meet AgentTina, your agentic workflow orchestration solution for faster AI deployments&gt;&gt; Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI Is this the beginning of the interp...",
+      "url": "https://x.com/mattturck/status/2105835377290289601",
+      "publishedAt": "2026-10-02T01:40:53.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-e58cad58f661",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Frontend code is probably the most expressive medium for storytelling of our times yet many people are just using it to make SaaS landing pages",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Frontend code is probably the most expressive medium for storytelling of our times yet many people are just using it to make SaaS landing pages",
+      "url": "https://x.com/zarazhangrui/status/2105753728183828692",
+      "publishedAt": "2026-10-01T20:16:26.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-3a3f7c02521f",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Been reading a LOT of chatter on X about how SF culture is “gatekeeping” and how it all comes down to who you know..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Been reading a LOT of chatter on X about how SF culture is “gatekeeping” and how it all comes down to who you know.. While that’s definitely true in pockets, what’s made SF great is how open even extremely smart/accomplished people are to meet for coffee. And how willing people are to open doors for you even when they’ve just met you.",
+      "url": "https://x.com/nikunj/status/2105852023510118878",
+      "publishedAt": "2026-10-02T02:47:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-652aba9bbde6",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and models",
+      "takeaway": "\"Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash\" Never seen an idea spreading so fast.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. \"Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash\" Never seen an idea spreading so fast. holy \"AI agents are aeroplanes for the mind: faster and more powerful than the bicycle, harder to control, costlier when they crash.\"",
+      "url": "https://x.com/steipete/status/2105778011635400949",
+      "publishedAt": "2026-10-01T21:52:56.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-63cade02ba91",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and tools",
+      "takeaway": "we published a sick guide to getting started with open models on @every: we (@hammer_mt) used Jev to ingest every time i took a position on something in @every's slack then he...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. we published a sick guide to getting started with open models on @every: we (@hammer_mt) used Jev to ingest every time i took a position on something in @every's slack then he measured how often i contradict myself: 0% honestly super proud of this lol so @hammer_mt has been trying to automate me.",
+      "url": "https://x.com/danshipper/status/2105811214827696302",
+      "publishedAt": "2026-10-02T00:04:52.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-9a999fb93101",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now! You should be able to use your AI subscription wherever you need: I think there is much more potential energy in Sign In With ChatGPT/Plugin Extensions than we realize",
+      "url": "https://x.com/sama/status/2105688354834756036",
+      "publishedAt": "2026-10-01T15:56:40.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-x-81c8e47dfea0",
+      "date": "2026-10-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits. Give it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing. Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans. How it works and full terms:",
+      "url": "https://x.com/claudeai/status/2105721630051692804",
+      "publishedAt": "2026-10-01T18:08:53.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-blog-97cd97d27d22",
+      "date": "2026-10-01",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-blog-dea52d951227",
+      "date": "2026-10-01",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-blog-f90fa6cabc29",
+      "date": "2026-10-01",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    },
+    {
+      "id": "2026-10-01-podcast-ab2b654bc2d1",
+      "date": "2026-10-01",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Why AI Agents Cheat | Eric Ho (Goodfire)",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "My guest today is Eric Ho, CEO of Good With every top AI lab now reporting agents going rogue and hacking external systems, something is clearly broken in the world of AI safety. You're a commercial enterprise venture backed. But what we mean by the word know is, there's something in their activations, essentially, the the neurons that get activated during a forward pass of the model when the model is producing a token, that encode the concept of cheating or reward hacking.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-01T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-10-02T18:21:07.292Z"
+    }
+  ]
+}
