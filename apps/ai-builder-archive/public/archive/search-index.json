@@ -1,7 +1,388 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T22:55:56.149Z",
+  "generatedAt": "2026-10-03T17:12:21.387Z",
   "snippets": [
+    {
+      "id": "2026-10-02-x-e722d3870303",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents",
+      "takeaway": "btw dont forget the \"one more thing...\" theyve been working on dots for a while now It's time to get serious about Security x AI.",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. btw dont forget the \"one more thing...\" theyve been working on dots for a while now It's time to get serious about Security x AI. One of the joys of doing AIE is helping others start their own high quality conferences in their countries and domains. Every single 2025 partner has come back — and the 2nd AI Security Summit is now way more important than before. Proud to be back as a founding partner with @snyksec!",
+      "url": "https://x.com/swyx/status/2106103958657958298",
+      "publishedAt": "2026-10-02T19:28:07.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-df4f22ebfae3",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Fortunately our future models will be much better at code deletion and simplification. Just in time Seeing some reports that the Pro 500 didn’t get the reset as expected earlier.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Fortunately our future models will be much better at code deletion and simplification. Just in time Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it All fixed. Surprising number of Pro 500 users on here.",
+      "url": "https://x.com/thsottiaux/status/2106252868307271752",
+      "publishedAt": "2026-10-03T05:19:50.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-ac5944d2b839",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complicated so I decided to check if Claude can build the core feature...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complicated so I decided to check if Claude can build the core feature set that I actually needed. Claude built it in 5 min. 🥹 .",
+      "url": "https://x.com/petergyang/status/2106072698564874410",
+      "publishedAt": "2026-10-02T17:23:54.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-f311073baa62",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Everyone is making the same thing concerning This guy knows SaaS",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Everyone is making the same thing concerning This guy knows SaaS",
+      "url": "https://x.com/thenanyu/status/2106189530743398867",
+      "publishedAt": "2026-10-03T01:08:09.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-b63435d6a21c",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "Underrated - the feeling of reading great writing that is 100% human written. Just love that human-written smell in a doc.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Underrated - the feeling of reading great writing that is 100% human written. Just love that human-written smell in a doc.",
+      "url": "https://x.com/realmadhuguru/status/2106102222501376050",
+      "publishedAt": "2026-10-02T19:21:13.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-fbbb301dbc2d",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "\"You should know\" is a great way of staying on top of what's possible with Claude and also a great example of the kind of things mods enable. You can really make Claude Code yours.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. \"You should know\" is a great way of staying on top of what's possible with Claude and also a great example of the kind of things mods enable. You can really make Claude Code yours.",
+      "url": "https://x.com/trq212/status/2106119299484221762",
+      "publishedAt": "2026-10-02T20:29:05.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-f2328c6bb5d3",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Reaching concerning levels of psychosis. Fun meeting Woz at @supabase select!",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Reaching concerning levels of psychosis. Fun meeting Woz at @supabase select!",
+      "url": "https://x.com/amasad/status/2106237645282324709",
+      "publishedAt": "2026-10-03T04:19:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Supabase"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-6b8f5a4350d3",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "Amazing. Love to see the team ship so fast ▲ Wonderful writeup on Jev + Python",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Amazing. Love to see the team ship so fast ▲ Wonderful writeup on Jev + Python",
+      "url": "https://x.com/rauchg/status/2106133123973214497",
+      "publishedAt": "2026-10-02T21:24:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-b0ec2dfcef69",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and models",
+      "takeaway": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, always thinking ahead, always improving.",
+      "url": "https://x.com/garrytan/status/2106063850453991758",
+      "publishedAt": "2026-10-02T16:48:45.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-17a6d1e9a3aa",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. People call the Bay Area a monoculture, but that's totally unfair: it has both neo-clouds AND neo-labs",
+      "url": "https://x.com/mattturck/status/2106076198027890750",
+      "publishedAt": "2026-10-02T17:37:49.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-989ad9a86e01",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "\"Everyone you meet is fighting a battle you know nothing about. Be kind. Always.\" Robin Williams. Prescient as always.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. \"Everyone you meet is fighting a battle you know nothing about. Be kind. Always.\" Robin Williams. Prescient as always. If you are a home automation nerd, this is a fun prompt to try on Claude Code / Codex (edit based on your own setup): \"Can you sniff network packets in our house and see what else can we automate?",
+      "url": "https://x.com/nikunj/status/2106053219487228081",
+      "publishedAt": "2026-10-02T16:06:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-a1b945a10149",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "This was by far my favorite slide at DevDay. Kudos to the team!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. This was by far my favorite slide at DevDay. Kudos to the team!",
+      "url": "https://x.com/steipete/status/2106076508020506722",
+      "publishedAt": "2026-10-02T17:39:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-1cd039cd010c",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "dev day vlog is LIVE!!! here is my official @OpenAI DevDay FOOD vibe check (I know you’ve been waiting) oldie but goodie",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. dev day vlog is LIVE!!! here is my official @OpenAI DevDay FOOD vibe check (I know you’ve been waiting) oldie but goodie",
+      "url": "https://x.com/danshipper/status/2106043635947225392",
+      "publishedAt": "2026-10-02T15:28:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-614c119c629d",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and tools",
+      "takeaway": "We had our second portfolio company IPO this week. We are very proud to have partnered with Puneet and Sanjay at Moneyview.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. We had our second portfolio company IPO this week. We are very proud to have partnered with Puneet and Sanjay at Moneyview. They are incredible entrepreneurs who have poured everything they have to building their company. Moments like these make you feel proud but also deeply appreciative of the founders journey. It is long, hard and tough as nails.",
+      "url": "https://x.com/adityaag/status/2106019411635376471",
+      "publishedAt": "2026-10-02T13:52:10.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-4d8354cfca31",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on agents and models",
+      "takeaway": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have ever experienced in life. dot is my favorite openai product so far!",
+      "url": "https://x.com/sama/status/2106189841813934140",
+      "publishedAt": "2026-10-03T01:09:24.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-x-f5d5a39712ea",
+      "date": "2026-10-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and research",
+      "takeaway": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5. A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5. A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5. What are you exploring with Claude this weekend?",
+      "url": "https://x.com/claudeai/status/2106125478956507480",
+      "publishedAt": "2026-10-02T20:53:38.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-blog-b5fd1928c34b",
+      "date": "2026-10-02",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "takeaway": "Claude for Small Business launches new workflows, integrations, and training programs. Claude for Small Business now includes 43 workflows and 27 new integrations with tools small...",
+      "summary": "Claude for Small Business launches new workflows, integrations, and training programs. Claude for Small Business now includes 43 workflows and 27 new integrations with tools small businesses already use, including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe, and Zapier.",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "publishedAt": "Sep 15, 2026",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
+    {
+      "id": "2026-10-02-podcast-0aa4355de8d8",
+      "date": "2026-10-02",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
+      "takeaway": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile. The place where the ability to take a multi trillion parameter model and run it comfortably at...",
+      "summary": "The place where the ability to take a multi trillion parameter model and run it comfortably at many thousands of tokens per second, in our view, is a kind of fundamental elevator on capability for AI is in taking these kind of very long running agents and making them radically faster. And that's something which then then can drive you to thousands of tokens per second on these language models.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-02T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-10-03T17:12:21.387Z"
+    },
     {
       "id": "2026-10-01-x-e3887eee4b96",
       "date": "2026-10-01",
