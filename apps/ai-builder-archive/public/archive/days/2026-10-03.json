@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-04T17:31:38.809Z",
+  "feedGeneratedAt": "2026-10-04T08:22:04.655Z",
+  "snippets": [
+    {
+      "id": "2026-10-03-x-849b5fdff03a",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and product",
+      "takeaway": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it. I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done.",
+      "url": "https://x.com/thsottiaux/status/2106610099720720811",
+      "publishedAt": "2026-10-04T04:59:21.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-00fa11ff3f12",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and tools",
+      "takeaway": "Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post announcements I'm watching Foundation now season 1 episode 3...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post announcements I'm watching Foundation now season 1 episode 3 and can't decide if I really love it or not. Does it get much better? The emperor plot is good the rest seems meh so far. Was talking to my agents at the park then got scratched by a squirrel nature is telling me something",
+      "url": "https://x.com/petergyang/status/2106505635017986394",
+      "publishedAt": "2026-10-03T22:04:15.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-e2688f92c286",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "The man has spoken",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. The man has spoken",
+      "url": "https://x.com/thenanyu/status/2106620595534491948",
+      "publishedAt": "2026-10-04T05:41:03.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-13f99dd28319",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and costs",
+      "takeaway": "AI adoption is largely a product problem today. Even among the 2% that are paying for AI today, the depth of usage is shallow.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. AI adoption is largely a product problem today. Even among the 2% that are paying for AI today, the depth of usage is shallow. The main reason : most AI products look like airplane cockpits with 100 levers - connectors, permissions, model selection, token usage etc. This has started to change.",
+      "url": "https://x.com/realmadhuguru/status/2106450089938157720",
+      "publishedAt": "2026-10-03T18:23:32.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-7ea521dbcd44",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Who’s building this? Replit Drift We go really deep and somewhat technical here with the brilliant @alexatallah of OpenRouter. Enjoy!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Who’s building this? Replit Drift We go really deep and somewhat technical here with the brilliant @alexatallah of OpenRouter. Enjoy!",
+      "url": "https://x.com/amasad/status/2106506305875947966",
+      "publishedAt": "2026-10-03T22:06:54.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-394fcf86824c",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and enterprise",
+      "takeaway": "AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier. Summer is finally here!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier. Summer is finally here! 🌞⛱️ Security will become a larger and larger function in software companies. Security is verification engineering (eg: “my code is probably memory-safe”), as well as capital allocation (“what surface should I throw most tokens at?",
+      "url": "https://x.com/rauchg/status/2106503460384538793",
+      "publishedAt": "2026-10-03T21:55:36.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-7574b6277661",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else. And even within coding, you have a very wide continuum of adoption patterns, with some likely a small percentage of developers deploying background agents working on projects in parallel, and the rest of everyone else still working with agents 1:1.",
+      "url": "https://x.com/levie/status/2106583814709633413",
+      "publishedAt": "2026-10-04T03:14:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-1445e720ffb4",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and product",
+      "takeaway": "convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop making anything of our own. we copy what works.",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop making anything of our own. we copy what works. borrow the language, the aesthetic, the features. we call it learning from the market, following best practices, staying competitive. together, everything starts to feel familiar. polished, interchangeable. nothing wrong. nothing alive. the mean isn’t necessarily bad.",
+      "url": "https://x.com/ryolu_/status/2106337039201505453",
+      "publishedAt": "2026-10-03T10:54:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-625bae6ef2b1",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents",
+      "takeaway": "How will the world change if coding agents get 10x better?",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. How will the world change if coding agents get 10x better?",
+      "url": "https://x.com/zarazhangrui/status/2106405482852434359",
+      "publishedAt": "2026-10-03T15:26:16.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-627411405f24",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and costs",
+      "takeaway": "It'll be interesting to see how this innovator's dilemma plays out in the next few years as personal agents become inevitable..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. It'll be interesting to see how this innovator's dilemma plays out in the next few years as personal agents become inevitable.. Amazon is protecting it's \"ads\" cash cow and *cough* the brand. Doordash, albeit smaller, is opening the gates (slowly) with their CLIs and allowing to order via text. Me: Enjoying the warm weekend..",
+      "url": "https://x.com/nikunj/status/2106488814940414455",
+      "publishedAt": "2026-10-03T20:57:24.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-b0aa15d047a9",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "Do I know anyone at Google who could help? We're now over a week in review limbo for OpenClaw's Android app. laughing about how we all are building the same thing.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Do I know anyone at Google who could help? We're now over a week in review limbo for OpenClaw's Android app. laughing about how we all are building the same thing.",
+      "url": "https://x.com/steipete/status/2106446147791597774",
+      "publishedAt": "2026-10-03T18:07:52.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Google"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-d231bb64097c",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "A common misconception is that if you are super rich, you can get unlimited access to the world's best doctor/lawyer/creative-professional etc.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. A common misconception is that if you are super rich, you can get unlimited access to the world's best doctor/lawyer/creative-professional etc. The reality is that the world's leading cancer doctor will still see you for 20-30min if you have cancer no matter how much money you have. This is why AI is so crazy. It both democratizes access AND it makes the amount of time available unlimited for every individual.",
+      "url": "https://x.com/adityaag/status/2106503075209044336",
+      "publishedAt": "2026-10-03T21:54:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-x-fe0bd385d336",
+      "date": "2026-10-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+      "url": "https://x.com/sama/status/2106388373221118198",
+      "publishedAt": "2026-10-03T14:18:17.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-blog-b121f3ccdf2a",
+      "date": "2026-10-03",
+      "sourceType": "blog",
+      "sourceName": "Claude Blog",
+      "authorName": "",
+      "title": "Claude Cowork and chat are now one Claude",
+      "takeaway": "Claude Cowork and chat are now one Claude. Starting today, Claude Cowork and chat are merging into one Claude.",
+      "summary": "Claude Cowork and chat are now one Claude. Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either.",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "publishedAt": "Sep 16, 2026",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude Blog",
+        "Claude"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    },
+    {
+      "id": "2026-10-03-podcast-89a1b7c55038",
+      "date": "2026-10-03",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We need to manage the compute, we need to manage the storage, we need to manage the networking, and then as you go up the stack we need to make sense of all of it, make sense of the data through a database, make sense of the compute through training and inference functions, and as you go even higher up the stack and we shift from training predominantly to inference and agents and reinforced learning, we need more and more tools to enable this new world, make it simple, make it safe, make it fast and scalable and...",
+      "url": "https://www.youtube.com/watch?v=awoR908Yu5Y",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-10-04T17:31:38.809Z"
+    }
+  ]
+}
