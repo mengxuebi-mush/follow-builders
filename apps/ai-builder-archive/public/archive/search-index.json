@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T18:36:48.576Z",
+  "generatedAt": "2026-10-04T20:07:16.645Z",
   "snippets": [
     {
       "id": "2026-10-03-x-849b5fdff03a",
@@ -22,7 +22,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-00fa11ff3f12",
@@ -43,7 +43,7 @@
         "Peter Yang",
         "Google"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-e2688f92c286",
@@ -63,7 +63,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-13f99dd28319",
@@ -84,7 +84,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-7ea521dbcd44",
@@ -104,7 +104,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-394fcf86824c",
@@ -127,7 +127,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-7574b6277661",
@@ -148,7 +148,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-1445e720ffb4",
@@ -171,7 +171,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-625bae6ef2b1",
@@ -190,7 +190,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-627411405f24",
@@ -210,7 +210,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-b0aa15d047a9",
@@ -230,7 +230,7 @@
         "Peter Steinberger",
         "Google"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-d231bb64097c",
@@ -249,7 +249,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-x-fe0bd385d336",
@@ -268,7 +268,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-blog-b121f3ccdf2a",
@@ -292,7 +292,7 @@
         "Claude Blog",
         "Claude"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-03-podcast-89a1b7c55038",
@@ -319,7 +319,7 @@
         "Google",
         "Microsoft"
       ],
-      "createdAt": "2026-10-04T18:36:48.576Z"
+      "createdAt": "2026-10-04T20:07:16.645Z"
     },
     {
       "id": "2026-10-02-x-e722d3870303",
