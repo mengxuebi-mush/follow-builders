@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-04",
-  "generatedAt": "2026-10-05T21:57:48.205Z",
+  "generatedAt": "2026-10-05T23:07:49.977Z",
   "feedGeneratedAt": "2026-10-05T07:02:40.424Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-dd8aee0ce144",
@@ -49,7 +49,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-a91f0a512686",
@@ -73,7 +73,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-d90d76dbf78f",
@@ -96,7 +96,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-07a731d685ab",
@@ -117,7 +117,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-9d8ce89ad41b",
@@ -136,7 +136,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-9d6cea363c9b",
@@ -155,7 +155,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-afe9a32f0d0c",
@@ -174,7 +174,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-ffc8340839e7",
@@ -193,7 +193,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-75de026d12ae",
@@ -212,7 +212,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-x-65628b01a9b4",
@@ -233,7 +233,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     },
     {
       "id": "2026-10-04-podcast-9d88799339b3",
@@ -258,7 +258,7 @@
         "Anthropic",
         "Microsoft"
       ],
-      "createdAt": "2026-10-05T21:57:48.205Z"
+      "createdAt": "2026-10-05T23:07:49.977Z"
     }
   ]
 }
