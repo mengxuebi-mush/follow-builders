@@ -1,7 +1,263 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T22:18:09.671Z",
+  "generatedAt": "2026-10-05T21:14:30.661Z",
   "snippets": [
+    {
+      "id": "2026-10-04-x-e9e81ddce568",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.",
+      "url": "https://x.com/thsottiaux/status/2106845241357824205",
+      "publishedAt": "2026-10-04T20:33:43.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-dd8aee0ce144",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I asked Sam, co-founder of @meetgranola, how he feels about people skipping his UI and instead just using the MCP to get the job done.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I asked Sam, co-founder of @meetgranola, how he feels about people skipping his UI and instead just using the MCP to get the job done. Here's what he said: \"There's definitely a pang of sadness to that as a UI designer. We fought it for a while. We were like, no, we really need to keep everybody in the Granola UI for everything.",
+      "url": "https://x.com/petergyang/status/2106897211766530299",
+      "publishedAt": "2026-10-05T00:00:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-a91f0a512686",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "DHH is fundamentally right about Rust. For context, Vercel has been undergoing a Rust-ification (carcinization, technically 🦀) for a while.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. DHH is fundamentally right about Rust. For context, Vercel has been undergoing a Rust-ification (carcinization, technically 🦀) for a while. One of the first projects we migrated was Turborepo, from Go to Rust¹. The migration completed, but the RoI was actually quite controversial internally.",
+      "url": "https://x.com/rauchg/status/2106863842450133114",
+      "publishedAt": "2026-10-04T21:47:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-d90d76dbf78f",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "We’re already starting to see what kind of new jobs AI is creating. AI requires significant technical work and surrounding services to deploy into the economy.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. We’re already starting to see what kind of new jobs AI is creating. AI requires significant technical work and surrounding services to deploy into the economy. This means jobs for AI engineers that build applied AI products sold to (or within) enterprises, FDEs to deploy agents into companies, new services firms for deploying AI, and more.",
+      "url": "https://x.com/levie/status/2106893015063421357",
+      "publishedAt": "2026-10-04T23:43:33.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-07a731d685ab",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on costs",
+      "takeaway": "a bit more work later… full bleed desktop + side dock lil computer in your pocket",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. a bit more work later… full bleed desktop + side dock lil computer in your pocket",
+      "url": "https://x.com/ryolu_/status/2106777615801713054",
+      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-9d8ce89ad41b",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "When everyone is building the same primitives it does speak to needs that will only intensify from here And we will eventually converge on the correct OS",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. When everyone is building the same primitives it does speak to needs that will only intensify from here And we will eventually converge on the correct OS",
+      "url": "https://x.com/garrytan/status/2106901111106097210",
+      "publishedAt": "2026-10-05T00:15:43.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-9d6cea363c9b",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models",
+      "takeaway": "Still one aspect of AI that's most poorly understood outside AI circles... \"models are grown, not built\" and we don't *really* know how they work.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Still one aspect of AI that's most poorly understood outside AI circles... \"models are grown, not built\" and we don't *really* know how they work. Hence the urgent need for better interpretability -- @eric_ho @GoodfireAI",
+      "url": "https://x.com/mattturck/status/2106821381765956044",
+      "publishedAt": "2026-10-04T18:58:54.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-afe9a32f0d0c",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models",
+      "takeaway": "The way Opus 5.5 just silently goes off to make something for 20+ minutes and comes back with a complete masterpiece X profiles are replacing resumes Currently reading",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. The way Opus 5.5 just silently goes off to make something for 20+ minutes and comes back with a complete masterpiece X profiles are replacing resumes Currently reading",
+      "url": "https://x.com/zarazhangrui/status/2106876921082712250",
+      "publishedAt": "2026-10-04T22:39:36.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-ffc8340839e7",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product",
+      "takeaway": "Maybe I’m just old school, but I just can’t believe how people make investments over a Zoom call.. and sometimes by just meeting the CEO.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Maybe I’m just old school, but I just can’t believe how people make investments over a Zoom call.. and sometimes by just meeting the CEO. There’s so much alpha in meeting founders at their own office. Besides “vibes”, you get to see what the energy of the office is like, how the coworkers react and work with each other, how the cofounders answer and complement each other, what the beta product releases look like,...",
+      "url": "https://x.com/nikunj/status/2106957269212742135",
+      "publishedAt": "2026-10-05T03:58:53.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-75de026d12ae",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "bug fixes & performance improvements",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. bug fixes & performance improvements",
+      "url": "https://x.com/steipete/status/2106796559400882209",
+      "publishedAt": "2026-10-04T17:20:16.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-x-65628b01a9b4",
+      "date": "2026-10-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and models",
+      "takeaway": "dot has become my primary interface to AI over the last few weeks. my dot's name is boo. he's cute! in a year, i bet i'll still be interacting in this way with @ChatGPT—e.g.",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. dot has become my primary interface to AI over the last few weeks. my dot's name is boo. he's cute! in a year, i bet i'll still be interacting in this way with @ChatGPT—e.g. as an always-on persistent agent—but boo will have disappeared.",
+      "url": "https://x.com/danshipper/status/2106892868564431255",
+      "publishedAt": "2026-10-04T23:42:58.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
+    {
+      "id": "2026-10-04-podcast-9d88799339b3",
+      "date": "2026-10-04",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "takeaway": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee. And, you know, what we generally see in most enterprises, what I typically see from a lot the software companies that are...",
+      "summary": "And, you know, what we generally see in most enterprises, what I typically see from a lot the software companies that are producing AI agents today, is this giant push to give small machines to every human in the human assembly line and to speed up work. And as I think you know, we've always had a bias towards scale and enterprise.",
+      "url": "https://www.youtube.com/watch?v=TCpRwJBQvW0",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Microsoft"
+      ],
+      "createdAt": "2026-10-05T21:14:30.661Z"
+    },
     {
       "id": "2026-10-03-x-849b5fdff03a",
       "date": "2026-10-03",
