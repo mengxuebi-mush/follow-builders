@@ -1,7 +1,318 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T00:45:00.918Z",
+  "generatedAt": "2026-10-06T18:52:49.988Z",
   "snippets": [
+    {
+      "id": "2026-10-05-x-86f335435150",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright The real story is this one Sergio is cooking up magic with collaborative...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright The real story is this one Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day.",
+      "url": "https://x.com/thsottiaux/status/2107311729768353844",
+      "publishedAt": "2026-10-06T03:27:22.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-47d9ff98ea41",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product and tools",
+      "takeaway": "I built an AI language learning app that teaches me Japanese via live voice calls. Here's my new tutorial that shows you exactly how I built this, including: → Using my spec skill...",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. I built an AI language learning app that teaches me Japanese via live voice calls. Here's my new tutorial that shows you exactly how I built this, including: → Using my spec skill to create key designs → Setting up Gemini Live APIs for voice → Creating diorama art with Nano Banana You can follow along to build your own app to learn 100 phrases for any language before a trip. 📌 Watch now: Learn more about Gemini 3.",
+      "url": "https://x.com/petergyang/status/2107108755699900459",
+      "publishedAt": "2026-10-05T14:00:50.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-021f6ca76292",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "You can just fix things",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. You can just fix things",
+      "url": "https://x.com/thenanyu/status/2107262460675891640",
+      "publishedAt": "2026-10-06T00:11:36.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-91199f6420a7",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and product",
+      "takeaway": "The most common mistake teams make is to treat evals as an additional QA step once the agent is built. AI products are fundamentally different. Your evals are your product spec.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. The most common mistake teams make is to treat evals as an additional QA step once the agent is built. AI products are fundamentally different. Your evals are your product spec.",
+      "url": "https://x.com/realmadhuguru/status/2107292113214091355",
+      "publishedAt": "2026-10-06T02:09:26.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-a412b453618e",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML- the model doesn’t need to remake the components or logic to do common...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML- the model doesn’t need to remake the components or logic to do common things like state machines, diagrams, code snippets, etc.",
+      "url": "https://x.com/trq212/status/2107294499282293017",
+      "publishedAt": "2026-10-06T02:18:54.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thariq",
+        "Claude"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-3f6d07bd0ccf",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and tools",
+      "takeaway": "The US is catching up on open-weights models. Really proud of how many family-run businesses are powered by Replit. “Promote my app on tiktok”",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. The US is catching up on open-weights models. Really proud of how many family-run businesses are powered by Replit. “Promote my app on tiktok”",
+      "url": "https://x.com/amasad/status/2107222388429766970",
+      "publishedAt": "2026-10-05T21:32:22.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-4f485f1556ce",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API design.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authorization check. The typechecker verifies these proofs at compile time, preventing your team and agents from shipping catastrophic security (and other kinds of) bugs.",
+      "url": "https://x.com/rauchg/status/2107119811444748555",
+      "publishedAt": "2026-10-05T14:44:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-2905864eb891",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments. The files agents need to access, the CRM environments, email, and more. It’s impossible to know how agents are performing if you don’t understand how well they’re executing on your evals and how they’ll perform in the future with a model change or workflow upgrade.",
+      "url": "https://x.com/levie/status/2107283615247999257",
+      "publishedAt": "2026-10-06T01:35:39.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-da904d3ebc66",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on costs and product",
+      "takeaway": "made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean.",
+      "summary": "Ryo Lu (ryolu_ on X) shared 3 recent updates. made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults. enjoy 🍿 remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4. how can computers be so beautiful? i couldn’t afford a Mac, so i made my PC look like one.",
+      "url": "https://x.com/ryolu_/status/2107146629338042853",
+      "publishedAt": "2026-10-05T16:31:19.000Z",
+      "tags": [
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-f46cb53ba950",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is repeatable just by observing agent use AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science Loops. Halmos is building that.",
+      "url": "https://x.com/garrytan/status/2107129959550685660",
+      "publishedAt": "2026-10-05T15:25:05.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-adf8cc3af73c",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "The guy who thought he was too late to crypto investing",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. The guy who thought he was too late to crypto investing",
+      "url": "https://x.com/mattturck/status/2107182105201696858",
+      "publishedAt": "2026-10-05T18:52:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-c802f0e22c37",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Cool!",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Cool!",
+      "url": "https://x.com/zarazhangrui/status/2107357316844802298",
+      "publishedAt": "2026-10-06T06:28:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-5a69e2a7b5b0",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. ",
+      "url": "https://x.com/nikunj/status/2107238370669941082",
+      "publishedAt": "2026-10-05T22:35:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-b3aaddbbb9eb",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "what we promise @every: as the frontier advances, so do you. waiting for your dot to pick up great article by @ArielleShipper",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. what we promise @every: as the frontier advances, so do you. waiting for your dot to pick up great article by @ArielleShipper",
+      "url": "https://x.com/danshipper/status/2107173061313388636",
+      "publishedAt": "2026-10-05T18:16:21.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
+    {
+      "id": "2026-10-05-x-56cb8501065d",
+      "date": "2026-10-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and costs",
+      "takeaway": "Three Stanford degrees. Berkeley EECS faculty since 2016. Cofounder of @physical_int. @svlevine builds the algorithms that let robots learn from experience, linking what they see...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Three Stanford degrees. Berkeley EECS faculty since 2016. Cofounder of @physical_int. @svlevine builds the algorithms that let robots learn from experience, linking what they see to how they move. He's coming to @spc tomorrow. It would be interesting to be able to run the Muse/Dot \"computer\" locally. Feels like that is a better agent environment than increasingly locked down MacOS. Final few spots left",
+      "url": "https://x.com/adityaag/status/2107171588194152936",
+      "publishedAt": "2026-10-05T18:10:30.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-06T18:52:49.988Z"
+    },
     {
       "id": "2026-10-04-x-e9e81ddce568",
       "date": "2026-10-04",
