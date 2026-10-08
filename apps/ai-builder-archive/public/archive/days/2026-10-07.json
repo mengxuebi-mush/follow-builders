@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-08T19:14:41.218Z",
+  "feedGeneratedAt": "2026-10-08T06:47:17.990Z",
+  "snippets": [
+    {
+      "id": "2026-10-07-x-5195bbce953b",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on models",
+      "takeaway": "Try it Ok back to reading It was one prompt, claude verified pretty well too! No bugs so far",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. Try it Ok back to reading It was one prompt, claude verified pretty well too! No bugs so far",
+      "url": "https://x.com/bcherny/status/2108006118966665463",
+      "publishedAt": "2026-10-08T01:26:38.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-2059346474e3",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "Confirmed landed across all accounts. How are we doing so far? Will be there by EOD PST. Day 3 (encore)/ We silently re-shipped codex cloud. It’s pretty good now",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Confirmed landed across all accounts. How are we doing so far? Will be there by EOD PST. Day 3 (encore)/ We silently re-shipped codex cloud. It’s pretty good now",
+      "url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "publishedAt": "2026-10-08T03:44:55.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-5bcf79460b36",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and product",
+      "takeaway": "AI already solved images, music, and video. It’s going to solve gaming soon .@suno is so damn good honestly. It's probably going to overtake Spotify at some point.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. AI already solved images, music, and video. It’s going to solve gaming soon .@suno is so damn good honestly. It's probably going to overtake Spotify at some point. It seems like anything you ship can now be decompiled and rebuilt by AI. I think it'll soon be incredibly hard to make money from software unless you have proprietary data, distribution, or some other edge.",
+      "url": "https://x.com/petergyang/status/2108032922527862851",
+      "publishedAt": "2026-10-08T03:13:08.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-a15d920a3f5e",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product and tools",
+      "takeaway": "Dread it. Run from it. The One True Productivity App Layout arrives all the same.",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Dread it. Run from it. The One True Productivity App Layout arrives all the same.",
+      "url": "https://x.com/thenanyu/status/2108049498648051747",
+      "publishedAt": "2026-10-08T04:19:00.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-bc203c61479f",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on models and product",
+      "takeaway": "One of my favorite PM use cases for Claude is asking \"who used &lt;feature&gt; the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. One of my favorite PM use cases for Claude is asking \"who used &lt;feature&gt; the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback!",
+      "url": "https://x.com/_catwu/status/2107967210467803152",
+      "publishedAt": "2026-10-07T22:52:01.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-4caee254b34d",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and models",
+      "takeaway": "the most common failure case I see is when people are working outside their domain of expertise and don't know how to be precise with their prompts and plans, so they have to...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. the most common failure case I see is when people are working outside their domain of expertise and don't know how to be precise with their prompts and plans, so they have to spend a lot of turns iterating imprecisely I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they're willing to pay for it!",
+      "url": "https://x.com/trq212/status/2108021247301062894",
+      "publishedAt": "2026-10-08T02:26:45.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-1945421f3755",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on tools",
+      "takeaway": "🚨NEW EXPERIMENT 🚨 Playground is an experimental gaming platform that lets you create your own games with zero coding experience. If you can think it, you can play it.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. 🚨NEW EXPERIMENT 🚨 Playground is an experimental gaming platform that lets you create your own games with zero coding experience. If you can think it, you can play it. Go to to learn more! Available to users 18+ in the US.",
+      "url": "https://x.com/GoogleLabs/status/2107800195748737042",
+      "publishedAt": "2026-10-07T11:48:22.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-b9bf0c5d4d66",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and tools",
+      "takeaway": "Math was bound to fall first. The purer the field the easier it is for AI to crack. That’s because Replit is not a consumer app.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Math was bound to fall first. The purer the field the easier it is for AI to crack. That’s because Replit is not a consumer app. Most of our creators are building businesses or working on one. Desktop AI apps are great but expose users to supply-chain attacks and catastrophic mistakes by agents. We’re building a powerful desktop experience with focus on security & reliability.",
+      "url": "https://x.com/amasad/status/2107934939287273551",
+      "publishedAt": "2026-10-07T20:43:47.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit",
+        "Microsoft"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-80f0f9e65b3a",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "gm from the best city in the world One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. gm from the best city in the world One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten) basically ad infinitum. There are real costs in every direction: time, attention, opportunity.",
+      "url": "https://x.com/rauchg/status/2107861196506595398",
+      "publishedAt": "2026-10-07T15:50:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-5c74ba48547a",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on ai",
+      "takeaway": "For reference, Haiku 4.5 came out on October 15th, 2025 so these two columns are less than a year apart. and oh yeah Haiku 5.5 is also much faster and 75% cheaper...",
+      "summary": "Alex Albert (alexalbert__ on X) shared 1 recent update. For reference, Haiku 4.5 came out on October 15th, 2025 so these two columns are less than a year apart. and oh yeah Haiku 5.5 is also much faster and 75% cheaper...",
+      "url": "https://x.com/alexalbert__/status/2107912771568554415",
+      "publishedAt": "2026-10-07T19:15:42.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-72999289e1c8",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The compute needed for the stage of AI we’re about to enter is going to be insane. Personal agents, agent swarms defending enterprises, agents that review all of our code for...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The compute needed for the stage of AI we’re about to enter is going to be insane. Personal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly all enterprise data in workflows, background agents working on tasks 24/7, and on and on.",
+      "url": "https://x.com/levie/status/2108056577697882402",
+      "publishedAt": "2026-10-08T04:47:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-73803c0ae476",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Fun fact: Ben Affleck, the successful AI founder and Python/CNN/GPU expert, had a prior career in the entertainment industry.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Fun fact: Ben Affleck, the successful AI founder and Python/CNN/GPU expert, had a prior career in the entertainment industry. Ofc everything is on X is mind-blowing, but having seen the beta version, this is... truly mind-blowing.",
+      "url": "https://x.com/mattturck/status/2107876612679020855",
+      "publishedAt": "2026-10-07T16:52:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-02f73adbf065",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Remember that coding is a means to an end. The end matters more than the means Who has the coolest personal website?",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Remember that coding is a means to an end. The end matters more than the means Who has the coolest personal website? I love @stripepress because I absolutely judge a book by its cover",
+      "url": "https://x.com/zarazhangrui/status/2108027410256166930",
+      "publishedAt": "2026-10-08T02:51:14.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-d7647d6d1da0",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on research",
+      "takeaway": "To all the people visiting SF for tech week.. 1) the best builders are probably at their own offices. so DM them and try to meet them there.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. To all the people visiting SF for tech week.. 1) the best builders are probably at their own offices. so DM them and try to meet them there. 2) don't be a tourist Moving @askalphaxiv to the dock is the best thing I have done this week.. Went from 0 to ~30 mins of reading papers on my phone whenever I’m waiting on things.",
+      "url": "https://x.com/nikunj/status/2107960134446235985",
+      "publishedAt": "2026-10-07T22:23:54.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-8394bdce3874",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents",
+      "takeaway": "While everyone's talking about agents, I've been exploring how teams can use them to work better together. Here’s my take, from OpenAI DevDay 2026.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. While everyone's talking about agents, I've been exploring how teams can use them to work better together. Here’s my take, from OpenAI DevDay 2026.",
+      "url": "https://x.com/steipete/status/2107911769767440832",
+      "publishedAt": "2026-10-07T19:11:43.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "OpenAI"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-af88ef50c02c",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and enterprise",
+      "takeaway": "OpenAI’s Dots launched last week and they've taken over @every. A few things that stand out: They protect your attention.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. OpenAI’s Dots launched last week and they've taken over @every. A few things that stand out: They protect your attention. Over the weekend, my Dot posted my model-testing results to Slack and brought back replies. I could keep working without opening Slack and disappearing down a rabbit hole. My weekend stayed pretty clear and calm. They’re useful for the little things you miss.",
+      "url": "https://x.com/danshipper/status/2107890633486582208",
+      "publishedAt": "2026-10-07T17:47:44.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-f5d92f9a8350",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and coding",
+      "takeaway": "What should an ambitious software engineer do today? Ten years ago, being a great software engineer gave you an unusual advantage: a rare skill you could apply to almost any...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. What should an ambitious software engineer do today? Ten years ago, being a great software engineer gave you an unusual advantage: a rare skill you could apply to almost any industry. You could build a payments company, improve how hospitals operated, or create a new way for people to communicate. The same underlying ability opened doors into wildly different businesses.",
+      "url": "https://x.com/adityaag/status/2107865115831988530",
+      "publishedAt": "2026-10-07T16:06:20.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-87762bce91e8",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models",
+      "takeaway": "ChatGPT can now generate a custom UI for you! Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. ChatGPT can now generate a custom UI for you! Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+      "url": "https://x.com/sama/status/2107924408597950702",
+      "publishedAt": "2026-10-07T20:01:57.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-x-778cbc36b006",
+      "date": "2026-10-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and costs",
+      "takeaway": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work. Haiku 5.5 shows major improvements across almost all of our alignment evaluations relative to Haiku 4.5, with far fewer instances of misaligned behavior. Haiku 5.",
+      "url": "https://x.com/claudeai/status/2107894060229034197",
+      "publishedAt": "2026-10-07T18:01:21.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    },
+    {
+      "id": "2026-10-07-podcast-357c04af2d05",
+      "date": "2026-10-07",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Why Every Traded Personal Agents for One Company Agent",
+      "takeaway": "Why Every Traded Personal Agents for One Company Agent. They're persistent agents from OpenAI. And I remember because I I I knew, like, Peter's name from, like, the top token...",
+      "summary": "They're persistent agents from OpenAI. And I remember because I I I knew, like, Peter's name from, like, the top token burners leaderboard, like Mhmm. I think on the professional side, I do think it's a one agent per company or org structure because there are so many advantages, again, to it learning the workflows and what you do and everyone contributing just by working with it and making it better that it shapes itself to your company and it's like the advantage of bringing a personal agent in, it's just gonna...",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-07T17:11:13.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-10-08T19:14:41.218Z"
+    }
+  ]
+}
