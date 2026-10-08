@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T19:14:41.218Z",
+  "generatedAt": "2026-10-08T20:39:46.664Z",
   "snippets": [
     {
       "id": "2026-10-07-x-5195bbce953b",
@@ -20,7 +20,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-2059346474e3",
@@ -41,7 +41,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-5bcf79460b36",
@@ -61,7 +61,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-a15d920a3f5e",
@@ -82,7 +82,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-bc203c61479f",
@@ -104,7 +104,7 @@
         "Cat Wu",
         "Claude"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-4caee254b34d",
@@ -125,7 +125,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-1945421f3755",
@@ -144,7 +144,7 @@
       "entities": [
         "Google Labs"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-b9bf0c5d4d66",
@@ -166,7 +166,7 @@
         "Replit",
         "Microsoft"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-80f0f9e65b3a",
@@ -189,7 +189,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-5c74ba48547a",
@@ -208,7 +208,7 @@
       "entities": [
         "Alex Albert"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-72999289e1c8",
@@ -231,7 +231,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-73803c0ae476",
@@ -250,7 +250,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-02f73adbf065",
@@ -269,7 +269,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-d7647d6d1da0",
@@ -288,7 +288,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-8394bdce3874",
@@ -308,7 +308,7 @@
         "Peter Steinberger",
         "OpenAI"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-af88ef50c02c",
@@ -333,7 +333,7 @@
         "OpenAI",
         "Claude"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-f5d92f9a8350",
@@ -356,7 +356,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-87762bce91e8",
@@ -375,7 +375,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-x-778cbc36b006",
@@ -399,7 +399,7 @@
         "Google",
         "Microsoft"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-07-podcast-357c04af2d05",
@@ -424,7 +424,7 @@
         "Claude",
         "Codex"
       ],
-      "createdAt": "2026-10-08T19:14:41.218Z"
+      "createdAt": "2026-10-08T20:39:46.664Z"
     },
     {
       "id": "2026-10-06-x-ddc4c2b6a6ad",
