@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T18:45:43.358Z",
+  "generatedAt": "2026-10-09T20:04:18.535Z",
   "snippets": [
     {
       "id": "2026-10-08-x-0af3f108de47",
@@ -19,7 +19,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-671951865d8c",
@@ -39,7 +39,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-088d3b20903c",
@@ -58,7 +58,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-06fcc9daed7c",
@@ -78,7 +78,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-1e2093b29c06",
@@ -100,7 +100,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-f1f5877443f0",
@@ -121,7 +121,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-0a04a7a0fbb5",
@@ -140,7 +140,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-545dedcc7b10",
@@ -164,7 +164,7 @@
         "Anthropic",
         "Box"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-a2fe7109c5eb",
@@ -184,7 +184,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-b894e52045af",
@@ -207,7 +207,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-d31957691f9a",
@@ -229,7 +229,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-35abc32b95d3",
@@ -248,7 +248,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-8e00c536b7b6",
@@ -269,7 +269,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-473ee56c84f4",
@@ -288,7 +288,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-x-9e75b0d2c5b0",
@@ -309,7 +309,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-08-podcast-9618b0feaaa9",
@@ -335,7 +335,7 @@
         "Google",
         "Box"
       ],
-      "createdAt": "2026-10-09T18:45:43.358Z"
+      "createdAt": "2026-10-09T20:04:18.535Z"
     },
     {
       "id": "2026-10-07-x-5195bbce953b",
