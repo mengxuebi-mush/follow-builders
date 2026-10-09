@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-09T18:45:43.358Z",
+  "feedGeneratedAt": "2026-10-09T06:47:11.550Z",
+  "snippets": [
+    {
+      "id": "2026-10-08-x-0af3f108de47",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "if you cant hire for it, my team will do oneoff consult for you, get in touch business@latent.space to paraphrase modern family, there are 5 things wrong in this tweet.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. if you cant hire for it, my team will do oneoff consult for you, get in touch business@latent.space to paraphrase modern family, there are 5 things wrong in this tweet. the talented {role} will already have posts covering most of them to paraphrase modern family, there are 5 things wrong in this tweet. the talented {role} will already have posts covering most of them",
+      "url": "https://x.com/swyx/status/2108388128390086675",
+      "publishedAt": "2026-10-09T02:44:36.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-671951865d8c",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Today, we are announcing ChatGPT. It is here: Day 4/ We have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Today, we are announcing ChatGPT. It is here: Day 4/ We have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort. Also releasing GPT-6.1 Sol ultrafast. The two work very well together.",
+      "url": "https://x.com/thsottiaux/status/2108349826727588000",
+      "publishedAt": "2026-10-09T00:12:24.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-088d3b20903c",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product",
+      "takeaway": "I don't understand how Grok @bot's new email feature works. I just tagged it on a thread and it doesn't seem to reply? What are ppl using it for?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I don't understand how Grok @bot's new email feature works. I just tagged it on a thread and it doesn't seem to reply? What are ppl using it for? Just insane 😂 @poteto @thsottiaux If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2108412799684915576",
+      "publishedAt": "2026-10-09T04:22:38.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-06fcc9daed7c",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "huge",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. huge",
+      "url": "https://x.com/thenanyu/status/2108354844658737637",
+      "publishedAt": "2026-10-09T00:32:20.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-1e2093b29c06",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and enterprise",
+      "takeaway": "There are massive startup opportunities hiding in plain sight : every layer of the computing stack will need to be rebuilt for agents.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. There are massive startup opportunities hiding in plain sight : every layer of the computing stack will need to be rebuilt for agents. For the last few years, most of the focus has been on making enterprise software agent-ready: APIs, connectors, MCPs. Now personal agents are forcing the same conversation for consumer products - e-commerce is an early example. This is just the tip of the iceberg.",
+      "url": "https://x.com/realmadhuguru/status/2108236391641706813",
+      "publishedAt": "2026-10-08T16:41:39.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-f1f5877443f0",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on tools",
+      "takeaway": "whoops I hit send and went to a meeting, didn't realize the repo wasnt public- it is now! it's a chrome extension I use every day now and read more about how to enable the API...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. whoops I hit send and went to a meeting, didn't realize the repo wasnt public- it is now! it's a chrome extension I use every day now and read more about how to enable the API credits for yourself here: here's what I got today",
+      "url": "https://x.com/trq212/status/2108312534222778407",
+      "publishedAt": "2026-10-08T21:44:13.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-0a04a7a0fbb5",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness in people, sometimes even before they fully see it themselves.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Few things more enjoyable in work and life than discovering new talent. Seeing greatness in people, sometimes even before they fully see it themselves.",
+      "url": "https://x.com/rauchg/status/2108399406009798764",
+      "publishedAt": "2026-10-09T03:29:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-545dedcc7b10",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "This sounds weird, but it is actually probably a good policy. Even if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. This sounds weird, but it is actually probably a good policy. Even if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on endless content of humans being rude to models. The models only understand the data they’ve been trained on, or what they run into in their interactions, so if you want safe and aligned models we probably want AI to have lots of good...",
+      "url": "https://x.com/levie/status/2108426594054533545",
+      "publishedAt": "2026-10-09T05:17:27.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Anthropic",
+        "Box"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-a2fe7109c5eb",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and product",
+      "takeaway": "GTA SF omg Logical: in the future ICs with agents will be more productive and create better outcomes than equivalent people managers from prior eras Actually truth already...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. GTA SF omg Logical: in the future ICs with agents will be more productive and create better outcomes than equivalent people managers from prior eras Actually truth already stranger than fiction",
+      "url": "https://x.com/garrytan/status/2108408297988723076",
+      "publishedAt": "2026-10-09T04:04:45.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-b894e52045af",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "Special treat for the @andy_pavlo fans out there: an in-depth discussion about what happens to databases when billions of AI agents hit them, his move to build a research lab at...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Special treat for the @andy_pavlo fans out there: an in-depth discussion about what happens to databases when billions of AI agents hit them, his move to build a research lab at @ClickHouseDB, and plently of hot takes on the database market (Postgres, vector, graph, GPU etc) 00:00 Cold open & Intro 01:21 From vector databases and RAG to the age of agents 04:09 Neon's stat: agents create 80% of databases?",
+      "url": "https://x.com/mattturck/status/2108223135673696504",
+      "publishedAt": "2026-10-08T15:48:59.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-d31957691f9a",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "Met a close friend who’s also a seed stage founder today.. They have been growing but runway is dwindling and he wanted advice on what he should do next.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Met a close friend who’s also a seed stage founder today.. They have been growing but runway is dwindling and he wanted advice on what he should do next. Stellar customers, getting close to a $1M in revenue. Not a rocket ship, but not bad at all. He thinks he’s a bit early since the models haven’t caught up to the capabilities he wants but he also really feels the opportunity cost.",
+      "url": "https://x.com/nikunj/status/2108410378233549106",
+      "publishedAt": "2026-10-09T04:13:01.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-35abc32b95d3",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "WE GOT IT! .claw incoming!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. WE GOT IT! .claw incoming!",
+      "url": "https://x.com/steipete/status/2108374513931165759",
+      "publishedAt": "2026-10-09T01:50:30.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-8e00c536b7b6",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and research",
+      "takeaway": "NEW JOB ALERT: @every we've built a personal benchmarking platform, Checks, to help anyone measure how good new models are for their real work we're looking for someone who...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. NEW JOB ALERT: @every we've built a personal benchmarking platform, Checks, to help anyone measure how good new models are for their real work we're looking for someone who understands why this is so important, and wants to help us build it into the future of how great human work gets done with AI: yup",
+      "url": "https://x.com/danshipper/status/2108215087030800657",
+      "publishedAt": "2026-10-08T15:17:00.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-473ee56c84f4",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents",
+      "takeaway": "When is an autonomous vehicle actually good enough? @Waymo @dmitri_dolgov @spc Full conversation out now Full conversation at @spc",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. When is an autonomous vehicle actually good enough? @Waymo @dmitri_dolgov @spc Full conversation out now Full conversation at @spc",
+      "url": "https://x.com/adityaag/status/2108254520744517652",
+      "publishedAt": "2026-10-08T17:53:41.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-x-9e75b0d2c5b0",
+      "date": "2026-10-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free. Your team and Claude can edit the same doc, deck, or design together.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free. Your team and Claude can edit the same doc, deck, or design together. When a question needs deeper analysis, send the dashboard to your analytics tool. When an animation needs finishing touches, open it in your video editor.",
+      "url": "https://x.com/claudeai/status/2108271559928389679",
+      "publishedAt": "2026-10-08T19:01:24.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    },
+    {
+      "id": "2026-10-08-podcast-9618b0feaaa9",
+      "date": "2026-10-08",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI",
+      "takeaway": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI. So in terms of how we hold ourselves accountable, if we have a chip failing for a...",
+      "summary": "So in terms of how we hold ourselves accountable, if we have a chip failing for a synchronous workload, and many of these workloads, whether training or serving or agentic workloads, they're synchronous. Well, to be clear, this is in terms of effective available capacity from the way in the end that we look at it is from a serving perspective, its token generation capability. So in other words, productivity is going up significantly.",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-06T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-10-09T18:45:43.358Z"
+    }
+  ]
+}
