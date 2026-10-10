@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-09",
-  "generatedAt": "2026-10-10T17:47:25.109Z",
+  "generatedAt": "2026-10-10T19:14:31.465Z",
   "feedGeneratedAt": "2026-10-10T06:42:38.645Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-150ea7d01c82",
@@ -41,7 +41,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-5e4a212705ed",
@@ -60,7 +60,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-2b424994c49f",
@@ -81,7 +81,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-fa5c683f59f0",
@@ -101,7 +101,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-94567641eb23",
@@ -124,7 +124,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-1651ef0fc6e8",
@@ -143,7 +143,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-cce9434aa3dd",
@@ -164,7 +164,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-7906e63582b2",
@@ -184,7 +184,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-28efef962893",
@@ -203,7 +203,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-7d7a19748910",
@@ -224,7 +224,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-8d6535ac020a",
@@ -245,7 +245,7 @@
         "Zara Zhang",
         "Claude"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-745baa9c7bc5",
@@ -264,7 +264,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-b958cffc8b35",
@@ -283,7 +283,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-x-6d0ed94747d3",
@@ -302,7 +302,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-blog-97cd97d27d22",
@@ -327,7 +327,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-blog-dea52d951227",
@@ -352,7 +352,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-blog-f90fa6cabc29",
@@ -377,7 +377,7 @@
         "Claude",
         "Meta"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     },
     {
       "id": "2026-10-09-podcast-0aa4355de8d8",
@@ -406,7 +406,7 @@
         "Microsoft",
         "Meta"
       ],
-      "createdAt": "2026-10-10T17:47:25.109Z"
+      "createdAt": "2026-10-10T19:14:31.465Z"
     }
   ]
 }
