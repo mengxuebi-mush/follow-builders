@@ -1,7 +1,411 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T23:10:11.243Z",
+  "generatedAt": "2026-10-10T17:47:25.109Z",
   "snippets": [
+    {
+      "id": "2026-10-09-x-e775141fb8a0",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product",
+      "takeaway": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday!",
+      "url": "https://x.com/swyx/status/2108780918060036335",
+      "publishedAt": "2026-10-10T04:45:24.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-150ea7d01c82",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Your ChatGPT subscription is now also a Devin subscription Dots got a pretty big upgrade Send feedback to @keyanzhang and @sharifshameem !",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Your ChatGPT subscription is now also a Devin subscription Dots got a pretty big upgrade Send feedback to @keyanzhang and @sharifshameem !",
+      "url": "https://x.com/thsottiaux/status/2108777962053292398",
+      "publishedAt": "2026-10-10T04:33:40.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-5e4a212705ed",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Pro @bot tip: If you want your Grok Bot as a chief of staff it doesn't actually make sense to register its email as your (your-name) because it's weird to copy in yourself. e.g.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. Pro @bot tip: If you want your Grok Bot as a chief of staff it doesn't actually make sense to register its email as your (your-name) because it's weird to copy in yourself. e.g., \"Let me copy in Peter to find a time for us\" doesn't make alot of sense. So I suggest picking another name for your Grok Bot email - whatever you want your chief of staff to be called.",
+      "url": "https://x.com/petergyang/status/2108624122339287335",
+      "publishedAt": "2026-10-09T18:22:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-2b424994c49f",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and coding",
+      "takeaway": "I cannot stress how much I’ve loved using this feature. First we wrote code by hand, then we tab-completed the code.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. I cannot stress how much I’ve loved using this feature. First we wrote code by hand, then we tab-completed the code. Then we evolved to prompting agents…and now we tab-complete that too. Is this 🦋 recursive self-improvement?",
+      "url": "https://x.com/thenanyu/status/2108671762984731037",
+      "publishedAt": "2026-10-09T21:31:40.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-fa5c683f59f0",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and models",
+      "takeaway": "Open-weight models did not start the drop in price per unit of intelligence. They are a tailwind on a trend that was already underway.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Open-weight models did not start the drop in price per unit of intelligence. They are a tailwind on a trend that was already underway. For the last few years, a few factors have driven price drops: 1/ Model builders distilling their best models into smaller ones, with cheaper inference 2/ Infra efficiency 3/ Competition between model providers You can see this pattern with every model company: Version x of the...",
+      "url": "https://x.com/realmadhuguru/status/2108618266776387886",
+      "publishedAt": "2026-10-09T17:59:05.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-94567641eb23",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and models",
+      "takeaway": "before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process & didnt work that...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process & didnt work that well but one prompt to Opus 5.5 ported it to Claude Managed Agents & made it way more reliable honestly pretty cool to have this on my new tab page just merged in some PRs by others too!",
+      "url": "https://x.com/trq212/status/2108689101503566319",
+      "publishedAt": "2026-10-09T22:40:34.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-1651ef0fc6e8",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+      "url": "https://x.com/amasad/status/2108597112707686552",
+      "publishedAt": "2026-10-09T16:35:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-cce9434aa3dd",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and product",
+      "takeaway": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this to domains. Agents can now go full stack, from idea to online business, with a banger domain name 😁 Some interesting machine & agent Vercel traffic stats. • Across the entire Vercel network, 58.",
+      "url": "https://x.com/rauchg/status/2108669027363295323",
+      "publishedAt": "2026-10-09T21:20:47.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-7906e63582b2",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and costs",
+      "takeaway": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. The usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem like a relic within a year or two.",
+      "url": "https://x.com/levie/status/2108750943680630893",
+      "publishedAt": "2026-10-10T02:46:18.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-28efef962893",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Only Nancy Tung has done anything to prevent ongoing misconduct and now the hard left crazies and the captured legacy media are on a witch hunt This is politics as usual but...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Only Nancy Tung has done anything to prevent ongoing misconduct and now the hard left crazies and the captured legacy media are on a witch hunt This is politics as usual but normal voters should know it is pure dishonesty Action to take Activism as journalism like what Eskenazi does day in and day out should be defunded This is not c3 work. This is not journalism. This is political work.",
+      "url": "https://x.com/garrytan/status/2108756019132379586",
+      "publishedAt": "2026-10-10T03:06:28.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-7d7a19748910",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise and product",
+      "takeaway": "One prompt to build a professional-level video for your company or product, in your style... this is 🤯 Btw, quite literally the vision that @synthesiaIO has been pursuing since...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. One prompt to build a professional-level video for your company or product, in your style... this is 🤯 Btw, quite literally the vision that @synthesiaIO has been pursuing since the early days. Happening slowly, then all at once. Available to everyone today.",
+      "url": "https://x.com/mattturck/status/2108561284635480443",
+      "publishedAt": "2026-10-09T14:12:40.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-8d6535ac020a",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on models and product",
+      "takeaway": "This thread is GOLD Never underestimate people’s creativity Somehow Astra loves to use the Claude logo when designing websites 😂",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. This thread is GOLD Never underestimate people’s creativity Somehow Astra loves to use the Claude logo when designing websites 😂",
+      "url": "https://x.com/zarazhangrui/status/2108584212660129820",
+      "publishedAt": "2026-10-09T15:43:46.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-745baa9c7bc5",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product",
+      "takeaway": "Love this so so much. Basically how I have tried to emulate life, although Sunil’s father seems ultra special.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Love this so so much. Basically how I have tried to emulate life, although Sunil’s father seems ultra special. Believe in karma, universe finds a way to repay favors even if the people don’t. Founders, please ask your marketing team to exclude VCs if you decide to promote your product on X.. I get 3 DMs a day asking to \"collab\" on this \"insane opportunity\" which is *cough cough* a paid partnership.",
+      "url": "https://x.com/nikunj/status/2108710061627588964",
+      "publishedAt": "2026-10-10T00:03:51.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-b958cffc8b35",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents",
+      "takeaway": "Working With Agents in Slack",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. Working With Agents in Slack",
+      "url": "https://x.com/danshipper/status/2108588611000275009",
+      "publishedAt": "2026-10-09T16:01:15.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-x-6d0ed94747d3",
+      "date": "2026-10-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "We hosted @svlevine at @spc this week. He is perhaps the best example of clarity in action that I have seen in a long time. Thank you for joining us, Sergey.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. We hosted @svlevine at @spc this week. He is perhaps the best example of clarity in action that I have seen in a long time. Thank you for joining us, Sergey.",
+      "url": "https://x.com/adityaag/status/2108578813751791926",
+      "publishedAt": "2026-10-09T15:22:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-blog-97cd97d27d22",
+      "date": "2026-10-09",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-blog-dea52d951227",
+      "date": "2026-10-09",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-blog-f90fa6cabc29",
+      "date": "2026-10-09",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "takeaway": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs .",
+      "summary": "Scaling Managed Agents: Decoupling the brain from the hands. Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
+    {
+      "id": "2026-10-09-podcast-0aa4355de8d8",
+      "date": "2026-10-09",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "There was no coding really, nothing agentic. I guess there were enterprise reasons, there were geopolitical reasons happening, but also there was the research reason that it turned out you actually do need to pre train your model in order to make reinforcement learning work very well at scale.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-09T17:24:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Vercel",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-10-10T17:47:25.109Z"
+    },
     {
       "id": "2026-10-08-x-0af3f108de47",
       "date": "2026-10-08",
