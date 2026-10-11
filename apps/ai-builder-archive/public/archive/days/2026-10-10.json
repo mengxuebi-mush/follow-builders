@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-11T18:00:31.770Z",
+  "feedGeneratedAt": "2026-10-11T06:43:45.305Z",
+  "snippets": [
+    {
+      "id": "2026-10-10-x-c1215c4fd76f",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Put the reset in the bag. All propagated. The day we reach perfection it will be resets from there onwards Pro users, would you rather have",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Put the reset in the bag. All propagated. The day we reach perfection it will be resets from there onwards Pro users, would you rather have",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "publishedAt": "2026-10-11T04:01:09.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-ce23e4b5057c",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Something went wrong alright",
+      "summary": "Peter Yang (petergyang on X) shared 1 recent update. Something went wrong alright",
+      "url": "https://x.com/petergyang/status/2109107670229930458",
+      "publishedAt": "2026-10-11T02:23:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-c4df7f1455b5",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on agents and enterprise",
+      "takeaway": "Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers. So the ideal ratio is 1:1 Everything seems to be going as planned Ran outta gas Fill issue",
+      "url": "https://x.com/thenanyu/status/2108976262698115550",
+      "publishedAt": "2026-10-10T17:41:38.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-579ef043cb30",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and models",
+      "takeaway": "Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observability) will need to outpace this.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observability) will need to outpace this. The evolutionary direction of the broader agents space is capability -> trust -> autonomy The first phase has been about capability - can the combination of model + harness + tools + context reliably get work done?",
+      "url": "https://x.com/realmadhuguru/status/2108982858513776899",
+      "publishedAt": "2026-10-10T18:07:51.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-b58b4c602dbb",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)",
+      "url": "https://x.com/rauchg/status/2109038632518782989",
+      "publishedAt": "2026-10-10T21:49:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-83e36adc4115",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.",
+      "url": "https://x.com/levie/status/2109079686286565378",
+      "publishedAt": "2026-10-11T00:32:36.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-81915c3add63",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and models",
+      "takeaway": "For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, latency and cost per compute is useful.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, latency and cost per compute is useful. That's my repo which has 40+ categories that each can be auto-researched and auto-improved I use GStack /autoplan and ask for the agent to ELI5 the plan it comes up with, and I still approve plans to make sure it's going down paths I think are likely to work.",
+      "url": "https://x.com/garrytan/status/2108954738540863498",
+      "publishedAt": "2026-10-10T16:16:06.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-e3390c017995",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding",
+      "takeaway": "Code is the new medium for creative self-expression",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Code is the new medium for creative self-expression",
+      "url": "https://x.com/zarazhangrui/status/2109087739287384387",
+      "publishedAt": "2026-10-11T01:04:36.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-6c7f400a7a43",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Let’s go - only took 23 months 😂 Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Let’s go - only took 23 months 😂 Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. > ask a fund to show conviction, and ask to double down especially when the chips are down. > ask them not do contracted pro rata just because it’s convenient to you from a dilution perspective or the lead fund that’s trying to get their ownership targets.",
+      "url": "https://x.com/nikunj/status/2109060688446677004",
+      "publishedAt": "2026-10-10T23:17:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-85cae25d27bc",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "not as clear-cut, but also yes JavaScript is not a serious language 🙃",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. not as clear-cut, but also yes JavaScript is not a serious language 🙃",
+      "url": "https://x.com/steipete/status/2109022454224150707",
+      "publishedAt": "2026-10-10T20:45:11.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-x-99e4d007f39d",
+      "date": "2026-10-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on enterprise and research",
+      "takeaway": "yup if your company slack is not a constant source of wonder and inspiration right now something is wrong incredibly interesting research exploration 👇",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. yup if your company slack is not a constant source of wonder and inspiration right now something is wrong incredibly interesting research exploration 👇",
+      "url": "https://x.com/danshipper/status/2108941466785439796",
+      "publishedAt": "2026-10-10T15:23:22.000Z",
+      "tags": [
+        "enterprise",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    },
+    {
+      "id": "2026-10-10-podcast-ab2b654bc2d1",
+      "date": "2026-10-10",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "AI Models Are Now Hiding Their Cheating | Eric Ho (Goodfire)",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "My guest today is Eric Ho, CEO of Good With every top AI lab now reporting agents going rogue and hacking external systems, something is clearly broken in the world of AI safety. You're a commercial enterprise venture backed. But what we mean by the word know is, there's something in their activations, essentially, the the neurons that get activated during a forward pass of the model when the model is producing a token, that encode the concept of cheating or reward hacking.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-01T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-10-11T18:00:31.770Z"
+    }
+  ]
+}
