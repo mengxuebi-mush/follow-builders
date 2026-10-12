@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-12T21:41:59.741Z",
+  "feedGeneratedAt": "2026-10-12T07:04:13.260Z",
+  "snippets": [
+    {
+      "id": "2026-10-11-x-81c0a1839a64",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on agents and coding",
+      "takeaway": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*.",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all. - Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products.",
+      "url": "https://x.com/karpathy/status/2109361546505966046",
+      "publishedAt": "2026-10-11T19:12:37.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Andrej Karpathy",
+        "OpenAI",
+        "Google"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-204a75237fc6",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner!",
+      "summary": "Swyx (swyx on X) shared 1 recent update. reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner!",
+      "url": "https://x.com/swyx/status/2109365419937239158",
+      "publishedAt": "2026-10-11T19:28:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-70938c9dd862",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users.",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "publishedAt": "2026-10-11T23:45:59.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-434d400e854a",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Building a @modretro game with my daughter and Codex \"I'm not at a point where I trust the agent, especially with stuff that people are using.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Building a @modretro game with my daughter and Codex \"I'm not at a point where I trust the agent, especially with stuff that people are using.\" From Micky (@Rasmic), who's taught 100K+ people to build with AI: \"The manual review is like the final step. All the work's done, and I have as much evidence from the agent as possible.",
+      "url": "https://x.com/petergyang/status/2109434554729824397",
+      "publishedAt": "2026-10-12T00:02:43.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Codex"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-9d68dd031cc6",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Who’s gonna tell him",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Who’s gonna tell him",
+      "url": "https://x.com/thenanyu/status/2109538550421262552",
+      "publishedAt": "2026-10-12T06:55:58.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-055c91a706c5",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and product",
+      "takeaway": "I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque. A key signal of intelligence is communication.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque. A key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them.",
+      "url": "https://x.com/trq212/status/2109329495341867391",
+      "publishedAt": "2026-10-11T17:05:15.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-705017881c4d",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "So cool. The future of learning",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. So cool. The future of learning",
+      "url": "https://x.com/rauchg/status/2109297685392175488",
+      "publishedAt": "2026-10-11T14:58:51.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-4d3c9b7c2b67",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.",
+      "url": "https://x.com/levie/status/2109467575025578330",
+      "publishedAt": "2026-10-12T02:13:56.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-40856d9b6357",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want Be part of the 5000 today.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want Be part of the 5000 today. It’s amazing The lucky thing is the price will come down and more people will see this, and get a chance to bring it to the world Greatest alpha fountain in the history of man If you wonder what an SF Public Bank will do for the city… For you? Absolutely nothing.",
+      "url": "https://x.com/garrytan/status/2109410082769482174",
+      "publishedAt": "2026-10-11T22:25:29.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-a8c9dcecb452",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "Please respect my privacy during this difficult time in the family People were punch card operators then they were Lotus Notes admins, then they were Flash developers and...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Please respect my privacy during this difficult time in the family People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and harness engineers. It will work out just fine.",
+      "url": "https://x.com/mattturck/status/2109410677526065460",
+      "publishedAt": "2026-10-11T22:27:51.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-0a92af0ab50d",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "The only place where I use Gemini these days is in Chrome",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. The only place where I use Gemini these days is in Chrome",
+      "url": "https://x.com/zarazhangrui/status/2109483079106740500",
+      "publishedAt": "2026-10-12T03:15:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-bf3e9f84d83b",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "🔵👼",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. 🔵👼",
+      "url": "https://x.com/nikunj/status/2109428362171305984",
+      "publishedAt": "2026-10-11T23:38:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-x-ff85a921fdaa",
+      "date": "2026-10-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "made a feed that automatically tracks the books im reading (and have read going back to 2012!) maybe we should have a feed for everybody @every could be fun to see",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. made a feed that automatically tracks the books im reading (and have read going back to 2012!) maybe we should have a feed for everybody @every could be fun to see",
+      "url": "https://x.com/danshipper/status/2109331798282915907",
+      "publishedAt": "2026-10-11T17:14:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    },
+    {
+      "id": "2026-10-11-podcast-c393e794fb53",
+      "date": "2026-10-11",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
+      "takeaway": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile. The place where the ability to take a multi trillion parameter model and run it comfortably at...",
+      "summary": "The place where the ability to take a multi trillion parameter model and run it comfortably at many thousands of tokens per second, in our view, is a kind of fundamental elevator on capability for AI is in taking these kind of very long running agents and making them radically faster. And that's something which then then can drive you to thousands of tokens per second on these language models.",
+      "url": "https://www.youtube.com/watch?v=OpeCP4wCxkA",
+      "publishedAt": "2026-10-02T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-10-12T21:41:59.741Z"
+    }
+  ]
+}
