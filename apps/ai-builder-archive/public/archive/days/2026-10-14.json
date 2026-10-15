@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-15T17:43:51.348Z",
+  "feedGeneratedAt": "2026-10-15T06:42:36.600Z",
+  "snippets": [
+    {
+      "id": "2026-10-14-x-f216b1685611",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on research",
+      "takeaway": "beautiful essay in this morning’s newspaper from Ben - read all about it",
+      "summary": "Swyx (swyx on X) shared 1 recent update. beautiful essay in this morning’s newspaper from Ben - read all about it",
+      "url": "https://x.com/swyx/status/2110382190093836568",
+      "publishedAt": "2026-10-14T14:48:17.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-9cf8e4e531b3",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "The reports of my reset button being lost are greatly exaggerated Day 10/ Reset Landing within the next 2 hours Done and dusted",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. The reports of my reset button being lost are greatly exaggerated Day 10/ Reset Landing within the next 2 hours Done and dusted",
+      "url": "https://x.com/thsottiaux/status/2110595484180214059",
+      "publishedAt": "2026-10-15T04:55:51.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-6e07003124e8",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models",
+      "takeaway": "Found out that my 8 year old used ChatGPT to get an answer for her math homework. Instead of being mad I was actually quite impressed :) I wonder what bangers means here Fuck...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Found out that my 8 year old used ChatGPT to get an answer for her math homework. Instead of being mad I was actually quite impressed :) I wonder what bangers means here Fuck cancer. Spreading the word:",
+      "url": "https://x.com/petergyang/status/2110521081450922117",
+      "publishedAt": "2026-10-15T00:00:12.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-74b577fce7d8",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "I think about this passage a lot.",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. I think about this passage a lot.",
+      "url": "https://x.com/AmandaAskell/status/2110560531501449485",
+      "publishedAt": "2026-10-15T02:36:57.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-2cd8d5b23f00",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "\"Today's Weather: Partly Agentic\" context: I used to tell people it's good to \"be technical\" but I think this is not accurate enough.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. \"Today's Weather: Partly Agentic\" context: I used to tell people it's good to \"be technical\" but I think this is not accurate enough. If you're technical you need to be in the details more with the right parts of the code. If you're non-technical, being in the details means knowing how things work at the right level.",
+      "url": "https://x.com/trq212/status/2110564027231568277",
+      "publishedAt": "2026-10-15T02:50:51.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-4086f8ae6f2a",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment. When the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that agent containment would be one of the most important priorities for any AI infra company.",
+      "url": "https://x.com/rauchg/status/2110514201559228606",
+      "publishedAt": "2026-10-14T23:32:51.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-c9941c075657",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise and research",
+      "takeaway": "The academics think the founder who raised at $2B valuation can pay but they can’t You are a founder who owns 50% of your company and you have 20x voting rights.",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. The academics think the founder who raised at $2B valuation can pay but they can’t You are a founder who owns 50% of your company and you have 20x voting rights. You owe 5% on $10B in the asset seizure tax. You owe $500M of your paper $1B. Find me a way to get a loan for half your illiquid net worth. You cant. The asset seizure proponents are dishonest and also it’s not a 5% tax on startups.",
+      "url": "https://x.com/garrytan/status/2110372513792577971",
+      "publishedAt": "2026-10-14T14:09:50.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-9c140c1ade21",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Twitter: “Europe is done. No AI there” Jensen:",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Twitter: “Europe is done. No AI there” Jensen:",
+      "url": "https://x.com/mattturck/status/2110441018113904772",
+      "publishedAt": "2026-10-14T18:42:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-16bb8a3ae239",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Made a playful website for the things on my wishlist! Your next wedding/baby/birthday gift registry could look like this This is some really good storytelling!",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Made a playful website for the things on my wishlist! Your next wedding/baby/birthday gift registry could look like this This is some really good storytelling! Play with it: Design inspired by: DM me if you wanna learn how to make something like this!",
+      "url": "https://x.com/zarazhangrui/status/2110262048819208642",
+      "publishedAt": "2026-10-14T06:50:53.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-3e159614ad3b",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "People overcomplicate venture investing - it's deceptively simple.. 1) You have to win the right to 2) Find and invest in exceptional founders 3) Just before it's \"consensus\" 4)...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. People overcomplicate venture investing - it's deceptively simple.. 1) You have to win the right to 2) Find and invest in exceptional founders 3) Just before it's \"consensus\" 4) Consistently every year Vast majority of VCs are able to do maybe one of these right, some are able to do a few but to be truly truly great, you genuinely have to do ALL of them right.",
+      "url": "https://x.com/nikunj/status/2110493174787670529",
+      "publishedAt": "2026-10-14T22:09:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-4ba12bbf486a",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "this is the future of communications at work if you're still sending a deck ngmi must read there are wonders to behold in the @every slack right now",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. this is the future of communications at work if you're still sending a deck ngmi must read there are wonders to behold in the @every slack right now",
+      "url": "https://x.com/danshipper/status/2110486623263867002",
+      "publishedAt": "2026-10-14T21:43:16.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-x-1a9886209778",
+      "date": "2026-10-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and models",
+      "takeaway": "At @spc, we are trying to reconcile two things: 1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible. 2.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. At @spc, we are trying to reconcile two things: 1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible. 2. Capital is flowing to consensus teams, in consensus markets, and with consensus terms. So we’re running a new experiment: $200K, uncapped, to a handful of unapologetically maximalist thinkers who want to try a truly out-there idea. We don't know what ideas to ask for.",
+      "url": "https://x.com/adityaag/status/2110422584357478530",
+      "publishedAt": "2026-10-14T17:28:48.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    },
+    {
+      "id": "2026-10-14-podcast-357c04af2d05",
+      "date": "2026-10-14",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Hugging Face’s Investor Spots Winners",
+      "takeaway": "How Hugging Face’s Investor Spots Winners. On the equipment side, we have software tools specifically made for you, like an agent that helps you AI pill your whole company, all...",
+      "summary": "On the equipment side, we have software tools specifically made for you, like an agent that helps you AI pill your whole company, all bundled together under one subscription. But transformer is really good at next token prediction. And so they have a budget of ways to make money.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-14T16:22:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-10-15T17:43:51.348Z"
+    }
+  ]
+}
