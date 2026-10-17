@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-17T16:18:52.745Z",
+  "feedGeneratedAt": "2026-10-17T06:37:54.211Z",
+  "snippets": [
+    {
+      "id": "2026-10-16-x-8c850169b3cb",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on product",
+      "takeaway": "ok i really need the prompt(s) for this video because this is near-kurzgesagt level clarity of explanation (not yet illustration) i've been waiting to launch this show for almost...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. ok i really need the prompt(s) for this video because this is near-kurzgesagt level clarity of explanation (not yet illustration) i've been waiting to launch this show for almost a year! thanks to the Testers and to @NehallAgrawal @KaylinWardley for helping me put this together! some behind the scenes from the shoot of our latest show!! @affaan @absurdistphil @aiDotEngineer full talk written up:",
+      "url": "https://x.com/swyx/status/2111265627612787023",
+      "publishedAt": "2026-10-17T01:18:45.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-1d61458f83db",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it.",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days Try it:",
+      "url": "https://x.com/bcherny/status/2111158313463525518",
+      "publishedAt": "2026-10-16T18:12:20.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-3cd91299515f",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on enterprise and models",
+      "takeaway": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? And update your app to enjoy this gem Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
+      "url": "https://x.com/thsottiaux/status/2111249534072529256",
+      "publishedAt": "2026-10-17T00:14:48.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-061830eeb3d0",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product",
+      "takeaway": "Docs -&gt; slides -&gt; video -&gt; rap battle as the ultimate form of communication. Should I make another one like this?",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Docs -&gt; slides -&gt; video -&gt; rap battle as the ultimate form of communication. Should I make another one like this? Not about the feud don’t worry :) @bot @bot please monitor all replies to this thread and send me the best ones in a list in 24 hours @bot @spacexai If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2111263176163783167",
+      "publishedAt": "2026-10-17T01:09:01.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-76c6bd5b83a9",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amanda Askell",
+      "title": "Amanda Askell on ai",
+      "takeaway": "the rocket car is cool and i want one",
+      "summary": "Amanda Askell (AmandaAskell on X) shared 1 recent update. the rocket car is cool and i want one",
+      "url": "https://x.com/AmandaAskell/status/2111167134533611801",
+      "publishedAt": "2026-10-16T18:47:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amanda Askell"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-48d2fcfe984f",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and product",
+      "takeaway": "Fascinating to see Mathematicians go through all the stages of grief — Denial, Anger, Bargaining, Depression, and Acceptance — in such a compressed window of time.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Fascinating to see Mathematicians go through all the stages of grief — Denial, Anger, Bargaining, Depression, and Acceptance — in such a compressed window of time. We're at the tail end of depression and entering acceptance. Your data belongs to you! We’ll deploy Replit to your cloud and data never leaves home. Designed for high stakes environments like governments, finance, and healthcare.",
+      "url": "https://x.com/amasad/status/2111206044416500159",
+      "publishedAt": "2026-10-16T21:21:59.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-704531eebfba",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "Rebuilt the Roadster demo in a playable, highly accurate simulation that retains a lot of the IRL details: TypeScript is the new TypeScript 😂 When 𝚜𝚌𝚛𝚒𝚙𝚝𝚌-compiled,...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Rebuilt the Roadster demo in a playable, highly accurate simulation that retains a lot of the IRL details: TypeScript is the new TypeScript 😂 When 𝚜𝚌𝚛𝚒𝚙𝚝𝚌-compiled, outperforms tsgo by 2-4x ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦ ⣿⡏⠀⠀⣀⠀⣀⠀⠀⢹⣿ ⣿⡇⠀⠀⣿⠀⣿⠀⠀⢸⣿ ⣿⣇⣀⣀⣀⣀⣀⣀⣀⣸⣿ ⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟",
+      "url": "https://x.com/rauchg/status/2111313462987231519",
+      "publishedAt": "2026-10-17T04:28:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-0bf32a70ad19",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "It’s incredible to have reached a threshold where it’s practical that AI will be better at training models than humans are so quickly.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. It’s incredible to have reached a threshold where it’s practical that AI will be better at training models than humans are so quickly. One day recursive self improvement feels far off, and the next we already have signs of what it will look like.",
+      "url": "https://x.com/levie/status/2111312141609586862",
+      "publishedAt": "2026-10-17T04:23:35.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-8222a7116960",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "feelings light piercing through the blinds birdsongs by the window coffee grounds, blooming slow walk in the cypress forest long breath, cold air fuzzy raindrops tap on the skin...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. feelings light piercing through the blinds birdsongs by the window coffee grounds, blooming slow walk in the cypress forest long breath, cold air fuzzy raindrops tap on the skin catching the waves endless ocean, salt on the lips train window, mountains sliding by holding hands, running through the yellow light cold bath after a hot day making you laugh like a kid again eyes closed listening to our favorite songs...",
+      "url": "https://x.com/ryolu_/status/2111312957439086777",
+      "publishedAt": "2026-10-17T04:26:50.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-177648867184",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "Starting a new project today, and my absolute favorite thing is @capydotai with @AsideAI means my agents can both code the first version and help me get all the DevOps set up in...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Starting a new project today, and my absolute favorite thing is @capydotai with @AsideAI means my agents can both code the first version and help me get all the DevOps set up in one fell swoop Want to try GBrain but don’t know how? is the best easiest hosted way to get going",
+      "url": "https://x.com/garrytan/status/2111235500568969451",
+      "publishedAt": "2026-10-16T23:19:02.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-29970d29309e",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on costs",
+      "takeaway": "When an AI startup gets a compute allocation",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. When an AI startup gets a compute allocation",
+      "url": "https://x.com/mattturck/status/2111124247888199775",
+      "publishedAt": "2026-10-16T15:56:58.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-4fd92679c899",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "DM me if you'd like to learn how to make something like this!",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. DM me if you'd like to learn how to make something like this!",
+      "url": "https://x.com/zarazhangrui/status/2110994667924050128",
+      "publishedAt": "2026-10-16T07:22:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-ee9308c602c5",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Shoot your shot, you never know how the universe collaborates in your favor.. I wrote this 7 months ago as my “prediction”, met ~50 odd startups in the space, and finally found...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Shoot your shot, you never know how the universe collaborates in your favor.. I wrote this 7 months ago as my “prediction”, met ~50 odd startups in the space, and finally found the one that we get the privilege to lead the Series A for. Perfect way to end the week 🙏 founders trying to evade my “how do you actually calculate this revenue” question..",
+      "url": "https://x.com/nikunj/status/2111292452414103892",
+      "publishedAt": "2026-10-17T03:05:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-0cb17535afbc",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding",
+      "takeaway": "generation is now cheap and high quality the big capabilities bump we need is now editing and oversight at show and tell today @leeknowlton demoing how he turned my Codex piece...",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. generation is now cheap and high quality the big capabilities bump we need is now editing and oversight at show and tell today @leeknowlton demoing how he turned my Codex piece into a visual novel:",
+      "url": "https://x.com/danshipper/status/2111174407637139668",
+      "publishedAt": "2026-10-16T19:16:17.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Codex"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-4809273ab439",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Very excited to welcome a dear friend to @spc next week. @sriramk is joining us for a fireside chat and Q&A.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. Very excited to welcome a dear friend to @spc next week. @sriramk is joining us for a fireside chat and Q&A. He helped build Azure, scaled Meta’s mobile ads, and led a16z’s international expansion. Then he went to the White House and helped write the U.S. AI Action Plan. Spots to RSVP",
+      "url": "https://x.com/adityaag/status/2111162109933535673",
+      "publishedAt": "2026-10-16T18:27:25.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Meta"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-de96442eef19",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on tools",
+      "takeaway": "Wow the new roadster looks quite amazing, good job @elonmusk The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: Very happy...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. Wow the new roadster looks quite amazing, good job @elonmusk The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: Very happy to see this from Nick!",
+      "url": "https://x.com/sama/status/2111131677351432197",
+      "publishedAt": "2026-10-16T16:26:29.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-x-1a9204346c7e",
+      "date": "2026-10-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "A cardiology fellow built a 3D tool to help trainees learn to read coronary angiograms. Haiku 5.5 wrote twenty haiku, then drew every frame in JavaScript.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. A cardiology fellow built a 3D tool to help trainees learn to read coronary angiograms. Haiku 5.5 wrote twenty haiku, then drew every frame in JavaScript. What are you making with Claude this weekend?",
+      "url": "https://x.com/claudeai/status/2111177843413807120",
+      "publishedAt": "2026-10-16T19:29:56.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    },
+    {
+      "id": "2026-10-16-podcast-0aa4355de8d8",
+      "date": "2026-10-16",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "So DOTS is a proactive agent, it's always on, always working, you stop working, it keeps working and the kind of thing that my Dots does, right, so I have a Dot that's looking out for work that I was supposed to do, like messages I was supposed to send, things I said I would do that I haven t gotten to yet and I always wake up in the morning, there s like a list of things that I was like, Oh yeah, this is my to do list and it often notices things that I never even asked it to notice.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Box"
+      ],
+      "createdAt": "2026-10-17T16:18:52.745Z"
+    }
+  ]
+}
