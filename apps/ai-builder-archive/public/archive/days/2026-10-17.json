@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-18T16:28:23.346Z",
+  "feedGeneratedAt": "2026-10-18T06:38:12.951Z",
+  "snippets": [
+    {
+      "id": "2026-10-17-x-ee4d35316a6e",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story. basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. @dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story. basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks. @dexhorthy channel affinity my goal is basically to collab with every single one of these folks. you guys already love them.",
+      "url": "https://x.com/swyx/status/2111353401363902573",
+      "publishedAt": "2026-10-17T07:07:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-2e69089d4158",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Done My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Done My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early. Landing sometime today by EOD PST",
+      "url": "https://x.com/thsottiaux/status/2111566005684289735",
+      "publishedAt": "2026-10-17T21:12:21.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-73c209cf3426",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT. The only things missing still are better browser/computer use, remote control for all threads, and live voice. Tim is so right. Hope the devs building StarCraft 3 sees this tweet and embrace AI to ship before 2030 🙂 If you have way too many apps and agents (45!",
+      "url": "https://x.com/petergyang/status/2111496600522805624",
+      "publishedAt": "2026-10-17T16:36:33.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-baeb20ae7a85",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention to before AI?” “😅 Front end JavaScript frameworks”",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention to before AI?” “😅 Front end JavaScript frameworks”",
+      "url": "https://x.com/thenanyu/status/2111597172840083574",
+      "publishedAt": "2026-10-17T23:16:12.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-c6a171d50253",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models. What I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership. We believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
+      "url": "https://x.com/amasad/status/2111494912562888939",
+      "publishedAt": "2026-10-17T16:29:51.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Anthropic",
+        "Replit"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-c1357be7353c",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on product",
+      "takeaway": "“What matters is the end product, whether it's a game or an engine”. Well said!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. “What matters is the end product, whether it's a game or an engine”. Well said!",
+      "url": "https://x.com/rauchg/status/2111643672274165938",
+      "publishedAt": "2026-10-18T02:20:58.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-7205abf35134",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exactly the opposite is happening where essentially most things are actually turning into software.",
+      "url": "https://x.com/levie/status/2111525362446520466",
+      "publishedAt": "2026-10-17T18:30:51.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-x-62dbbb1c232d",
+      "date": "2026-10-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "nyc ily 👋 introducing the modern venture capital stack (2026): - pre-pre-seed - pre-seed - post-pre-seed - mid-seed - pre-post-seed - post-seed - post-post-seed(?)",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. nyc ily 👋 introducing the modern venture capital stack (2026): - pre-pre-seed - pre-seed - post-pre-seed - mid-seed - pre-post-seed - post-seed - post-post-seed(?)",
+      "url": "https://x.com/nikunj/status/2111415330622820739",
+      "publishedAt": "2026-10-17T11:13:37.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    },
+    {
+      "id": "2026-10-17-podcast-ab2b654bc2d1",
+      "date": "2026-10-17",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Every month, there's a story where someone lost their production database because the agent deleted something. And I will say this is something where like, you know, I like open source databases, but like the enterprise commercial legacy databases, if you will, they've already done all this, you know, for, you know, for humans in the past. I I I I think that the agents are very capable, you know, with enough tokens, of course, and then with enough guidance, people can...",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Replit",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-10-18T16:28:23.346Z"
+    }
+  ]
+}
