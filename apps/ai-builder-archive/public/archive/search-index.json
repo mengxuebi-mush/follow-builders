@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T18:01:50.866Z",
+  "generatedAt": "2026-10-18T19:23:57.708Z",
   "snippets": [
     {
       "id": "2026-10-17-x-ee4d35316a6e",
@@ -19,7 +19,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-2e69089d4158",
@@ -39,7 +39,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-73c209cf3426",
@@ -64,7 +64,7 @@
         "Claude",
         "Google"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-baeb20ae7a85",
@@ -84,7 +84,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-c6a171d50253",
@@ -108,7 +108,7 @@
         "Anthropic",
         "Replit"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-c1357be7353c",
@@ -127,7 +127,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-7205abf35134",
@@ -150,7 +150,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-x-62dbbb1c232d",
@@ -169,7 +169,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-17-podcast-ab2b654bc2d1",
@@ -198,7 +198,7 @@
         "Microsoft",
         "Box"
       ],
-      "createdAt": "2026-10-18T18:01:50.866Z"
+      "createdAt": "2026-10-18T19:23:57.708Z"
     },
     {
       "id": "2026-10-16-x-8c850169b3cb",
