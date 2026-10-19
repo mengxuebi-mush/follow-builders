@@ -1,7 +1,305 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T21:25:35.143Z",
+  "generatedAt": "2026-10-19T19:14:59.835Z",
   "snippets": [
+    {
+      "id": "2026-10-18-x-2f5c3aa5a656",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "are we so different, you and i Data engineers > AI engineers there's a big difference between a \"RAG guy\" and a \"Data Intensive Applications\" person like in this screenshot and...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. are we so different, you and i Data engineers > AI engineers there's a big difference between a \"RAG guy\" and a \"Data Intensive Applications\" person like in this screenshot and there's never been a starker difference in demand in my entire career in tech (aka post search engine wars) if your blog / github is full of stuff like this, I have a fantastic mission/job for you (SF preferred, can relocate u, visas ok) (if...",
+      "url": "https://x.com/swyx/status/2111962930644402504",
+      "publishedAt": "2026-10-18T23:29:35.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-1ea31bc0968b",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack. Also, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until you have to deal with an incident. We’re here to help. I bought a new domain and I’m very excited for it. Very",
+      "url": "https://x.com/thsottiaux/status/2112034063934742720",
+      "publishedAt": "2026-10-19T04:12:15.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-784d880e5c64",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product",
+      "takeaway": "I plan to release a free open source skill and video to make this easy for everyone later this week. Subscribe here: Best comedy of the year Make work trials the norm for hiring...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I plan to release a free open source skill and video to make this easy for everyone later this week. Subscribe here: Best comedy of the year Make work trials the norm for hiring instead of interviews. From @APompliano: “We had a specific feature that we wanted to build... We just said to [the candidate], hey, you got two weeks, build it... He had some questions and tried to get the lay of the land... But he built it.",
+      "url": "https://x.com/petergyang/status/2111928620503720334",
+      "publishedAt": "2026-10-18T21:13:15.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-f86c921d6c88",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "I've realized I often would prefer to vibe code little parts of games than actually play games these days. Especially cerebral ones that require some thinking like League.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. I've realized I often would prefer to vibe code little parts of games than actually play games these days. Especially cerebral ones that require some thinking like League. I'm not quite sure what this really means for games but I think it's important? One hook I kept coming back to was that I was having as much fun making the game + characters as I was playing it. What if that was the main hook?",
+      "url": "https://x.com/trq212/status/2111945336537420259",
+      "publishedAt": "2026-10-18T22:19:40.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-77fb54edbe36",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs",
+      "takeaway": "Every once in a while, some unsuspecting country's domain economy goes vertical 😂 .𝚌𝚘 → Colombia .𝚒𝚘 → I/O → Island Ocean .𝚖𝚍 → Markdown → Moldova .𝚛𝚜 → Rust → Serbia .",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Every once in a while, some unsuspecting country's domain economy goes vertical 😂 .𝚌𝚘 → Colombia .𝚒𝚘 → I/O → Island Ocean .𝚖𝚍 → Markdown → Moldova .𝚛𝚜 → Rust → Serbia .𝚊𝚒 → AI → Anguilla .𝚜𝚒 → SI → Slovenia .𝚜𝚑 → Shell → Saint Helean .𝚊𝚛 → Augmented Reality → Argentina 🔜 Tried out the new 𝚍𝚎𝚎𝚙𝚜𝚎𝚎𝚔-𝚟𝟺.𝟷-𝚏𝚕𝚊𝚜𝚑-𝟷𝟶𝟷𝟽-𝚏𝚊𝚜𝚝 on AI Gateway to make a few improvements.",
+      "url": "https://x.com/rauchg/status/2111907375120859243",
+      "publishedAt": "2026-10-18T19:48:50.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-91aede125092",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Here’s why agent swarms are going to be a very big deal. We can finally make compute a critical variable in a large number of important tasks in the economy which wasn’t possible...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Here’s why agent swarms are going to be a very big deal. We can finally make compute a critical variable in a large number of important tasks in the economy which wasn’t possible before. There’s a large amount of work in the world that is essentially only constrained by the amount of time that we put into research, data processing, discovery work, running tests, and more.",
+      "url": "https://x.com/levie/status/2112051081014649303",
+      "publishedAt": "2026-10-19T05:19:52.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-c41611bc3ffb",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "Prediction: you’re all going to be using @AsideAI with your agents in a year or so",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Prediction: you’re all going to be using @AsideAI with your agents in a year or so",
+      "url": "https://x.com/garrytan/status/2111971992769565177",
+      "publishedAt": "2026-10-19T00:05:36.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-6ceb47050d28",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Americans packing for their next vacation to France",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Americans packing for their next vacation to France",
+      "url": "https://x.com/mattturck/status/2111919706429100230",
+      "publishedAt": "2026-10-18T20:37:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-1cb242a75c50",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "This aged relatively well.. even with the GH growth, I think people are still sleeping on @reatools. It’s truly bonkers 💥",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. This aged relatively well.. even with the GH growth, I think people are still sleeping on @reatools. It’s truly bonkers 💥",
+      "url": "https://x.com/nikunj/status/2111986818057118160",
+      "publishedAt": "2026-10-19T01:04:30.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-462504f03abd",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "AI;DR",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. AI;DR",
+      "url": "https://x.com/steipete/status/2111918049116987476",
+      "publishedAt": "2026-10-18T20:31:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-x-737bf6a25610",
+      "date": "2026-10-18",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "current (mostly) reading:",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. current (mostly) reading:",
+      "url": "https://x.com/danshipper/status/2111962665987825809",
+      "publishedAt": "2026-10-18T23:28:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-blog-97cd97d27d22",
+      "date": "2026-10-18",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "How we contain Claude across products",
+      "takeaway": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic...",
+      "summary": "How we contain Claude across products. Twelve months ago, we&#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do.",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-blog-dea52d951227",
+      "date": "2026-10-18",
+      "sourceType": "blog",
+      "sourceName": "Anthropic Engineering",
+      "authorName": "",
+      "title": "An update on recent Claude Code quality reports",
+      "takeaway": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users.",
+      "summary": "An update on recent Claude Code quality reports. Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116).",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": null,
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Anthropic Engineering",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
+    {
+      "id": "2026-10-18-podcast-0aa4355de8d8",
+      "date": "2026-10-18",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "There was no coding really, nothing agentic. I guess there were enterprise reasons, there were geopolitical reasons happening, but also there was the research reason that it turned out you actually do need to pre train your model in order to make reinforcement learning work very well at scale.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-09T17:24:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Vercel",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-10-19T19:14:59.835Z"
+    },
     {
       "id": "2026-10-17-x-ee4d35316a6e",
       "date": "2026-10-17",
