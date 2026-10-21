@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-21T17:58:45.254Z",
+  "feedGeneratedAt": "2026-10-21T06:42:56.495Z",
+  "snippets": [
+    {
+      "id": "2026-10-20-x-b116d23f9851",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "opus is great for writing... when you dont happen to have any random no-no words in your prompt. jfc, @CompleteSkeptic is right, give me prod, not god.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. opus is great for writing... when you dont happen to have any random no-no words in your prompt. jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. i tried to make codex make animated explainer videos but ngmi",
+      "url": "https://x.com/swyx/status/2112772374823407870",
+      "publishedAt": "2026-10-21T05:06:02.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Codex"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-fe68114a7a1d",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models and tools",
+      "takeaway": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to sign up… 👇 Sundar: \"We are so committed to being at the frontier. It’s in our DNA. We won’t do it any other way.\" Come build with us! Sign up here:",
+      "url": "https://x.com/joshwoodward/status/2112676777290248675",
+      "publishedAt": "2026-10-20T22:46:09.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-0bba46ccd1fa",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account.",
+      "url": "https://x.com/thsottiaux/status/2112592264686149749",
+      "publishedAt": "2026-10-20T17:10:20.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-7fff8ca7566c",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on enterprise and research",
+      "takeaway": "I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now. And it'll be breathtaking. You heard it here first folks.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now. And it'll be breathtaking. You heard it here first folks. Putting myself on payroll was one of the more painful parts of running my one-person S-corp.",
+      "url": "https://x.com/petergyang/status/2112607957586452724",
+      "publishedAt": "2026-10-20T18:12:42.000Z",
+      "tags": [
+        "enterprise",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-9c15d15fbb15",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on product and tools",
+      "takeaway": "What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️? We brought together Google Labs’ very own Sahana R. (Product Manager), Brian R.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️? We brought together Google Labs’ very own Sahana R. (Product Manager), Brian R. (VP of Product), and his impossibly adorable floof Nala to dance with destiny in an exercise we’re calling “Dreambeans Roulette”! Here’s the rundown: 1️⃣ Open Dreambeans 2️⃣ Select a story 3️⃣ Go out and do it!",
+      "url": "https://x.com/GoogleLabs/status/2112606263163203970",
+      "publishedAt": "2026-10-20T18:05:58.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-8e6df409db37",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery. If you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free. Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability.",
+      "url": "https://x.com/rauchg/status/2112638107749355867",
+      "publishedAt": "2026-10-20T20:12:30.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Claude",
+        "Codex",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-2f20a66957d6",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains. This is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you.",
+      "url": "https://x.com/levie/status/2112769686798832013",
+      "publishedAt": "2026-10-21T04:55:21.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-507e3b32ce07",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on product",
+      "takeaway": "Greatest unlock for any startup founder or anyone who has to get in touch with the right people Asset seizure tax destroying California You can bet they will keep trying to do it...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Greatest unlock for any startup founder or anyone who has to get in touch with the right people Asset seizure tax destroying California You can bet they will keep trying to do it because it’s all the same goal: eat the Golden Goose Better off just enjoying unlimited golden eggs but no, gotta eat that goose GStack is now Capy aware and works great with their software factory feature Captains",
+      "url": "https://x.com/garrytan/status/2112611824432742493",
+      "publishedAt": "2026-10-20T18:28:04.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-7fe3449fbf7b",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and product",
+      "takeaway": "Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era.",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era. We're grateful that they let us lead the Series B, after leading the Series A earlier this year. Fun day for the @FirstMarkCap family * Series B announcement at @daytonaio * Series A announcement at @BabaHQ * Big launch of @GradiumAI’s new SOTA open source on-device voice AI model * and...",
+      "url": "https://x.com/mattturck/status/2112570721499042246",
+      "publishedAt": "2026-10-20T15:44:44.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-d26cca6bee7b",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. If you’re a product builder in the earliest stages, the biggest advantage of having your own audience isn’t even the distribution. It’s being able to - Test different ideas/angles and see what resonate with people - Find your first 100 early adopters Signals &gt; distribution",
+      "url": "https://x.com/zarazhangrui/status/2112530473994072225",
+      "publishedAt": "2026-10-20T13:04:48.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-26eb6c967b76",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "Incredible things are happening on this planet.. Generational miss to not call this p(bloom) 🌳",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Incredible things are happening on this planet.. Generational miss to not call this p(bloom) 🌳",
+      "url": "https://x.com/nikunj/status/2112692719135117754",
+      "publishedAt": "2026-10-20T23:49:30.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-d8f5847d9c72",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents Astra did the planning, Sol 6.1 did the coding.",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents Astra did the planning, Sol 6.1 did the coding. I found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents. A second agent oversaw the work to keep Astra on track. Kinda like /goal, but instead of the same agent reviewing a text file, a second agent that challenges.",
+      "url": "https://x.com/steipete/status/2112735411688857770",
+      "publishedAt": "2026-10-21T02:39:09.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-e88bae7b04ca",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine I loved this book.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine I loved this book. O'Gieblyn writes with an addictive mix of clarity, rigor, literary references, and self-implicating honesty. I tore through it in a few days.",
+      "url": "https://x.com/danshipper/status/2112561443249786901",
+      "publishedAt": "2026-10-20T15:07:52.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-2dc52f978d5f",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and models",
+      "takeaway": "Call me an old hat computer scientist but the parallels between Inference time scaling ---&gt; Subagents --&gt; Agent Swarms looks an awful lot like CPU Threads --&gt; Multi-core...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Call me an old hat computer scientist but the parallels between Inference time scaling ---&gt; Subagents --&gt; Agent Swarms looks an awful lot like CPU Threads --&gt; Multi-core CPUs --&gt; Multi-Node Distributed Systems History rhymes well.",
+      "url": "https://x.com/adityaag/status/2112579526379401408",
+      "publishedAt": "2026-10-20T16:19:43.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    },
+    {
+      "id": "2026-10-20-x-79a61ce7b86b",
+      "date": "2026-10-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has...",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+      "url": "https://x.com/sama/status/2112652656602923366",
+      "publishedAt": "2026-10-20T21:10:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-21T17:58:45.254Z"
+    }
+  ]
+}
