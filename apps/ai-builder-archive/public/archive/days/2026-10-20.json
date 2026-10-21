@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "generatedAt": "2026-10-21T17:58:45.254Z",
+  "generatedAt": "2026-10-21T19:15:22.037Z",
   "feedGeneratedAt": "2026-10-21T06:42:56.495Z",
   "snippets": [
     {
@@ -24,7 +24,7 @@
         "Swyx",
         "Codex"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-fe68114a7a1d",
@@ -44,7 +44,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-0bba46ccd1fa",
@@ -66,7 +66,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-7fff8ca7566c",
@@ -87,7 +87,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-9c15d15fbb15",
@@ -108,7 +108,7 @@
         "Google Labs",
         "Google"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-8e6df409db37",
@@ -134,7 +134,7 @@
         "Codex",
         "Vercel"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-2f20a66957d6",
@@ -157,7 +157,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-507e3b32ce07",
@@ -176,7 +176,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-7fe3449fbf7b",
@@ -196,7 +196,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-d26cca6bee7b",
@@ -215,7 +215,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-26eb6c967b76",
@@ -234,7 +234,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-d8f5847d9c72",
@@ -256,7 +256,7 @@
         "Peter Steinberger",
         "Codex"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-e88bae7b04ca",
@@ -275,7 +275,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-2dc52f978d5f",
@@ -296,7 +296,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     },
     {
       "id": "2026-10-20-x-79a61ce7b86b",
@@ -315,7 +315,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-10-21T17:58:45.254Z"
+      "createdAt": "2026-10-21T19:15:22.037Z"
     }
   ]
 }
