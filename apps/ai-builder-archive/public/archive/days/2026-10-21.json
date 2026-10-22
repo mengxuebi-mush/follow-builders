@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-21",
-  "generatedAt": "2026-10-22T20:31:45.456Z",
+  "generatedAt": "2026-10-22T22:14:53.296Z",
   "feedGeneratedAt": "2026-10-22T06:42:53.340Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-eb06e9ce38d6",
@@ -41,7 +41,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-b6e8b7a9bc3e",
@@ -61,7 +61,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-11706aac7cfd",
@@ -81,7 +81,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-4c6238131f27",
@@ -102,7 +102,7 @@
         "Cat Wu",
         "Claude"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-1cdaecc4d15b",
@@ -123,7 +123,7 @@
         "Google Labs",
         "Google"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-02892f780094",
@@ -142,7 +142,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-2bb210be0526",
@@ -163,7 +163,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-8f50358a264b",
@@ -185,7 +185,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-d394736c4ce1",
@@ -205,7 +205,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-b5997450cadc",
@@ -227,7 +227,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-904ef8f7e3e4",
@@ -246,7 +246,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-9daa0e532a44",
@@ -265,7 +265,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-5dc59e27bdd3",
@@ -284,7 +284,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-3313f5298f40",
@@ -309,7 +309,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-6ae3c662c0fc",
@@ -328,7 +328,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-x-43348421f411",
@@ -351,7 +351,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     },
     {
       "id": "2026-10-21-podcast-357c04af2d05",
@@ -378,7 +378,7 @@
         "Google",
         "Meta"
       ],
-      "createdAt": "2026-10-22T20:31:45.456Z"
+      "createdAt": "2026-10-22T22:14:53.296Z"
     }
   ]
 }
