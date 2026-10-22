@@ -1,7 +1,383 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T22:16:30.321Z",
+  "generatedAt": "2026-10-22T17:56:04.051Z",
   "snippets": [
+    {
+      "id": "2026-10-21-x-00e71b82c0d2",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "this is my quant ratioed @cognition lololololol never change twitter",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. this is my quant ratioed @cognition lololololol never change twitter",
+      "url": "https://x.com/swyx/status/2113098033705664650",
+      "publishedAt": "2026-10-22T02:40:05.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-eb06e9ce38d6",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Dot, Dotter, Dottest Fully included in the Pro plan, doesn't draw on your weekly usage.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Dot, Dotter, Dottest Fully included in the Pro plan, doesn't draw on your weekly usage.",
+      "url": "https://x.com/thsottiaux/status/2113029655095836957",
+      "publishedAt": "2026-10-21T22:08:22.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-b6e8b7a9bc3e",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product and tools",
+      "takeaway": "Securing all my accounts with AI's help tonight before something bad happens. Also finally stopped being cheap and paid for @1Password Just finished episode 1 of Edgerunners 2.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Securing all my accounts with AI's help tonight before something bad happens. Also finally stopped being cheap and paid for @1Password Just finished episode 1 of Edgerunners 2. It's actually kind of...happy? If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here:",
+      "url": "https://x.com/petergyang/status/2113122021567848450",
+      "publishedAt": "2026-10-22T04:15:24.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-11706aac7cfd",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Instrumentation problem.",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. Instrumentation problem.",
+      "url": "https://x.com/thenanyu/status/2113036367009845631",
+      "publishedAt": "2026-10-21T22:35:02.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-4c6238131f27",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on models",
+      "takeaway": "We heard your feedback that you want Claude to proactively take more off your plate! Claude Duet is a large step in this direction - it'll notice work that needs to be done, and...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. We heard your feedback that you want Claude to proactively take more off your plate! Claude Duet is a large step in this direction - it'll notice work that needs to be done, and then do it before you ask. Join the waitlist here:",
+      "url": "https://x.com/_catwu/status/2112988751576330487",
+      "publishedAt": "2026-10-21T19:25:50.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Claude"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-1cdaecc4d15b",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on product and tools",
+      "takeaway": "Story picked ✅ Calendar cleared ✅ The adventure continues in “Dreambeans Roulette: Part 2”! Join the trail with Sahana, Brian, and Nala as we dive into all things Dreambeans...",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Story picked ✅ Calendar cleared ✅ The adventure continues in “Dreambeans Roulette: Part 2”! Join the trail with Sahana, Brian, and Nala as we dive into all things Dreambeans including: ☕️ How are Dreambean stories “brewed” in the first place? ☁️ How can one make Dreambeans “dream” even better? 📵 What if apps were designed to get you off your phone?",
+      "url": "https://x.com/GoogleLabs/status/2112968628861878648",
+      "publishedAt": "2026-10-21T18:05:52.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-02892f780094",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "prompt -&gt; corporation",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. prompt -&gt; corporation",
+      "url": "https://x.com/amasad/status/2112975002027147545",
+      "publishedAt": "2026-10-21T18:31:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-2bb210be0526",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and costs",
+      "takeaway": "Vercel has proactively rolled out Firewall-level mitigations for today's Node.js RCE vulnerability, in advance of the official patch release.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Vercel has proactively rolled out Firewall-level mitigations for today's Node.js RCE vulnerability, in advance of the official patch release. All traffic for all deployments is automatically protected. We're actively monitoring and rolling out managed runtime upgrades. DeepSeek v4.1 Flash (1017) is now included in ▲ Token Pass. Fast, mind-bogglingly cheap, and served with ZDR (zero-data retention).",
+      "url": "https://x.com/rauchg/status/2113050053724221732",
+      "publishedAt": "2026-10-21T23:29:26.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-8f50358a264b",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Cyber is going to be one of the most profound aspects of AI. We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Cyber is going to be one of the most profound aspects of AI. We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created. We will use agents to identify the long standing risks in existing systems and infrastructure. Attackers will use agents to accelerate the discovery of gaps in environments.",
+      "url": "https://x.com/levie/status/2112964214818283917",
+      "publishedAt": "2026-10-21T17:48:20.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-d394736c4ce1",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on research",
+      "takeaway": "Gabriel Zucman is currently employed by the University of California at Berkeley, a public university that will be hurt severely due to shortfall of tax revenue to the state: to...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. Gabriel Zucman is currently employed by the University of California at Berkeley, a public university that will be hurt severely due to shortfall of tax revenue to the state: to the tune of $39 billion net loss in aggregate Perhaps when the tax doom spiral hits his department some people will finally say damn we shouldn’t have hired this guy Gabriel Zucman is an economic adviser to the union sponsoring California’s...",
+      "url": "https://x.com/garrytan/status/2113143993026617832",
+      "publishedAt": "2026-10-22T05:42:42.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-b5997450cadc",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and enterprise",
+      "takeaway": "In an era of tokens, APIs and agents, the world is shifting towards continuous financial planning, and Pigment is the platform for it.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. In an era of tokens, APIs and agents, the world is shifting towards continuous financial planning, and Pigment is the platform for it. Eleonore, @romain_pigment and the whole @gopigment team are building a very special company. Congrats on the round, proud investors since the seed. Turning into a fun *week* * $250M Series E announcement at @gopigment * $550M Series E announcement at @WeAreLegora",
+      "url": "https://x.com/mattturck/status/2112927524321726921",
+      "publishedAt": "2026-10-21T15:22:32.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-904ef8f7e3e4",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "Turn a photo into a 3D popup card Your personal website is the new resume Made with just one prompt! The prompt:",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. Turn a photo into a 3D popup card Your personal website is the new resume Made with just one prompt! The prompt:",
+      "url": "https://x.com/zarazhangrui/status/2113055591954526444",
+      "publishedAt": "2026-10-21T23:51:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-9daa0e532a44",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Who knew acquiring super intelligence could lead to the entire fabric and trust of the internet being slowly broken.. It’s truly wild and batsh!t bananas out there.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Who knew acquiring super intelligence could lead to the entire fabric and trust of the internet being slowly broken.. It’s truly wild and batsh!t bananas out there. Exhibit 347 of why you should have kids 🥰",
+      "url": "https://x.com/nikunj/status/2113057195948707874",
+      "publishedAt": "2026-10-21T23:57:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-5dc59e27bdd3",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on models",
+      "takeaway": "That PHP vulnerability that’s gonna cause havoc this week was found with… GPT‑5.6 Sol.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. That PHP vulnerability that’s gonna cause havoc this week was found with… GPT‑5.6 Sol.",
+      "url": "https://x.com/steipete/status/2112913060709228764",
+      "publishedAt": "2026-10-21T14:25:04.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-3313f5298f40",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and enterprise",
+      "takeaway": "BREAKING: @AnthropicAI just launched Duet, its always-on personal agent. It’s the first personal agent I’d call a pro tool. We’ve been testing it for two weeks.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. BREAKING: @AnthropicAI just launched Duet, its always-on personal agent. It’s the first personal agent I’d call a pro tool. We’ve been testing it for two weeks. I’ve gone from mostly using ChatGPT to roughly 50/50 between ChatGPT and Claude—the most time I’ve spent with Anthropic in close to a year. • It lives in its own app, separate from Claude, on iOS, Android, and the web.",
+      "url": "https://x.com/danshipper/status/2112997559463506059",
+      "publishedAt": "2026-10-21T20:00:50.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-6ae3c662c0fc",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on coding",
+      "takeaway": "Fucking PHP It’s always fucking PHP Five @spc companies in there 👀👀 I'm still grokking this...but it does feel like it just as fun to make stuff with AI as it is to \"use\" it.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Fucking PHP It’s always fucking PHP Five @spc companies in there 👀👀 I'm still grokking this...but it does feel like it just as fun to make stuff with AI as it is to \"use\" it. My son watched Star Wars (EP IV) for ~3 hours...but then spent ~20 hours making games about what he had seen. But weirdly, he only played the games a little bit...he was more interested in just building the game.",
+      "url": "https://x.com/adityaag/status/2112977865432240524",
+      "publishedAt": "2026-10-21T18:42:35.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-x-43348421f411",
+      "date": "2026-10-21",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on agents and models",
+      "takeaway": "We designed Claude Duet around Claude Opus 5.5, which gives it the judgment to decide what needs you, what can wait, and when to check with you first.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. We designed Claude Duet around Claude Opus 5.5, which gives it the judgment to decide what needs you, what can wait, and when to check with you first. It carries over the memory, skills, and connected apps from your Claude account, so there’s little to set up. Claude Duet is an early research preview, available through a waitlist on Pro and Max plans in the US.",
+      "url": "https://x.com/claudeai/status/2112984666437546104",
+      "publishedAt": "2026-10-21T19:09:36.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
+    {
+      "id": "2026-10-21-podcast-357c04af2d05",
+      "date": "2026-10-21",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How a Frontier Team Can Help Your Company Keep Up With AI",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Because, I mean, on the one hand, you could ignore the frontier and that'll probably work for a little while until you get disrupted by some agent native version of your product that you didn't see coming. Who is our head of enterprise AI adoption. That also means that there's so much to play with and experiment with that we are constantly burning through tokens like Wildfire.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-21T18:31:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-10-22T17:56:04.051Z"
+    },
     {
       "id": "2026-10-20-x-b116d23f9851",
       "date": "2026-10-20",
