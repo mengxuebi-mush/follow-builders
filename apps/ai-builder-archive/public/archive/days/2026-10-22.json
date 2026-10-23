@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-23T17:50:28.775Z",
+  "feedGeneratedAt": "2026-10-23T06:42:39.698Z",
+  "snippets": [
+    {
+      "id": "2026-10-22-x-7e32c52c72b7",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
+      "url": "https://x.com/swyx/status/2113283272130412684",
+      "publishedAt": "2026-10-22T14:56:09.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-c0bb7f2b3ead",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on agents and coding",
+      "takeaway": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn,...",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.",
+      "url": "https://x.com/bcherny/status/2113333859907747871",
+      "publishedAt": "2026-10-22T18:17:10.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-629297cfd3b0",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and tools",
+      "takeaway": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset! Lands tomorrow before 10am PST. Landing tomorrow before 10am PST together with a small ship.",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "publishedAt": "2026-10-23T04:46:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-2039cab518ae",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Supporting my mom’s cancer treatment has been an experience of opposites. I read about all this great tech and breakthroughs on here meanwhile we are still faxing documents and...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Supporting my mom’s cancer treatment has been an experience of opposites. I read about all this great tech and breakthroughs on here meanwhile we are still faxing documents and physically delivering imaging in CD ROMs. 6 steps you should take to secure your accounts right now given all the incidents. In my new video, I share a prompt to have AI walk you through all 6 steps and generate a personalized security report.",
+      "url": "https://x.com/petergyang/status/2113420357726257335",
+      "publishedAt": "2026-10-23T00:00:53.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-8ab6852e0f19",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "software **nom**nom**nom**",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. software **nom**nom**nom**",
+      "url": "https://x.com/thenanyu/status/2113469200924864826",
+      "publishedAt": "2026-10-23T03:14:58.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-bfd9eed6171b",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on agents and tools",
+      "takeaway": "If you feel stuck in your career, stop waiting for clarity. create it through action. A lot of PMs reaching out for advice tell me they feel stuck as AI rapidly changes their role.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. If you feel stuck in your career, stop waiting for clarity. create it through action. A lot of PMs reaching out for advice tell me they feel stuck as AI rapidly changes their role. They want to get into AI but don’t know where to start and are afraid. This inertia kills clarity…the solution to this is action. Build something, automate a workflow, connect with people who inspire you.",
+      "url": "https://x.com/realmadhuguru/status/2113437016818057641",
+      "publishedAt": "2026-10-23T01:07:05.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-ccab1e393af9",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on product",
+      "takeaway": "Sidequest complete 🏁! In “Dreambeans Roulette: Part 3”, Brian R. (VP of Product) shares his behind-the-lab perspective on the importance of taking bets and exploring areas...",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. Sidequest complete 🏁! In “Dreambeans Roulette: Part 3”, Brian R. (VP of Product) shares his behind-the-lab perspective on the importance of taking bets and exploring areas overlooked by the industry. And you’ll never guess how many stars Nala gives the entire journey!~ With Dreambeans, there are no streaks, no doomscrolls – just a personalized nudge to get you off your phone and out into the world.",
+      "url": "https://x.com/GoogleLabs/status/2113340712523841696",
+      "publishedAt": "2026-10-22T18:44:24.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-99ec73b3b0fe",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on tools",
+      "takeaway": "How we’re protecting your apps from all the recent vulnerabilities.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. How we’re protecting your apps from all the recent vulnerabilities.",
+      "url": "https://x.com/amasad/status/2113474587166171560",
+      "publishedAt": "2026-10-23T03:36:22.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-1ecb7f7c97ef",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on costs and tools",
+      "takeaway": "It’s time to kill “static credentials”. Attacks and breaches can happen. But imagine if thieves could only steal “self-destructing keys” to your data and tokens.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. It’s time to kill “static credentials”. Attacks and breaches can happen. But imagine if thieves could only steal “self-destructing keys” to your data and tokens. The industry once came together to deliver “green locks” encryption for every site (TLS). Let’s do it for OIDC! 💪 TL;DR of this week. Your aunt’s password: “P4ssword!",
+      "url": "https://x.com/rauchg/status/2113399539227136084",
+      "publishedAt": "2026-10-22T22:38:09.000Z",
+      "tags": [
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Google"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-9d54d8acb795",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on models and product",
+      "takeaway": "One side quest that would be so much fun to try right now is running a bunch of local small businesses with AI helping you out I think products like Claude Duet could end up being...",
+      "summary": "Alex Albert (alexalbert__ on X) shared 2 recent updates. One side quest that would be so much fun to try right now is running a bunch of local small businesses with AI helping you out I think products like Claude Duet could end up being bigger for these businesses than even things like Square or Google Maps were if you are running a small business with claude helping you, I'd love to hear what you're doing!",
+      "url": "https://x.com/alexalbert__/status/2113386454907007444",
+      "publishedAt": "2026-10-22T21:46:10.000Z",
+      "tags": [
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-bad7648764ac",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Any form of security through obscurity is fully over. This barely worked as a method with humans, but just simply is over in a world of autonomous systems that will look through...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Any form of security through obscurity is fully over. This barely worked as a method with humans, but just simply is over in a world of autonomous systems that will look through every crevice and try every permutation of attack possible.",
+      "url": "https://x.com/levie/status/2113499900399034689",
+      "publishedAt": "2026-10-23T05:16:57.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-a8d969ba9c1f",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents",
+      "takeaway": "AI is transforming a great many powerful SaaS businesses This is what it looks like when it *really* hits Free advice for San Francisco elected officials: Don't go to Democratic...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. AI is transforming a great many powerful SaaS businesses This is what it looks like when it *really* hits Free advice for San Francisco elected officials: Don't go to Democratic Socialist rallies. It's a trap every time. Aside Browser is a real solution to making your agents actually great at using the web. @AsideAI",
+      "url": "https://x.com/garrytan/status/2113353678895919196",
+      "publishedAt": "2026-10-22T19:35:55.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-c9f9b0938e1b",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on models and costs",
+      "takeaway": "Mistral is SO back: Inside Le Chonk, the West’s Biggest Open Model. My conversation with @PierreStock who runs the research organization at @MistralAI 0:00 Cold open 0:59 The...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. Mistral is SO back: Inside Le Chonk, the West’s Biggest Open Model. My conversation with @PierreStock who runs the research organization at @MistralAI 0:00 Cold open 0:59 The Western open-weight comeback: Beam, Le Chonk, Muse, Nemotron 4:09 The US shutdown of Anthropic’s models - “AI is like electricity” 6:07 Why “Le Chonk” 7:56 “Mistral fell behind”: the comeback from the inside 10:29 Training on 3,800 GPUs in...",
+      "url": "https://x.com/mattturck/status/2113311361639829673",
+      "publishedAt": "2026-10-22T16:47:46.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Anthropic",
+        "Meta"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-77f1454a32fe",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "Excited for @stephzhan ! This has always been the case for designers and developers, but now it's extending to everybody else",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Excited for @stephzhan ! This has always been the case for designers and developers, but now it's extending to everybody else",
+      "url": "https://x.com/zarazhangrui/status/2113347866815250642",
+      "publishedAt": "2026-10-22T19:12:50.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-4bed4fa8d2ef",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise",
+      "takeaway": "I’m batting almost ~10% for a seed company that I have met that is eventually acquired in a few months from my first meeting..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. I’m batting almost ~10% for a seed company that I have met that is eventually acquired in a few months from my first meeting.. The seed -> series A squeeze is at an all time high and is not going to abate anytime soon. Never been easier to dream, never been harder to scale. New essay on this next week! Chat, what should I wear for Halloween? Chat: I really hope someone gets this 😅",
+      "url": "https://x.com/nikunj/status/2113405034826477910",
+      "publishedAt": "2026-10-22T23:00:00.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-efa8411f0669",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "we are living in unprecedented times",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. we are living in unprecedented times",
+      "url": "https://x.com/danshipper/status/2113269180279751078",
+      "publishedAt": "2026-10-22T14:00:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-3cf319d2eff0",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and research",
+      "takeaway": "A PhD from a top university doesn't necessarily make someone a great robotics researcher. Robotics is going through the same shift LLMs did: from fine-tuning, to prompting, to...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. A PhD from a top university doesn't necessarily make someone a great robotics researcher. Robotics is going through the same shift LLMs did: from fine-tuning, to prompting, to just telling the model what you want. @svlevine talked about how π0.7 learns new skills from plain-language coaching. Full conversation with @physical_int co-founder Sergey Levine at @spc:",
+      "url": "https://x.com/adityaag/status/2113332746277789845",
+      "publishedAt": "2026-10-22T18:12:45.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-x-9e1ae24ea61d",
+      "date": "2026-10-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime. Claude Models on Google Cloud (Anthropic managed) is now generally available.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "publishedAt": "2026-10-22T20:04:24.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    },
+    {
+      "id": "2026-10-22-podcast-9618b0feaaa9",
+      "date": "2026-10-22",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "takeaway": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience. And it's also something which should be applicable to real world embodied domains where the agent can learn from its...",
+      "summary": "And it's also something which should be applicable to real world embodied domains where the agent can learn from its physical experience. When you create a startup, you want to be at the right time. So the current paradigm, these large language models with reinforcement learning seem to be at least knocking out millennium problems and making some sorts of scientific discoveries.",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Google"
+      ],
+      "createdAt": "2026-10-23T17:50:28.775Z"
+    }
+  ]
+}
