@@ -1,7 +1,313 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:02:02.737Z",
+  "generatedAt": "2026-10-24T16:32:10.269Z",
   "snippets": [
+    {
+      "id": "2026-10-23-x-3837b761d30d",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "fake news btw i got him reject vc founder grind if u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. fake news btw i got him reject vc founder grind if u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and even more friends than money and complete control of their destiny psa to all vc’s trying to slide in our dms",
+      "url": "https://x.com/swyx/status/2113811349281345578",
+      "publishedAt": "2026-10-24T01:54:33.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-956c53d2b55d",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli. The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool. On codex cli updates.",
+      "url": "https://x.com/thsottiaux/status/2113770573994299544",
+      "publishedAt": "2026-10-23T23:12:31.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-034f50ab9ba4",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "I think most ambitious people don't reflect and realize that at some point, their time > their money.",
+      "summary": "Peter Yang (petergyang on X) shared 1 recent update. I think most ambitious people don't reflect and realize that at some point, their time > their money. Being in the sandwich generation with young kids and aging parents has made me realize this sooner than most and I'm privileged to be in a position where I can make the choice to pursue agency over my time. But many tech people are also in this position and just don't stop to reflect on this.",
+      "url": "https://x.com/petergyang/status/2113672812909191292",
+      "publishedAt": "2026-10-23T16:44:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-572d1db872ef",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding and models",
+      "takeaway": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top. The idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good.",
+      "url": "https://x.com/trq212/status/2113844051938054167",
+      "publishedAt": "2026-10-24T04:04:29.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-43fc4ba3f584",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "Thrilled to welcome Jeff and the Chroma team to Replit! They’re pioneers in AI. They were building RAG before it was even a thing!",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Thrilled to welcome Jeff and the Chroma team to Replit! They’re pioneers in AI. They were building RAG before it was even a thing! At Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work. Massive step toward the self-driving company. Excited to announce Replit for Government and welcome Michael Greenwald to the team!",
+      "url": "https://x.com/amasad/status/2113736007111827606",
+      "publishedAt": "2026-10-23T20:55:10.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-7d16e5394f0c",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents",
+      "takeaway": "Agents can play \"Ouija\" in the cloud. This class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Agents can play \"Ouija\" in the cloud. This class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution. The world’s cyber infrastructure runs on “yes, that attack is theoretically possible, but who would have the ingenuity & gall to go that far!” Enter, agents. I'd describe this particular OpenAI find as a 'noisy neighbor' attack.",
+      "url": "https://x.com/rauchg/status/2113759533801877920",
+      "publishedAt": "2026-10-23T22:28:39.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-9b3395cca795",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk,...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk, processing gobs of data, and more. Security is one of the best use-cases for swarms because it’s an obvious area where more compute in equals more value out.",
+      "url": "https://x.com/levie/status/2113738768645808277",
+      "publishedAt": "2026-10-23T21:06:08.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-5f79f8a19060",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Horseshoe theory is real The NIMBY left (nonprofit extractors) and the NIMBY right (boomer landlords) just want to destroy housing affordability and the economy for their own...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Horseshoe theory is real The NIMBY left (nonprofit extractors) and the NIMBY right (boomer landlords) just want to destroy housing affordability and the economy for their own comfort and grift Meanwhile we are just trying to build abundance Connie Chan is a regressive and terrible bureaucrat who wants rents to be $10,000 per month in SF Anti tech, anti housing, anti prosperity, pro grift, pro crime That the Pelosi...",
+      "url": "https://x.com/garrytan/status/2113683853156192695",
+      "publishedAt": "2026-10-23T17:27:55.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-226e3318fe86",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "I'm hosting an event in the Bay Area (San Mateo) on Nov 7 (Saturday) where you can come build/rebuild your personal website!",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. I'm hosting an event in the Bay Area (San Mateo) on Nov 7 (Saturday) where you can come build/rebuild your personal website! We’ll show you the coolest personal sites out there, and you can make or remake your site, alongside other wonderful people. ZERO coding/design experience needed (beginners preferred). RSVP here:",
+      "url": "https://x.com/zarazhangrui/status/2113676956885807406",
+      "publishedAt": "2026-10-23T17:00:31.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-0d2cadf1783a",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product",
+      "takeaway": "It truly feels magical - recommend adding to your website 😅 Anthropic did go 10x in revenue even without launching Duet, but called it 😅 Experience it by texting someone",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. It truly feels magical - recommend adding to your website 😅 Anthropic did go 10x in revenue even without launching Duet, but called it 😅 Experience it by texting someone",
+      "url": "https://x.com/nikunj/status/2113844360572027321",
+      "publishedAt": "2026-10-24T04:05:43.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-ecdda23af587",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "I’ll wait a bit before thinking about a new phone.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. I’ll wait a bit before thinking about a new phone.",
+      "url": "https://x.com/steipete/status/2113788999303385180",
+      "publishedAt": "2026-10-24T00:25:44.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-d810b8c2217a",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "the best configuration of teams in AI is only two people: pirates and architects",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. the best configuration of teams in AI is only two people: pirates and architects",
+      "url": "https://x.com/danshipper/status/2113693510629281895",
+      "publishedAt": "2026-10-23T18:06:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-688ffe675bfd",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Ok, more math with Mr @ScottWu46. Some of the biggest advances in AI have come from solving many problems together, rather than training specialized systems for individual tasks.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Ok, more math with Mr @ScottWu46. Some of the biggest advances in AI have come from solving many problems together, rather than training specialized systems for individual tasks. @svlevine (@physical_int) talks about the same principle for robotics. Make the problem bigger. Full conversation at @spc",
+      "url": "https://x.com/adityaag/status/2113681343502787070",
+      "publishedAt": "2026-10-23T17:17:57.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-x-715b7220472a",
+      "date": "2026-10-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "Here’s the deeper look at how Claude Duet handles safety, privacy, and security:",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Here’s the deeper look at how Claude Duet handles safety, privacy, and security:",
+      "url": "https://x.com/claudeai/status/2113736176737845353",
+      "publishedAt": "2026-10-23T20:55:50.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
+    {
+      "id": "2026-10-23-podcast-0aa4355de8d8",
+      "date": "2026-10-23",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "How do you make it easy for them to deploy and their agents deploy? And it would be all hands on deck internally at Cloudflare to make sure how we protect not just our enterprise customers, but also all of our free customers because we view it as a public code of making sure that the Internet stays safe. I had Greg Brockman from OpenAI on No Priors podcast last week, and he said that he thought in 2027, people are going to spend as much money on tokens for security as engineering?",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-10-24T16:32:10.269Z"
+    },
     {
       "id": "2026-10-22-x-7e32c52c72b7",
       "date": "2026-10-22",
