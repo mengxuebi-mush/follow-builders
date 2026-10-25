@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-24",
-  "generatedAt": "2026-10-25T17:01:43.324Z",
+  "generatedAt": "2026-10-25T18:21:38.485Z",
   "feedGeneratedAt": "2026-10-25T06:39:19.352Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-5dbbc37d61db",
@@ -41,7 +41,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-34279921d0ec",
@@ -63,7 +63,7 @@
         "Peter Yang",
         "Claude"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-28a2a321d726",
@@ -85,7 +85,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-2a5396dff9d5",
@@ -107,7 +107,7 @@
         "Alex Albert",
         "Claude"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-0a8af81100c9",
@@ -130,7 +130,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-42b4c3f35cf1",
@@ -152,7 +152,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-c4d472f6cc94",
@@ -171,7 +171,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-dda9b2331993",
@@ -190,7 +190,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-2ce7435594cb",
@@ -209,7 +209,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-x-471173bddf9d",
@@ -228,7 +228,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     },
     {
       "id": "2026-10-24-podcast-ab2b654bc2d1",
@@ -254,7 +254,7 @@
         "Microsoft",
         "Box"
       ],
-      "createdAt": "2026-10-25T17:01:43.324Z"
+      "createdAt": "2026-10-25T18:21:38.485Z"
     }
   ]
 }
