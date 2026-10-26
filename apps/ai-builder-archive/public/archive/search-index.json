@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:11:51.748Z",
+  "generatedAt": "2026-10-26T20:25:48.773Z",
   "snippets": [
     {
       "id": "2026-10-25-x-8579b49e02f5",
@@ -19,7 +19,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-07ec48289a1e",
@@ -40,7 +40,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-406a7271ef13",
@@ -61,7 +61,7 @@
         "Peter Yang",
         "Claude"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-26aabf1d0e6f",
@@ -82,7 +82,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-a9a98f215754",
@@ -105,7 +105,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-44a95d04f4f0",
@@ -124,7 +124,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-9a76311ca784",
@@ -143,7 +143,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-7b50ab6437a6",
@@ -162,7 +162,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-x-f87ffa7b61b0",
@@ -181,7 +181,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-25-podcast-0aa4355de8d8",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Box"
       ],
-      "createdAt": "2026-10-26T19:11:51.748Z"
+      "createdAt": "2026-10-26T20:25:48.773Z"
     },
     {
       "id": "2026-10-24-x-3caa16e3140b",
