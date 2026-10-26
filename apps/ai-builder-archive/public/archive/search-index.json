@@ -1,7 +1,212 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T21:40:46.309Z",
+  "generatedAt": "2026-10-26T19:11:51.748Z",
   "snippets": [
+    {
+      "id": "2026-10-25-x-8579b49e02f5",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "i need 12 more likes to ratio @ArfurRock whos got it",
+      "summary": "Swyx (swyx on X) shared 1 recent update. i need 12 more likes to ratio @ArfurRock whos got it",
+      "url": "https://x.com/swyx/status/2114263159355904426",
+      "publishedAt": "2026-10-25T07:49:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-07ec48289a1e",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and tools",
+      "takeaway": "Day 21/ Wonder what happens the remaining seven days. But today is a reset. Reminder you can customize the appearance of chatgpt on web and make it soothing",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Day 21/ Wonder what happens the remaining seven days. But today is a reset. Reminder you can customize the appearance of chatgpt on web and make it soothing",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "publishedAt": "2026-10-26T05:21:22.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-406a7271ef13",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and tools",
+      "takeaway": "Here’s how to use Claude to copy any video shorts style in a few minutes. From @jake11moran: “We added this as a native capability in @HyperFrames_ studio.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Here’s how to use Claude to copy any video shorts style in a few minutes. From @jake11moran: “We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change. You can see where we’re drawing inspiration from and apply a different font or different colors. It’s still structurally the same idea.",
+      "url": "https://x.com/petergyang/status/2114507378532229214",
+      "publishedAt": "2026-10-26T00:00:19.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-26aabf1d0e6f",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on tools",
+      "takeaway": "By the time it shows up in the data or UXR interviews it’s too late. The damage has been done and the reputation tarnished Anyone else find it insane that this is the default for...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. By the time it shows up in the data or UXR interviews it’s too late. The damage has been done and the reputation tarnished Anyone else find it insane that this is the default for unoptimized apps when the iPhone Duo supports split mode?",
+      "url": "https://x.com/thenanyu/status/2114427877240488442",
+      "publishedAt": "2026-10-25T18:44:24.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-a9a98f215754",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly,...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve. There’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure, data, and code to secure.",
+      "url": "https://x.com/levie/status/2114391265655816315",
+      "publishedAt": "2026-10-25T16:18:55.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-44a95d04f4f0",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Good neighborhood Rare footage of how VCs turned their 2021 bets in metaverse, gaming and crypto mining into 'mission-critical AI infrastructure’",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Good neighborhood Rare footage of how VCs turned their 2021 bets in metaverse, gaming and crypto mining into 'mission-critical AI infrastructure’",
+      "url": "https://x.com/mattturck/status/2114411547594457483",
+      "publishedAt": "2026-10-25T17:39:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-9a76311ca784",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Great interview. Most people overestimate the importance of one huge launch and underestimate the power of just showing up every day on the timeline Develop a system where you...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. Great interview. Most people overestimate the importance of one huge launch and underestimate the power of just showing up every day on the timeline Develop a system where you make a video every day &gt; spending tens of thousands of dollars on a single launch video",
+      "url": "https://x.com/zarazhangrui/status/2114255477907570865",
+      "publishedAt": "2026-10-25T07:19:21.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-7b50ab6437a6",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Golden hour 🌅",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Golden hour 🌅",
+      "url": "https://x.com/nikunj/status/2114380495140405394",
+      "publishedAt": "2026-10-25T15:36:07.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-x-f87ffa7b61b0",
+      "date": "2026-10-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. ",
+      "url": "https://x.com/danshipper/status/2114509827057561603",
+      "publishedAt": "2026-10-26T00:10:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
+    {
+      "id": "2026-10-25-podcast-0aa4355de8d8",
+      "date": "2026-10-25",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "So DOTS is a proactive agent, it's always on, always working, you stop working, it keeps working and the kind of thing that my Dots does, right, so I have a Dot that's looking out for work that I was supposed to do, like messages I was supposed to send, things I said I would do that I haven t gotten to yet and I always wake up in the morning, there s like a list of things that I was like, Oh yeah, this is my to do list and it often notices things that I never even asked it to notice.",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Box"
+      ],
+      "createdAt": "2026-10-26T19:11:51.748Z"
+    },
     {
       "id": "2026-10-24-x-3caa16e3140b",
       "date": "2026-10-24",
