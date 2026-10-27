@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-26",
-  "generatedAt": "2026-10-27T20:01:13.137Z",
+  "generatedAt": "2026-10-27T21:15:17.523Z",
   "feedGeneratedAt": "2026-10-27T06:44:38.100Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
         "Swyx",
         "Claude"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-86adcedcfe84",
@@ -43,7 +43,7 @@
         "Josh Woodward",
         "Google"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-bf81ae046163",
@@ -65,7 +65,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-64dab736c94b",
@@ -84,7 +84,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-b9a0e720a53d",
@@ -104,7 +104,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-4bafd3117a21",
@@ -124,7 +124,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-39b07df56840",
@@ -148,7 +148,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-e155e76d6677",
@@ -173,7 +173,7 @@
         "Anthropic",
         "Vercel"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-406d8289b9fc",
@@ -197,7 +197,7 @@
         "Aaron Levie",
         "Anthropic"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-8e9a1fc609e4",
@@ -216,7 +216,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-c7b7936f5f37",
@@ -236,7 +236,7 @@
         "Matt Turck",
         "Anthropic"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-30a10fd0110f",
@@ -259,7 +259,7 @@
         "Anthropic",
         "Google"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-c3b8b3819f30",
@@ -278,7 +278,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-70d586abf66b",
@@ -298,7 +298,7 @@
         "Dan Shipper",
         "Anthropic"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-53c9ae2f40a0",
@@ -317,7 +317,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-30bd9156f8e9",
@@ -336,7 +336,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-x-cfe8b42c1ec7",
@@ -356,7 +356,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     },
     {
       "id": "2026-10-26-podcast-357c04af2d05",
@@ -383,7 +383,7 @@
         "Google",
         "Meta"
       ],
-      "createdAt": "2026-10-27T20:01:13.137Z"
+      "createdAt": "2026-10-27T21:15:17.523Z"
     }
   ]
 }
