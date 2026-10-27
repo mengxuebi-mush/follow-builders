@@ -1,7 +1,388 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T23:05:16.194Z",
+  "generatedAt": "2026-10-27T18:38:44.973Z",
   "snippets": [
+    {
+      "id": "2026-10-26-x-be9ff4283460",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "bro moved from Claude Code to AIE Code power move tbh will you buy $ANT stock at a $2T valuation? @grok how many of my reply guys are ai",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. bro moved from Claude Code to AIE Code power move tbh will you buy $ANT stock at a $2T valuation? @grok how many of my reply guys are ai",
+      "url": "https://x.com/swyx/status/2114805687226376267",
+      "publishedAt": "2026-10-26T19:45:41.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "Claude"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-86adcedcfe84",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "🇺🇸 For a deployed service member, missing family moments adds up. Baby’s first step. The first performance. Sharing a laugh.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. 🇺🇸 For a deployed service member, missing family moments adds up. Baby’s first step. The first performance. Sharing a laugh. In honor of National Day of the Deployed, we’re excited to partner with @USArmy and @The_USO to bring Google Beam to 20 locations so deployed service members can experience lifelike, 3D video connections with their loved ones. 🎥 Watch the docuseries below",
+      "url": "https://x.com/joshwoodward/status/2114840668296409568",
+      "publishedAt": "2026-10-26T22:04:41.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-bf81ae046163",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and costs",
+      "takeaway": "Day 22/ Terra is back! Our first model that is significantly better at writing, personality and nuanced understanding of requests.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Day 22/ Terra is back! Our first model that is significantly better at writing, personality and nuanced understanding of requests. Packs a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "publishedAt": "2026-10-26T19:24:11.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-64dab736c94b",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents",
+      "takeaway": "In the near future, instead of reading or doing anything online, people are just going to tag their agent to do it. @bot is an early signal of this.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. In the near future, instead of reading or doing anything online, people are just going to tag their agent to do it. @bot is an early signal of this. This is the stuff that I’m excited about not the 9th personal agent to manage my emails @bot This is probably not a good thing overall",
+      "url": "https://x.com/petergyang/status/2114927195332460940",
+      "publishedAt": "2026-10-27T03:48:31.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-b9a0e720a53d",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product",
+      "takeaway": "“Delightful” they said in the design crit",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. “Delightful” they said in the design crit",
+      "url": "https://x.com/thenanyu/status/2114800172270252037",
+      "publishedAt": "2026-10-26T19:23:46.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-4bafd3117a21",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "going to be sharing my WoW forever shaman build at the AIE Code closing keynote",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. going to be sharing my WoW forever shaman build at the AIE Code closing keynote",
+      "url": "https://x.com/trq212/status/2114796261362835842",
+      "publishedAt": "2026-10-26T19:08:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-39b07df56840",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "Software ate the world, now it's learning to run it. For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Software ate the world, now it's learning to run it. For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy. AI agents are about to upend that. We’re moving toward the self-driving company where humans exercise judgment and agents execute most of the work.",
+      "url": "https://x.com/amasad/status/2114769129282601053",
+      "publishedAt": "2026-10-26T17:20:25.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-e155e76d6677",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. It runs on a generic host with 2+ Firecracker microVMs with no internet access.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. It runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip. I was able to chat via 3 separate mechanisms: ① CPU contention ② Cache eviction timing ③ DRAM bandwidth contention … across multiple CPUs, defeating all Firecracker's production recommendations (no SMT,...",
+      "url": "https://x.com/rauchg/status/2114770919436808572",
+      "publishedAt": "2026-10-26T17:27:32.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Anthropic",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-406d8289b9fc",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "This is the key stat. The average Fortune 500 customer of Anthropic spends less than .1% of their expenses on Anthropic.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This is the key stat. The average Fortune 500 customer of Anthropic spends less than .1% of their expenses on Anthropic. While that number likely will eventually asymptote somewhere (token prices coming down, and other large enterprise spend areas not going away), there’s no reason it can’t be 10-50X higher than this, reaching a “mere” 1-5% of spend. Which would still be a fraction of what most startups are spending.",
+      "url": "https://x.com/levie/status/2114761816199098587",
+      "publishedAt": "2026-10-26T16:51:22.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-8e9a1fc609e4",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Publish your stack",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Publish your stack",
+      "url": "https://x.com/garrytan/status/2114739519622963671",
+      "publishedAt": "2026-10-26T15:22:46.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-c7b7936f5f37",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Particularly evil of Anthropic to file their S-1 on a Monday morning when all VCs are stuck in Monday team and partner meetings, making us unable to provide immediate...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Particularly evil of Anthropic to file their S-1 on a Monday morning when all VCs are stuck in Monday team and partner meetings, making us unable to provide immediate #thoughtleadership with those S-1 teardowns that everyone is dying to read Anthropic S-1 highlights video ONE SHOT (just one prompt, no editing) using @synthesiaIO Syren",
+      "url": "https://x.com/mattturck/status/2114755282181955616",
+      "publishedAt": "2026-10-26T16:25:24.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-30a10fd0110f",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "The main thing I wanted to dig into @AnthropicAI's S-1 was the compute contracts.. A few things that stood out (built in conjuction with Opus 5.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The main thing I wanted to dig into @AnthropicAI's S-1 was the compute contracts.. A few things that stood out (built in conjuction with Opus 5.5): > At June 30, Anthropic had $265.6B of purchase commitments and $321.4B of leases that hadn’t started. That’s a $587B subtotal, payable over years, including some conditional leases. The latest aggregate total is still blank in the filing.",
+      "url": "https://x.com/nikunj/status/2114761204333998427",
+      "publishedAt": "2026-10-26T16:48:56.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-c3b8b3819f30",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "Banger. I spent some time on the weekend to test bun's AOT compiler and results are nothing short of amazing. Performance up 2-3x, memory use less than half.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Banger. I spent some time on the weekend to test bun's AOT compiler and results are nothing short of amazing. Performance up 2-3x, memory use less than half.",
+      "url": "https://x.com/steipete/status/2114879359857422729",
+      "publishedAt": "2026-10-27T00:38:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-70d586abf66b",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "okay so Anthropic S-1: - Revenue up 1,300% YOY in 1H 2026 - GAAP operating profitable - 85% gross margin - 900% revenue retention - 80% of revenue coming from models released in...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. okay so Anthropic S-1: - Revenue up 1,300% YOY in 1H 2026 - GAAP operating profitable - 85% gross margin - 900% revenue retention - 80% of revenue coming from models released in the last 6 months we are so back! dang this is big back to the part of the cycle where i regret not getting a phd in frontier math and theoretical comp sci (not that i ever considered getting one but still)",
+      "url": "https://x.com/danshipper/status/2114714881312305542",
+      "publishedAt": "2026-10-26T13:44:51.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-53c9ae2f40a0",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "More and more I am coming to accept that our understanding of the sciences were but limited by our desire to have solutions that we could understand.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. More and more I am coming to accept that our understanding of the sciences were but limited by our desire to have solutions that we could understand. This is such a banger that I cannot recommend it enough. Key section below: The biggest risk to American AI is scaring ourselves into slowing down. Fear is a policy choice. So is building. Had a great conversation with @sriramk at @spc last week.",
+      "url": "https://x.com/adityaag/status/2114907777957245033",
+      "publishedAt": "2026-10-27T02:31:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-30bd9156f8e9",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on costs",
+      "takeaway": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use.",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. 6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use.",
+      "url": "https://x.com/sama/status/2114818620782248024",
+      "publishedAt": "2026-10-26T20:37:05.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-x-cfe8b42c1ec7",
+      "date": "2026-10-26",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "More than 25,000 nonprofits now use Claude. Most are small, local teams. We’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for...",
+      "summary": "Claude (claudeai on X) shared 1 recent update. More than 25,000 nonprofits now use Claude. Most are small, local teams. We’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy:",
+      "url": "https://x.com/claudeai/status/2114780227465338985",
+      "publishedAt": "2026-10-26T18:04:31.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
+    {
+      "id": "2026-10-26-podcast-357c04af2d05",
+      "date": "2026-10-26",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "How Hugging Face’s Investor Spots Winners",
+      "takeaway": "How Hugging Face’s Investor Spots Winners. On the equipment side, we have software tools specifically made for you, like an agent that helps you AI pill your whole company, all...",
+      "summary": "On the equipment side, we have software tools specifically made for you, like an agent that helps you AI pill your whole company, all bundled together under one subscription. But transformer is really good at next token prediction. And so they have a budget of ways to make money.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-14T16:22:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Claude",
+        "Codex",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-10-27T18:38:44.973Z"
+    },
     {
       "id": "2026-10-25-x-8579b49e02f5",
       "date": "2026-10-25",
