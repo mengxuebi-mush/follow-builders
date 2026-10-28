@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "generatedAt": "2026-10-28T18:47:09.446Z",
+  "generatedAt": "2026-10-28T20:12:40.293Z",
   "feedGeneratedAt": "2026-10-28T06:32:16.853Z",
   "snippets": [
     {
@@ -24,7 +24,7 @@
         "Claude",
         "Cursor"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-a8572e73a669",
@@ -44,7 +44,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-248571b4973f",
@@ -64,7 +64,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-666ee4590eb4",
@@ -85,7 +85,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-d5b360de5751",
@@ -109,7 +109,7 @@
         "Amjad Masad",
         "Anthropic"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-0abb83f7f946",
@@ -128,7 +128,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-83d5612f1c6d",
@@ -151,7 +151,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-cc5787a68e59",
@@ -171,7 +171,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-f48f14910db7",
@@ -192,7 +192,7 @@
         "OpenAI",
         "Anthropic"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-65a71a75c004",
@@ -211,7 +211,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-e2eb9a7a619e",
@@ -230,7 +230,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-944fef03971a",
@@ -249,7 +249,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     },
     {
       "id": "2026-10-27-x-a3401ff968db",
@@ -268,7 +268,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-28T18:47:09.446Z"
+      "createdAt": "2026-10-28T20:12:40.293Z"
     }
   ]
 }
