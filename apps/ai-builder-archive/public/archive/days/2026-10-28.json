@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-29T18:55:17.915Z",
+  "feedGeneratedAt": "2026-10-29T06:32:19.194Z",
+  "snippets": [
+    {
+      "id": "2026-10-28-x-e0ab4b111a56",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "hello from literally everybody who took psychology 101 in undergrad Gemini #1 on AAv5??? this is making me open up @antigravity for the first time in a long time.",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. hello from literally everybody who took psychology 101 in undergrad Gemini #1 on AAv5??? this is making me open up @antigravity for the first time in a long time. i’m getting an early review, will report back soon. if google actually pulls this off it is officially comeback season with Meta, Grok and now GDM being cool again. @saranormous talked about model neurodiversity last year.",
+      "url": "https://x.com/swyx/status/2115341903311024395",
+      "publishedAt": "2026-10-28T07:16:25.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-1d66286a6605",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models",
+      "takeaway": "2 weeks ago: Gemini 4 Argon Today: Gemini 4 Carbon The frontier is fast, and the internal vibes on this model are good.",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. 2 weeks ago: Gemini 4 Argon Today: Gemini 4 Carbon The frontier is fast, and the internal vibes on this model are good. Rolling out to cyber defenders first, then more widely available as the next step! New in Gemini: Connect your @Strava account to turn years of raw workout logs into your personalized coaching plan @Strava You can turn it on here:",
+      "url": "https://x.com/joshwoodward/status/2115495943948902517",
+      "publishedAt": "2026-10-28T17:28:31.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-f7c3c9c067f4",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.",
+      "url": "https://x.com/bcherny/status/2115491259381072269",
+      "publishedAt": "2026-10-28T17:09:54.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-99470d28beba",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Pretty wild that this site got 3M views. Team is working on this but it's not rolling out just yet, sorry for any confusion.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Pretty wild that this site got 3M views. Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time. We'll have more to share soon. Day 24/ Text your dot just like anyone else.",
+      "url": "https://x.com/thsottiaux/status/2115473170279080149",
+      "publishedAt": "2026-10-28T15:58:02.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-4f87cc7514d3",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and research",
+      "takeaway": "The job that AI will never disrupt is selling your little hand-made trinkets at the local farmer's market. Farmer's markets are about to experience a renaissance, mark my words. .",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. The job that AI will never disrupt is selling your little hand-made trinkets at the local farmer's market. Farmer's markets are about to experience a renaissance, mark my words. .@ChatGPT and browser use has been an absolute godsend for working through medical paperwork. I think world models are still in the GPT 3.5 era, but not for long.",
+      "url": "https://x.com/petergyang/status/2115642806010274271",
+      "publishedAt": "2026-10-29T03:12:06.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-2d368af5bb3b",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on tools",
+      "takeaway": "HEY JOHN APPLE 5G ON MY MACBOOK SEND TWEET",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. HEY JOHN APPLE 5G ON MY MACBOOK SEND TWEET",
+      "url": "https://x.com/thenanyu/status/2115638747002003968",
+      "publishedAt": "2026-10-29T02:55:58.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-29597c181640",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and tools",
+      "takeaway": "very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could...",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better courage in shorter supply than genius I think the same is true of creative fields, like I see artists really worrying about AI but I wish so badly that I could sketch animation ideas and character concepts for my agent to...",
+      "url": "https://x.com/trq212/status/2115544056038350960",
+      "publishedAt": "2026-10-28T20:39:42.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-f77f493dd72b",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on models and research",
+      "takeaway": "ViBench 2.0 (prompt to app benchmark) just dropped and GPT 6.1 Sol takes the lead.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. ViBench 2.0 (prompt to app benchmark) just dropped and GPT 6.1 Sol takes the lead.",
+      "url": "https://x.com/amasad/status/2115565072734888447",
+      "publishedAt": "2026-10-28T22:03:13.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-3b968a0e6a35",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "Vercel CI solves the \"AI coding bottleneck\" via: ① Fast and stable infrastructure (faster work) ② Turborepo integration (less work) ③ Agentic CI ① is obvious.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Vercel CI solves the \"AI coding bottleneck\" via: ① Fast and stable infrastructure (faster work) ② Turborepo integration (less work) ③ Agentic CI ① is obvious. Your CI is slow, flaky, goes down. We solve that. We operate 20 worldwide clusters doing millions of microVMs per day. ② is less obvious, but very powerful. Turborepo was designed to intelligently skip and cache prior work.",
+      "url": "https://x.com/rauchg/status/2115539426684408300",
+      "publishedAt": "2026-10-28T20:21:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-655c1b9f0a7d",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "Agents are going to consume 1,000X more tokens than we consume today. Because they’re going to be running in our workflows, processing all of our data, building out nearly all...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Agents are going to consume 1,000X more tokens than we consume today. Because they’re going to be running in our workflows, processing all of our data, building out nearly all software, securing enterprises, and much more. To do this at scale we will need a variety of approaches at the frontier of AI.",
+      "url": "https://x.com/levie/status/2115516370695987435",
+      "publishedAt": "2026-10-28T18:49:41.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-a68390642c9f",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and models",
+      "takeaway": "augmenting human intellect when i started making software, i wasn’t dreaming of a factory. i loved that something on a screen could become an extension of my mind.",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. augmenting human intellect when i started making software, i wasn’t dreaming of a factory. i loved that something on a screen could become an extension of my mind. a place to put a thought before i understood it. to move things around until new connections appeared. to make little systems that worked the way i worked, even if it made no sense to anyone else.",
+      "url": "https://x.com/ryolu_/status/2115683228027912634",
+      "publishedAt": "2026-10-29T05:52:43.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Box"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-c56a2029a207",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models and costs",
+      "takeaway": "There’s a budget crush and high schoolers can’t take honors classes (they’re phasing out) but guess what new classes they are getting next Particle will be on the frontier for...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. There’s a budget crush and high schoolers can’t take honors classes (they’re phasing out) but guess what new classes they are getting next Particle will be on the frontier for smartest model at lowest dollar per unit of intelligence",
+      "url": "https://x.com/garrytan/status/2115639558935359941",
+      "publishedAt": "2026-10-29T02:59:12.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-6fcea8020540",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "This is why French founders are a special breed - to even start a company, they have to first face this kind of feedback from their families and friends lol 😂 When VCs ask...",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. This is why French founders are a special breed - to even start a company, they have to first face this kind of feedback from their families and friends lol 😂 When VCs ask Instinct to help them invest in hot deals Woah they actually made a movie about the GPU shortage",
+      "url": "https://x.com/mattturck/status/2115596406077452628",
+      "publishedAt": "2026-10-29T00:07:43.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-875c597bf24a",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "this is too cute",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. this is too cute",
+      "url": "https://x.com/zarazhangrui/status/2115336629770707254",
+      "publishedAt": "2026-10-28T06:55:28.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-91aba6cc1ad4",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Been sharing this feedback to a lot of seed founders on how to bridge the gap between their dream to what is often required at the A from someone who sits on the other side of the...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Been sharing this feedback to a lot of seed founders on how to bridge the gap between their dream to what is often required at the A from someone who sits on the other side of the table.. Thanks @dflieb, @adityaag & a few seed founders for reviewing drafts of this!",
+      "url": "https://x.com/nikunj/status/2115583054530171227",
+      "publishedAt": "2026-10-28T23:14:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-2e89892bc42a",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "Kinda funny how easy it is to spot bugs by agents vs humans. Someone at Disney still writes code by HAND?",
+      "summary": "Peter Steinberger (steipete on X) shared 3 recent updates. Kinda funny how easy it is to spot bugs by agents vs humans. Someone at Disney still writes code by HAND? OpenClaw’s web UI now works offline and uses a smart websocket compression/reconnect logic. Been flying to Vienna today and got plenty work done, despite spotty airplane wifi. Meanwhile people still work local and in the cli? 👴",
+      "url": "https://x.com/steipete/status/2115380217938158049",
+      "publishedAt": "2026-10-28T09:48:40.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-e9a4cd5f21b6",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "This is a LP letter that we recently wrote with our lessons on spotting talent from a decade of investing at the frontier.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. This is a LP letter that we recently wrote with our lessons on spotting talent from a decade of investing at the frontier. The most common thing you hear about early stage investing is that \"It is 90% about the founder\". We agree but have always been unsatisfied by the lack of falsifiability, specificity, and repeatability of that statement. What are the dimensions of excellence? How do they translate into companies?",
+      "url": "https://x.com/adityaag/status/2115486597739430004",
+      "publishedAt": "2026-10-28T16:51:23.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-x-1218bbc2a748",
+      "date": "2026-10-28",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models",
+      "takeaway": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more. Start from the built-in example, add your own documents and connectors, and share it with anyone across the business. Learn more:",
+      "url": "https://x.com/claudeai/status/2115467192276025500",
+      "publishedAt": "2026-10-28T15:34:16.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    },
+    {
+      "id": "2026-10-28-podcast-357c04af2d05",
+      "date": "2026-10-28",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "Can You Use AI To Make Good Art? — With Fred Graver",
+      "takeaway": "Can You Use AI To Make Good Art? — With Fred Graver. I have a Claude agent that is my morning check-in, and and he's very unpleasant.",
+      "summary": "I have a Claude agent that is my morning check-in, and and he's very unpleasant. And then he, you know, built this incredible career at VH1 and MTV, and then he kind of threw it all away and became the head of TV at Twitter when it was a startup, and that didn't totally make sense. On the education side, we review every new model that drops and tell you what's good.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-28T20:23:44.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-10-29T18:55:17.915Z"
+    }
+  ]
+}
