@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T18:55:17.915Z",
+  "generatedAt": "2026-10-29T20:13:33.935Z",
   "snippets": [
     {
       "id": "2026-10-28-x-e0ab4b111a56",
@@ -21,7 +21,7 @@
         "Google",
         "Meta"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-1d66286a6605",
@@ -41,7 +41,7 @@
       "entities": [
         "Josh Woodward"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-f7c3c9c067f4",
@@ -62,7 +62,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-99470d28beba",
@@ -82,7 +82,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-4f87cc7514d3",
@@ -104,7 +104,7 @@
         "Peter Yang",
         "Google"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-2d368af5bb3b",
@@ -125,7 +125,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-29597c181640",
@@ -147,7 +147,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-f77f493dd72b",
@@ -168,7 +168,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-3b968a0e6a35",
@@ -192,7 +192,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-655c1b9f0a7d",
@@ -215,7 +215,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-a68390642c9f",
@@ -239,7 +239,7 @@
         "Ryo Lu",
         "Box"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-c56a2029a207",
@@ -260,7 +260,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-6fcea8020540",
@@ -279,7 +279,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-875c597bf24a",
@@ -298,7 +298,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-91aba6cc1ad4",
@@ -317,7 +317,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-2e89892bc42a",
@@ -337,7 +337,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-e9a4cd5f21b6",
@@ -356,7 +356,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-x-1218bbc2a748",
@@ -376,7 +376,7 @@
       "entities": [
         "Claude"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-28-podcast-357c04af2d05",
@@ -403,7 +403,7 @@
         "Microsoft",
         "Box"
       ],
-      "createdAt": "2026-10-29T18:55:17.915Z"
+      "createdAt": "2026-10-29T20:13:33.935Z"
     },
     {
       "id": "2026-10-27-x-b338a2262da0",
