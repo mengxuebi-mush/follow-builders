@@ -1,7 +1,358 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T23:13:35.382Z",
+  "generatedAt": "2026-10-30T18:32:57.941Z",
   "snippets": [
+    {
+      "id": "2026-10-29-x-a3b389a47337",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "excited for @Cloudflare's debut as a frontier lab #NothingButNET gang, assemble! could not imagine a better pairing. congrats deepcat!!!",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. excited for @Cloudflare's debut as a frontier lab #NothingButNET gang, assemble! could not imagine a better pairing. congrats deepcat!!! inspired by High Taste Testers convo with @thaiscbranco_ of @tastelabs btw who gave me immediate critique lol",
+      "url": "https://x.com/swyx/status/2115993441004036131",
+      "publishedAt": "2026-10-30T02:25:24.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-f0339a163c1d",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge! @Gemini_Notebook This is part of our larger Expert Intelligence program, which has many more updates coming soon! This is part of our larger Expert Intelligence program, which has many more updates coming soon!",
+      "url": "https://x.com/joshwoodward/status/2115953461108023400",
+      "publishedAt": "2026-10-29T23:46:32.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-c2861e26a175",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and enterprise",
+      "takeaway": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "publishedAt": "2026-10-29T16:56:07.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-aae34c9c8a89",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and research",
+      "takeaway": "Love Claude but this really sucks I have never seen so many cartoon avatars getting angry at @ForwardEditor for talking about the inevitable. True, vibes &gt; benchmarks",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Love Claude but this really sucks I have never seen so many cartoon avatars getting angry at @ForwardEditor for talking about the inevitable. True, vibes &gt; benchmarks",
+      "url": "https://x.com/petergyang/status/2115958027954339862",
+      "publishedAt": "2026-10-30T00:04:41.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-572f9449ea3e",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and tools",
+      "takeaway": "There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting a lot done and working all the time but nothing is really happening.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting a lot done and working all the time but nothing is really happening. I think it's often a form of avoidance of something else in life. @chrislakin says it best here here are some other UIs we explored, one of my favorites was this jumbotron look",
+      "url": "https://x.com/trq212/status/2115937378674372783",
+      "publishedAt": "2026-10-29T22:42:37.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-3aec3272e164",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on coding and product",
+      "takeaway": "It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience has been instrumental in shaping developer products across Google.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience has been instrumental in shaping developer products across Google. The future of coding is just getting started 🚀🦑!",
+      "url": "https://x.com/GoogleLabs/status/2115884247504625669",
+      "publishedAt": "2026-10-29T19:11:30.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-41449f6fd0c8",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "This is so cool! Run any GitHub repo. Just paste a link into Replit and it will set it up for you!",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. This is so cool! Run any GitHub repo. Just paste a link into Replit and it will set it up for you!",
+      "url": "https://x.com/amasad/status/2115944760829698343",
+      "publishedAt": "2026-10-29T23:11:57.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-f9bd09613488",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "The future of software engineering is agents talking to other agents. Even across different companies.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. The future of software engineering is agents talking to other agents. Even across different companies. We’re learning daily from the feedback agents send us on how to make a better Vercel. Put in your 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍: send Vercel feedback when something could be better. ▲ 👻 🎃 🕷️ I love how quickly our team works to bring the latest LTS and security upgrades for @nodejs.",
+      "url": "https://x.com/rauchg/status/2115874115118834153",
+      "publishedAt": "2026-10-29T18:31:14.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-2d4dbed592b3",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now. The crazy thing is these lines are not converging, but only growing farther apart. If the curve of AI progress had leveled off, it would certainly have given most people and companies time to catch up or implement their workflows in a standardized way.",
+      "url": "https://x.com/levie/status/2116029912243184006",
+      "publishedAt": "2026-10-30T04:50:19.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-48202b177b15",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on research",
+      "takeaway": "big boy warm tension, cold chills heart hanging off a cliff, ready to free fall floating in space with no love, just me and some stranger souls wearing smiles and greet “How are...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. big boy warm tension, cold chills heart hanging off a cliff, ready to free fall floating in space with no love, just me and some stranger souls wearing smiles and greet “How are you?” “I’m good, you?” life carries on, unhinged a tear slips, no one noticed vision blurs, drowned in thoughts what a strange grown-up world i asked my inner child, why do you live?",
+      "url": "https://x.com/ryolu_/status/2116008620286775517",
+      "publishedAt": "2026-10-30T03:25:43.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-cb839bd28cca",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and coding",
+      "takeaway": "What's the fastest way to get GBrain working with your agent? Now just point your agent (any kind, Claude Code, Codex, Muse, Grok Bot, OpenClaw, Hermes) at this and get it going...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. What's the fastest way to get GBrain working with your agent? Now just point your agent (any kind, Claude Code, Codex, Muse, Grok Bot, OpenClaw, Hermes) at this and get it going super fast. GBrain hosted = postgres with pgvector autoscaling for you.",
+      "url": "https://x.com/garrytan/status/2115922231910084638",
+      "publishedAt": "2026-10-29T21:42:26.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-3d058d30d0f7",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and coding",
+      "takeaway": "State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) - my conversation with @nathanbenaich: 0:00 Cold open and intro 0:56 AGI in 2027?",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) - my conversation with @nathanbenaich: 0:00 Cold open and intro 0:56 AGI in 2027? 2:28 AI building AI: Claude leads 26% of Anthropic’s research 4:00 Research taste: can AI pick the right problem?",
+      "url": "https://x.com/mattturck/status/2115852315584258269",
+      "publishedAt": "2026-10-29T17:04:37.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-3ed874a4f9fc",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "great day to buy stocks! if you're not livestreaming thesis on november 5th from @every FOR FREE what are you doing?",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. great day to buy stocks! if you're not livestreaming thesis on november 5th from @every FOR FREE what are you doing? we're giving away a total of $20,000 in partner credits and benefits from Notion, Anthropic, and OpenAI to livestream viewers! register at to enter the draw",
+      "url": "https://x.com/danshipper/status/2115955165450609140",
+      "publishedAt": "2026-10-29T23:53:18.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-05e082d3b6d6",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. ",
+      "url": "https://x.com/adityaag/status/2115827259747545386",
+      "publishedAt": "2026-10-29T15:25:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-x-5174b27f0ffc",
+      "date": "2026-10-29",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your hands on the wheel. What would you like to see next?",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your hands on the wheel. What would you like to see next? Coming soon on iPhone and iPad: pull down to search. Find a past chat or project, jump to any setting, or act on a chat from the results.",
+      "url": "https://x.com/claudeai/status/2115859388191912193",
+      "publishedAt": "2026-10-29T17:32:43.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
+    {
+      "id": "2026-10-29-podcast-ab2b654bc2d1",
+      "date": "2026-10-29",
+      "sourceType": "podcast",
+      "sourceName": "The MAD Podcast with Matt Turck",
+      "title": "State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Why AGI could happen in 2027, AI that is now building AI, what really happened in the Hugging Face incident, the data center backlash, and how he runs his own fund on agents. Especially as now they're pushing towards like serving their models through API, but also having an enterprise business.",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-29T14:11:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "The MAD Podcast with Matt Turck",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-10-30T18:32:57.941Z"
+    },
     {
       "id": "2026-10-28-x-e0ab4b111a56",
       "date": "2026-10-28",
