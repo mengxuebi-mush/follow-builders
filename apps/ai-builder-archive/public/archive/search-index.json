@@ -1,7 +1,190 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T22:24:55.970Z",
+  "generatedAt": "2026-11-01T18:23:43.258Z",
   "snippets": [
+    {
+      "id": "2026-10-31-x-c53ad0b13f16",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and product",
+      "takeaway": "join me all the way on the light side guys low effort + critique loop &gt; superultramaxhighwhatever (for the throughput-constrained; see swyxio/skills/babysit-runs) btw @karpathy...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. join me all the way on the light side guys low effort + critique loop &gt; superultramaxhighwhatever (for the throughput-constrained; see swyxio/skills/babysit-runs) btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today). overall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours.",
+      "url": "https://x.com/swyx/status/2116642586387730593",
+      "publishedAt": "2026-10-31T21:24:52.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-3efdc1547f65",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Banked 1/2",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Banked 1/2",
+      "url": "https://x.com/thsottiaux/status/2116692529970311254",
+      "publishedAt": "2026-11-01T00:43:20.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-41d173db1b63",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "Halloween is honestly the best holiday and should be held every quarter Is it weird if I prefer listening to this over Spotify Don't particularly care about the trick or treat...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Halloween is honestly the best holiday and should be held every quarter Is it weird if I prefer listening to this over Spotify Don't particularly care about the trick or treat part, just being able to dress up as whatever you want is the best",
+      "url": "https://x.com/petergyang/status/2116732887265656978",
+      "publishedAt": "2026-11-01T03:23:41.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-09066e9d5b53",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on ai",
+      "takeaway": "This would go so hard in SF",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. This would go so hard in SF",
+      "url": "https://x.com/rauchg/status/2116710688550994042",
+      "publishedAt": "2026-11-01T01:55:29.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-b7fd0b5a29aa",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on coding and product",
+      "takeaway": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. Up until maybe six months ago probably the best you could do with AI was pull off...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. Up until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.",
+      "url": "https://x.com/levie/status/2116652002830963114",
+      "publishedAt": "2026-10-31T22:02:17.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-7f66a4056dea",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise",
+      "takeaway": "> Why does the worst rise to the top in a society rife with broken politics? “When the plan fails—and it always fails—coercion is needed.",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. > Why does the worst rise to the top in a society rife with broken politics? “When the plan fails—and it always fails—coercion is needed. You need people willing to do what honest people refuse to do. The system doesn't promote the best; it selects those with no scruples. And to rally a majority around the plan, nothing works better than a common enemy: the rich, the foreigner, the dissenter.”",
+      "url": "https://x.com/garrytan/status/2116640529232609515",
+      "publishedAt": "2026-10-31T21:16:42.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-4d069d7cab81",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "A classic that never goes out of style 🎃👻",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. A classic that never goes out of style 🎃👻",
+      "url": "https://x.com/mattturck/status/2116653171741470990",
+      "publishedAt": "2026-10-31T22:06:56.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-x-49f5857dc44f",
+      "date": "2026-10-31",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "First snow is always special ❄️ what do you mean you dressed up as cybersecurity awareness month for halloween i hate sf",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. First snow is always special ❄️ what do you mean you dressed up as cybersecurity awareness month for halloween i hate sf",
+      "url": "https://x.com/nikunj/status/2116624458198982668",
+      "publishedAt": "2026-10-31T20:12:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
+    {
+      "id": "2026-10-31-podcast-1caac1653ecb",
+      "date": "2026-10-31",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "takeaway": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca. Agents prompt people more than people prompt agents- Mm...",
+      "summary": "Agents prompt people more than people prompt agents- Mm... Wh-which models are you using to power your agents and, um, how do you decide which model is best for, for which action?",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Meta"
+      ],
+      "createdAt": "2026-11-01T18:23:43.258Z"
+    },
     {
       "id": "2026-10-30-x-06948eac63ee",
       "date": "2026-10-30",
