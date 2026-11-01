@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-31",
-  "generatedAt": "2026-11-01T21:08:19.608Z",
+  "generatedAt": "2026-11-01T22:43:06.967Z",
   "feedGeneratedAt": "2026-11-01T06:26:17.261Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-3efdc1547f65",
@@ -42,7 +42,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-41d173db1b63",
@@ -61,7 +61,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-09066e9d5b53",
@@ -80,7 +80,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-b7fd0b5a29aa",
@@ -101,7 +101,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-7f66a4056dea",
@@ -121,7 +121,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-4d069d7cab81",
@@ -140,7 +140,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-x-49f5857dc44f",
@@ -159,7 +159,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     },
     {
       "id": "2026-10-31-podcast-1caac1653ecb",
@@ -185,7 +185,7 @@
         "Claude",
         "Meta"
       ],
-      "createdAt": "2026-11-01T21:08:19.608Z"
+      "createdAt": "2026-11-01T22:43:06.967Z"
     }
   ]
 }
