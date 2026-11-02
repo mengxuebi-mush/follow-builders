@@ -1,7 +1,262 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T22:43:06.967Z",
+  "generatedAt": "2026-11-02T22:16:27.777Z",
   "snippets": [
+    {
+      "id": "2026-11-01-x-73dcf335b8f9",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on coding and models",
+      "takeaway": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended.",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.",
+      "url": "https://x.com/karpathy/status/2116957135661945283",
+      "publishedAt": "2026-11-01T18:14:46.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Andrej Karpathy",
+        "Claude",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-f679bb23b4d3",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "@karpathy url",
+      "summary": "Swyx (swyx on X) shared 1 recent update. @karpathy url",
+      "url": "https://x.com/swyx/status/2116782055665402157",
+      "publishedAt": "2026-11-01T06:39:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-ddfe935339ed",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Day 28/ Banked 2/2 My dog just patched that bug we couldn’t find for two weeks. Clever dog My dog sent you the meeting notes from yesterday, did you see them?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Day 28/ Banked 2/2 My dog just patched that bug we couldn’t find for two weeks. Clever dog My dog sent you the meeting notes from yesterday, did you see them?",
+      "url": "https://x.com/thsottiaux/status/2117035794678546764",
+      "publishedAt": "2026-11-01T23:27:20.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-6de24a7325cc",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I wish I could just use one AI tool but right now there are clear winners in each category below: Browser/computer use = ChatGPT + Codex Design/video editing/\"taste\" = Claude 24/7...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I wish I could just use one AI tool but right now there are clear winners in each category below: Browser/computer use = ChatGPT + Codex Design/video editing/\"taste\" = Claude 24/7 agents and scheduled jobs = Grok Bot Also, Gemini is underrated for writing but need to test it more. Upcoming episodes of Behind the Craft: 1. Ashley Alexander Ashley is VP of Product at @OpenAI.",
+      "url": "https://x.com/petergyang/status/2116946320674152810",
+      "publishedAt": "2026-11-01T17:31:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-fdb49b7ff793",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models",
+      "takeaway": "adding a new character: a taekwondo master that fights with fire I also updated the art style from 3d models to use generated sprites also had a little highlight intro video I...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. adding a new character: a taekwondo master that fights with fire I also updated the art style from 3d models to use generated sprites also had a little highlight intro video I like how its all coming together! hoping to have a vertical slice sometime next week",
+      "url": "https://x.com/trq212/status/2116976789046350040",
+      "publishedAt": "2026-11-01T19:32:52.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-5c4087aaffaf",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents",
+      "takeaway": "If you’re enjoying a subsidized AI subscription get ready to get rug pulled. You can enable this on Replit with one toggle.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. If you’re enjoying a subsidized AI subscription get ready to get rug pulled. You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build.",
+      "url": "https://x.com/amasad/status/2117010858845089805",
+      "publishedAt": "2026-11-01T21:48:15.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-2f7af069e0a0",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "Own your intelligence. Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.) Local models need to continue proliferating.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Own your intelligence. Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.) Local models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own your harness, data, connections, runtime: your agents. Embrace open source.",
+      "url": "https://x.com/rauchg/status/2117000819623243925",
+      "publishedAt": "2026-11-01T21:08:22.000Z",
+      "tags": [
+        "agents",
+        "models"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-6f527f72cd34",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work. This turns everyone in one of these positions to that of a manager of a team of agents, instead of an individual contributor with just some added leverage from AI.",
+      "url": "https://x.com/levie/status/2117134917847093491",
+      "publishedAt": "2026-11-02T06:01:13.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-4f393468f74c",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and models",
+      "takeaway": "YC is the YC for hard tech Practical robotics is nigh Particle-1 is as good as much larger models for agentic retrieval but 1/23 the price",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. YC is the YC for hard tech Practical robotics is nigh Particle-1 is as good as much larger models for agentic retrieval but 1/23 the price",
+      "url": "https://x.com/garrytan/status/2116909591607099793",
+      "publishedAt": "2026-11-01T15:05:51.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-179c153ac2ad",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "What if your Linktree were an actual tree",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. What if your Linktree were an actual tree",
+      "url": "https://x.com/zarazhangrui/status/2117086544586780867",
+      "publishedAt": "2026-11-02T02:49:00.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-x-540d6e7485fa",
+      "date": "2026-11-01",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "argon cooks this is anti competitive and not cool",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. argon cooks this is anti competitive and not cool",
+      "url": "https://x.com/danshipper/status/2117014507083948453",
+      "publishedAt": "2026-11-01T22:02:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
+    {
+      "id": "2026-11-01-podcast-52b21e3f4c65",
+      "date": "2026-11-01",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market & Origins of the Sandbox Bet",
+      "takeaway": "Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market & Origins of the Sandbox Bet. We have customers like Ramp using this for background agents for the internal coding agent that they actually...",
+      "summary": "We have customers like Ramp using this for background agents for the internal coding agent that they actually launched as a as a standalone product today that they're selling. Like, you can just call models off the shelf without having to deploy them fully token based pricing. My my view is, like, it will be more cloud centric, and it will be probably more, you know, like like, durable objects, like, kind of workflow engine type driven.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-10-28T13:03:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "createdAt": "2026-11-02T22:16:27.777Z"
+    },
     {
       "id": "2026-10-31-x-c53ad0b13f16",
       "date": "2026-10-31",
