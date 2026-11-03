@@ -1,7 +1,277 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T01:31:15.169Z",
+  "generatedAt": "2026-11-03T20:03:07.977Z",
   "snippets": [
+    {
+      "id": "2026-11-02-x-1ef541cf5882",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding",
+      "takeaway": "lmaoooo with weight-space programming, we are now at paragraph 2 of exhalation i think the @CompleteSkeptic and @typesafeai followup is going to melt on twitter looking frward to...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. lmaoooo with weight-space programming, we are now at paragraph 2 of exhalation i think the @CompleteSkeptic and @typesafeai followup is going to melt on twitter looking frward to attend.",
+      "url": "https://x.com/swyx/status/2117341332645826945",
+      "publishedAt": "2026-11-02T19:41:26.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-dabe6f6f40c2",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "HBD SRK!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. HBD SRK!",
+      "url": "https://x.com/joshwoodward/status/2117262979955912732",
+      "publishedAt": "2026-11-02T14:30:05.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-5fa4978af52e",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "Le GPT Fat We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team Your dot will choose the best model for the task, drawing...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Le GPT Fat We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+      "url": "https://x.com/thsottiaux/status/2117489367417803042",
+      "publishedAt": "2026-11-03T05:29:40.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-43843a61b256",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "The best model for writing & editing is held back by its harness. I just had both ChatGPT and @GeminiApp suggest copy edits for a post that I'm working on.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. The best model for writing & editing is held back by its harness. I just had both ChatGPT and @GeminiApp suggest copy edits for a post that I'm working on. ChatGPT's suggestions were almost entirely bad but Gemini's suggestions were actually great. Unfortunately, Antigravity doesn't seem to have working browser use so I basically have to paste all of Gemini's edits back into ChatGPT to make the edits in my browser.",
+      "url": "https://x.com/petergyang/status/2117333424403042330",
+      "publishedAt": "2026-11-02T19:10:01.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-b500c377fcda",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Except for rare circumstances, group chat is a terrible multiplayer AI experience. Literally guaranteed slop Took a united flight without starlink ask me how it was (it sucked)",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Except for rare circumstances, group chat is a terrible multiplayer AI experience. Literally guaranteed slop Took a united flight without starlink ask me how it was (it sucked)",
+      "url": "https://x.com/thenanyu/status/2117432599559716940",
+      "publishedAt": "2026-11-03T01:44:06.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-71166ad4d9cb",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on costs",
+      "takeaway": "one week in my takeaway is that you don't need unlimited tokens to do great work, the $200 plans are amazing and this is the most expensive intelligence will ever be",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. one week in my takeaway is that you don't need unlimited tokens to do great work, the $200 plans are amazing and this is the most expensive intelligence will ever be",
+      "url": "https://x.com/trq212/status/2117305792923889731",
+      "publishedAt": "2026-11-02T17:20:13.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-d6d206947e9b",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents",
+      "takeaway": "This is widespread in finance. The ban hammer is coming down. AI agents should operate in dedicated, organization-controlled environments with limited access to the resources each...",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. This is widespread in finance. The ban hammer is coming down. AI agents should operate in dedicated, organization-controlled environments with limited access to the resources each task requires.",
+      "url": "https://x.com/amasad/status/2117481616943820843",
+      "publishedAt": "2026-11-03T04:58:53.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-7398abe8a232",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "So bullish on WebMCP Stateless sandboxes are the wrong benchmark. Agents are only useful if they have their workspace with them (identity, skills, repos, memories…) Vercel Sandbox...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. So bullish on WebMCP Stateless sandboxes are the wrong benchmark. Agents are only useful if they have their workspace with them (identity, skills, repos, memories…) Vercel Sandbox team has been beautifully delivering on their latency & throughput SLOs, while prioritizing reliability and security.",
+      "url": "https://x.com/rauchg/status/2117419661654720671",
+      "publishedAt": "2026-11-03T00:52:41.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-44e72c324e58",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models and tools",
+      "takeaway": "Repeal CEQA, the primary NIMBY tool to prevent building anything Hospitals, high speed rail, housing, all blocked by an army of lawyers employed by NIMBYs Interesting new use of...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Repeal CEQA, the primary NIMBY tool to prevent building anything Hospitals, high speed rail, housing, all blocked by an army of lawyers employed by NIMBYs Interesting new use of smaller models: direct manipulation of weights Capy Captains increased my issue fixing throughput by about 5X overnight Being able to coordinate across captains and subthreads is an insane unlock",
+      "url": "https://x.com/garrytan/status/2117274654981452000",
+      "publishedAt": "2026-11-02T15:16:29.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-751929b34492",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on costs",
+      "takeaway": "If anyone is guessing, the pipeline of a startup (or ceo) vague posting revenue numbers to their fundraise kickoff that they-were-totally-not-going-to-do till early next year, is...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. If anyone is guessing, the pipeline of a startup (or ceo) vague posting revenue numbers to their fundraise kickoff that they-were-totally-not-going-to-do till early next year, is ~11 days 😅 (n=17, grok bot tokens were harmed for this analysis) A bit last minute, but really excited about this new event series that I'm hosting called Slice for Thought 🍕💭 First guest up is @PeterJ_Walker, head of insights at...",
+      "url": "https://x.com/nikunj/status/2117362283223687621",
+      "publishedAt": "2026-11-02T21:04:41.000Z",
+      "tags": [
+        "costs"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-67ab04e788d3",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on product",
+      "takeaway": "Lfg partly argon is so good partly antigravity is stuck in 2025 so it doesnt have all of the crazy features and complexity if you're wondering why, read the @every vibe check of...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. Lfg partly argon is so good partly antigravity is stuck in 2025 so it doesnt have all of the crazy features and complexity if you're wondering why, read the @every vibe check of argon:",
+      "url": "https://x.com/danshipper/status/2117386273984012535",
+      "publishedAt": "2026-11-02T22:40:01.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-x-c676d4516b91",
+      "date": "2026-11-02",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "It's always exciting to welcome @spc alumni back. @tankots is a four-time founder and an IOI medalist. He's now the co-founder and CEO of @WisprFlow.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. It's always exciting to welcome @spc alumni back. @tankots is a four-time founder and an IOI medalist. He's now the co-founder and CEO of @WisprFlow. They recently raised a $280M Series B at a $2B valuation. He's joining us Nov 12th. Spots limited, request here:",
+      "url": "https://x.com/adityaag/status/2117313674981355761",
+      "publishedAt": "2026-11-02T17:51:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
+    {
+      "id": "2026-11-02-podcast-1caac1653ecb",
+      "date": "2026-11-02",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "But it's something that I'm toying with is, like, how much of our product can just be the agent versus all the other stuff? We have really good numbers for an enterprise, uh, software of, like, our DAU over MAU and our, like, uh, you know, hours spent per month in the product are extremely high. Um- Long, like million token, token context you're saying?",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-02T20:50:24.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-11-03T20:03:07.977Z"
+    },
     {
       "id": "2026-11-01-x-73dcf335b8f9",
       "date": "2026-11-01",
