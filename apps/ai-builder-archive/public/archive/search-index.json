@@ -1,7 +1,411 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T23:56:43.491Z",
+  "generatedAt": "2026-11-04T20:23:22.119Z",
   "snippets": [
+    {
+      "id": "2026-11-03-x-d8202fbf4401",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco, @trq212, @jarredsumner, @sqs,...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) and a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next!",
+      "url": "https://x.com/swyx/status/2117679157035602065",
+      "publishedAt": "2026-11-03T18:03:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-134a2254183f",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on enterprise and models",
+      "takeaway": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now. Team and Enterprise admins can set them up, and teammates are connected automatically the first time they use the plugins.",
+      "url": "https://x.com/bcherny/status/2117693181651542387",
+      "publishedAt": "2026-11-03T18:59:33.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-b10b16a6ce4f",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on agents",
+      "takeaway": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+      "url": "https://x.com/thsottiaux/status/2117746467058405665",
+      "publishedAt": "2026-11-03T22:31:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-18b13163f368",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and enterprise",
+      "takeaway": "Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh j/k what a generational run from cat Remember when leaving a company before 2-3 years...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh j/k what a generational run from cat Remember when leaving a company before 2-3 years made you look like a job hopper? It feels increasingly normal to see very talented people leave AI-native companies after 1-2 years or less. People leave for all kinds of reasons.",
+      "url": "https://x.com/petergyang/status/2117738099627450657",
+      "publishedAt": "2026-11-03T21:58:03.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-4f6ef27415f3",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "Super-retweet Wow Mom, yoy.",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. Super-retweet Wow Mom, yoy.",
+      "url": "https://x.com/thenanyu/status/2117772378402922650",
+      "publishedAt": "2026-11-04T00:14:15.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-77acfe66a339",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on coding and models",
+      "takeaway": "Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env.",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team. When we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests.",
+      "url": "https://x.com/_catwu/status/2117731934340337676",
+      "publishedAt": "2026-11-03T21:33:33.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Cat Wu",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-9370603daaf3",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and costs",
+      "takeaway": "this is basically the bitter lesson at work the smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. this is basically the bitter lesson at work the smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right",
+      "url": "https://x.com/trq212/status/2117670540148347273",
+      "publishedAt": "2026-11-03T17:29:35.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-7e035de9503e",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "We've been dreaming about this for a long time... So excited to hear what our new Indian users think! Where should we roll out Dreambeans next? 😴🫘",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. We've been dreaming about this for a long time... So excited to hear what our new Indian users think! Where should we roll out Dreambeans next? 😴🫘",
+      "url": "https://x.com/GoogleLabs/status/2117689420744991161",
+      "publishedAt": "2026-11-03T18:44:37.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-39e00c5cd6bb",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding.",
+      "url": "https://x.com/amasad/status/2117761721750475146",
+      "publishedAt": "2026-11-03T23:31:55.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-52073e6943c3",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛).",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically. You can now get the same power. Just enable it on all your repos (this product works whether you host on Vercel or not) and your peace of mind will increase tremendously.",
+      "url": "https://x.com/rauchg/status/2117734833824948373",
+      "publishedAt": "2026-11-03T21:45:04.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-a3da02cf4c4e",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. A few years ago the best productivity gains you could get, even in the most capability-aligned field (like coding), was maybe 30-50% better productivity if you were very good at it.",
+      "url": "https://x.com/levie/status/2117505799937577263",
+      "publishedAt": "2026-11-03T06:34:58.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-bcb21332714f",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "RIP Popular Mechanics Case study in how blue states self-immolate There's national and there's local.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. RIP Popular Mechanics Case study in how blue states self-immolate There's national and there's local. How about we pay attention to local issues and fight for good policies that improve the livelihoods of people *locally*? Left vs lefter is not helping us. We need common sense. Listen here",
+      "url": "https://x.com/garrytan/status/2117721182049046735",
+      "publishedAt": "2026-11-03T20:50:49.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-9fb9d9211b3d",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and models",
+      "takeaway": "Hang it in the Louvre Major moment for @SurrealDB Building a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Hang it in the Louvre Major moment for @SurrealDB Building a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard work to build a truly world class product SurrealDB 4 is now that product.",
+      "url": "https://x.com/mattturck/status/2117675063637905497",
+      "publishedAt": "2026-11-03T17:47:34.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-71a0256de125",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "A presentation can feel like embroidery 🪡",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. A presentation can feel like embroidery 🪡",
+      "url": "https://x.com/zarazhangrui/status/2117776720606716157",
+      "publishedAt": "2026-11-04T00:31:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-89adf36999fe",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and coding",
+      "takeaway": "My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground.. For insights, I have a regular cron job that runs this now every two weeks. It tells me all the best ways to upgrade my setup. I pair it with X bookmarks that show all the new ways to build a software factory.",
+      "url": "https://x.com/nikunj/status/2117773647868018897",
+      "publishedAt": "2026-11-04T00:19:18.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-be14e497299b",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "very neat!",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. very neat!",
+      "url": "https://x.com/steipete/status/2117755295552221683",
+      "publishedAt": "2026-11-03T23:06:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-040be688d989",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "go get it",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. go get it",
+      "url": "https://x.com/danshipper/status/2117656806444945911",
+      "publishedAt": "2026-11-03T16:35:01.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-x-2ebc15b1af2a",
+      "date": "2026-11-03",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "People should always be in control of the future. OpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems...",
+      "summary": "Sam Altman (sama on X) shared 1 recent update. People should always be in control of the future. OpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”. People should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
+      "url": "https://x.com/sama/status/2117794005165748448",
+      "publishedAt": "2026-11-04T01:40:12.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
+    {
+      "id": "2026-11-03-podcast-52b21e3f4c65",
+      "date": "2026-11-03",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "Then you have other customers that are much less latency sensitive, maybe background agents or something. At the same time, we now see and like start onboarding enterprise customers. Latency is time to first token.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-11-02T13:54:35.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Codex",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "createdAt": "2026-11-04T20:23:22.119Z"
+    },
     {
       "id": "2026-11-02-x-1ef541cf5882",
       "date": "2026-11-02",
