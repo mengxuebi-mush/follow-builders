@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T21:26:42.622Z",
+  "generatedAt": "2026-11-05T22:39:04.258Z",
   "snippets": [
     {
       "id": "2026-11-04-x-a97ad6ac36f6",
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-7ff0f635bf7d",
@@ -41,7 +41,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-6c40ee2f4456",
@@ -61,7 +61,7 @@
         "Peter Yang",
         "OpenAI"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-28ea4bbc5cd4",
@@ -82,7 +82,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-6d367813eff2",
@@ -105,7 +105,7 @@
         "Cat Wu",
         "OpenAI"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-947c97b29047",
@@ -126,7 +126,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-7d8f2123d866",
@@ -147,7 +147,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-681ea40f17d6",
@@ -170,7 +170,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-d04347d125e5",
@@ -191,7 +191,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-908ade09ddd6",
@@ -210,7 +210,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-9996f2b625d9",
@@ -230,7 +230,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-bcf9c29bd88f",
@@ -251,7 +251,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-c24d8a0fde53",
@@ -270,7 +270,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-dafb8ba51125",
@@ -290,7 +290,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-x-64f31650738d",
@@ -311,7 +311,7 @@
         "OpenAI",
         "Codex"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-04-podcast-357c04af2d05",
@@ -340,7 +340,7 @@
         "Microsoft",
         "Box"
       ],
-      "createdAt": "2026-11-05T21:26:42.622Z"
+      "createdAt": "2026-11-05T22:39:04.258Z"
     },
     {
       "id": "2026-11-03-x-d8202fbf4401",
