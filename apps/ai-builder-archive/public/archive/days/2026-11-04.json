@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T20:36:53.170Z",
+  "feedGeneratedAt": "2026-11-05T06:28:43.321Z",
+  "snippets": [
+    {
+      "id": "2026-11-04-x-a97ad6ac36f6",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and models",
+      "takeaway": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models announced on aie channel. so hyped",
+      "url": "https://x.com/swyx/status/2118152585911869634",
+      "publishedAt": "2026-11-05T01:25:04.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-7ff0f635bf7d",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. CatGPT Reach out to @clintgibler if you want to work on securing the world.",
+      "url": "https://x.com/thsottiaux/status/2118146794362405231",
+      "publishedAt": "2026-11-05T01:02:03.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-6c40ee2f4456",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on enterprise",
+      "takeaway": "I don't use AI to call local businesses but I literally have no sympathy for using it to call Xfinity's shitty customer support.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I don't use AI to call local businesses but I literally have no sympathy for using it to call Xfinity's shitty customer support. Their phone system won't let you talk to a human when your address has an active outage...what?! Was super fun hosting this event with my friends from @OpenAI and @Amplitude_HQ Read the written post for all 5 steps:",
+      "url": "https://x.com/petergyang/status/2118033608007139638",
+      "publishedAt": "2026-11-04T17:32:17.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-28ea4bbc5cd4",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on models",
+      "takeaway": "CatGPT",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. CatGPT",
+      "url": "https://x.com/thenanyu/status/2118148902125998468",
+      "publishedAt": "2026-11-05T01:10:26.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-6d367813eff2",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Cat Wu",
+      "title": "Cat Wu on agents and product",
+      "takeaway": "Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a...",
+      "summary": "Cat Wu (_catwu on X) shared 1 recent update. Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission. I’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI.",
+      "url": "https://x.com/_catwu/status/2118137612577968402",
+      "publishedAt": "2026-11-05T00:25:34.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Cat Wu",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-947c97b29047",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on tools",
+      "takeaway": "manifesting ⠀⠀⠀⠀ 🕯️🕯️🕯️🕯️🕯️ ⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️ 🕯️⠀⠀Apple lets apps⠀ 🕯️ 🕯️⠀⠀⠀build Shortcuts 🕯️ 🕯️⠀⠀⠀⠀.",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. manifesting ⠀⠀⠀⠀ 🕯️🕯️🕯️🕯️🕯️ ⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️ 🕯️⠀⠀Apple lets apps⠀ 🕯️ 🕯️⠀⠀⠀build Shortcuts 🕯️ 🕯️⠀⠀⠀⠀. for you⠀⠀ ⠀ 🕯️ ⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️ ⠀⠀⠀⠀ 🕯️🕯️🕯️🕯️🕯️ sorry I mean inshallah",
+      "url": "https://x.com/trq212/status/2118124218839859700",
+      "publishedAt": "2026-11-04T23:32:21.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-7d8f2123d866",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise and product",
+      "takeaway": "Wow can’t believe Michigan is under Shawerma law now Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial...",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Wow can’t believe Michigan is under Shawerma law now Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions! Replit is powering SMFL’s core software products and has massively accelerated their development process: For example they recently in just one week, with one person, completed a project that previously required six people working for...",
+      "url": "https://x.com/amasad/status/2117904733658845218",
+      "publishedAt": "2026-11-04T09:00:11.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-681ea40f17d6",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "We will all be learning in coming weeks & months, that most human-made software: ▫️ Was really slow ▫️ Had many security vulnerabilities ▫️ Was under-specified and incorrect AI...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. We will all be learning in coming weeks & months, that most human-made software: ▫️ Was really slow ▫️ Had many security vulnerabilities ▫️ Was under-specified and incorrect AI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think about failure modes we couldn't wrap our heads around. It will prove, formally verify, load test, harden.",
+      "url": "https://x.com/rauchg/status/2118166970273292299",
+      "publishedAt": "2026-11-05T02:22:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-d04347d125e5",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on tools",
+      "takeaway": "gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want?",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want? i want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think, care, and make together. will share more soon!",
+      "url": "https://x.com/ryolu_/status/2118207967728451760",
+      "publishedAt": "2026-11-05T05:05:08.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-908ade09ddd6",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "We did it guys Connie Chan is a private citizen We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. We did it guys Connie Chan is a private citizen We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. Builders of tech in California had a good day yesterday: we want abundance and asset seizure is the one guaranteed way to kill the golden goose. Huge thanks to Sergey Brin here. GStack’s /review skill is actually useful for preventing bugs still",
+      "url": "https://x.com/garrytan/status/2118154891176857608",
+      "publishedAt": "2026-11-05T01:34:14.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-9996f2b625d9",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and enterprise",
+      "takeaway": "2028: * Ossoff wins dem primary over Talarico (whose profile considerably increases throughout 2027) and AOC * Rubio beats JD Vance (too tied to Trump) in the GOP primary * Ossoff...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. 2028: * Ossoff wins dem primary over Talarico (whose profile considerably increases throughout 2027) and AOC * Rubio beats JD Vance (too tied to Trump) in the GOP primary * Ossoff wins the presidency (I'm a foreign-born VC, you can totally trust my U.S.",
+      "url": "https://x.com/mattturck/status/2118142497188610501",
+      "publishedAt": "2026-11-05T00:44:59.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-bcf9c29bd88f",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and product",
+      "takeaway": "One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers. Is it because only developers and designers need personal websites, or because only they know how to make one? What's the best group chat tool for engaging with a user community?",
+      "url": "https://x.com/zarazhangrui/status/2117869262505427072",
+      "publishedAt": "2026-11-04T06:39:14.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-c24d8a0fde53",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "This was really fun - thanks @PeterJ_Walker and guests for coming so spontaneously. Aim to do this every week so if you know someone who wants to be interviewed, please DM me.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. This was really fun - thanks @PeterJ_Walker and guests for coming so spontaneously. Aim to do this every week so if you know someone who wants to be interviewed, please DM me. Looking for speakers who a) can speak about an area casually but in depth for 45 mins and b) who are not a household name now but will most likely be one in 12 months. Photo post event taken by @tedkornish",
+      "url": "https://x.com/nikunj/status/2118143456799494541",
+      "publishedAt": "2026-11-05T00:48:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-dafb8ba51125",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and coding",
+      "takeaway": "Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase. The humans merely curate the automations.",
+      "url": "https://x.com/steipete/status/2118116514700386439",
+      "publishedAt": "2026-11-04T23:01:44.000Z",
+      "tags": [
+        "agents",
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-x-64f31650738d",
+      "date": "2026-11-04",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding",
+      "takeaway": "omfg all of these new @openai hires obvoiusly because they read my codex piece",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. omfg all of these new @openai hires obvoiusly because they read my codex piece",
+      "url": "https://x.com/danshipper/status/2118138941765280149",
+      "publishedAt": "2026-11-05T00:30:51.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Codex"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    },
+    {
+      "id": "2026-11-04-podcast-357c04af2d05",
+      "date": "2026-11-04",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "The Inside Story of the 50 Who Built Modern AI With Kevin Roose",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "I have agents now that are, like, correcting my other agents. I'm using Town, which is a sort of enterprise agent that Casey got me hooked on. By the same token, I don't think it makes a lot of sense to swear off forklifts because for some tasks, you're trying to move a thing from point a to point b and it's really heavy.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-11-04T17:02:33.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Microsoft",
+        "Box"
+      ],
+      "createdAt": "2026-11-05T20:36:53.170Z"
+    }
+  ]
+}
