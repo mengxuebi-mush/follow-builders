@@ -1,7 +1,300 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T00:06:32.971Z",
+  "generatedAt": "2026-11-06T19:55:27.124Z",
   "snippets": [
+    {
+      "id": "2026-11-05-x-7a946dc1f504",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "ok guys pitchforks down pls we chatted and i learned a lot about why i had been missing context and communication - not a sequoia wide thing, just a small gap i got caught in.",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. ok guys pitchforks down pls we chatted and i learned a lot about why i had been missing context and communication - not a sequoia wide thing, just a small gap i got caught in. also the quoted tweet has impt inaccuracies/incomplete info i can’t share but basically treat it as unrelated to the broader sequoia restructuring that was announced this week for those who want a GREAT scout experience i cannot recommend...",
+      "url": "https://x.com/swyx/status/2118538896434999759",
+      "publishedAt": "2026-11-06T03:00:08.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-078ef5786c7b",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and product",
+      "takeaway": "I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that. Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems. Generating*",
+      "url": "https://x.com/thsottiaux/status/2118569235953893573",
+      "publishedAt": "2026-11-06T05:00:41.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-8dad1de4a0c9",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on tools",
+      "takeaway": "Can folks from @suno and @Tesla add the app to the cars by default. This shit is better than any radio.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Can folks from @suno and @Tesla add the app to the cars by default. This shit is better than any radio. Like it'll be amazing to just drive and voice dictate to create songs to listen to. Will tell wife I'm just buying a new internet router Yo it’s just cardboard",
+      "url": "https://x.com/petergyang/status/2118537836098203781",
+      "publishedAt": "2026-11-06T02:55:55.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-aea37527cf75",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "good hang with @signulll today! gonna start making time to meet with more of my twitter friends through the end of the year. hit me up if you’re in the bay area!",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. good hang with @signulll today! gonna start making time to meet with more of my twitter friends through the end of the year. hit me up if you’re in the bay area!",
+      "url": "https://x.com/realmadhuguru/status/2118562286256414897",
+      "publishedAt": "2026-11-06T04:33:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-72107c521ac9",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents",
+      "takeaway": "one of my favorite prompts for agents like Instinct is location based reminders e.g. \"Keep track of when I've done my laundry.",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. one of my favorite prompts for agents like Instinct is location based reminders e.g. \"Keep track of when I've done my laundry. If it's been more than 5 days, remind me 30 minutes after I get home on a week day and bug me until I confirm or delay\"",
+      "url": "https://x.com/trq212/status/2118399561324699655",
+      "publishedAt": "2026-11-05T17:46:28.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-ea7c6acaba7a",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on product",
+      "takeaway": "There are so many Linux zero-day vulnerabilities these days, but on Replit we’re able to avoid 96% of them with our custom Kernel build. Read about our new sandbox design.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. There are so many Linux zero-day vulnerabilities these days, but on Replit we’re able to avoid 96% of them with our custom Kernel build. Read about our new sandbox design. Replit is the only collaborative AI coding system out there.",
+      "url": "https://x.com/amasad/status/2118503241390665776",
+      "publishedAt": "2026-11-06T00:38:27.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-a1eeb86eb007",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "SpaceXSI 🤝 Vercel Grok and Cursor can now build, deploy, and scale ① Get an X sub ② Build with Bot / Cursor ③ Deploy to Vercel, scales from 0 to 🌙 ④ Launch and distribute on X ⑤...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. SpaceXSI 🤝 Vercel Grok and Cursor can now build, deploy, and scale ① Get an X sub ② Build with Bot / Cursor ③ Deploy to Vercel, scales from 0 to 🌙 ④ Launch and distribute on X ⑤ Monetize with X Money / Creators The loop is nearly complete ♾️ “Doing stuff for you over time” is the killer app of agents.",
+      "url": "https://x.com/rauchg/status/2118464177211940997",
+      "publishedAt": "2026-11-05T22:03:13.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Cursor",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-0d18ca42fc21",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "We’re going to have 100X more agents in the enterprise working with our data and systems than even people do today.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. We’re going to have 100X more agents in the enterprise working with our data and systems than even people do today. Every AI agent deployment comes down to how successfully they can get access to the critical context to make a decision, do research, or execute tasks.",
+      "url": "https://x.com/levie/status/2118498574497665316",
+      "publishedAt": "2026-11-06T00:19:54.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Box"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-ee82617ff74a",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on costs and product",
+      "takeaway": "This is the first long horizon benchmark for PE/IB work Solving high finance is on the path to AGI This week's results make me optimistic.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. This is the first long horizon benchmark for PE/IB work Solving high finance is on the path to AGI This week's results make me optimistic. We have an unprecedented bipartisan opportunity to take on Big Tech’s abuse of market power and open up markets for the next generation of founders. Inventing powerful AI is only half the job.",
+      "url": "https://x.com/garrytan/status/2118527182092071179",
+      "publishedAt": "2026-11-06T02:13:35.000Z",
+      "tags": [
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-303855e40ab5",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on product and tools",
+      "takeaway": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work.",
+      "summary": "Peter Steinberger (steipete on X) shared 2 recent updates. Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. Just a normal Thursday.",
+      "url": "https://x.com/steipete/status/2118492097917628704",
+      "publishedAt": "2026-11-05T23:54:10.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-b4b1b2d4bcbc",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "Thesis: 2027 - LIVE from Brooklyn!",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. Thesis: 2027 - LIVE from Brooklyn!",
+      "url": "https://x.com/danshipper/status/2118421854666838338",
+      "publishedAt": "2026-11-05T19:15:03.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-1dd16273acba",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise",
+      "takeaway": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company. Also on YouTube Full conversation with @traestephens at @spc",
+      "url": "https://x.com/adityaag/status/2118477020325884357",
+      "publishedAt": "2026-11-05T22:54:15.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-x-b20a1ccf41da",
+      "date": "2026-11-05",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and product",
+      "takeaway": "Introducing Personal Finance in Claude, in beta in the US. Connect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances...",
+      "summary": "Claude (claudeai on X) shared 2 recent updates. Introducing Personal Finance in Claude, in beta in the US. Connect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money. Like the rest of Claude, Personal Finance has no ads or sponsored recommendations.",
+      "url": "https://x.com/claudeai/status/2118403114890137895",
+      "publishedAt": "2026-11-05T18:00:35.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
+    {
+      "id": "2026-11-05-podcast-52b21e3f4c65",
+      "date": "2026-11-05",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue & Why the Labs Missed It",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "This is we are obviously use agents a lot, but we really value understanding its limitations. Like, the the problem you're just talking about now, like, you could imagine, you know, approaching from the the perspective of a model company or, like, there's all these, you know, enterprise agent security companies that are popping up, right, that aren't model builders themselves, but they're like, yeah.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-11-05T14:05:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-06T19:55:27.124Z"
+    },
     {
       "id": "2026-11-04-x-a97ad6ac36f6",
       "date": "2026-11-04",
