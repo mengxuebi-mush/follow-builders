@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-07",
-  "generatedAt": "2026-11-08T18:18:25.268Z",
+  "generatedAt": "2026-11-08T19:33:01.235Z",
   "feedGeneratedAt": "2026-11-08T06:25:57.526Z",
   "snippets": [
     {
@@ -23,7 +23,7 @@
         "Andrej Karpathy",
         "Claude"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-358552dd832a",
@@ -42,7 +42,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-ab320eccf344",
@@ -62,7 +62,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-3692886dd8f2",
@@ -81,7 +81,7 @@
       "entities": [
         "Amjad Masad"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-bf3b60f7a65c",
@@ -104,7 +104,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-a1ebd87d462c",
@@ -124,7 +124,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-964c74eeb212",
@@ -143,7 +143,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-3ac90e4a9269",
@@ -165,7 +165,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-2a7b42cb6761",
@@ -184,7 +184,7 @@
       "entities": [
         "Peter Steinberger"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-x-b5568f0d9330",
@@ -203,7 +203,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     },
     {
       "id": "2026-11-07-podcast-0aa4355de8d8",
@@ -232,7 +232,7 @@
         "Google",
         "Microsoft"
       ],
-      "createdAt": "2026-11-08T18:18:25.268Z"
+      "createdAt": "2026-11-08T19:33:01.235Z"
     }
   ]
 }
