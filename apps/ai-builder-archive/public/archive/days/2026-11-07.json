@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T18:18:25.268Z",
+  "feedGeneratedAt": "2026-11-08T06:25:57.526Z",
+  "snippets": [
+    {
+      "id": "2026-11-07-x-97d15b18be2c",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on coding and models",
+      "takeaway": "Earlier this week Tristan published his top YouTube channels: Which looked excellent so clearly I had to turn it into TristanTube: 47K super nerdy videos +TV mode for laid back...",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. Earlier this week Tristan published his top YouTube channels: Which looked excellent so clearly I had to turn it into TristanTube: 47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)",
+      "url": "https://x.com/karpathy/status/2119114537442189652",
+      "publishedAt": "2026-11-07T17:07:31.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Andrej Karpathy",
+        "Claude"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-358552dd832a",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "just arrived… best swag game in the business. u guys are in for a treat next week sticker game inspired by @dexhorthy @CompleteSkeptic et al",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. just arrived… best swag game in the business. u guys are in for a treat next week sticker game inspired by @dexhorthy @CompleteSkeptic et al",
+      "url": "https://x.com/swyx/status/2119210582654210255",
+      "publishedAt": "2026-11-07T23:29:10.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-ab320eccf344",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast Cyber Would a Pro 50 make sense? Wdyt?",
+      "url": "https://x.com/thsottiaux/status/2119296267545419987",
+      "publishedAt": "2026-11-08T05:09:39.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-3692886dd8f2",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Really enjoyed Kazakhstan — super AI pilled government. And a great place for the Network School. The Better Lesson:",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Really enjoyed Kazakhstan — super AI pilled government. And a great place for the Network School. The Better Lesson:",
+      "url": "https://x.com/amasad/status/2119126064815608270",
+      "publishedAt": "2026-11-07T17:53:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-bf3b60f7a65c",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI. With the right harness, a deep understanding of your domain of what you want to build, likely a relatively new codebase (with some exceptions), a fluency of how to work with multiple agents at once, and a setup that...",
+      "url": "https://x.com/levie/status/2119111328099168409",
+      "publishedAt": "2026-11-07T16:54:46.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-a1ebd87d462c",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding",
+      "takeaway": "We could have abundance This is going to be the defining political issue of the next decade: can we have human progress in science, medicine and engineering through...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. We could have abundance This is going to be the defining political issue of the next decade: can we have human progress in science, medicine and engineering through superintelligence? Or will we choose the darkness? WIRED is a shell of its former self Man don’t show this essay to the NIMBYs",
+      "url": "https://x.com/garrytan/status/2119146939514278238",
+      "publishedAt": "2026-11-07T19:16:16.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-964c74eeb212",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on tools",
+      "takeaway": "So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is too niche... But startups' fates are MADE, not predetermined.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is too niche... But startups' fates are MADE, not predetermined. Given one idea, there are 1000 ways to execute it, 100 people will have 100 different approaches. Brilliant people with brilliant execution often create something when there was nothing, or make the impossible seem obvious in hindsight.",
+      "url": "https://x.com/zarazhangrui/status/2118968862557475298",
+      "publishedAt": "2026-11-07T07:28:40.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-3ac90e4a9269",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and enterprise",
+      "takeaway": "ok here’s how we get investors to fomo our series A and get seven term sheets.. first, we have to vague post revenue. or customers. this is absolutely critical.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. ok here’s how we get investors to fomo our series A and get seven term sheets.. first, we have to vague post revenue. or customers. this is absolutely critical. no y axis, just keep showing numbers and to the right. graphs work and of course get your investors to quote tweet it and take credit. they love doing that anyway.",
+      "url": "https://x.com/nikunj/status/2119162212044742938",
+      "publishedAt": "2026-11-07T20:16:58.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-2a7b42cb6761",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "The Asahi project was all about taking something closed and restricted and opening it up. Adding new restrictions that make it harder for other projects to build on that is not...",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. The Asahi project was all about taking something closed and restricted and opening it up. Adding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly.",
+      "url": "https://x.com/steipete/status/2119264334627090514",
+      "publishedAt": "2026-11-08T03:02:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-x-b5568f0d9330",
+      "date": "2026-11-07",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models",
+      "takeaway": "If building datacenters becomes harder, it is obvious that you should be super long anyone who has existing capacity (aka hyperscalers).",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. If building datacenters becomes harder, it is obvious that you should be super long anyone who has existing capacity (aka hyperscalers). It's not like the demand for the spice is going way -- it is only continuing to go up. Thus the spice holders will win big. What will suffer is the rate of new model training. I guess we will pace the frontier after all. The body politic speaketh.",
+      "url": "https://x.com/adityaag/status/2119157297167372646",
+      "publishedAt": "2026-11-07T19:57:26.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    },
+    {
+      "id": "2026-11-07-podcast-0aa4355de8d8",
+      "date": "2026-11-07",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "takeaway": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev. Do you think people will let agents trade for them?",
+      "summary": "Do you think people will let agents trade for them? We talk about what Robinhood is today as a financial conglomerate trying to expand ownership in the economy from tokenization to prediction markets to how AI agents will trade for everyone in retail. And so everything from the exchanges to a lot of the brokers have sort of conformed to this new reality of most of the workflows being algorithmic trading that happens in data centers in New Jersey, rather than what a lot of people still think happens, which is have...",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-08T18:18:25.268Z"
+    }
+  ]
+}
