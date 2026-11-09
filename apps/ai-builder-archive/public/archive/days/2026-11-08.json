@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T22:57:23.969Z",
+  "feedGeneratedAt": "2026-11-09T06:36:37.960Z",
+  "snippets": [
+    {
+      "id": "2026-11-08-x-a0534a6523fd",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "are you listening anon? and a special pod! if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this)",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. are you listening anon? and a special pod! if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this)",
+      "url": "https://x.com/swyx/status/2119611058881192187",
+      "publishedAt": "2026-11-09T02:00:31.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-da7bf17d0ca2",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on costs and product",
+      "takeaway": "Anecdotally, I think cheating is far more common in Asia. Plenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Anecdotally, I think cheating is far more common in Asia. Plenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another girlfriend or even family in a 二奶村. Most of the time their wife knows about this too.",
+      "url": "https://x.com/petergyang/status/2119556651636441416",
+      "publishedAt": "2026-11-08T22:24:19.000Z",
+      "tags": [
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-211cdde441b4",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on product and research",
+      "takeaway": "This is basically true in all aspects of software. Choose the dumbest architecture that’ll work. choose the dumbest design that gets the job done.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. This is basically true in all aspects of software. Choose the dumbest architecture that’ll work. choose the dumbest design that gets the job done. Being clever means your users also have to be just as clever to understand your cleverness Software got a lot easier if you know what you wanna build, and a lot harder if you don’t. With clarity, you can straight-shot to the solution.",
+      "url": "https://x.com/thenanyu/status/2119462979179892925",
+      "publishedAt": "2026-11-08T16:12:06.000Z",
+      "tags": [
+        "coding",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-e9197368eade",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding",
+      "takeaway": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: Instead of playing a song, it works by converting it into the physical shape...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 1 recent update. Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: Instead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a second, and you hear the voltage that motion would induce in a cartridge.",
+      "url": "https://x.com/rauchg/status/2119536313712230802",
+      "publishedAt": "2026-11-08T21:03:30.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-410dd134d863",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again. At no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are...",
+      "url": "https://x.com/levie/status/2119502716770902234",
+      "publishedAt": "2026-11-08T18:50:00.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-377312179a44",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english",
+      "url": "https://x.com/ryolu_/status/2119586846657454152",
+      "publishedAt": "2026-11-09T00:24:18.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-87acc05cbe90",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "You're really going to want your own software factory My gstack-evals project took a look at this Jev Engineering article and tried to replicate it, and I also told it to try...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. You're really going to want your own software factory My gstack-evals project took a look at this Jev Engineering article and tried to replicate it, and I also told it to try particle-1 and it turns out this article replicates, and particle-1 is even better Once you realize software is so easily changed with frontier models, these bugs become a little bit unbearable And simultaneously, it seems obvious personal...",
+      "url": "https://x.com/garrytan/status/2119615647592395037",
+      "publishedAt": "2026-11-09T02:18:45.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-05ca86e62d86",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane ok lol trolls coming out in full force - Elon is a business genius, a...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane ok lol trolls coming out in full force - Elon is a business genius, a visionary and and the richest man in the world, it’s ok for comedians to attempt to poke some fun, relax!",
+      "url": "https://x.com/mattturck/status/2119457959625498698",
+      "publishedAt": "2026-11-08T15:52:09.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-b6d473e69f65",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product and tools",
+      "takeaway": "I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it It implies that you didn’t put a lot of effort or soul into the output and it’s just...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it It implies that you didn’t put a lot of effort or soul into the output and it’s just AI slop But oftentimes people ARE putting their heart and soul into the work even when using AI coding tools.",
+      "url": "https://x.com/zarazhangrui/status/2119592080318341128",
+      "publishedAt": "2026-11-09T00:45:06.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-x-54bfec7939eb",
+      "date": "2026-11-08",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "If you are visiting SF, and trying to meet more people, here are a random list of things you should remove from your vocabulary..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. If you are visiting SF, and trying to meet more people, here are a random list of things you should remove from your vocabulary.. > swap notes > \"synergies\" > pick your brain > networking > \"san fran\" (tourist tell) > grab coffee if you're free If you want to meet interesting people here, show your work.",
+      "url": "https://x.com/nikunj/status/2119670529254981756",
+      "publishedAt": "2026-11-09T05:56:50.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    },
+    {
+      "id": "2026-11-08-podcast-2e8c8899b268",
+      "date": "2026-11-08",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "The genesis of the class was like November of 2024, and I had sort of had this idea that we're seeing all this stuff happening in coding agents, and yes, they were an earlier version of the coding agents, but already it felt like there was something drastically changing in terms of how developers were doing their work, how quickly we were getting work done, uh, all that fun stuff. The, the market that we went after was not enterprise from the get-go, right?",
+      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Vercel",
+        "Google"
+      ],
+      "createdAt": "2026-11-09T22:57:23.969Z"
+    }
+  ]
+}
