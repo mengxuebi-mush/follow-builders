@@ -1,7 +1,350 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T01:59:19.608Z",
+  "generatedAt": "2026-11-10T20:25:28.106Z",
   "snippets": [
+    {
+      "id": "2026-11-09-x-0ec7b049432e",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and product",
+      "takeaway": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigger planned for his aie code talk lol anthropic u guys are...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigger planned for his aie code talk lol anthropic u guys are wildin btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… signups for new media creators",
+      "url": "https://x.com/swyx/status/2119935240202539147",
+      "publishedAt": "2026-11-09T23:28:42.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-e8705823bcbd",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on ai",
+      "takeaway": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get.",
+      "summary": "Boris Cherny (bcherny on X) shared 2 recent updates. We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you've subscribed:",
+      "url": "https://x.com/bcherny/status/2119873095129550880",
+      "publishedAt": "2026-11-09T19:21:45.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Boris Cherny"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-3efb4be492a9",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on costs",
+      "takeaway": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+      "url": "https://x.com/thsottiaux/status/2120021043876106429",
+      "publishedAt": "2026-11-10T05:09:39.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-79f0af0d7177",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on ai",
+      "takeaway": "This is the future of work 😂 Turned my 8-year-old's drawings into kart racers - time to upgrade the characters Upgrading the music right now",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. This is the future of work 😂 Turned my 8-year-old's drawings into kart racers - time to upgrade the characters Upgrading the music right now",
+      "url": "https://x.com/petergyang/status/2120026112722137345",
+      "publishedAt": "2026-11-10T05:29:48.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-99194b0531e4",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on enterprise and models",
+      "takeaway": "PSA since it took me a second to discover it: If you wanna get some untapped value out of your ChatGPT subscription, go into settings and turn on global dictation It uses the same...",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. PSA since it took me a second to discover it: If you wanna get some untapped value out of your ChatGPT subscription, go into settings and turn on global dictation It uses the same fast and accurate transcription path as the in-app dictation",
+      "url": "https://x.com/thenanyu/status/2120037431261184454",
+      "publishedAt": "2026-11-10T06:14:46.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-6f443c16e04d",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and product",
+      "takeaway": "If you are a product leader, here is a simple exercise: draw out your product lifecycle. e.g. market understanding -> design -> development -> GTM.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. If you are a product leader, here is a simple exercise: draw out your product lifecycle. e.g. market understanding -> design -> development -> GTM. Chances are your PMs spend more time in some stages than others - because of the nature of your product, your org or their comfort zones. This is a handoff-heavy, lossy process. Now ask yourself: using AI, how much deeper can PMs go on every stage?",
+      "url": "https://x.com/realmadhuguru/status/2119999748086362466",
+      "publishedAt": "2026-11-10T03:45:02.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-901c7ea925f9",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on coding and enterprise",
+      "takeaway": "I showed Paul Graham vibe coding before it was called that back in July ‘24, and this was his reaction: \"But who maintains vibe coded apps?\" How about self-healing software...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. I showed Paul Graham vibe coding before it was called that back in July ‘24, and this was his reaction: \"But who maintains vibe coded apps?\" How about self-healing software... If you're in Japan, check out \"Enterprise Vibe Coding,\" a new book from SMFL's digital innovation team on how AI is transforming enterprise software development. Coming November 27. Honored to be on the cover!",
+      "url": "https://x.com/amasad/status/2119965240066752682",
+      "publishedAt": "2026-11-10T01:27:54.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-5b4f923ff515",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant. One interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work. To actually seize this intelligence, you need cloud sandboxes. Full stop. The model can delegate and orchestrate far more than a single computer can handle.",
+      "url": "https://x.com/rauchg/status/2119878364794372162",
+      "publishedAt": "2026-11-09T19:42:42.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-81b67cf0e1c4",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Alex Albert",
+      "title": "Alex Albert on models",
+      "takeaway": "Every time we have a new model, I run the same simple prompt on all my projects: \"Read this entire project and find everything that’s broken, inconsistent, inefficient, or no...",
+      "summary": "Alex Albert (alexalbert__ on X) shared 3 recent updates. Every time we have a new model, I run the same simple prompt on all my projects: \"Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.\" highly recommend trying btw robotics will fall to the bitter lesson too I gave Fable 5.",
+      "url": "https://x.com/alexalbert__/status/2119884951550386671",
+      "publishedAt": "2026-11-09T20:08:52.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Alex Albert"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-3224096b945e",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of areas of knowledge work. We’re entering the era of autonomous collaborators in a number of industries that haven’t yet had their claude code or codex moment yet. But now this is going to happen.",
+      "url": "https://x.com/levie/status/2119987129204047894",
+      "publishedAt": "2026-11-10T02:54:53.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-6ce71e0ec172",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on models",
+      "takeaway": "Red letter day: New frontier model = every one of your projects gets a step function improvement I'm not sure if I'll ever get sick of frontier model release days",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Red letter day: New frontier model = every one of your projects gets a step function improvement I'm not sure if I'll ever get sick of frontier model release days",
+      "url": "https://x.com/garrytan/status/2119882192088391751",
+      "publishedAt": "2026-11-09T19:57:54.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-a550a84e7b71",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents",
+      "takeaway": "Ever since I read Niklas Gruhn's excellent article ( I think about this every day.. If you don't think people notice that you are feeding everything to AI and regurgitating it...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 1 recent update. Ever since I read Niklas Gruhn's excellent article ( I think about this every day.. If you don't think people notice that you are feeding everything to AI and regurgitating it back, people actually do!! (because they are probably already getting an opinion with the same agents)",
+      "url": "https://x.com/nikunj/status/2119850705901191339",
+      "publishedAt": "2026-11-09T17:52:47.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-dd5e0746a449",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and models",
+      "takeaway": "BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it. We’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, games for their kids, and documentaries instead of slide decks.",
+      "url": "https://x.com/danshipper/status/2119869228207546638",
+      "publishedAt": "2026-11-09T19:06:23.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Claude"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-0f8c5e20dd72",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on product",
+      "takeaway": "Huge launch from the @nuance_ai team today. Try it out now.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Huge launch from the @nuance_ai team today. Try it out now.",
+      "url": "https://x.com/adityaag/status/2119858043869683935",
+      "publishedAt": "2026-11-09T18:21:57.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-x-c7699a21dec3",
+      "date": "2026-11-09",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and research",
+      "takeaway": "Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos...",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2. Read more: In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.",
+      "url": "https://x.com/claudeai/status/2119899492778398163",
+      "publishedAt": "2026-11-09T21:06:39.000Z",
+      "tags": [
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
+    {
+      "id": "2026-11-09-podcast-1caac1653ecb",
+      "date": "2026-11-09",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "So you can see the agent did send both the financial summary memo from the CFO. Because if the model does climb, then it's very strong proof point to the labs as well as the enterprises who are trying to fine-tune their own models that this data is actually good, because the purpose of data is to train models. So, like, in professional domains, what labs really aspire to do is, you know, they wanna drive more high-value token consumption across every white-collar job discipline, right?",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-09T16:41:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-11-10T20:25:28.106Z"
+    },
     {
       "id": "2026-11-08-x-a0534a6523fd",
       "date": "2026-11-08",
