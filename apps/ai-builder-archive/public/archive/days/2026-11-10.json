@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-11T20:08:20.067Z",
+  "feedGeneratedAt": "2026-11-11T06:28:17.628Z",
+  "snippets": [
+    {
+      "id": "2026-11-10-x-e0e79b070e88",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents",
+      "takeaway": "I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to i had a preview of his keynote and you guys don’t know what youre...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live stream 9am-6pm tmr and thursday!! this is my engines thread",
+      "url": "https://x.com/swyx/status/2120260228902264872",
+      "publishedAt": "2026-11-10T21:00:05.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-4d9977163912",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide",
+      "url": "https://x.com/joshwoodward/status/2120186249281778135",
+      "publishedAt": "2026-11-10T16:06:07.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-79238a98f12f",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on ai",
+      "takeaway": "Labs innovating together ftw How many of you have a small business?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. Labs innovating together ftw How many of you have a small business?",
+      "url": "https://x.com/thsottiaux/status/2120266880963473789",
+      "publishedAt": "2026-11-10T21:26:31.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-dfdff5c40f10",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and tools",
+      "takeaway": "I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history. I'm actually really glad Dario is focused on this vs. winning on viral shorts and TikTok memes. Agree with Kartik. Game developers and gamers hating on (tasteful) use of AI is idiotic.",
+      "url": "https://x.com/petergyang/status/2120320377163501817",
+      "publishedAt": "2026-11-11T00:59:06.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-a828ed703538",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on models and tools",
+      "takeaway": "One of the lovely details about this, which few other dictation apps get right, is you're able to map the Apple dictation key (special variant of F5) We also support push to talk,...",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. One of the lovely details about this, which few other dictation apps get right, is you're able to map the Apple dictation key (special variant of F5) We also support push to talk, double tap and single tap shortcuts. kudos to @bamitsmanas for getting all the edges right on this @bamitsmanas That's like 30 coffees, or a 1-2 months of ChatGPT pro",
+      "url": "https://x.com/thenanyu/status/2120203450223104012",
+      "publishedAt": "2026-11-10T17:14:28.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-e5dd784cef0e",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and tools",
+      "takeaway": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life",
+      "url": "https://x.com/trq212/status/2120223476279869875",
+      "publishedAt": "2026-11-10T18:34:03.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-d0486f645089",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and product",
+      "takeaway": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding. With agents, new languages will blossom, even purpose-built ones for specific...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. Rust is a superb language and ecosystem, especially given it was invented pre agentic coding. With agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR, assembly… AI is fluid. No more one-size-fits-all.",
+      "url": "https://x.com/rauchg/status/2120337388178379178",
+      "publishedAt": "2026-11-11T02:06:41.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-be5b78f4ef80",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box content via Claude. Now you can have an agent not only pull up content to work with in a workflow, but also write back file updates to Box and view them directly inside of Claude, all via MCP.",
+      "url": "https://x.com/levie/status/2120261416733036905",
+      "publishedAt": "2026-11-10T21:04:48.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie",
+        "Anthropic",
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-9dd5dd2fbf03",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on agents and tools",
+      "takeaway": "working together with other humans is where the magic happens, not each of us running our own army of agents in silos glad to see this come alive 💛 we build software not just to...",
+      "summary": "Ryo Lu (ryolu_ on X) shared 3 recent updates. working together with other humans is where the magic happens, not each of us running our own army of agents in silos glad to see this come alive 💛 we build software not just to optimize, complete tasks or impose our own constraints – but to build a world where we let people in, aspire to things they couldn’t do before, to create, and find ourselves – just like filmmakers and musicians a great read: read or watch...",
+      "url": "https://x.com/ryolu_/status/2120337691661443081",
+      "publishedAt": "2026-11-11T02:07:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-d193022e4990",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "Step 1 of sharing your work/building an audience: Don't wait until it's done or perfect. Share a work in progress. Sometimes that's how you figure out if it's even worth finishing.",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Step 1 of sharing your work/building an audience: Don't wait until it's done or perfect. Share a work in progress. Sometimes that's how you figure out if it's even worth finishing. If users don't come back to your product, - 20% of the time it's because they don't like your product - 80% of the time it's because they forgot your product even exists",
+      "url": "https://x.com/zarazhangrui/status/2120041030951297033",
+      "publishedAt": "2026-11-10T06:29:04.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-315ddeec5cf2",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "Mic drop Gulp Wow MLK Jr. :\"The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. Mic drop Gulp Wow MLK Jr. :\"The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.\" This post-mortem is a must read for every infra provider and proud of the @Railway team for the transparency 🚂 Fable, make me a one shot banger video for Wrap2026..",
+      "url": "https://x.com/nikunj/status/2120260803295363388",
+      "publishedAt": "2026-11-10T21:02:22.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-45d9fea16061",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on enterprise and models",
+      "takeaway": "\"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. \"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months. However, when it re-ran diagnostics using \"GPT-6 Astra,\" the latest model released by US-based OpenAI, it confirmed 35,000 new vulnerabilities. \"Honestly, we're completely exhausted\"",
+      "url": "https://x.com/steipete/status/2120228665946710248",
+      "publishedAt": "2026-11-10T18:54:40.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-ae413659e336",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding and models",
+      "takeaway": "BREAKING: @Google just dropped Gemini 4 Carbon. It’s a much better coder than Argon—but I’m probably keeping Argon for writing.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. BREAKING: @Google just dropped Gemini 4 Carbon. It’s a much better coder than Argon—but I’m probably keeping Argon for writing. We’ve been testing it at @every across coding, writing, design, and knowledge work. It can work for hours on an ambitious project, but it doesn’t always know when to stop.",
+      "url": "https://x.com/danshipper/status/2120187507396530309",
+      "publishedAt": "2026-11-10T16:11:07.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "Google"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-51d7737e50bd",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "Strongly concur. My most successful friends also have the most intense hobbies.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. Strongly concur. My most successful friends also have the most intense hobbies.",
+      "url": "https://x.com/adityaag/status/2120249412685607254",
+      "publishedAt": "2026-11-10T20:17:06.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-x-6f44ac1069ef",
+      "date": "2026-11-10",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on models and tools",
+      "takeaway": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. Rolling out on web and desktop. Claude Data (formerly Dashboards) is now generally available on paid plans.",
+      "url": "https://x.com/claudeai/status/2120206375137484875",
+      "publishedAt": "2026-11-10T17:26:06.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    },
+    {
+      "id": "2026-11-10-podcast-1caac1653ecb",
+      "date": "2026-11-10",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "There are way more agents than, than before. because they have, like, the big enterprise customers they add and- Yeah... And you can import your tokens from Tailwind.",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-10T20:06:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Vercel",
+        "Replit",
+        "Google"
+      ],
+      "createdAt": "2026-11-11T20:08:20.067Z"
+    }
+  ]
+}
