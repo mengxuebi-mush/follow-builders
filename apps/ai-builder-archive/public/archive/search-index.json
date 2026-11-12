@@ -1,7 +1,359 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T01:28:21.164Z",
+  "generatedAt": "2026-11-12T20:45:11.337Z",
   "snippets": [
+    {
+      "id": "2026-11-11-x-4a01ca0dbfc0",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "standing room only for @poteto’s keynote this person is a real former employee that we parted ways with that email domain is not one we use next on stream - @CompleteSkeptic and...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. standing room only for @poteto’s keynote this person is a real former employee that we parted ways with that email domain is not one we use next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day!",
+      "url": "https://x.com/swyx/status/2120582147107078356",
+      "publishedAt": "2026-11-11T18:19:17.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-69c326af991f",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "We love this and build with it regularly ♥️ It makes our apps faster and smarter",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. We love this and build with it regularly ♥️ It makes our apps faster and smarter",
+      "url": "https://x.com/joshwoodward/status/2120622974277734716",
+      "publishedAt": "2026-11-11T21:01:30.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-5b9d01b75c00",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding",
+      "takeaway": "It’s been a while without resets. Maybe I should come back out of the basement Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 2 recent updates. It’s been a while without resets. Maybe I should come back out of the basement Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "url": "https://x.com/thsottiaux/status/2120410006273380750",
+      "publishedAt": "2026-11-11T06:55:15.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-a66b271c31e3",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on enterprise and tools",
+      "takeaway": "Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to his college sweetheart. What the hell happened man? And of all the people to have affairs with you have to choose a spy and a freakin' NVIDIA executive? Come on dude.",
+      "url": "https://x.com/petergyang/status/2120649149389627493",
+      "publishedAt": "2026-11-11T22:45:31.000Z",
+      "tags": [
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-9dcc319a7d0a",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and coding",
+      "takeaway": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson” it’s about how I think the experience of using coding agents could be like next year and how we get to shape it",
+      "url": "https://x.com/trq212/status/2120620900785820143",
+      "publishedAt": "2026-11-11T20:53:16.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-39332a786960",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on ai",
+      "takeaway": "🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.",
+      "summary": "Google Labs (GoogleLabs on X) shared 2 recent updates. 🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\" Drop links and files into one shared space, add your crew, and ask Tabletop for whatever you need to create custom spaces on the fly: 🗺️ Interactive road trip maps & dinner-decider wheels 🏆 Live pickleball brackets & merch voting boards 🪑 Drag-and-drop...",
+      "url": "https://x.com/GoogleLabs/status/2120549258692882702",
+      "publishedAt": "2026-11-11T16:08:35.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-3bbd085b1a70",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on enterprise and models",
+      "takeaway": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news?",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Why are old stories that were not even covered up all that well become sudden international and geopolitical news? The timing is suspicious, so worth asking: who benefits and why now? If Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit. Why now? The midterms seem relevant. But also perhaps the upcoming IPOs.",
+      "url": "https://x.com/amasad/status/2120671838909194695",
+      "publishedAt": "2026-11-12T00:15:41.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-96eba417bcce",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on product and research",
+      "takeaway": "PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span. Beam by Reflection is free on until Nov 12. American open weights. Zero data retention. Enjoy 🇺🇸 We have a benchmark that makes 𝚏𝚡 bootup compete with an ultra-optimized pure-assembly 𝚏𝚡.𝚜 version 😂",
+      "url": "https://x.com/rauchg/status/2120601000176439478",
+      "publishedAt": "2026-11-11T19:34:11.000Z",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-1b05c8043b6e",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. His day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion. Come out next week for the Acts 17 event with @hubermanlab Register here",
+      "url": "https://x.com/garrytan/status/2120657462353330604",
+      "publishedAt": "2026-11-11T23:18:33.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-384a50ca5f20",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "French execs as a second Jensen story surfaces Strong attract, strong repel Tons of gems for any founder 👇",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. French execs as a second Jensen story surfaces Strong attract, strong repel Tons of gems for any founder 👇",
+      "url": "https://x.com/mattturck/status/2120640868483006533",
+      "publishedAt": "2026-11-11T22:12:37.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-be6dc06d89d2",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "\"Technology only finishes its most important work once the audience forgets the technology\"",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. \"Technology only finishes its most important work once the audience forgets the technology\"",
+      "url": "https://x.com/zarazhangrui/status/2120429971718156375",
+      "publishedAt": "2026-11-11T08:14:35.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-7708fba21b1e",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on enterprise and models",
+      "takeaway": "I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure.. Some interesting findings from the last time I did this in March: > 44% of companies list two+ model providers (up from 33%). Small n, but Anthropic grew twice as fast as OpenAI.",
+      "url": "https://x.com/nikunj/status/2120669243918418237",
+      "publishedAt": "2026-11-12T00:05:22.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI",
+        "Anthropic",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-67032435ced7",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "reading some of these comments makes my brain hurt. oss is already hard enough without politics.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. reading some of these comments makes my brain hurt. oss is already hard enough without politics.",
+      "url": "https://x.com/steipete/status/2120711266759258616",
+      "publishedAt": "2026-11-12T02:52:21.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-ce65a479e43b",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on enterprise and models",
+      "takeaway": "I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000. Then I look at what my team does with the same AI.",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000. Then I look at what my team does with the same AI. Last week, between meetings, I analyzed our customer survey, made a game for our team, spotted an opportunity to sell @Every to teams, built a CRM, and started reaching out. Look at that and you might ask: Why would I need a team at all?",
+      "url": "https://x.com/danshipper/status/2120539547620790424",
+      "publishedAt": "2026-11-11T15:30:00.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper",
+        "OpenAI",
+        "Claude"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-65084f34194f",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on enterprise and models",
+      "takeaway": "There are basically two kinds of companies to build right now. 1. Diffusion of AI This is the \"vertical SaaS\" of today.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. There are basically two kinds of companies to build right now. 1. Diffusion of AI This is the \"vertical SaaS\" of today. There are a bunch of different models for it (FDE company, rollup, horizontal product) but ultimately it all boils down to the same thing: get AI diffused very close to where the work is being done. Profound, Cognition, Harvey etc. A lot of great companies will get built here. 2.",
+      "url": "https://x.com/adityaag/status/2120578134177464356",
+      "publishedAt": "2026-11-11T18:03:20.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-x-b6e0d74b1dfa",
+      "date": "2026-11-11",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding and models",
+      "takeaway": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation,...",
+      "summary": "Claude (claudeai on X) shared 1 recent update. Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation.",
+      "url": "https://x.com/claudeai/status/2120669165316915259",
+      "publishedAt": "2026-11-12T00:05:03.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
+    {
+      "id": "2026-11-11-podcast-357c04af2d05",
+      "date": "2026-11-11",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "A New Vision for Human Work After Automation",
+      "takeaway": "A New Vision for Human Work After Automation. So if you look back at this table, and you think about my week last week, doing all of this, which would have taken five people in...",
+      "summary": "So if you look back at this table, and you think about my week last week, doing all of this, which would have taken five people in 2020, and I'm doing all of that work with a team of agents in the cracks of my week while I'm doing a totally other separate set of tasks. Great work is the perspective you bring to the model.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-11-11T15:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-11-12T20:45:11.337Z"
+    },
     {
       "id": "2026-11-10-x-e0e79b070e88",
       "date": "2026-11-10",
