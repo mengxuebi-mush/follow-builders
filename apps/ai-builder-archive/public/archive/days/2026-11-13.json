@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T18:42:21.388Z",
+  "feedGeneratedAt": "2026-11-14T06:25:34.902Z",
+  "snippets": [
+    {
+      "id": "2026-11-13-x-d551ed3204ea",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "come to tmr !",
+      "summary": "Swyx (swyx on X) shared 1 recent update. come to tmr !",
+      "url": "https://x.com/swyx/status/2121473082372292885",
+      "publishedAt": "2026-11-14T05:19:32.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-aacf4013ad75",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and research",
+      "takeaway": "If you know a loved one suffering from cancer or another long-term illness: 1. Upload all of the patient's medical records (e.g., to a Google Drive folder) 2.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. If you know a loved one suffering from cancer or another long-term illness: 1. Upload all of the patient's medical records (e.g., to a Google Drive folder) 2. Tell ChatGPT or Claude to install my free /fuck-cancer skill (just point them at the link: 3. Point the skill at the folder to create a one-page brief, research clinical trials, and more.",
+      "url": "https://x.com/petergyang/status/2121430386685395022",
+      "publishedAt": "2026-11-14T02:29:53.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-8aa364283da0",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and product",
+      "takeaway": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Read the Stand with Jensen letter and consider adding your name. #standwithjensen Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale! Feel free to share @GavinSBaker It's been great partnering with @Visa on agentic commerce. More features and use cases are coming!",
+      "url": "https://x.com/amasad/status/2121377395244749097",
+      "publishedAt": "2026-11-13T22:59:18.000Z",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-ed88b0921f0e",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents",
+      "takeaway": "Co-sign Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents. ◾ The 'time to first step' and 'time between steps' have massively improved.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Co-sign Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents. ◾ The 'time to first step' and 'time between steps' have massively improved. ◾ We doubled down on encryption and security. ◾ The reliability of the overall system has been proven at massive scale. We've ironed out many subtle details and exercised many disaster-recovery scenarios.",
+      "url": "https://x.com/rauchg/status/2121351007615811799",
+      "publishedAt": "2026-11-13T21:14:27.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-1424ebd53b41",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on coding and models",
+      "takeaway": "Jensen deserves due process, not whatever is happening right now. I signed. #standwithjensen Keep Opus 5.5 as your coding default in Claude Code.",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Jensen deserves due process, not whatever is happening right now. I signed. #standwithjensen Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task. Opus already solves most of these tasks, though, so telling the two apart will take harder ones.",
+      "url": "https://x.com/garrytan/status/2121462697787342932",
+      "publishedAt": "2026-11-14T04:38:16.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Claude"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-184ff0ebb967",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "Breaking news: VCs to opine shortly on FAA nationwide airport ground stop.",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Breaking news: VCs to opine shortly on FAA nationwide airport ground stop.",
+      "url": "https://x.com/mattturck/status/2121358328169132503",
+      "publishedAt": "2026-11-13T21:43:33.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-8c6d91185401",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and models",
+      "takeaway": "Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever happened..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever happened.. First time was 9/11, second time was the NOTAM system outage in 2023, and now today (reasons unclear). Happy Friday the 13th to all the agents celebrating 💀 I thought after Llama 4 we had stopped benchmark-maxxing as a flex.. but it seems like the cartel is back again.",
+      "url": "https://x.com/nikunj/status/2121366466905981435",
+      "publishedAt": "2026-11-13T22:15:53.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-b70d804985c0",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on coding",
+      "takeaway": "why teams still pay for software even when Fable 5.2 can vibe code anything: musing: the most important formula in AI stuff like this seems to be getting more common.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. why teams still pay for software even when Fable 5.2 can vibe code anything: musing: the most important formula in AI stuff like this seems to be getting more common. extremely impt it gets fixed, and everyone in AI should be willing to help make sure it does",
+      "url": "https://x.com/danshipper/status/2121248233510818003",
+      "publishedAt": "2026-11-13T14:26:04.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-x-7b29a116c6b0",
+      "date": "2026-11-13",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "We are in an extremely weird timeline right now. Proud of our companies in the AI 100. Baseten, Render, Profound, Replit, Gamma, Cog and Density.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 2 recent updates. We are in an extremely weird timeline right now. Proud of our companies in the AI 100. Baseten, Render, Profound, Replit, Gamma, Cog and Density.",
+      "url": "https://x.com/adityaag/status/2121372222292201767",
+      "publishedAt": "2026-11-13T22:38:45.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Replit"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    },
+    {
+      "id": "2026-11-13-podcast-9618b0feaaa9",
+      "date": "2026-11-13",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We learn online, we are constantly updating, iterating, and I think the world we're in right now with agents and AI is kind of, like you said, pseudo continual learning. And there's a reason why only 1% of enterprises actually have been adopted by AI, and there's so many workflows out there that are super manual and could be automated and actually increase intelligence based on all of these agents that could be in production.",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-11-05T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI",
+        "Cursor",
+        "Google",
+        "Meta",
+        "Box"
+      ],
+      "createdAt": "2026-11-14T18:42:21.388Z"
+    }
+  ]
+}
