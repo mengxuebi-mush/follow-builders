@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "generatedAt": "2026-11-14T21:24:26.627Z",
+  "generatedAt": "2026-11-14T22:55:54.798Z",
   "feedGeneratedAt": "2026-11-14T06:25:34.902Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-aacf4013ad75",
@@ -43,7 +43,7 @@
         "Claude",
         "Google"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-8aa364283da0",
@@ -64,7 +64,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-ed88b0921f0e",
@@ -84,7 +84,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-1424ebd53b41",
@@ -108,7 +108,7 @@
         "Garry Tan",
         "Claude"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-184ff0ebb967",
@@ -127,7 +127,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-8c6d91185401",
@@ -149,7 +149,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-b70d804985c0",
@@ -168,7 +168,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-x-7b29a116c6b0",
@@ -188,7 +188,7 @@
         "Aditya Agarwal",
         "Replit"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     },
     {
       "id": "2026-11-13-podcast-9618b0feaaa9",
@@ -215,7 +215,7 @@
         "Meta",
         "Box"
       ],
-      "createdAt": "2026-11-14T21:24:26.627Z"
+      "createdAt": "2026-11-14T22:55:54.798Z"
     }
   ]
 }
