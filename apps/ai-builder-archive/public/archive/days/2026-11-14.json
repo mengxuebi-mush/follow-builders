@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T19:20:09.674Z",
+  "feedGeneratedAt": "2026-11-15T06:26:52.164Z",
+  "snippets": [
+    {
+      "id": "2026-11-14-x-5bfa5188e283",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models",
+      "takeaway": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter holy shit u guys like a lot of poteto there WILL be audience...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter holy shit u guys like a lot of poteto there WILL be audience participation",
+      "url": "https://x.com/swyx/status/2121757606801023085",
+      "publishedAt": "2026-11-15T00:10:08.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-95f7cbf097dc",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on costs and tools",
+      "takeaway": "New in Gemini: Connect Google Wallet for personal finance insights This is powerful for things like: + making instant charts to visualize your spend + finding sneaky subscription...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. New in Gemini: Connect Google Wallet for personal finance insights This is powerful for things like: + making instant charts to visualize your spend + finding sneaky subscription price hikes + making a holiday budget based on what you actually spent last year Available to all Gemini app users in the USA to start",
+      "url": "https://x.com/joshwoodward/status/2121755282326102417",
+      "publishedAt": "2026-11-15T00:00:54.000Z",
+      "tags": [
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-626c381f78be",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+      "url": "https://x.com/thsottiaux/status/2121845965997101118",
+      "publishedAt": "2026-11-15T06:01:14.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-fb894302ebdd",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes. \"/claude-api prompt-audit [skill name]\": Audits one skill in depth. I wish Claude Code auto-suggested running these every time Anthropic releases a new model.",
+      "url": "https://x.com/petergyang/status/2121649295950762363",
+      "publishedAt": "2026-11-14T16:59:45.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-872ef8181c37",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and tools",
+      "takeaway": "We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once considered a rare failure is now a daily thing. Autonomous Businesses are here. Technology is inherently recursively self-improving and the degree of autonomy has been going up overtime.",
+      "url": "https://x.com/amasad/status/2121519931741127144",
+      "publishedAt": "2026-11-14T08:25:42.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-f1fe4134f068",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and models",
+      "takeaway": "Got to experience the magic of @uisdk. Two prompts of fx + Gemini Argon. Pure Web Components. No framework.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Got to experience the magic of @uisdk. Two prompts of fx + Gemini Argon. Pure Web Components. No framework. The agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching, typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys, ARIA, and WebMCP agent control. (source linked) Music by @suno.",
+      "url": "https://x.com/rauchg/status/2121804295381377342",
+      "publishedAt": "2026-11-15T03:15:39.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Box"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-4a90c559f187",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks. As a result, agents that can use software to do their work, or generate code from scratch, will improve at a faster rate than all other domains of knowledge work. On one hand that could mean that only a small subset of work can get automated.",
+      "url": "https://x.com/levie/status/2121686564078297461",
+      "publishedAt": "2026-11-14T19:27:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-9877e941512a",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on agents and research",
+      "takeaway": "Do all this and use it with gbrain :-) It turns out paper chart and copper wire and an antiquated system that is brittle and doesn’t have enough failsafe let alone any modern...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Do all this and use it with gbrain :-) It turns out paper chart and copper wire and an antiquated system that is brittle and doesn’t have enough failsafe let alone any modern software is not serving the people of America properly. Modernize the FAA. Aside Browser is a huge unlock for every AI agent",
+      "url": "https://x.com/garrytan/status/2121768476775989404",
+      "publishedAt": "2026-11-15T00:53:20.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-bcdcfee68b0b",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on tools",
+      "takeaway": "Great take. NVIDIA is the one deep pocketed player that has a clear business interest in open weights AI, and was willing to make founder-type big bets. What happens now?",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Great take. NVIDIA is the one deep pocketed player that has a clear business interest in open weights AI, and was willing to make founder-type big bets. What happens now?",
+      "url": "https://x.com/mattturck/status/2121608999053492408",
+      "publishedAt": "2026-11-14T14:19:37.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-a39349f1ba65",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "True",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 1 recent update. True",
+      "url": "https://x.com/zarazhangrui/status/2121654053453357342",
+      "publishedAt": "2026-11-14T17:18:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-960165e59508",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "2026 Startup Bookshelf 📕 Eagerly looking forward to reading the incident reports from this week..",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. 2026 Startup Bookshelf 📕 Eagerly looking forward to reading the incident reports from this week..",
+      "url": "https://x.com/nikunj/status/2121640157443215824",
+      "publishedAt": "2026-11-14T16:23:26.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-aef4d5cbc7c2",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on ai",
+      "takeaway": "🍿",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. 🍿",
+      "url": "https://x.com/steipete/status/2121706904917520875",
+      "publishedAt": "2026-11-14T20:48:40.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-x-71714d07cc69",
+      "date": "2026-11-14",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and coding",
+      "takeaway": "if you want all of the raw alpha from @every you should have your agent read our frontier feed we publish all of our frontier team's experiments with AI including raw code and...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. if you want all of the raw alpha from @every you should have your agent read our frontier feed we publish all of our frontier team's experiments with AI including raw code and short writeups no faster way to get inspired 👇 live look of how Fable wrote an email for me this morning experiment writeup + code here:",
+      "url": "https://x.com/danshipper/status/2121620539655819305",
+      "publishedAt": "2026-11-14T15:05:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    },
+    {
+      "id": "2026-11-14-podcast-52b21e3f4c65",
+      "date": "2026-11-14",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue & Why the Labs Missed It",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "This is we are obviously use agents a lot, but we really value understanding its limitations. Like, the the problem you're just talking about now, like, you could imagine, you know, approaching from the the perspective of a model company or, like, there's all these, you know, enterprise agent security companies that are popping up, right, that aren't model builders themselves, but they're like, yeah.",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-11-05T14:05:50.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-15T19:20:09.674Z"
+    }
+  ]
+}
