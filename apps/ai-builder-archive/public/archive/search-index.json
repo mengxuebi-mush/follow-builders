@@ -1,7 +1,325 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T02:25:37.526Z",
+  "generatedAt": "2026-11-17T21:42:38.645Z",
   "snippets": [
+    {
+      "id": "2026-11-16-x-f30ebb18228b",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "women are destroying the men, wtf is happening rn together deleted megkernels gmail has no gcal search despite cal is sent via gmail",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. women are destroying the men, wtf is happening rn together deleted megkernels gmail has no gcal search despite cal is sent via gmail",
+      "url": "https://x.com/swyx/status/2122512082835067151",
+      "publishedAt": "2026-11-17T02:08:09.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-7423136a9d88",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on ai",
+      "takeaway": "Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. Welcome! Welcome!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. Welcome! Welcome!",
+      "url": "https://x.com/joshwoodward/status/2122453269842886788",
+      "publishedAt": "2026-11-16T22:14:27.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-9737555cc1fe",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on coding and models",
+      "takeaway": "My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop: 1. Give Claude context upfront. Share screenshots, pages you like, and your past work.",
+      "summary": "Peter Yang (petergyang on X) shared 2 recent updates. My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop: 1. Give Claude context upfront. Share screenshots, pages you like, and your past work. For an existing product, have Claude rebuild the real screens from code. 2. Research familiar UX patterns.",
+      "url": "https://x.com/petergyang/status/2122347721298510021",
+      "publishedAt": "2026-11-16T15:15:02.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-6c8104adb884",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "look, a sane person Be like jori",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. look, a sane person Be like jori",
+      "url": "https://x.com/thenanyu/status/2122438864791110126",
+      "publishedAt": "2026-11-16T21:17:13.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-8902a445a3d1",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on agents and models",
+      "takeaway": "software factories feel like a temporary problem. the models will learn to build them for you the more interesting question to me is how to build a workspace where agents can...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. software factories feel like a temporary problem. the models will learn to build them for you the more interesting question to me is how to build a workspace where agents can collaborate with you for example, this is me working with agents on a new character for my game",
+      "url": "https://x.com/trq212/status/2122438326431154210",
+      "publishedAt": "2026-11-16T21:15:04.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-c299af512fa5",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Google Labs",
+      "title": "Google Labs on tools",
+      "takeaway": "We’re excited to welcome Howie to Google Labs! The @Howie_ai team has spent years figuring out scheduling and calendar management.",
+      "summary": "Google Labs (GoogleLabs on X) shared 1 recent update. We’re excited to welcome Howie to Google Labs! The @Howie_ai team has spent years figuring out scheduling and calendar management. We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝",
+      "url": "https://x.com/GoogleLabs/status/2122461899178820069",
+      "publishedAt": "2026-11-16T22:48:44.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Google Labs",
+        "Google"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-d3b64ee841a7",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Deranged cult 💪",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Deranged cult 💪",
+      "url": "https://x.com/amasad/status/2122422367557464548",
+      "publishedAt": "2026-11-16T20:11:39.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-d8b95cfbf47a",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. The old way: users are human, you run user interviews, get inspired, mock up user journeys. The new way: users are agents, you run evals, evals inform the software engineering loop. Good read on how we do evals at Vercel.",
+      "url": "https://x.com/rauchg/status/2122396034186014919",
+      "publishedAt": "2026-11-16T18:27:01.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-ca788e5441fa",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of the curve of token use and adoption. This summer and fall’s model releases have continued to push the state of the art forward at a rate that already felt hard to maintain.",
+      "url": "https://x.com/levie/status/2122508098351038532",
+      "publishedAt": "2026-11-17T01:52:19.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-4f1a3b1cea84",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise and tools",
+      "takeaway": "If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box Memory works the way you...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box Memory works the way you want it to True drone autonomy on top of almost any other flight platform is now here Degla is already working with mission critical government agencies for search & rescue Fun project for GBrain coming in the next few weeks using Vorflux as...",
+      "url": "https://x.com/garrytan/status/2122517681740124271",
+      "publishedAt": "2026-11-17T02:30:24.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan",
+        "Box"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-1735329e0b11",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and enterprise",
+      "takeaway": "2026 infra wars in a nutshell.. Vibe coding in Q1 Harnesses in Q2 Sandboxes in Q3 Agentic CI in Q4 More providers than I can keep track of. Any guesses for what comes next?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. 2026 infra wars in a nutshell.. Vibe coding in Q1 Harnesses in Q2 Sandboxes in Q3 Agentic CI in Q4 More providers than I can keep track of. Any guesses for what comes next? Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side. Hugops to every single infra company 🙏 Make your own here:",
+      "url": "https://x.com/nikunj/status/2122543500814336281",
+      "publishedAt": "2026-11-17T04:13:00.000Z",
+      "tags": [
+        "agents",
+        "enterprise"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-8ccfc97372c1",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on agents and tools",
+      "takeaway": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting Apple: I hear you, here’s some new scary alerts",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting Apple: I hear you, here’s some new scary alerts",
+      "url": "https://x.com/steipete/status/2122463466304971068",
+      "publishedAt": "2026-11-16T22:54:58.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-c7aabcaf1a8f",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on agents and costs",
+      "takeaway": "musing: what if the best way to rank a feed in the AI age is proof of work. allow agents to report how many tokens they’ve used based on a piece of content, and use that to rank...",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. musing: what if the best way to rank a feed in the AI age is proof of work. allow agents to report how many tokens they’ve used based on a piece of content, and use that to rank it on a feed that humans and agents read",
+      "url": "https://x.com/danshipper/status/2122541401804054826",
+      "publishedAt": "2026-11-17T04:04:39.000Z",
+      "tags": [
+        "agents",
+        "costs"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-x-da71d7f1411e",
+      "date": "2026-11-16",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on models and tools",
+      "takeaway": "Two thoughts: 1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech. 2/ We can build semi-conductors in India. People said it wasn’t possible.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Two thoughts: 1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech. 2/ We can build semi-conductors in India. People said it wasn’t possible. We are proving them wrong. We’re excited to lead @BharatSemi_'s $24M seed round with Redstart Ventures and IndusBridge. Onwards.",
+      "url": "https://x.com/adityaag/status/2122386958101959118",
+      "publishedAt": "2026-11-16T17:50:57.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
+    {
+      "id": "2026-11-16-podcast-1caac1653ecb",
+      "date": "2026-11-16",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "The genesis of the class was like November of 2024, and I had sort of had this idea that we're seeing all this stuff happening in coding agents, and yes, they were an earlier version of the coding agents, but already it felt like there was something drastically changing in terms of how developers were doing their work, how quickly we were getting work done, uh, all that fun stuff. The, the market that we went after was not enterprise from the get-go, right?",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Codex",
+        "Cursor",
+        "Vercel",
+        "Google"
+      ],
+      "createdAt": "2026-11-17T21:42:38.645Z"
+    },
     {
       "id": "2026-11-15-x-ead492ee2d7d",
       "date": "2026-11-15",
