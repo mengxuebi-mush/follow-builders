@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-18T21:20:49.602Z",
+  "feedGeneratedAt": "2026-11-18T06:28:37.829Z",
+  "snippets": [
+    {
+      "id": "2026-11-17-x-7108204f4c1f",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on agents and coding",
+      "takeaway": "devin bots are multi-agent teams done right: - always on, proactive (but tuned for ROI) - own outcomes not tasks (but can collab w others) - manages teams of subagents (and...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. devin bots are multi-agent teams done right: - always on, proactive (but tuned for ROI) - own outcomes not tasks (but can collab w others) - manages teams of subagents (and reviews itself) - available everywhere (call text slack whatever hello @interaction) - consistent reporting thru interactive artifacts aka devinapps not long chats (HTML is all you need™ @trq212) this is the preview that @walden_yan gave at AIE.",
+      "url": "https://x.com/swyx/status/2122746401482592549",
+      "publishedAt": "2026-11-17T17:39:15.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product",
+        "research"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-9b49461dfb8c",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models and costs",
+      "takeaway": "Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to get the job done and save you time and money along the way.",
+      "url": "https://x.com/joshwoodward/status/2122737427970425171",
+      "publishedAt": "2026-11-17T17:03:36.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward",
+        "Google"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-306a40dd6151",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and costs",
+      "takeaway": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.",
+      "url": "https://x.com/thsottiaux/status/2122929634916679820",
+      "publishedAt": "2026-11-18T05:47:21.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-b98479fb8e4b",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Ok I'll tell you guys the truth - since I didn't get early access the GPT-6.2 Astra I paid off all the other influencers so they could leave negative reviews.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Ok I'll tell you guys the truth - since I didn't get early access the GPT-6.2 Astra I paid off all the other influencers so they could leave negative reviews. Yes it's indeed a big conspiracy. Also you MUST eat my brisket I won't accept no for an answer. Models (except Opus 5.5 and a select few other special ones) are basically software with the shortest shelf life?",
+      "url": "https://x.com/petergyang/status/2122883865643720927",
+      "publishedAt": "2026-11-18T02:45:29.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-81dcb08b6c74",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "Didn’t think it was possible to do iOS-quality gestures on the web Agent swarms are the next scaling frontier for AI.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Didn’t think it was possible to do iOS-quality gestures on the web Agent swarms are the next scaling frontier for AI. For years, we’ve scaled intelligence by training larger models and giving them more time to think. But there’s another dimension: running many agents in parallel, exploring different approaches, challenging each other, and working together on solutions that no single agent could easily discover.",
+      "url": "https://x.com/amasad/status/2122805977187549558",
+      "publishedAt": "2026-11-17T21:35:59.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "OpenAI",
+        "Replit"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-8bbfca5e4b5d",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and models",
+      "takeaway": "Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software is here!",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software is here! OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing. Important signal: @vercel DeepsecBench is a stealth cyber benchmark. No lab has had access to the codebases to train on. fx is beautiful, try it out!",
+      "url": "https://x.com/rauchg/status/2122830064152899991",
+      "publishedAt": "2026-11-17T23:11:42.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "OpenAI",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-a2788423523d",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "crazy ideas are now possible but it takes just as much care and effort",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. crazy ideas are now possible but it takes just as much care and effort",
+      "url": "https://x.com/ryolu_/status/2122929249967554583",
+      "publishedAt": "2026-11-18T05:45:49.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-1afb65576ebe",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Only three people to remove from the board? Easy work 15% shareholder vote coming If you’re a shareholder, employee or former employee your voice is needed here How fast can they...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. Only three people to remove from the board? Easy work 15% shareholder vote coming If you’re a shareholder, employee or former employee your voice is needed here How fast can they do this?",
+      "url": "https://x.com/garrytan/status/2122910329537728747",
+      "publishedAt": "2026-11-18T04:30:38.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-b4de59dd0a96",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and costs",
+      "takeaway": "Building intelligence that compounds: excited to announce our investment in @remanencelabs and partner with @plcedoz, @hparams and Axel Moyal - a $30M seed co-led with @eqt.",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Building intelligence that compounds: excited to announce our investment in @remanencelabs and partner with @plcedoz, @hparams and Axel Moyal - a $30M seed co-led with @eqt. More on continual learning and the thesis here: Daytona continues to push agentic infra innovation - first to provide macOS sandboxes, for computer-use agents on Macs and building and testing Apple apps",
+      "url": "https://x.com/mattturck/status/2122717441461739571",
+      "publishedAt": "2026-11-17T15:44:10.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-96e3a4d4777f",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on ai",
+      "takeaway": "So pretty 😭 🌸 I love old commercials This was one-shotted. DM me if you want the prompt",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 3 recent updates. So pretty 😭 🌸 I love old commercials This was one-shotted. DM me if you want the prompt",
+      "url": "https://x.com/zarazhangrui/status/2122743151127667145",
+      "publishedAt": "2026-11-17T17:26:20.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-853c266b3879",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on models and costs",
+      "takeaway": "Grateful for another trip around the sun today with the best family, friends and founders/coworkers ✌️ Life’s been chaotically busy with just work, computer, family and some sleep.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. Grateful for another trip around the sun today with the best family, friends and founders/coworkers ✌️ Life’s been chaotically busy with just work, computer, family and some sleep. Not much time for anything else. Goal for next year is to do all of those, get fit, be present and be funmaxxing as much as possible. Send me your best tips on how to do it all! The model vibes yo-yo in the X sphere is freaking wild..",
+      "url": "https://x.com/nikunj/status/2122889175053832557",
+      "publishedAt": "2026-11-18T03:06:35.000Z",
+      "tags": [
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-1ca26a8ec22c",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models and product",
+      "takeaway": "the @every team's full ratings for Astra and Sol 6.2 hard to remember a frontier model release like this.",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. the @every team's full ratings for Astra and Sol 6.2 hard to remember a frontier model release like this. opus 5 is the closest comp if your team isn't generating videos like this instead of decks to explain new product direction...ngmi introducing the inverse @roon bench from @every",
+      "url": "https://x.com/danshipper/status/2122858139989012510",
+      "publishedAt": "2026-11-18T01:03:16.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-x-018423c1db27",
+      "date": "2026-11-17",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on models and costs",
+      "takeaway": "6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get great value from them. In particular, 6.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. 6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get great value from them. In particular, 6.2 Sol ultrafast is something I think people will really enjoy. Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and will prioritize that for upcoming releases.",
+      "url": "https://x.com/sama/status/2122798039899263456",
+      "publishedAt": "2026-11-17T21:04:27.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    },
+    {
+      "id": "2026-11-17-podcast-81339b16b8e8",
+      "date": "2026-11-17",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "takeaway": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs. So Deepgram is becoming one of the critical pieces of voice infrastructure for all agents.",
+      "summary": "So Deepgram is becoming one of the critical pieces of voice infrastructure for all agents. Whereas autoregressive models can just train on all the tokens in parallel, basically, and get the maximum gradient from each training example. I think especially Flux Context, if you're not aware of image editing models, I do think that this is in the ex-in the limit one of the things to fully replace Canva and, um, and Photoshop and a bunch of other workflows and editors that you might use in a normal creative workflow.",
+      "url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
+      "publishedAt": "2026-11-16T21:27:06.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Google",
+        "Meta",
+        "Supabase"
+      ],
+      "createdAt": "2026-11-18T21:20:49.602Z"
+    }
+  ]
+}
