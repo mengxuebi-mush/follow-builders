@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-18",
-  "generatedAt": "2026-11-19T21:24:43.322Z",
+  "generatedAt": "2026-11-19T22:38:23.789Z",
   "feedGeneratedAt": "2026-11-19T06:30:05.741Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-a94119b81147",
@@ -43,7 +43,7 @@
         "Josh Woodward",
         "Google"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-bd87cd7d2a49",
@@ -63,7 +63,7 @@
       "entities": [
         "Thibault Sottiaux"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-a7d44d7bc85b",
@@ -82,7 +82,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-4a549013b544",
@@ -103,7 +103,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-feeaa3e3e458",
@@ -123,7 +123,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-481b86489e88",
@@ -145,7 +145,7 @@
         "Google Labs",
         "Google"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-be72dbb9f0fd",
@@ -166,7 +166,7 @@
         "OpenAI",
         "Replit"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-4cba1ee0d5f9",
@@ -191,7 +191,7 @@
         "OpenAI",
         "Vercel"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-6f145cfc73b0",
@@ -212,7 +212,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-f6fa85585c0f",
@@ -231,7 +231,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-592ab9d31385",
@@ -251,7 +251,7 @@
         "Nikunj Kothari",
         "Anthropic"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-7bd4c8cbe2fb",
@@ -270,7 +270,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-47494b5486b6",
@@ -289,7 +289,7 @@
       "entities": [
         "Aditya Agarwal"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-x-81a8e0791cb2",
@@ -309,7 +309,7 @@
         "Sam Altman",
         "OpenAI"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     },
     {
       "id": "2026-11-18-podcast-2c9ec0827097",
@@ -334,7 +334,7 @@
         "Google",
         "Box"
       ],
-      "createdAt": "2026-11-19T21:24:43.322Z"
+      "createdAt": "2026-11-19T22:38:23.789Z"
     }
   ]
 }
