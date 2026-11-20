@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-20T21:00:46.455Z",
+  "feedGeneratedAt": "2026-11-20T06:29:26.095Z",
+  "snippets": [
+    {
+      "id": "2026-11-19-x-2b11d9d9cf9e",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when they have reached SOTA you post apology form and get even more likes and the subject of your writing prints it out and thanks you for motivation theres no consequences at all for inaccuracy and every incentive for hyperbole and the x...",
+      "url": "https://x.com/swyx/status/2123591875349422435",
+      "publishedAt": "2026-11-20T01:38:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-a80c9f843f42",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on costs and product",
+      "takeaway": "Gemini app on Mac can now do tasks on your computer, a top feature request!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 1 recent update. Gemini app on Mac can now do tasks on your computer, a top feature request!",
+      "url": "https://x.com/joshwoodward/status/2123534862569324703",
+      "publishedAt": "2026-11-19T21:52:19.000Z",
+      "tags": [
+        "costs",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-e23e67223e52",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on coding and models",
+      "takeaway": "We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover what you can do in ChatGPT.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default.",
+      "url": "https://x.com/thsottiaux/status/2123557171321561133",
+      "publishedAt": "2026-11-19T23:20:58.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "Codex"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-cf7256ac6b0e",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5.5, my favorite model for everyday work. Some takeaways: 1.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5.5, my favorite model for everyday work. Some takeaways: 1. Opus is still better at 3D and design from my testing, but Neon is on par or better at writing and personality, which is a huge accomplishment. 2. @Google Gemini 4 has 3 models, but in reality I think I'll use Neon for 99% of tasks.",
+      "url": "https://x.com/petergyang/status/2123540875733315815",
+      "publishedAt": "2026-11-19T22:16:12.000Z",
+      "tags": [
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Google"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-a2a8444974da",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on coding",
+      "takeaway": "an age of miracles Software is both art and utility. AI is both an Industrial Revolution and a Renaissance.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. an age of miracles Software is both art and utility. AI is both an Industrial Revolution and a Renaissance. Factories are for utilities, at AIE Code I talked about how we can make better art.",
+      "url": "https://x.com/trq212/status/2123457177419760100",
+      "publishedAt": "2026-11-19T16:43:37.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-bd2bc6826758",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents",
+      "takeaway": "Build your own Muse-like personal agent with one prompt. Having a contract with your agent is a paradigm I expect many will copy from us Sick!",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Build your own Muse-like personal agent with one prompt. Having a contract with your agent is a paradigm I expect many will copy from us Sick!",
+      "url": "https://x.com/amasad/status/2123535544718418191",
+      "publishedAt": "2026-11-19T21:55:01.000Z",
+      "tags": [
+        "agents"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-71e02230a223",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "My “is engineering a valuable pursuit” math. An outcome-oriented, creative engineer is now a 1000x engineer.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. My “is engineering a valuable pursuit” math. An outcome-oriented, creative engineer is now a 1000x engineer. A tabs-vs-spaces-debating, miss-forest-for-trees engineer is now a -10x engineer. The regular knowledge worker is now a 2x engineer. This is also backed by the distribution of token consumption we see in both our startups and enterprise base.",
+      "url": "https://x.com/rauchg/status/2123505400591106113",
+      "publishedAt": "2026-11-19T19:55:14.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Anthropic",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-865549a054fb",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "Bostrom: \"if nobody builds it, everyone dies\" Hard agree",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. Bostrom: \"if nobody builds it, everyone dies\" Hard agree",
+      "url": "https://x.com/garrytan/status/2123496208316694669",
+      "publishedAt": "2026-11-19T19:18:43.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-6401e893abda",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "lol NASDAQ hedging their bets Seems that @felixrieseberg from @AnthropicAI was having a really good day, for some reason?",
+      "summary": "Matt Turck (mattturck on X) shared 3 recent updates. lol NASDAQ hedging their bets Seems that @felixrieseberg from @AnthropicAI was having a really good day, for some reason? 🤷‍♂️ (Slush purpleness photo kindly taken by the multi-talented @deedydas) My earlier conversation with the truly excellent @felixrieseberg here:",
+      "url": "https://x.com/mattturck/status/2123465585166295351",
+      "publishedAt": "2026-11-19T17:17:02.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-521cedc8ffed",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on tools",
+      "takeaway": "As these network attacks and impersonation attempts happen, who's securing the elderly? Especially thinking about my parents and grandparents.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. As these network attacks and impersonation attempts happen, who's securing the elderly? Especially thinking about my parents and grandparents. There are four layers I can think through where this could work. One is at the browser level, where somebody builds a secure browser that ensures that whatever websites they're going to are secured. Texts typically lead to a link, even for payments. This is why browser is key.",
+      "url": "https://x.com/nikunj/status/2123426647273800172",
+      "publishedAt": "2026-11-19T14:42:18.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-2dbe35a20ed8",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on coding",
+      "takeaway": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet.",
+      "url": "https://x.com/steipete/status/2123487048250327497",
+      "publishedAt": "2026-11-19T18:42:19.000Z",
+      "tags": [
+        "coding"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Codex"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-3478108b387c",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on tools",
+      "takeaway": "who is working on helping stop the infrastructure attacks happening right now, and how can people in AI help?",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. who is working on helping stop the infrastructure attacks happening right now, and how can people in AI help?",
+      "url": "https://x.com/danshipper/status/2123435061236404385",
+      "publishedAt": "2026-11-19T15:15:44.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-99f1515e2ae4",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and coding",
+      "takeaway": "Congratulations to the folks at Anthropic. SPC's goal isn't just to get people to start companies. Today is a good day to explain why.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Congratulations to the folks at Anthropic. SPC's goal isn't just to get people to start companies. Today is a good day to explain why. Two of the people who helped build Anthropic spent significant time at @spc. @nottombrown showed up at SPC in 2016 with no ML background. He spent his days working through papers with other members, then co-founded Anthropic.",
+      "url": "https://x.com/adityaag/status/2123494873919783073",
+      "publishedAt": "2026-11-19T19:13:25.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-x-ed19f63f3a66",
+      "date": "2026-11-19",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on ai",
+      "takeaway": "",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. ",
+      "url": "https://x.com/claudeai/status/2123431928414273582",
+      "publishedAt": "2026-11-19T15:03:17.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    },
+    {
+      "id": "2026-11-19-podcast-3b007f02f406",
+      "date": "2026-11-19",
+      "sourceType": "podcast",
+      "sourceName": "No Priors",
+      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "We've seen a huge amount of improvement from ChatGPT, from agents. You know, we wanted to build the enterprise platform for the intelligence community, which ultimately became, you know, the enterprise platform for all enterprises. You know, the way I like to think about it is, you know, back in 2005, I spent a lot of time in secure spaces in Northern Virginia, working with people with secret workflows that couldn't leave the building, and had to figure out how to build a product for them, right?",
+      "url": "https://www.youtube.com/watch?v=_wLzJINt9iQ",
+      "publishedAt": "2026-11-19T11:44:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "No Priors",
+        "OpenAI",
+        "Anthropic",
+        "Cursor",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-11-20T21:00:46.455Z"
+    }
+  ]
+}
