@@ -1,7 +1,343 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T00:44:53.958Z",
+  "generatedAt": "2026-11-21T20:01:32.005Z",
   "snippets": [
+    {
+      "id": "2026-11-20-x-cef84f8e2da7",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on coding and tools",
+      "takeaway": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet?",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? 🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! broooo",
+      "url": "https://x.com/swyx/status/2123690305736396925",
+      "publishedAt": "2026-11-20T08:09:59.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-b1aa0bc6c275",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on models",
+      "takeaway": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the post from @UFO2002616 so much...",
+      "summary": "Josh Woodward (joshwoodward on X) shared 2 recent updates. Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the post from @UFO2002616 so much that we just built it and threw it into prod! Long click on the model picker on the web and enjoy 🙂 Thanks again to @UFO2002616 for the inspiration!",
+      "url": "https://x.com/joshwoodward/status/2123943606906138868",
+      "publishedAt": "2026-11-21T00:56:31.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-0840d1b9e34b",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on tools",
+      "takeaway": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this. Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use. First tweet from Akshay. Be nice to this one, he’s special.",
+      "url": "https://x.com/thsottiaux/status/2123997735326232775",
+      "publishedAt": "2026-11-21T04:31:36.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-8cbbcde588af",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and tools",
+      "takeaway": "BREAKING: @JensenHuang Once Tried to Offer Brisket to a Visibly Vegetarian Squirrel For those of you trying out @antigravity for Neon, here's a quick tip: 1. Go to 2.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. BREAKING: @JensenHuang Once Tried to Offer Brisket to a Visibly Vegetarian Squirrel For those of you trying out @antigravity for Neon, here's a quick tip: 1. Go to 2. Tap see more and then the share button 3. Tap Add to Home Screen Then you can talk to all your Antigravity threads via remote control on mobile.",
+      "url": "https://x.com/petergyang/status/2123941250902667762",
+      "publishedAt": "2026-11-21T00:47:09.000Z",
+      "tags": [
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-3500f24bd05e",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "big perf and QoL wins for actions you do dozens to hundreds of times a day",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. big perf and QoL wins for actions you do dozens to hundreds of times a day",
+      "url": "https://x.com/thenanyu/status/2123983081577267264",
+      "publishedAt": "2026-11-21T03:33:23.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-179b6445f3ed",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on models and product",
+      "takeaway": "Who are the most interesting AI people I should meet in Chennai? I’ll be in town end of Nov - 1st wk Dec.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. Who are the most interesting AI people I should meet in Chennai? I’ll be in town end of Nov - 1st wk Dec. about me: I’m at Meta building AI products now; previously led product for Gemini, Veo and Nano Banana models at Google. schedule is tight but I should be able to squeeze in a few meetings.",
+      "url": "https://x.com/realmadhuguru/status/2123972492645777629",
+      "publishedAt": "2026-11-21T02:51:18.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Madhu Guru",
+        "Google",
+        "Meta"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-8fca4ba4d136",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "I think I’ve figured out the gameplay loop! It’s a sports anime game, but the sport is elemental bending.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. I think I’ve figured out the gameplay loop! It’s a sports anime game, but the sport is elemental bending. You fight in tournaments alongside your squad, and between matches they have their own stories you can get into, like in Mass Effect or Dragon Age. I am now even more against handoff I'm calling it Home Ground.",
+      "url": "https://x.com/trq212/status/2123909357071159327",
+      "publishedAt": "2026-11-20T22:40:25.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-7a6003b37987",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "With two separate Riemann proofs, one AI and one Human, coming out at the same time, assuming they’re both correct, it’ll be interesting to see the difference especially on...",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. With two separate Riemann proofs, one AI and one Human, coming out at the same time, assuming they’re both correct, it’ll be interesting to see the difference especially on elegance. It’s phenomenal Is it a bear market?",
+      "url": "https://x.com/amasad/status/2123874539218010491",
+      "publishedAt": "2026-11-20T20:22:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-f2e690855112",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and enterprise",
+      "takeaway": "ISO 42001:2023 is like the \"SOC2 of AI\". It's the first global, independently audited standard for how companies build, evaluate, monitor and govern AI systems.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. ISO 42001:2023 is like the \"SOC2 of AI\". It's the first global, independently audited standard for how companies build, evaluate, monitor and govern AI systems. When you ship on and use Vercel's AI, you now know the infra is audited annually by an accredited third party. When I first tried an internal pre-release version of @eve, a personal shopper agent was my \"hello world\".",
+      "url": "https://x.com/rauchg/status/2123869175085191298",
+      "publishedAt": "2026-11-20T20:00:45.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-cb1d61755903",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and models",
+      "takeaway": "Going to be a big day in math This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s better to use these systems to solve...",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. Going to be a big day in math This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s better to use these systems to solve problems you can’t easily define yourself. A year ago you’d need to very clearly tell agents the how to design and develop your product idea, or there was almost no chance of success.",
+      "url": "https://x.com/levie/status/2123792233535332448",
+      "publishedAt": "2026-11-20T14:55:01.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-3ca3e7a016da",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "You don’t need an asset seizure tax You need to encourage building new ideas and startups in California And then you need a government that spends it wisely on things that help...",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. You don’t need an asset seizure tax You need to encourage building new ideas and startups in California And then you need a government that spends it wisely on things that help the people That’s it. The ivory tower academics and the SEIU-HNW union bosses have it wrong.",
+      "url": "https://x.com/garrytan/status/2123796297836896292",
+      "publishedAt": "2026-11-20T15:11:10.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-f8680f574661",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on agents and tools",
+      "takeaway": "Automated agentic emailing vs the real world, a story: Guy emails me twice to meet at a conference (Slush) I reply once He then emails me 3 times in rapid succession Damn that guy...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. Automated agentic emailing vs the real world, a story: Guy emails me twice to meet at a conference (Slush) I reply once He then emails me 3 times in rapid succession Damn that guy really wants to meet I bump into him later that day I say “well, was meant to be” He reads my name tag, twice. Blank face. He clearly has no idea who I am. He says “oh hi” and walks away. The end.",
+      "url": "https://x.com/mattturck/status/2123777488786538982",
+      "publishedAt": "2026-11-20T13:56:25.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-9dcd1d42ed71",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on coding and models",
+      "takeaway": "Do not send your clients Claude Artifacts/ChatGPT sites It makes them feel like “Well I could have just prompted Claude/Codex myself” If you curate, you should create",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Do not send your clients Claude Artifacts/ChatGPT sites It makes them feel like “Well I could have just prompted Claude/Codex myself” If you curate, you should create",
+      "url": "https://x.com/zarazhangrui/status/2123813583339532321",
+      "publishedAt": "2026-11-20T16:19:51.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-ed20c92aa089",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "\"one dawn across science of something far greater\"",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. \"one dawn across science of something far greater\"",
+      "url": "https://x.com/danshipper/status/2123795694557315556",
+      "publishedAt": "2026-11-20T15:08:46.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-x-40a543ae2bec",
+      "date": "2026-11-20",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": ".@theRealTrishaK started @unit21inc at @spc in 2018. It has since caught $14B+ in financial crime. Kavitha Iyer Rodrigues started @zumutor in 2013, believing new cancer drugs...",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. .@theRealTrishaK started @unit21inc at @spc in 2018. It has since caught $14B+ in financial crime. Kavitha Iyer Rodrigues started @zumutor in 2013, believing new cancer drugs would be discovered in India. Join us at @spc_india on Nov 25th. We are solving Riemann and also crushing pancreatic cancer with a pill. But sure, let’s debate whether the “AI trade” is good lol. Request a spot",
+      "url": "https://x.com/adityaag/status/2123800766163173511",
+      "publishedAt": "2026-11-20T15:28:55.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
+    {
+      "id": "2026-11-20-podcast-a6e0f58502c7",
+      "date": "2026-11-20",
+      "sourceType": "podcast",
+      "sourceName": "Latent Space",
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "takeaway": "Enterprise AI is moving from chat rollout toward agentic workflows, with token budgets, rollout speed, and workflow integration becoming the practical bottlenecks.",
+      "summary": "\"I completely agree.\" Um, and so we've really oriented the company in the last year and a half around agents and agents performing a lot of the parts of the workflow that are effectively not product development. So when you first joined, like, I guess I've never been in a sales role, but, like, do you have to say, \"Okay, we're starting with startups, and we can't just immediately go to, like, big enterprises and start selling them.\" Yeah.",
+      "url": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
+      "publishedAt": "2026-11-19T23:38:57.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Latent Space",
+        "OpenAI",
+        "Anthropic",
+        "Codex",
+        "Cursor",
+        "Vercel",
+        "Google",
+        "Box"
+      ],
+      "createdAt": "2026-11-21T20:01:32.005Z"
+    },
     {
       "id": "2026-11-19-x-2b11d9d9cf9e",
       "date": "2026-11-19",
