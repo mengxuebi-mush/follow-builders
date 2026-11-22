@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-21",
-  "generatedAt": "2026-11-22T20:16:48.322Z",
+  "generatedAt": "2026-11-22T21:00:11.470Z",
   "feedGeneratedAt": "2026-11-22T06:27:10.098Z",
   "snippets": [
     {
@@ -21,7 +21,7 @@
       "entities": [
         "Swyx"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-845cc59c3a5e",
@@ -43,7 +43,7 @@
         "Thibault Sottiaux",
         "Codex"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-9b924c6fd617",
@@ -65,7 +65,7 @@
         "Peter Yang",
         "Codex"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-9675a37f2343",
@@ -85,7 +85,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-b362140d06ea",
@@ -106,7 +106,7 @@
         "Thariq",
         "Claude"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-a96abfaaf106",
@@ -127,7 +127,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-ce920ff224f9",
@@ -146,7 +146,7 @@
       "entities": [
         "Guillermo Rauch"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-48be99f21508",
@@ -169,7 +169,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-66e4dce766da",
@@ -190,7 +190,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-d9b5849a37d8",
@@ -209,7 +209,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-cdf77a7be928",
@@ -228,7 +228,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-x-4ba3dd6e381e",
@@ -248,7 +248,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     },
     {
       "id": "2026-11-21-podcast-527f854fb74f",
@@ -272,7 +272,7 @@
         "Anthropic",
         "Google"
       ],
-      "createdAt": "2026-11-22T20:16:48.322Z"
+      "createdAt": "2026-11-22T21:00:11.470Z"
     }
   ]
 }
