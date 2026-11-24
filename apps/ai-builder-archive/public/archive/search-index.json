@@ -1,7 +1,263 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T00:44:35.383Z",
+  "generatedAt": "2026-11-24T02:07:44.973Z",
   "snippets": [
+    {
+      "id": "2026-11-22-x-664e0028e8b4",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and research",
+      "takeaway": "OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS) “Given that the main way new surprising capabilities emerge is...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS) “Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process.",
+      "url": "https://x.com/swyx/status/2124583459356373052",
+      "publishedAt": "2026-11-22T19:19:04.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Swyx",
+        "OpenAI",
+        "Perplexity"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-f05c3ca15fd5",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and enterprise",
+      "takeaway": "\"Agents are very harsh customers.\" From @clamanna (EVP @Microsoft Copilot) on what happens when agents become the main users of software: \"[Agents] will look for the best...",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. \"Agents are very harsh customers.\" From @clamanna (EVP @Microsoft Copilot) on what happens when agents become the main users of software: \"[Agents] will look for the best performance, price, and reliability. What an agent prefers isn't always what a person would prefer. When a person does a search, you give them 10 links with small snippets. An agent doesn't care. You can return a thousand results.",
+      "url": "https://x.com/petergyang/status/2124669298191090033",
+      "publishedAt": "2026-11-23T01:00:09.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-d235dc5ffeeb",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on coding",
+      "takeaway": "I found a secret prompt that makes all your vibecoded projects scale and perform better, with higher reliability. “Use Postgres”",
+      "summary": "Nan Yu (thenanyu on X) shared 1 recent update. I found a secret prompt that makes all your vibecoded projects scale and perform better, with higher reliability. “Use Postgres”",
+      "url": "https://x.com/thenanyu/status/2124592238974156861",
+      "publishedAt": "2026-11-22T19:53:57.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-ab2864717a66",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and models",
+      "takeaway": "Desktop AI apps are generally a security & privacy nightmare. We worked with Windows to ship a world-class security model for Replit Desktop.",
+      "summary": "Amjad Masad (amasad on X) shared 2 recent updates. Desktop AI apps are generally a security & privacy nightmare. We worked with Windows to ship a world-class security model for Replit Desktop. Which is why Christie’s, the world’s preeminent custodian of rare art, chose Replit for secure agentic work! Spectacle",
+      "url": "https://x.com/amasad/status/2124604574606795002",
+      "publishedAt": "2026-11-22T20:42:58.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-5f0391c99591",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on coding and enterprise",
+      "takeaway": "This aged extremely well. There's a tweet out there (will likely get deleted soon) of a provider giving you \"free\" inference of a \"stealth model\" that's \"ZDR\" with millions of...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 2 recent updates. This aged extremely well. There's a tweet out there (will likely get deleted soon) of a provider giving you \"free\" inference of a \"stealth model\" that's \"ZDR\" with millions of views. These stealth models are mechanisms of industrial scale data exfiltration to nation state programs, I strongly suspect, and the Dragos research seems to confirm.",
+      "url": "https://x.com/rauchg/status/2124595496849445079",
+      "publishedAt": "2026-11-22T20:06:54.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-5ae0665c1d3b",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and costs",
+      "takeaway": "Yes to all of this. As agents take on more and more long running project work, and you have swarms of agents that parallelize work against a goal, the agent harness and...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Yes to all of this. As agents take on more and more long running project work, and you have swarms of agents that parallelize work against a goal, the agent harness and architecture for orchestration will have to evolve. One of the biggest shifts is how those agents collectively share their knowledge, keep track of the tasks, and also coordinate with human users.",
+      "url": "https://x.com/levie/status/2124658150771188157",
+      "publishedAt": "2026-11-23T00:15:52.000Z",
+      "tags": [
+        "agents",
+        "costs",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-bb9e4c1f05d8",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on ai",
+      "takeaway": "ryOS Karaoke, native on iOS, almost one-shotted with @airbuild half fold the iPhone Duo and it's a tiny karaoke machine 🎤",
+      "summary": "Ryo Lu (ryolu_ on X) shared 1 recent update. ryOS Karaoke, native on iOS, almost one-shotted with @airbuild half fold the iPhone Duo and it's a tiny karaoke machine 🎤",
+      "url": "https://x.com/ryolu_/status/2124473853858725907",
+      "publishedAt": "2026-11-22T12:03:32.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-a6af4ea50fdb",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on product",
+      "takeaway": "Breaking: AI fails to solve the most intractable math problem, how VCs are going to return those huge funds when the entry valuation of their deals is &gt; $1B pre-product Had...",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. Breaking: AI fails to solve the most intractable math problem, how VCs are going to return those huge funds when the entry valuation of their deals is &gt; $1B pre-product Had been years in the making, but sometime in 2026, tech street advertising completely took over NYC, making it look like SF. It’s everywhere now, every billboard, every subway car, every taxi. Can’t say that I love it tbh.",
+      "url": "https://x.com/mattturck/status/2124671699245257037",
+      "publishedAt": "2026-11-23T01:09:42.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-899b3613b8c6",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on ai",
+      "takeaway": "The worst cold email does not exi- 2026 Docusign stock holders must be the smuggest of people rn.. On the list now 🫡 - thank you Tesla friend (not @ ing to avoid the deluge)",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. The worst cold email does not exi- 2026 Docusign stock holders must be the smuggest of people rn.. On the list now 🫡 - thank you Tesla friend (not @ ing to avoid the deluge)",
+      "url": "https://x.com/nikunj/status/2124646168428966181",
+      "publishedAt": "2026-11-22T23:28:15.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-008244430161",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "i am usually not alarmist but assuming this is caused by an AI-assisted cyber attack it's very bad if you want to make all of the security measures we have in place from 9/11...",
+      "summary": "Dan Shipper (danshipper on X) shared 1 recent update. i am usually not alarmist but assuming this is caused by an AI-assisted cyber attack it's very bad if you want to make all of the security measures we have in place from 9/11 onward to prevent human hijackers irrelevant all you have to do is be able to mess with a plane and pilot's ability to know its own weight, how much fuel is left, and where it is without knowing any more information about this, you'd also...",
+      "url": "https://x.com/danshipper/status/2124567533449613819",
+      "publishedAt": "2026-11-22T18:15:47.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-x-2a99d20106b8",
+      "date": "2026-11-22",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on coding and models",
+      "takeaway": "\"I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such models and red-team safety cases for them by the time they are...",
+      "summary": "Sam Altman (sama on X) shared 3 recent updates. \"I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such models and red-team safety cases for them by the time they are first used, including shared transparency standards. I further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a...",
+      "url": "https://x.com/sama/status/2124551883130114403",
+      "publishedAt": "2026-11-22T17:13:35.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Sam Altman",
+        "Perplexity"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
+    {
+      "id": "2026-11-22-podcast-f4979a8e96d8",
+      "date": "2026-11-22",
+      "sourceType": "podcast",
+      "sourceName": "AI & I by Every",
+      "title": "A New Vision for Human Work After Automation",
+      "takeaway": "A New Vision for Human Work After Automation. So if you look back at this table, and you think about my week last week, doing all of this, which would have taken five people in...",
+      "summary": "So if you look back at this table, and you think about my week last week, doing all of this, which would have taken five people in 2020, and I'm doing all of that work with a team of agents in the cracks of my week while I'm doing a totally other separate set of tasks. Great work is the perspective you bring to the model.",
+      "url": "https://www.youtube.com/watch?v=WstNofgQF5Q",
+      "publishedAt": "2026-11-11T15:30:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "AI & I by Every",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "createdAt": "2026-11-24T02:07:44.973Z"
+    },
     {
       "id": "2026-11-21-x-4e1ba422fb29",
       "date": "2026-11-21",
