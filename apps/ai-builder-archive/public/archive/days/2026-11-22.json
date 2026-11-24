@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-22",
-  "generatedAt": "2026-11-24T02:07:44.973Z",
+  "generatedAt": "2026-11-24T03:17:33.717Z",
   "feedGeneratedAt": "2026-11-23T06:38:54.921Z",
   "snippets": [
     {
@@ -24,7 +24,7 @@
         "OpenAI",
         "Perplexity"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-f05c3ca15fd5",
@@ -46,7 +46,7 @@
         "Peter Yang",
         "Microsoft"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-d235dc5ffeeb",
@@ -66,7 +66,7 @@
       "entities": [
         "Nan Yu"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-ab2864717a66",
@@ -88,7 +88,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-5f0391c99591",
@@ -112,7 +112,7 @@
         "Guillermo Rauch",
         "Vercel"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-5ae0665c1d3b",
@@ -134,7 +134,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-bb9e4c1f05d8",
@@ -154,7 +154,7 @@
       "entities": [
         "Ryo Lu"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-a6af4ea50fdb",
@@ -173,7 +173,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-899b3613b8c6",
@@ -192,7 +192,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-008244430161",
@@ -211,7 +211,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-x-2a99d20106b8",
@@ -233,7 +233,7 @@
         "Sam Altman",
         "Perplexity"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     },
     {
       "id": "2026-11-22-podcast-f4979a8e96d8",
@@ -258,7 +258,7 @@
         "Anthropic",
         "Claude"
       ],
-      "createdAt": "2026-11-24T02:07:44.973Z"
+      "createdAt": "2026-11-24T03:17:33.717Z"
     }
   ]
 }
