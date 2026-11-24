@@ -1,7 +1,362 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T04:15:28.961Z",
+  "generatedAt": "2026-11-24T22:58:48.542Z",
   "snippets": [
+    {
+      "id": "2026-11-23-x-9396e617f06b",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on ai",
+      "takeaway": "microsoft answers the call!!!!! oh my, am I a @mustafasuleyman stan?? i think we need @alexandr_wang to join in and that will be the tipping point for all labs to unite on this...",
+      "summary": "Swyx (swyx on X) shared 2 recent updates. microsoft answers the call!!!!! oh my, am I a @mustafasuleyman stan?? i think we need @alexandr_wang to join in and that will be the tipping point for all labs to unite on this effort @theallinpod also this FTX SBF quote",
+      "url": "https://x.com/swyx/status/2124780264916423021",
+      "publishedAt": "2026-11-23T08:21:06.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Swyx",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-4b0074ad285f",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and enterprise",
+      "takeaway": "A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise.",
+      "summary": "Boris Cherny (bcherny on X) shared 3 recent updates. A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can’t imagine shipping without it. It multiplies my velocity. I don’t need to wait around for code review or babysit PRs, and the results are better.",
+      "url": "https://x.com/bcherny/status/2124961485801836573",
+      "publishedAt": "2026-11-23T20:21:12.000Z",
+      "tags": [
+        "coding",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-5c22f110061a",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and tools",
+      "takeaway": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you. Together with all the investments we are making across simplifying the app, making it...",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. You should feel a significant jump in quality of answers on ChatGPT once rolled out to you. Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year. Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.",
+      "url": "https://x.com/thsottiaux/status/2124998553856844186",
+      "publishedAt": "2026-11-23T22:48:30.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Thibault Sottiaux",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-874d2c7e3dab",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on models and product",
+      "takeaway": "I think it's kinda BS that schools have so many no school days like this whole week is no school while the parents still have to work .",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I think it's kinda BS that schools have so many no school days like this whole week is no school while the parents still have to work .@ChatGPT Dots still feels very buggy - it sends emails without me reviewing and randomly just stops responding. I really want to like this product but maybe I’m prompting it wrong? Ok I admit I'm just salty for not being able to play GTA 6 during the day haha",
+      "url": "https://x.com/petergyang/status/2125030140577296647",
+      "publishedAt": "2026-11-24T00:54:01.000Z",
+      "tags": [
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-408158413677",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on coding and models",
+      "takeaway": "Part of the disconnect is that the name “data” massively undersells what it truly represents in model development.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 2 recent updates. Part of the disconnect is that the name “data” massively undersells what it truly represents in model development. People who are not close to model development think of data as this inert commodity you buy and shovel into a model, like coal. In reality great data encodes incredibly high value knowledge, taste and expertise, often articulated and structured in ways that did not exist previously.",
+      "url": "https://x.com/realmadhuguru/status/2125102190196859156",
+      "publishedAt": "2026-11-24T05:40:19.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-808c3dad3b43",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and costs",
+      "takeaway": "they cut the scene in Hitchhiker's Guide where the computer follows 42 with 500 million pages of Lean X payouts are such a good model for future software companies keep a lean...",
+      "summary": "Thariq (trq212 on X) shared 2 recent updates. they cut the scene in Hitchhiker's Guide where the computer follows 42 with 500 million pages of Lean X payouts are such a good model for future software companies keep a lean core team and pay the users who help it grow, get better with feedback, sell, etc.",
+      "url": "https://x.com/trq212/status/2124767804247379968",
+      "publishedAt": "2026-11-23T07:31:35.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-b2b35393dab6",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "Great meeting with VP @JDVance on Friday to discuss American AI leadership, cybersecurity, and modernizing our nation’s software infrastructure.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. Great meeting with VP @JDVance on Friday to discuss American AI leadership, cybersecurity, and modernizing our nation’s software infrastructure. We also discussed an issue close to my heart: American leadership in open-weight AI. Our allies want sovereign AI and are increasingly looking to Chinese open models. At home, American startups need a competitive model ecosystem.",
+      "url": "https://x.com/amasad/status/2125008810041610359",
+      "publishedAt": "2026-11-23T23:29:15.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-e0258e4303b0",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on models and research",
+      "takeaway": "I asked Fable to study all my coding sessions and decide whether Opus or Gemini Neon is best. Think of it as a 'personal eval'. It picked Neon.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. I asked Fable to study all my coding sessions and decide whether Opus or Gemini Neon is best. Think of it as a 'personal eval'. It picked Neon. Google being so, so back seems widely (and wildly) under-discussed. An actually good board! ▲ + 🇯🇵 Vercel is doubling down on Japan!",
+      "url": "https://x.com/rauchg/status/2124880074168242369",
+      "publishedAt": "2026-11-23T14:57:42.000Z",
+      "tags": [
+        "models",
+        "research"
+      ],
+      "entities": [
+        "Guillermo Rauch",
+        "Vercel",
+        "Google"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-90c1b075e127",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "2026 is just waking up each day to the magnitude of news that could only have happened once per decade before 2026. This is a pretty key insight.",
+      "summary": "Aaron Levie (levie on X) shared 2 recent updates. 2026 is just waking up each day to the magnitude of news that could only have happened once per decade before 2026. This is a pretty key insight. Services businesses are always held back by their ability to deliver outcomes to customers.",
+      "url": "https://x.com/levie/status/2124930801485930564",
+      "publishedAt": "2026-11-23T18:19:17.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-febccf98bd0b",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on ai",
+      "takeaway": "One trick a startup can use to self-prompt in a loop: ask yourself “are we dying?” If you ask you might spot the thing killing you and avert it",
+      "summary": "Garry Tan (garrytan on X) shared 1 recent update. One trick a startup can use to self-prompt in a loop: ask yourself “are we dying?” If you ask you might spot the thing killing you and avert it",
+      "url": "https://x.com/garrytan/status/2124905972296560973",
+      "publishedAt": "2026-11-23T16:40:37.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-753412f33c18",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "People on LinkedIn are going to go WILD when they hear about Jensen returning, next week BREAKING: AI JESUS IS RISEN",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. People on LinkedIn are going to go WILD when they hear about Jensen returning, next week BREAKING: AI JESUS IS RISEN",
+      "url": "https://x.com/mattturck/status/2124908682626613368",
+      "publishedAt": "2026-11-23T16:51:23.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-451821508264",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "You can post on social media every day and still be a very private person; the two are not contradictory Many people have the misconception that sharing your thoughts online means...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. You can post on social media every day and still be a very private person; the two are not contradictory Many people have the misconception that sharing your thoughts online means turning your whole life into an open book for others to see. This can’t be further from the truth I post almost every day but I only share a tiny sliver of my life & thoughts, probably less than 1%.",
+      "url": "https://x.com/zarazhangrui/status/2124905740095885414",
+      "publishedAt": "2026-11-23T16:39:41.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-7ae313b3675c",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on product",
+      "takeaway": "2027 job descriptions be like… Founder: Swarm Overlord Product Manager: Swarm Rider Designer: Swarm Choreographer Systems Engineer: Swarm Architect Forward Deployed Engineer:...",
+      "summary": "Nikunj Kothari (nikunj on X) shared 3 recent updates. 2027 job descriptions be like… Founder: Swarm Overlord Product Manager: Swarm Rider Designer: Swarm Choreographer Systems Engineer: Swarm Architect Forward Deployed Engineer: Swarm Wrangler Marketer: Swarm Propagandist VC: Swarm Speculator Nvidia board took this one personally 😂 If you like news and drama, there’s simply no month like November for AI..",
+      "url": "https://x.com/nikunj/status/2125033540287131901",
+      "publishedAt": "2026-11-24T01:07:31.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-2c48b53a59d2",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on research",
+      "takeaway": "You need to be personal benchmark maxxing here's how to make a personal benchmark, courtesy our very own @hammer_mt:",
+      "summary": "Dan Shipper (danshipper on X) shared 2 recent updates. You need to be personal benchmark maxxing here's how to make a personal benchmark, courtesy our very own @hammer_mt:",
+      "url": "https://x.com/danshipper/status/2124886826909622653",
+      "publishedAt": "2026-11-23T15:24:32.000Z",
+      "tags": [
+        "research"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-a85b25f463f0",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on agents and product",
+      "takeaway": "Sometimes you need to travel abroad to deeply appreciate just how inspirational America is to the rest of the world.",
+      "summary": "Aditya Agarwal (adityaag on X) shared 3 recent updates. Sometimes you need to travel abroad to deeply appreciate just how inspirational America is to the rest of the world. Countries and individuals aspire to have an entreprenurial ecosystem like ours. A capital market base like ours. They don't want to be like China or the UK or Denmark. They want to be like America. And this is particularly true for the most ambitious people in every country.",
+      "url": "https://x.com/adityaag/status/2125096073228439683",
+      "publishedAt": "2026-11-24T05:16:00.000Z",
+      "tags": [
+        "agents",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aditya Agarwal",
+        "Meta"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-844c22a2e097",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on ai",
+      "takeaway": "Jensen! This is really really good:",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. Jensen! This is really really good:",
+      "url": "https://x.com/sama/status/2124887162206495228",
+      "publishedAt": "2026-11-23T15:25:52.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Sam Altman"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
+    {
+      "id": "2026-11-23-x-d1e1fa1ba8f9",
+      "date": "2026-11-23",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on enterprise and models",
+      "takeaway": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both. Connectors and skills come together as plugins.",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. There’s now one way to connect your tools to Claude, teach it a new skill, or do both. Connectors and skills come together as plugins. Live on Free, Pro, Max, and Ultra plans, with Team and Enterprise coming soon. Browse 10,000+ plugins: Zero data retention (ZDR) with Enterprise Frontier Safeguards (EFS) is now in public beta for eligible businesses.",
+      "url": "https://x.com/claudeai/status/2124970294523945328",
+      "publishedAt": "2026-11-23T20:56:12.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude",
+        "Google",
+        "Microsoft"
+      ],
+      "createdAt": "2026-11-24T22:58:48.542Z"
+    },
     {
       "id": "2026-11-22-x-664e0028e8b4",
       "date": "2026-11-22",
