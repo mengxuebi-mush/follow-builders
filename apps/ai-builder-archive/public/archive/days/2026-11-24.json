@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-25T22:26:09.374Z",
+  "feedGeneratedAt": "2026-11-25T06:30:31.369Z",
+  "snippets": [
+    {
+      "id": "2026-11-24-x-607ef8bc173c",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on tools",
+      "takeaway": "hey is silicon valley okay because wtf literally if you turn your brain off you are just choosing not to listen at this point also useful here from John: - local-cloud envs &...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. hey is silicon valley okay because wtf literally if you turn your brain off you are just choosing not to listen at this point also useful here from John: - local-cloud envs & sandboxes - session vs conversation store - user approval inbox - stream listeners - artifacts for everyone - all configurations of dashboard",
+      "url": "https://x.com/swyx/status/2125444028527468699",
+      "publishedAt": "2026-11-25T04:18:39.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Swyx"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-93f0e1825435",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Boris Cherny",
+      "title": "Boris Cherny on coding and models",
+      "takeaway": "Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box.",
+      "summary": "Boris Cherny (bcherny on X) shared 1 recent update. Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box.",
+      "url": "https://x.com/bcherny/status/2125292098165612585",
+      "publishedAt": "2026-11-24T18:14:56.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Boris Cherny",
+        "Claude",
+        "Box"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-4d0ba2e8cb33",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models",
+      "takeaway": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 3 recent updates. To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun! Sign up for ChatGPT Business:",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "publishedAt": "2026-11-24T18:43:21.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-ecc2f7a8ffb4",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on agents and coding",
+      "takeaway": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo. Some takeaways: 1.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo. Some takeaways: 1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once. 2. /grill-me is a great built-in skill that gets Antigravity to ask clarifying questions to help you flesh out the plan first. 3.",
+      "url": "https://x.com/petergyang/status/2125246815884984398",
+      "publishedAt": "2026-11-24T15:15:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Peter Yang",
+        "Claude"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-1bacd5ec3fcc",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on ai",
+      "takeaway": "DOT SUPREMACY MOAR DOT SUPREMACY",
+      "summary": "Nan Yu (thenanyu on X) shared 2 recent updates. DOT SUPREMACY MOAR DOT SUPREMACY",
+      "url": "https://x.com/thenanyu/status/2125388928647880795",
+      "publishedAt": "2026-11-25T00:39:43.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-a3d20415abaa",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on ai",
+      "takeaway": "the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right. it’s wild how many prominent VCs, analysts and experts spoke with complete confidence about how things would play out . some flip-flopped on their predictions within days - each time with the same confidence!",
+      "url": "https://x.com/realmadhuguru/status/2125355549202194801",
+      "publishedAt": "2026-11-24T22:27:04.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-ed3cdc6b1106",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on ai",
+      "takeaway": "you have to be bad at it for a while",
+      "summary": "Thariq (trq212 on X) shared 1 recent update. you have to be bad at it for a while",
+      "url": "https://x.com/trq212/status/2125156290494353663",
+      "publishedAt": "2026-11-24T09:15:17.000Z",
+      "tags": [
+        "coding",
+        "models"
+      ],
+      "entities": [
+        "Thariq"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-53f9bed43daa",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on agents and enterprise",
+      "takeaway": "America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.",
+      "summary": "Amjad Masad (amasad on X) shared 3 recent updates. America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia. Governments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control. If American companies won’t meet that demand, Chinese companies will.",
+      "url": "https://x.com/amasad/status/2125353849057853876",
+      "publishedAt": "2026-11-24T22:20:19.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "costs",
+        "tools"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-57269838ab7e",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and tools",
+      "takeaway": "Good stuff The main reason is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡.",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. Good stuff The main reason is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡. The goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface: browsers, servers, mobile, desktop, OS, ADEs… Open sourced the bg effect builder: (🔉)",
+      "url": "https://x.com/rauchg/status/2125330925324300725",
+      "publishedAt": "2026-11-24T20:49:13.000Z",
+      "tags": [
+        "agents",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-c7836fd38f65",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and enterprise",
+      "takeaway": "This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress.",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted AI. This is a different phenomenon from other tech.",
+      "url": "https://x.com/levie/status/2125442246543814686",
+      "publishedAt": "2026-11-25T04:11:35.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "models",
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-ff69b3626ab7",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on enterprise and models",
+      "takeaway": "YC is the YC for hard tech Second, society hit a limit in its ability to absorb the tech socially. There are natural brakes on how much a knowledge work process or business...",
+      "summary": "Garry Tan (garrytan on X) shared 3 recent updates. YC is the YC for hard tech Second, society hit a limit in its ability to absorb the tech socially. There are natural brakes on how much a knowledge work process or business process can change: people don’t like their cheese moved. First, the models have reached beyond what some customers even need. Though I suspect there is still a step function in agency and taste available even if the models can do the tasks today.",
+      "url": "https://x.com/garrytan/status/2125258221946630432",
+      "publishedAt": "2026-11-24T16:00:20.000Z",
+      "tags": [
+        "enterprise",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-f2a54c7bb026",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on enterprise",
+      "takeaway": "The man did change “Look at Anthropic below IPO price, they’ve been at it for almost SIX years now and they are BARELY a trillion dollar company”",
+      "summary": "Matt Turck (mattturck on X) shared 2 recent updates. The man did change “Look at Anthropic below IPO price, they’ve been at it for almost SIX years now and they are BARELY a trillion dollar company”",
+      "url": "https://x.com/mattturck/status/2125395139581657558",
+      "publishedAt": "2026-11-25T01:04:23.000Z",
+      "tags": [
+        "enterprise"
+      ],
+      "entities": [
+        "Matt Turck",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-8997e1f255e5",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on product",
+      "takeaway": "The clarity of a product’s positioning is inversely proportional to the number of words it takes to explain what it is in plain language Humans are visual animals",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. The clarity of a product’s positioning is inversely proportional to the number of words it takes to explain what it is in plain language Humans are visual animals",
+      "url": "https://x.com/zarazhangrui/status/2125256097925865639",
+      "publishedAt": "2026-11-24T15:51:53.000Z",
+      "tags": [
+        "product"
+      ],
+      "entities": [
+        "Zara Zhang"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-51bd64adf9eb",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and models",
+      "takeaway": "2026 pitches in a nutshell.. App companies: He who owns the workflow controls the universe. Harness companies: He who puts the intelligence to work controls the universe.",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. 2026 pitches in a nutshell.. App companies: He who owns the workflow controls the universe. Harness companies: He who puts the intelligence to work controls the universe. Inference companies: He who serves the intelligence controls the universe. Model companies: He who builds the intelligence controls the universe. Data companies: He who feeds the intelligence controls the universe.",
+      "url": "https://x.com/nikunj/status/2125376105024758112",
+      "publishedAt": "2026-11-24T23:48:45.000Z",
+      "tags": [
+        "agents",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-e34e4c9c7421",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on enterprise and product",
+      "takeaway": "What a year this has been! Time to reflect and do a blog post over the holidays. OC is in a great place, we found a niche in prosumer and enterprise adoption.",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. What a year this has been! Time to reflect and do a blog post over the holidays. OC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class. Shipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.",
+      "url": "https://x.com/steipete/status/2125422797304549672",
+      "publishedAt": "2026-11-25T02:54:17.000Z",
+      "tags": [
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Peter Steinberger"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-x-3e675d4110e9",
+      "date": "2026-11-24",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on models",
+      "takeaway": "my first prompt when we get early access to a new model read the rest:",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. my first prompt when we get early access to a new model read the rest:",
+      "url": "https://x.com/danshipper/status/2125380245461045492",
+      "publishedAt": "2026-11-25T00:05:12.000Z",
+      "tags": [
+        "models"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    },
+    {
+      "id": "2026-11-24-podcast-87d94c22b7d8",
+      "date": "2026-11-24",
+      "sourceType": "podcast",
+      "sourceName": "Unsupervised Learning",
+      "title": "Ep 98: China Expert on Jensen’s Return",
+      "takeaway": "Ep 98: China Expert on Jensen’s Return. You know, this is not just a tool for, like, raising productivity broadly and, you know, improving workflows and whatnot.",
+      "summary": "You know, this is not just a tool for, like, raising productivity broadly and, you know, improving workflows and whatnot. For, like like, is AI going to deliver the productivity gains that it needs to over the next few years in order to keep the party going? You know you know, hitting milestones, printing out chips, funding random robotic startups, like, great.",
+      "url": "https://www.youtube.com/watch?v=gkd5eOQGASU",
+      "publishedAt": "2026-11-24T13:05:03.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Unsupervised Learning",
+        "Anthropic",
+        "Claude",
+        "Google"
+      ],
+      "createdAt": "2026-11-25T22:26:09.374Z"
+    }
+  ]
+}
