@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-23",
-  "generatedAt": "2026-11-24T23:50:43.033Z",
+  "generatedAt": "2026-11-25T01:22:57.493Z",
   "feedGeneratedAt": "2026-11-24T06:30:02.996Z",
   "snippets": [
     {
@@ -22,7 +22,7 @@
         "Swyx",
         "Microsoft"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-4b0074ad285f",
@@ -46,7 +46,7 @@
         "Boris Cherny",
         "Claude"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-5c22f110061a",
@@ -68,7 +68,7 @@
         "Thibault Sottiaux",
         "OpenAI"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-874d2c7e3dab",
@@ -88,7 +88,7 @@
       "entities": [
         "Peter Yang"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-408158413677",
@@ -109,7 +109,7 @@
       "entities": [
         "Madhu Guru"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-808c3dad3b43",
@@ -130,7 +130,7 @@
       "entities": [
         "Thariq"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-b2b35393dab6",
@@ -154,7 +154,7 @@
         "Amjad Masad",
         "Replit"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-e0258e4303b0",
@@ -176,7 +176,7 @@
         "Vercel",
         "Google"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-90c1b075e127",
@@ -198,7 +198,7 @@
       "entities": [
         "Aaron Levie"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-febccf98bd0b",
@@ -217,7 +217,7 @@
       "entities": [
         "Garry Tan"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-753412f33c18",
@@ -236,7 +236,7 @@
       "entities": [
         "Matt Turck"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-451821508264",
@@ -255,7 +255,7 @@
       "entities": [
         "Zara Zhang"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-7ae313b3675c",
@@ -274,7 +274,7 @@
       "entities": [
         "Nikunj Kothari"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-2c48b53a59d2",
@@ -293,7 +293,7 @@
       "entities": [
         "Dan Shipper"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-a85b25f463f0",
@@ -315,7 +315,7 @@
         "Aditya Agarwal",
         "Meta"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-844c22a2e097",
@@ -334,7 +334,7 @@
       "entities": [
         "Sam Altman"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     },
     {
       "id": "2026-11-23-x-d1e1fa1ba8f9",
@@ -357,7 +357,7 @@
         "Google",
         "Microsoft"
       ],
-      "createdAt": "2026-11-24T23:50:43.033Z"
+      "createdAt": "2026-11-25T01:22:57.493Z"
     }
   ]
 }
