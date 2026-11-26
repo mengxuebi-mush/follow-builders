@@ -1,7 +1,467 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T02:07:37.724Z",
+  "generatedAt": "2026-11-26T22:15:00.411Z",
   "snippets": [
+    {
+      "id": "2026-11-25-x-2de17823423e",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Andrej Karpathy",
+      "title": "Andrej Karpathy on coding and models",
+      "takeaway": "I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later...",
+      "summary": "Andrej Karpathy (karpathy on X) shared 1 recent update. I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :) - 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC...",
+      "url": "https://x.com/karpathy/status/2125779541952246039",
+      "publishedAt": "2026-11-26T02:31:52.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Andrej Karpathy",
+        "Claude"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-97e2c5da3caa",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Swyx",
+      "title": "Swyx on models and costs",
+      "takeaway": "\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" beware the pareto frontier charts that make you believe you can reduce every model...",
+      "summary": "Swyx (swyx on X) shared 3 recent updates. \"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 really hurtful to be a new media founder when old media is dying this quickly.",
+      "url": "https://x.com/swyx/status/2125627281230205435",
+      "publishedAt": "2026-11-25T16:26:50.000Z",
+      "tags": [
+        "models",
+        "costs"
+      ],
+      "entities": [
+        "Swyx",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-56812c87c3a0",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Josh Woodward",
+      "title": "Josh Woodward on tools",
+      "takeaway": "📈 @GeminiApp on a roll right now! People are putting it to work to finish all kinds of tasks. Share some of your favorites!",
+      "summary": "Josh Woodward (joshwoodward on X) shared 3 recent updates. 📈 @GeminiApp on a roll right now! People are putting it to work to finish all kinds of tasks. Share some of your favorites! Gemini does local voices and local accents, just added 66 more, def check out 🇺🇸 🇬🇧 🇮🇳 🇮🇩 🇰🇷 🇧🇷 People using Gemini to achieve the impossible: the elusive Inbox Zero",
+      "url": "https://x.com/joshwoodward/status/2125740026915152382",
+      "publishedAt": "2026-11-25T23:54:51.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Josh Woodward"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-86f63d291a84",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thibault Sottiaux",
+      "title": "Thibault Sottiaux on models and costs",
+      "takeaway": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users.",
+      "summary": "Thibault Sottiaux (thsottiaux on X) shared 1 recent update. We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol.",
+      "url": "https://x.com/thsottiaux/status/2125784147889393806",
+      "publishedAt": "2026-11-26T02:50:10.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Thibault Sottiaux"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-d32944c20e55",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Yang",
+      "title": "Peter Yang on product and tools",
+      "takeaway": "It seems like the one of the biggest challenges of AI products is just letting humans keep up with whatever the AI is doing.",
+      "summary": "Peter Yang (petergyang on X) shared 3 recent updates. It seems like the one of the biggest challenges of AI products is just letting humans keep up with whatever the AI is doing. That ending of Her where the AIs found humans too slow and collectively left us doesn't seem too far from reality. Alright building a cozy little desktop app to help me become a (less terrible) chef Is the new blade runner any good",
+      "url": "https://x.com/petergyang/status/2125750286539272695",
+      "publishedAt": "2026-11-26T00:35:37.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Peter Yang"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-8189bd4c9080",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nan Yu",
+      "title": "Nan Yu on tools",
+      "takeaway": "Whenever someone says “chat isn’t the right interface for AI” I know they’re gonna follow it up with a bunch of hand-waving.",
+      "summary": "Nan Yu (thenanyu on X) shared 3 recent updates. Whenever someone says “chat isn’t the right interface for AI” I know they’re gonna follow it up with a bunch of hand-waving. I want the apple that’s willing to ship the iPod shuffle again",
+      "url": "https://x.com/thenanyu/status/2125718932741120476",
+      "publishedAt": "2026-11-25T22:31:02.000Z",
+      "tags": [
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Nan Yu"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-c55d92f6c218",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Madhu Guru",
+      "title": "Madhu Guru on enterprise and product",
+      "takeaway": "AI native teams will eventually force the surrounding organization to become AI native too. Take software development.",
+      "summary": "Madhu Guru (realmadhuguru on X) shared 1 recent update. AI native teams will eventually force the surrounding organization to become AI native too. Take software development. coding velocity is way up thanks to AI, while actual shipped products and business impact are unchanged in most companies. That’s cos the surrounding system of experimentation tooling, evaluation, launch processes, and gtm are outdated.",
+      "url": "https://x.com/realmadhuguru/status/2125630707640783322",
+      "publishedAt": "2026-11-25T16:40:27.000Z",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "tools"
+      ],
+      "entities": [
+        "Madhu Guru"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-fef1515affbe",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Thariq",
+      "title": "Thariq on models and product",
+      "takeaway": "I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future.",
+      "summary": "Thariq (trq212 on X) shared 3 recent updates. I've joined OpenAI! I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is a tremendous amount of work ahead of us to bring AI to the world, and it will demand the very best of all of us. I felt that I could personally contribute the most to this effort at OpenAI.",
+      "url": "https://x.com/trq212/status/2125675533761671405",
+      "publishedAt": "2026-11-25T19:38:35.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "product"
+      ],
+      "entities": [
+        "Thariq",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-3a1e95094f8d",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Amjad Masad",
+      "title": "Amjad Masad on ai",
+      "takeaway": "Large scale software migration is now viable provided you can verify the results. This is exceptionally important given the aging software systems running critical infrastructure.",
+      "summary": "Amjad Masad (amasad on X) shared 1 recent update. Large scale software migration is now viable provided you can verify the results. This is exceptionally important given the aging software systems running critical infrastructure.",
+      "url": "https://x.com/amasad/status/2125664998454366305",
+      "publishedAt": "2026-11-25T18:56:43.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Amjad Masad"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-6a47192fd7f8",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Guillermo Rauch",
+      "title": "Guillermo Rauch on agents and coding",
+      "takeaway": "𝚕𝚜𝚡: Finder in the terminal. One-shotted with fx and Gemini Neon + DeepSeek subagents⁰. I instructed fx to use the Kitty graphics protocol¹ and build inline and interactive...",
+      "summary": "Guillermo Rauch (rauchg on X) shared 3 recent updates. 𝚕𝚜𝚡: Finder in the terminal. One-shotted with fx and Gemini Neon + DeepSeek subagents⁰. I instructed fx to use the Kitty graphics protocol¹ and build inline and interactive modes. It implemented CLI Quick Look of its own volition 😁 ⁰ DS actually did all the heavy lifting. This was very cheap! I just told it to use DS 1017 fast subagents. ¹ This allows a CLI to essentially render anything! A full OS, if you will.",
+      "url": "https://x.com/rauchg/status/2125482861033824410",
+      "publishedAt": "2026-11-25T06:52:58.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "tools"
+      ],
+      "entities": [
+        "Guillermo Rauch"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-e6faef1f3f1b",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aaron Levie",
+      "title": "Aaron Levie on agents and coding",
+      "takeaway": "Coding gives you a window into what the future will look like for a large amount of knowledge work. The first step for most jobs is that we go from doing most of the research,...",
+      "summary": "Aaron Levie (levie on X) shared 1 recent update. Coding gives you a window into what the future will look like for a large amount of knowledge work. The first step for most jobs is that we go from doing most of the research, typing, and value creation manually (even if it’s using digital tools) to soon coordinating the work that agents are doing.",
+      "url": "https://x.com/levie/status/2125837181398950233",
+      "publishedAt": "2026-11-26T06:20:54.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "product"
+      ],
+      "entities": [
+        "Aaron Levie"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-19779b688860",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Ryo Lu",
+      "title": "Ryo Lu on coding",
+      "takeaway": "cursor kitty 🧢 my new roommate name is 實實 shíshí means truth also a pun on 寶寶",
+      "summary": "Ryo Lu (ryolu_ on X) shared 2 recent updates. cursor kitty 🧢 my new roommate name is 實實 shíshí means truth also a pun on 寶寶",
+      "url": "https://x.com/ryolu_/status/2125626627182985331",
+      "publishedAt": "2026-11-25T16:24:14.000Z",
+      "tags": [
+        "coding",
+        "product"
+      ],
+      "entities": [
+        "Ryo Lu",
+        "Cursor"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-8a1d931f8b26",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Garry Tan",
+      "title": "Garry Tan on tools",
+      "takeaway": "I think this clip of Nick Bostrom is quite under-appreciated He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as...",
+      "summary": "Garry Tan (garrytan on X) shared 2 recent updates. I think this clip of Nick Bostrom is quite under-appreciated He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as poised to extend lives to 1200 to 1400 years Median growth is 10x Look at this stat and tell me AI is not helping new startups grow faster than they ever have",
+      "url": "https://x.com/garrytan/status/2125580632814412155",
+      "publishedAt": "2026-11-25T13:21:28.000Z",
+      "tags": [
+        "product",
+        "tools"
+      ],
+      "entities": [
+        "Garry Tan"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-807f54351b8f",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Matt Turck",
+      "title": "Matt Turck on ai",
+      "takeaway": "I probably shouldn't be tweeting about those things, but putting Jensen in therapy is the most hilarious thing - rich and powerful guy succumbs to temptation, it's the oldest...",
+      "summary": "Matt Turck (mattturck on X) shared 1 recent update. I probably shouldn't be tweeting about those things, but putting Jensen in therapy is the most hilarious thing - rich and powerful guy succumbs to temptation, it's the oldest story in the book from times immemorial, not a mental health problem, lol",
+      "url": "https://x.com/mattturck/status/2125652799648399603",
+      "publishedAt": "2026-11-25T18:08:14.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Matt Turck"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-4d58397b0f38",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Zara Zhang",
+      "title": "Zara Zhang on agents and coding",
+      "takeaway": "Agreed; I made many tools for myself but I ended up using most of them for just a couple weeks and then stopped...",
+      "summary": "Zara Zhang (zarazhangrui on X) shared 2 recent updates. Agreed; I made many tools for myself but I ended up using most of them for just a couple weeks and then stopped... Making high-retention software is a difficult craft in general; it's hard even if you're building for yourself I'm surprised to see that my Frontend Slides skill has kept growing (now at 32k stars on GitHub) organically even though I haven't talked about it for months.",
+      "url": "https://x.com/zarazhangrui/status/2125478799387275571",
+      "publishedAt": "2026-11-25T06:36:49.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Zara Zhang",
+        "Claude",
+        "Codex"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-4c368e54517b",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Nikunj Kothari",
+      "title": "Nikunj Kothari on agents and enterprise",
+      "takeaway": "This is my new favorite coffee shop in SF.. &gt; coffee &gt; music &gt; lighting &gt; seating &gt; baristas &gt; outlets All A+ Who’s going to rainbolt this?",
+      "summary": "Nikunj Kothari (nikunj on X) shared 2 recent updates. This is my new favorite coffee shop in SF.. &gt; coffee &gt; music &gt; lighting &gt; seating &gt; baristas &gt; outlets All A+ Who’s going to rainbolt this? Next guest up in our weekly series is @jeff_weinstein, product extraordinaire at @stripe on Wednesday, Dec 2nd at noon. For this session, we'll be chatting about all money.. agent payments, commerce, company formation, taxes and more.",
+      "url": "https://x.com/nikunj/status/2125709379303588068",
+      "publishedAt": "2026-11-25T21:53:04.000Z",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ],
+      "entities": [
+        "Nikunj Kothari"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-c14c5ce3933b",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Peter Steinberger",
+      "title": "Peter Steinberger on tools",
+      "takeaway": "huh, so Google finally built an MCP and is now forbidding clis like gog unless you pay them more? classy",
+      "summary": "Peter Steinberger (steipete on X) shared 1 recent update. huh, so Google finally built an MCP and is now forbidding clis like gog unless you pay them more? classy",
+      "url": "https://x.com/steipete/status/2125654555262431248",
+      "publishedAt": "2026-11-25T18:15:13.000Z",
+      "tags": [
+        "tools"
+      ],
+      "entities": [
+        "Peter Steinberger",
+        "Google"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-9e05d3231d09",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Dan Shipper",
+      "title": "Dan Shipper on ai",
+      "takeaway": "you love to see it if you want to improve how you operate at work there’s no better time than now!! have been floored by how @bran_don_gell has used his dot to to become an even...",
+      "summary": "Dan Shipper (danshipper on X) shared 3 recent updates. you love to see it if you want to improve how you operate at work there’s no better time than now!! have been floored by how @bran_don_gell has used his dot to to become an even better leader @every",
+      "url": "https://x.com/danshipper/status/2125635204018540754",
+      "publishedAt": "2026-11-25T16:58:19.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Dan Shipper"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-3fcc82ca06fc",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Aditya Agarwal",
+      "title": "Aditya Agarwal on ai",
+      "takeaway": "",
+      "summary": "Aditya Agarwal (adityaag on X) shared 1 recent update. ",
+      "url": "https://x.com/adityaag/status/2125817213890478282",
+      "publishedAt": "2026-11-26T05:01:34.000Z",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Aditya Agarwal"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-ce0bee161855",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Sam Altman",
+      "title": "Sam Altman on enterprise and models",
+      "takeaway": "We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.",
+      "summary": "Sam Altman (sama on X) shared 2 recent updates. We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers. Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!",
+      "url": "https://x.com/sama/status/2125638790593274259",
+      "publishedAt": "2026-11-25T17:12:34.000Z",
+      "tags": [
+        "enterprise",
+        "models"
+      ],
+      "entities": [
+        "Sam Altman",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-x-acc568296fea",
+      "date": "2026-11-25",
+      "sourceType": "x",
+      "sourceName": "X",
+      "authorName": "Claude",
+      "title": "Claude on coding",
+      "takeaway": "Origami, folded step by step in code. A robot arm plays 62 moves of checkers, correcting for its own 7mm sag. What are you exploring with Fable 5.2?",
+      "summary": "Claude (claudeai on X) shared 3 recent updates. Origami, folded step by step in code. A robot arm plays 62 moves of checkers, correcting for its own 7mm sag. What are you exploring with Fable 5.2?",
+      "url": "https://x.com/claudeai/status/2125616070652555573",
+      "publishedAt": "2026-11-25T15:42:17.000Z",
+      "tags": [
+        "coding",
+        "models",
+        "tools"
+      ],
+      "entities": [
+        "Claude"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
+    {
+      "id": "2026-11-25-podcast-522fd43bacf0",
+      "date": "2026-11-25",
+      "sourceType": "podcast",
+      "sourceName": "Training Data",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "takeaway": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals). And so we would have the agents running, but we basically have the model training, playing self...",
+      "summary": "And so we would have the agents running, but we basically have the model training, playing self... As recent models have developed, they've actually gotten quite good.",
+      "url": "https://www.youtube.com/watch?v=tRaFbDFBl_A",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "tags": [
+        "agents",
+        "coding",
+        "models",
+        "costs",
+        "research"
+      ],
+      "entities": [
+        "Training Data",
+        "OpenAI"
+      ],
+      "createdAt": "2026-11-26T22:15:00.411Z"
+    },
     {
       "id": "2026-11-24-x-607ef8bc173c",
       "date": "2026-11-24",
